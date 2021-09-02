@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-30 00:26+0000\n"
+"POT-Creation-Date: 2021-09-02 00:26+0000\n"
 "PO-Revision-Date: 2021-08-31 00:30+0630\n"
 "Last-Translator: zayar lwin <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr "Rootအဖြစ်ဆောင်ရွက်သည်။"
 
-#: src/ioslaves/file/kauth/file.actions:43
+#: src/ioslaves/file/kauth/file.actions:44
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr "လုပ်ဆောင်ချက်ပြီးမြောက်ရန် rootအခွင့်အာဏာလိုအပ်သည်။"
@@ -28,7 +28,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "HTTPကေ့ချ်(ယာယီသိမ်းဆည်းနေရာ)ရှင်းလင်းရေး"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:61
+#: src/ioslaves/http/http_cache_cleaner.desktop:62
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "အိပ်ချ်တီတီပီကေ့ချ်မှ မှတ်တမ်းဟောင်းများ ရှင်းမည်"
@@ -38,7 +38,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr "အဝေး URL ပြောင်းလဲမှုအသိပေးသူ"
 
-#: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:72
+#: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:73
 msgctxt "Comment"
 msgid "Provides change notification for network folders"
 msgstr "ကွန်ရက်ပေါ်မှဖိုလ်ဒါများပြောင်းလဲပါက အကြောင်းကြားသည်"
@@ -49,22 +49,22 @@ msgid "KTelnetService"
 msgstr "KTelnetService"
 
 #: src/ioslaves/trash/kcmtrash.desktop:1
-#: src/ioslaves/trash/kcmtrash.desktop:173
+#: src/ioslaves/trash/kcmtrash.desktop:175
 msgctxt "Name"
 msgid "Trash"
 msgstr "အမှိုက်ပုံး"
 
-#: src/ioslaves/trash/kcmtrash.desktop:83
+#: src/ioslaves/trash/kcmtrash.desktop:84
 msgctxt "Comment"
 msgid "This service allows configuration of the trash."
 msgstr "အမှိုက်ပုံ ပြင်ဆင်ထားရှိမှုကို ခွင့်ပြုပေးသည်"
 
-#: src/ioslaves/trash/kcmtrash.desktop:255
+#: src/ioslaves/trash/kcmtrash.desktop:258
 msgctxt "Comment"
 msgid "Configure trash settings"
 msgstr "အမှိုက်ပုံဆိုင်ရာသတ်မှတ်ချက်များ ပြင်ဆင်မည်"
 
-#: src/ioslaves/trash/kcmtrash.desktop:336
+#: src/ioslaves/trash/kcmtrash.desktop:340
 msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr "အမှိုက်ပုံး"
@@ -74,12 +74,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "ကွတ်ကီးများ"
 
-#: src/kcms/cookies/cookies.desktop:63
+#: src/kcms/cookies/cookies.desktop:64
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "ကွတ်ကီးအလုပ်လုပ်ပုံပြင်ဆင်မည်"
 
-#: src/kcms/cookies/cookies.desktop:150
+#: src/kcms/cookies/cookies.desktop:152
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr "Cookies,Browsing,Internet,WWW,Network,Policy,Domains,ကွတ်ကီး"
@@ -89,12 +89,12 @@ msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "ချိတ်ဆက်မှုဆိုင်ရာ နှစ်သက်-သတ်မှတ်ချက်များ"
 
-#: src/kcms/netpref/netpref.desktop:98
+#: src/kcms/netpref/netpref.desktop:99
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr "အချိန်ကုန်ပမာဏ စသော ဆ.သ.ရ-ကွန်ရက်ဆိုင်ရာ ယေဘုယျ နှစ်သက်-သတ်မှတ်ချက်များပြင်ဆင်မည်"
 
-#: src/kcms/netpref/netpref.desktop:184
+#: src/kcms/netpref/netpref.desktop:186
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr "timeout,iopref,netpref,network preferences,ftp"
@@ -104,12 +104,12 @@ msgctxt "Name"
 msgid "Proxy"
 msgstr "ကြားခံ"
 
-#: src/kcms/proxy/proxy.desktop:101
+#: src/kcms/proxy/proxy.desktop:102
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "အသုံးပြုသော ကြားခံဆာဗာများပြင်ဆင်မည်"
 
-#: src/kcms/proxy/proxy.desktop:189
+#: src/kcms/proxy/proxy.desktop:191
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr "Proxy,Proxy server,Firewall,Squid,ကြားခံ"
@@ -119,12 +119,12 @@ msgctxt "Name"
 msgid "Windows Shares"
 msgstr "Windows ဝေမျှမှုများ"
 
-#: src/kcms/smb/smb.desktop:97
+#: src/kcms/smb/smb.desktop:98
 msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr "SMBဝေမျှမှုများကို အသုံးပြုခွင့်ရရန်သုံးရသော ထောက်ခံလက်မှတ်"
 
-#: src/kcms/smb/smb.desktop:143
+#: src/kcms/smb/smb.desktop:145
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -138,12 +138,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:49
+#: src/kcms/webshortcuts/webshortcuts.desktop:50
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ ပြင်ဆင်မည်"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:84
+#: src/kcms/webshortcuts/webshortcuts.desktop:86
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -157,32 +157,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင်ချက်"
 
-#: src/kpac/proxyscout.notifyrc:57
+#: src/kpac/proxyscout.notifyrc:58
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "မမှန်ကန်သော ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်"
 
-#: src/kpac/proxyscout.notifyrc:110
+#: src/kpac/proxyscout.notifyrc:112
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "ဒေါင်းလုတ်ရယူထားသောကြားခံပြင်ဆင်မှုညွှန်ကြားချက်သည် မမှန်ကန်ပါ"
 
-#: src/kpac/proxyscout.notifyrc:167
+#: src/kpac/proxyscout.notifyrc:170
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "ညွှန်ကြားချက်ဒေါင်းလုတ်ရယူမှုဆိုင်ရာအမှား"
 
-#: src/kpac/proxyscout.notifyrc:220
+#: src/kpac/proxyscout.notifyrc:224
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်အား ဒေါင်းလုတ်ဆွဲမရပါ"
 
-#: src/kpac/proxyscout.notifyrc:278
+#: src/kpac/proxyscout.notifyrc:283
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "ညွှန်ကြားချက်ဆောင်ရွက်ခြင်းဆိုင်ရာအမှား"
 
-#: src/kpac/proxyscout.notifyrc:330
+#: src/kpac/proxyscout.notifyrc:336
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်အား ဆောင်ရွက်ရာတွင် အမှားဖြစ်ပေါ်ခဲ့သည်"
@@ -192,7 +192,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "ဖိုလ်ဒါ..."
 
-#: src/new_file_templates/Directory.desktop:88
+#: src/new_file_templates/Directory.desktop:89
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "ဖိုလ်ဒါအမည်ရေးပါ -"
@@ -202,7 +202,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr "HTML ဖိုင်လ်..."
 
-#: src/new_file_templates/HTMLFile.desktop:88
+#: src/new_file_templates/HTMLFile.desktop:89
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "HTML ဖိုင်လ်အမည်ရေးပါ -"
@@ -212,7 +212,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီသို့ လင့်ခ်ချိတ်ရန်..."
 
-#: src/new_file_templates/linkPath.desktop:28
+#: src/new_file_templates/linkPath.desktop:29
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr "လင့်ခ်ချိတ်ရမည် ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီ -"
@@ -222,7 +222,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "အပ္ပလီကေးရှင်းသို့ လင့်ခ်ချိတ်ရန်"
 
-#: src/new_file_templates/linkProgram.desktop:84
+#: src/new_file_templates/linkProgram.desktop:85
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "အပ္ပလီကေးရှင်းသို့ ချိတ်ထားသော လင့်ခ်အသစ်"
@@ -232,7 +232,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr "တည်နေရာ (URL)သို့ လင့်ခ်ချိတ်ရန်..."
 
-#: src/new_file_templates/linkURL.desktop:87
+#: src/new_file_templates/linkURL.desktop:88
 msgctxt "Comment"
 msgid "URL location to link to:"
 msgstr "လင့်ခ်ချိတ်ရမည့် URLတည်နေရာ -"
@@ -242,7 +242,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "စာသားဖိုင်လ်..."
 
-#: src/new_file_templates/TextFile.desktop:87
+#: src/new_file_templates/TextFile.desktop:88
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "စာသားဖိုင်လ်အမည်ရေးပါ -"
@@ -257,7 +257,7 @@ msgctxt "Name"
 msgid "7Digital"
 msgstr "၇ဒီဂျစ်တယ်"
 
-#: src/urifilters/ikws/searchproviders/7digital.desktop:75
+#: src/urifilters/ikws/searchproviders/7digital.desktop:76
 msgctxt "Query"
 msgid ""
 "https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
@@ -269,7 +269,7 @@ msgctxt "Name"
 msgid "Acronym Database"
 msgstr "အတိုကောက်စာလုံး ဒေတာဘေ့စ်"
 
-#: src/urifilters/ikws/searchproviders/acronym.desktop:91
+#: src/urifilters/ikws/searchproviders/acronym.desktop:92
 msgctxt "Query"
 msgid "https://www.abbreviations.com/\\\\{@}"
 msgstr "https://www.abbreviations.com/\\\\{@}"
@@ -279,7 +279,7 @@ msgctxt "Name"
 msgid "Amazon"
 msgstr "အမေဇုန်"
 
-#: src/urifilters/ikws/searchproviders/amazon.desktop:74
+#: src/urifilters/ikws/searchproviders/amazon.desktop:75
 msgctxt "Query"
 msgid ""
 "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords="
@@ -293,7 +293,7 @@ msgctxt "Name"
 msgid "Amazon MP3"
 msgstr "အမေဇုန် အမ်ပီ၃"
 
-#: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:75
+#: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:76
 msgctxt "Query"
 msgid ""
 "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
@@ -307,7 +307,7 @@ msgctxt "Name"
 msgid "All Music Guide"
 msgstr "ဂီတလမ်းညွှန်"
 
-#: src/urifilters/ikws/searchproviders/amg.desktop:90
+#: src/urifilters/ikws/searchproviders/amg.desktop:91
 msgctxt "Query"
 msgid "https://www.allmusic.com/search/all/\\\\{@}"
 msgstr "https://www.allmusic.com/search/all/\\\\{@}"
@@ -317,7 +317,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "အာ့ချ်လင်းနက်စ် ပတ်ကေ့ ရှာဖွေရန်"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:49
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:50
 msgctxt "Query"
 msgid "https://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr "https://www.archlinux.org/packages/?q=\\\\{@}"
@@ -327,7 +327,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "အာ့ချ်ဝစ်ကီ"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:38
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:39
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
 msgstr "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -337,7 +337,7 @@ msgctxt "Name"
 msgid "Debian Backports Search"
 msgstr "ဒေဘီယမ် ဘက့်ခ်ပေါ့များ ရှာဖွေရန်"
 
-#: src/urifilters/ikws/searchproviders/backports.desktop:89
+#: src/urifilters/ikws/searchproviders/backports.desktop:90
 msgctxt "Query"
 msgid ""
 "https://packages.debian.org/search?suite=squeeze-"
@@ -351,7 +351,7 @@ msgctxt "Name"
 msgid "Baidu"
 msgstr "ဘိုင်ဒူ"
 
-#: src/urifilters/ikws/searchproviders/baidu.desktop:74
+#: src/urifilters/ikws/searchproviders/baidu.desktop:75
 msgctxt "Query"
 msgid "https://www.baidu.com/s?wd=\\\\{@}"
 msgstr "https://www.baidu.com/s?wd=\\\\{@}"
@@ -361,7 +361,7 @@ msgctxt "Name"
 msgid "Beolingus Online Dictionary"
 msgstr "ဘိုလင်းဂတ်စ် အွန်လိုင်းဒစ်ရှင်နရီ"
 
-#: src/urifilters/ikws/searchproviders/beolingus.desktop:72
+#: src/urifilters/ikws/searchproviders/beolingus.desktop:73
 msgctxt "Query"
 msgid ""
 "https://dict.tu-chemnitz.de/dings.cgi?"
@@ -377,7 +377,7 @@ msgctxt "Name"
 msgid "Bing"
 msgstr "ဘင်"
 
-#: src/urifilters/ikws/searchproviders/bing.desktop:73
+#: src/urifilters/ikws/searchproviders/bing.desktop:74
 msgctxt "Query"
 msgid "https://www.bing.com/search?q=\\\\{@}"
 msgstr "https://www.bing.com/search?q=\\\\{@}"
@@ -387,7 +387,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "ခေဒီအီးဆိုင်ရာ ဆော့ဖ်လ်ဝဲလ်ပြစ်ချက်များ"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:37
+#: src/urifilters/ikws/searchproviders/bug.desktop:38
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -397,7 +397,7 @@ msgctxt "Name"
 msgid "QRZ.com Callsign Database"
 msgstr "QRZ callsign ဒေတာဘေ့စ်"
 
-#: src/urifilters/ikws/searchproviders/call.desktop:91
+#: src/urifilters/ikws/searchproviders/call.desktop:92
 msgctxt "Query"
 msgid "https://www.qrz.com/db/\\\\{@}"
 msgstr "https://www.qrz.com/db/\\\\{@}"
@@ -407,7 +407,7 @@ msgctxt "Name"
 msgid "CIA World Fact Book"
 msgstr "စီအိုင်အေ ကမ္ဘာ့အချက်အလျက်များ စာအုပ်"
 
-#: src/urifilters/ikws/searchproviders/cia.desktop:88
+#: src/urifilters/ikws/searchproviders/cia.desktop:89
 msgctxt "Query"
 msgid ""
 "https://www.cia.gov/search?q=\\\\{@}"
@@ -423,7 +423,7 @@ msgctxt "Name"
 msgid "CiteSeer: Scientific Literature Digital Library"
 msgstr "ဆိုက်ဆီယာ - သိပ္ပံစာပေဆိုင်ရာ ဒီဂျစ်တယ်စာကြည့်တိုက်"
 
-#: src/urifilters/ikws/searchproviders/citeseer.desktop:92
+#: src/urifilters/ikws/searchproviders/citeseer.desktop:93
 msgctxt "Query"
 msgid ""
 "https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
@@ -435,7 +435,7 @@ msgctxt "Name"
 msgid "CPAN - Comprehensive Perl Archive Network"
 msgstr "စီပန် - များပြားပါဝင်သော Perl အဟောင်းထိမ်းသိမ်းတိုက် ကွန်ရက်"
 
-#: src/urifilters/ikws/searchproviders/cpan.desktop:92
+#: src/urifilters/ikws/searchproviders/cpan.desktop:93
 msgctxt "Query"
 msgid ""
 "https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
@@ -447,7 +447,7 @@ msgctxt "Name"
 msgid "CTAN Catalog"
 msgstr "စီတန် ကတ်တလော့ဂျ်"
 
-#: src/urifilters/ikws/searchproviders/ctan_cat.desktop:92
+#: src/urifilters/ikws/searchproviders/ctan_cat.desktop:93
 msgctxt "Query"
 msgid ""
 "http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}"
@@ -461,7 +461,7 @@ msgctxt "Name"
 msgid "CTAN - Comprehensive TeX Archive Network"
 msgstr "စီတန် - များပြားပါဝင်သော TeX အဟောင်းသိမ်းတိုက် ကွန်ရက်"
 
-#: src/urifilters/ikws/searchproviders/ctan.desktop:92
+#: src/urifilters/ikws/searchproviders/ctan.desktop:93
 msgctxt "Query"
 msgid "https://ctan.org/search?phrase=\\\\{@}"
 msgstr "https://ctan.org/search?phrase=\\\\{@}"
@@ -471,7 +471,7 @@ msgctxt "Name"
 msgid "Debian BTS Bug Search"
 msgstr "ဒေဘီယမ် ဘီတီအက်စ် ဆော့ဖ်လ်ဝဲလ်ပြစ်ချက်ရှာဖွေရန်"
 
-#: src/urifilters/ikws/searchproviders/dbug.desktop:89
+#: src/urifilters/ikws/searchproviders/dbug.desktop:90
 msgctxt "Query"
 msgid "https://bugs.debian.org/\\\\{@}"
 msgstr "https://bugs.debian.org/\\\\{@}"
@@ -481,8 +481,8 @@ msgctxt "Name"
 msgid "dict.cc Translation: German to English"
 msgstr "ဒစ် ဒေါ့ စီစီ ဘာသာပြန်မှု - ဂျာမန်မှ အင်္ဂလိပ််သို့"
 
-#: src/urifilters/ikws/searchproviders/de2en.desktop:91
-#: src/urifilters/ikws/searchproviders/en2de.desktop:91
+#: src/urifilters/ikws/searchproviders/de2en.desktop:92
+#: src/urifilters/ikws/searchproviders/en2de.desktop:92
 msgctxt "Query"
 msgid "https://www.dict.cc/?s=\\\\{@}"
 msgstr "https://www.dict.cc/?s=\\\\{@}"
@@ -492,8 +492,8 @@ msgctxt "Name"
 msgid "LEO - Translate Between German and French"
 msgstr "လီယို - ဂျာမန်နှင့်ပြင်သစ်ကြား ဘာသာပြန်"
 
-#: src/urifilters/ikws/searchproviders/de2fr.desktop:90
-#: src/urifilters/ikws/searchproviders/fr2de.desktop:90
+#: src/urifilters/ikws/searchproviders/de2fr.desktop:91
+#: src/urifilters/ikws/searchproviders/fr2de.desktop:91
 msgctxt "Query"
 msgid "https://dict.leo.org/?lp=frde&search=\\\\{@}"
 msgstr "https://dict.leo.org/?lp=frde&search=\\\\{@}"
@@ -503,7 +503,7 @@ msgctxt "Name"
 msgid "Debian Package Search"
 msgstr "ဒေဘီယမ် ပတ်ကေ့ ရှာဖွေရန်"
 
-#: src/urifilters/ikws/searchproviders/deb.desktop:92
+#: src/urifilters/ikws/searchproviders/deb.desktop:93
 msgctxt "Query"
 msgid "https://packages.debian.org/\\\\{@}"
 msgstr "https://packages.debian.org/\\\\{@}"
@@ -513,7 +513,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr "DeepL"
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:38
+#: src/urifilters/ikws/searchproviders/deepl.desktop:39
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr "https://www.deepl.com/translator#any/any/\\\\{@}"
@@ -523,7 +523,7 @@ msgctxt "Name"
 msgid "CNRTL/TILF French dictionary"
 msgstr "စီအင်အာတီအယ်လ်/တီအိုင်အယ်လ်အက်ဖ် ပြင်သစ်ဒစ်ရှင်နရီ"
 
-#: src/urifilters/ikws/searchproviders/dictfr.desktop:76
+#: src/urifilters/ikws/searchproviders/dictfr.desktop:77
 msgctxt "Query"
 msgid "https://www.cnrtl.fr/definition/\\\\{@}"
 msgstr "https://www.cnrtl.fr/definition/\\\\{@}"
@@ -533,7 +533,7 @@ msgctxt "Name"
 msgid "DocBook - The Definitive Guide"
 msgstr "DocBook - တိကျသေချာသောလမ်းညွှန်"
 
-#: src/urifilters/ikws/searchproviders/docbook.desktop:94
+#: src/urifilters/ikws/searchproviders/docbook.desktop:95
 msgctxt "Query"
 msgid "https://www.docbook.org/tdg/en/html/\\\\{1}.html"
 msgstr "https://www.docbook.org/tdg/en/html/\\\\{1}.html"
@@ -543,7 +543,7 @@ msgctxt "Name"
 msgid "Digital Object Identifier"
 msgstr "ဒီဂျစ်တယ်အရာဝတ္တု ခွဲခြားသတ်မှတ်အတည်ပြုချက်"
 
-#: src/urifilters/ikws/searchproviders/doi.desktop:91
+#: src/urifilters/ikws/searchproviders/doi.desktop:92
 msgctxt "Query"
 msgid "https://dx.doi.org/\\\\{@}"
 msgstr "https://dx.doi.org/\\\\{@}"
@@ -553,7 +553,7 @@ msgctxt "Name"
 msgid "Duck Duck Go"
 msgstr "ဒက်ဒက်ဂိုး"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:74
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:75
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -563,7 +563,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Info"
 msgstr "ဒက်ဒက်ဂိုးသတင်းအချက်အလက်"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo_info.desktop:73
+#: src/urifilters/ikws/searchproviders/duckduckgo_info.desktop:74
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&v=r&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&v=r&t=kde"
@@ -573,7 +573,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Shopping"
 msgstr "ဒက်ဒက်ဂိုးစျေးဝယ်ထွက်မည်"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo_shopping.desktop:74
+#: src/urifilters/ikws/searchproviders/duckduckgo_shopping.desktop:75
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&v=s&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&v=s&t=kde"
@@ -583,7 +583,7 @@ msgctxt "Name"
 msgid "Ecosia search engine"
 msgstr "အီကိုးရှား ရှာဖွေအင်ဂျင်"
 
-#: src/urifilters/ikws/searchproviders/ecosia.desktop:74
+#: src/urifilters/ikws/searchproviders/ecosia.desktop:75
 msgctxt "Query"
 msgid "https://ecosia.org/search.php?q=\\\\{@}&meta=normal"
 msgstr "https://ecosia.org/search.php?q=\\\\{@}&meta=normal"
@@ -598,7 +598,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to Spanish"
 msgstr "ဝါ့ဒ်ရပ်ဖ်ဖရမ့် ဒေါ့ ကွန်း ဘာသာပြန်ခြင်း - အင်္ဂလိပ်မှ စပိန်သို့"
 
-#: src/urifilters/ikws/searchproviders/en2es.desktop:93
+#: src/urifilters/ikws/searchproviders/en2es.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
 msgstr "https://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
@@ -608,7 +608,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to French"
 msgstr "ဝါ့ဒ်ရပ်ဖ်ဖရမ့် ဒေါ့ ကွန်း ဘာသာပြန်ခြင်း - အင်္ဂလိပ်မှ ပြင်သစ်သို့"
 
-#: src/urifilters/ikws/searchproviders/en2fr.desktop:93
+#: src/urifilters/ikws/searchproviders/en2fr.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
 msgstr "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
@@ -618,7 +618,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to Italian"
 msgstr "ဝါ့ဒ်ရပ်ဖ်ဖရမ့် ဒေါ့ ကွန်း ဘာသာပြန်ခြင်း - အင်္ဂလိပ်မှ အီတလီသို့"
 
-#: src/urifilters/ikws/searchproviders/en2it.desktop:93
+#: src/urifilters/ikws/searchproviders/en2it.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
 msgstr "https://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -628,7 +628,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: Spanish to English"
 msgstr "ဝါ့ဒ်ရပ်ဖ်ဖရမ့် ဒေါ့ ကွန်း ဘာသာပြန်ခြင်း - စပိန်မှ အင်္ဂလိပ်သို့"
 
-#: src/urifilters/ikws/searchproviders/es2en.desktop:93
+#: src/urifilters/ikws/searchproviders/es2en.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
 msgstr "https://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
@@ -638,7 +638,7 @@ msgctxt "Name"
 msgid "Facebook"
 msgstr "ဖေ့စ်ဘွတ်ခ်"
 
-#: src/urifilters/ikws/searchproviders/facebook.desktop:75
+#: src/urifilters/ikws/searchproviders/facebook.desktop:76
 msgctxt "Query"
 msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
@@ -648,7 +648,7 @@ msgctxt "Name"
 msgid "Feedster"
 msgstr "ဖီဒ်စတား"
 
-#: src/urifilters/ikws/searchproviders/feedster.desktop:94
+#: src/urifilters/ikws/searchproviders/feedster.desktop:95
 msgctxt "Query"
 msgid ""
 "https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
@@ -660,7 +660,7 @@ msgctxt "Name"
 msgid "Flickr Creative Commons"
 msgstr "ဖလစ်ကာ ဘုံဖန်တီးမှုများလိုင်စင်"
 
-#: src/urifilters/ikws/searchproviders/flickrcc.desktop:73
+#: src/urifilters/ikws/searchproviders/flickrcc.desktop:74
 msgctxt "Query"
 msgid "https://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
 msgstr "https://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
@@ -670,7 +670,7 @@ msgctxt "Name"
 msgid "Flickr"
 msgstr "ဖလစ်ကာ"
 
-#: src/urifilters/ikws/searchproviders/flickr.desktop:75
+#: src/urifilters/ikws/searchproviders/flickr.desktop:76
 msgctxt "Query"
 msgid "https://www.flickr.com/search/?q=\\\\{@}"
 msgstr "https://www.flickr.com/search/?q=\\\\{@}"
@@ -680,7 +680,7 @@ msgctxt "Name"
 msgid "Free On-Line Dictionary of Computing"
 msgstr "တွက်ချက်မှုဆိုင်ရာ အွန်လိုင်းဒစ်ရှစ်နရီ"
 
-#: src/urifilters/ikws/searchproviders/foldoc.desktop:92
+#: src/urifilters/ikws/searchproviders/foldoc.desktop:93
 msgctxt "Query"
 msgid "https://foldoc.org/\\\\{@}"
 msgstr "https://foldoc.org/\\\\{@}"
@@ -695,7 +695,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: French to English"
 msgstr "ဝါ့ဒ်ရပ်ဖ်ဖရမ့် ဒေါ့ ကွန်း ဘာသာပြန်ခြင်း - ပြင်သစ်မှ အင်္ဂလိပ်သို့"
 
-#: src/urifilters/ikws/searchproviders/fr2en.desktop:93
+#: src/urifilters/ikws/searchproviders/fr2en.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
 msgstr "https://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
@@ -705,7 +705,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr "ဖရီးကုတ်"
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:60
+#: src/urifilters/ikws/searchproviders/freecode.desktop:61
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr "http://freecode.com/search?q=\\\\{@}"
@@ -715,7 +715,7 @@ msgctxt "Name"
 msgid "FreeDB"
 msgstr "ဖရီးဒီဘီ"
 
-#: src/urifilters/ikws/searchproviders/freedb.desktop:94
+#: src/urifilters/ikws/searchproviders/freedb.desktop:95
 msgctxt "Query"
 msgid "http://www.freedb.org/freedb_search.php?words=\\\\{@}"
 msgstr "http://www.freedb.org/freedb_search.php?words=\\\\{@}"
@@ -725,7 +725,7 @@ msgctxt "Name"
 msgid "FSF/UNESCO Free Software Directory"
 msgstr "အက်ဖ်အက်စ်အက်ဖ်/ယူနက်စ်စကို လွတ်လပ်သောဆော့ဖ်လ်ဝဲလ် ဒါရိုက်ထရီ"
 
-#: src/urifilters/ikws/searchproviders/fsd.desktop:90
+#: src/urifilters/ikws/searchproviders/fsd.desktop:91
 msgctxt "Query"
 msgid "https://directory.fsf.org/search/?query=\\\\{@}"
 msgstr "https://directory.fsf.org/search/?query=\\\\{@}"
@@ -735,7 +735,7 @@ msgctxt "Name"
 msgid "GitHub"
 msgstr "ဂစ်ဟပ်ဘ်"
 
-#: src/urifilters/ikws/searchproviders/github.desktop:75
+#: src/urifilters/ikws/searchproviders/github.desktop:76
 msgctxt "Query"
 msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
 msgstr "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -745,7 +745,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr "ဂစ်လပ်ဘ်"
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:45
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:46
 msgctxt "Query"
 msgid "https://gitlab.com/search?search=\\\\{@}"
 msgstr "https://gitlab.com/search?search=\\\\{@}"
@@ -755,7 +755,7 @@ msgctxt "Name"
 msgid "Google Advanced Search"
 msgstr "ဂူးဂယ်အဆင့်မြင့်ရှာဖွေမှု"
 
-#: src/urifilters/ikws/searchproviders/google_advanced.desktop:96
+#: src/urifilters/ikws/searchproviders/google_advanced.desktop:97
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
@@ -777,7 +777,7 @@ msgctxt "Name"
 msgid "Google Code"
 msgstr "ဂူးဂယ်ကုတ်"
 
-#: src/urifilters/ikws/searchproviders/google_code.desktop:74
+#: src/urifilters/ikws/searchproviders/google_code.desktop:75
 msgctxt "Query"
 msgid "https://code.google.com/query/#q=\\\\{%2520}"
 msgstr "https://code.google.com/query/#q=\\\\{%2520}"
@@ -787,7 +787,7 @@ msgctxt "Name"
 msgid "Google"
 msgstr "ဂူးဂယ်"
 
-#: src/urifilters/ikws/searchproviders/google.desktop:98
+#: src/urifilters/ikws/searchproviders/google.desktop:99
 msgctxt "Query"
 msgid "https://www.google.com/search?q=\\\\{@}&ie=UTF-8"
 msgstr "https://www.google.com/search?q=\\\\{@}&ie=UTF-8"
@@ -797,7 +797,7 @@ msgctxt "Name"
 msgid "Google Groups"
 msgstr "ဂူးဂယ်အုပ်စုများ"
 
-#: src/urifilters/ikws/searchproviders/google_groups.desktop:96
+#: src/urifilters/ikws/searchproviders/google_groups.desktop:97
 msgctxt "Query"
 msgid "https://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
 msgstr "https://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
@@ -807,7 +807,7 @@ msgctxt "Name"
 msgid "Google Image Search"
 msgstr "ဂူးဂယ်ပုံရှာဖွေမှု"
 
-#: src/urifilters/ikws/searchproviders/google_images.desktop:96
+#: src/urifilters/ikws/searchproviders/google_images.desktop:97
 msgctxt "Query"
 msgid "https://www.google.com/search?site=imghp&tbm=isch&q=\\\\{@}"
 msgstr "https://www.google.com/search?site=imghp&tbm=isch&q=\\\\{@}"
@@ -817,7 +817,7 @@ msgctxt "Name"
 msgid "Google (I'm Feeling Lucky)"
 msgstr "ဂူးဂယ် (ကံတက်နေပြီ)"
 
-#: src/urifilters/ikws/searchproviders/google_lucky.desktop:94
+#: src/urifilters/ikws/searchproviders/google_lucky.desktop:95
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
@@ -831,7 +831,7 @@ msgctxt "Name"
 msgid "Google Maps"
 msgstr "ဂူးဂယ်မြေပုံများ"
 
-#: src/urifilters/ikws/searchproviders/google_maps.desktop:73
+#: src/urifilters/ikws/searchproviders/google_maps.desktop:74
 msgctxt "Query"
 msgid "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
 msgstr "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
@@ -841,7 +841,7 @@ msgctxt "Name"
 msgid "Google Movies"
 msgstr "ဂူးဂယ်ရုပ်ရှင်များ"
 
-#: src/urifilters/ikws/searchproviders/google_movie.desktop:94
+#: src/urifilters/ikws/searchproviders/google_movie.desktop:95
 msgctxt "Query"
 msgid "https://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "https://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -851,7 +851,7 @@ msgctxt "Name"
 msgid "Google News"
 msgstr "ဂူးဂယ်သတင်းများ"
 
-#: src/urifilters/ikws/searchproviders/google_news.desktop:95
+#: src/urifilters/ikws/searchproviders/google_news.desktop:96
 msgctxt "Query"
 msgid "https://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "https://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -861,7 +861,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr "ဂူးဂယ်စျေးဝယ်ထွက်"
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:59
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:60
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
@@ -871,7 +871,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "ကတ်တလန်ဘာသာစကား၏ ဒစ်ရှင်နရီကြီး (GRan Enciclopèdia Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:50
+#: src/urifilters/ikws/searchproviders/grec.desktop:51
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
@@ -881,7 +881,7 @@ msgctxt "Name"
 msgid "HyperDictionary.com"
 msgstr "ဟိုက်ပါဒစ်ရှင်နရီ ဒေါ့ ကွန်း"
 
-#: src/urifilters/ikws/searchproviders/hyperdictionary.desktop:95
+#: src/urifilters/ikws/searchproviders/hyperdictionary.desktop:96
 msgctxt "Query"
 msgid "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
 msgstr "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
@@ -891,7 +891,7 @@ msgctxt "Name"
 msgid "HyperDictionary.com Thesaurus"
 msgstr "ဟိုက်ပါဒစ်ရှင်နရီ ဒေါ့ ကွန်း ဝေါဟာရပဒေသာကျမ်း"
 
-#: src/urifilters/ikws/searchproviders/hyperdictionary_thesaurus.desktop:93
+#: src/urifilters/ikws/searchproviders/hyperdictionary_thesaurus.desktop:94
 msgctxt "Query"
 msgid "http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
 msgstr "http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
@@ -901,7 +901,7 @@ msgctxt "Name"
 msgid "Identi.ca Groups"
 msgstr "အိုင်ဒမ်တီ.ကာ အုပ်စုများ"
 
-#: src/urifilters/ikws/searchproviders/identica_groups.desktop:74
+#: src/urifilters/ikws/searchproviders/identica_groups.desktop:75
 msgctxt "Query"
 msgid "https://identi.ca/search/group?q=\\\\{@}"
 msgstr "https://identi.ca/search/group?q=\\\\{@}"
@@ -911,7 +911,7 @@ msgctxt "Name"
 msgid "Identi.ca Notices"
 msgstr "အိုင်ဒမ်တီ.ကာ ကြေညာချက်များ"
 
-#: src/urifilters/ikws/searchproviders/identica_notices.desktop:74
+#: src/urifilters/ikws/searchproviders/identica_notices.desktop:75
 msgctxt "Query"
 msgid "https://identi.ca/search/notice?q=\\\\{@}"
 msgstr "https://identi.ca/search/notice?q=\\\\{@}"
@@ -921,7 +921,7 @@ msgctxt "Name"
 msgid "Identi.ca People"
 msgstr "အိုင်ဒမ်တီ.ကာ အများပြည်သူ"
 
-#: src/urifilters/ikws/searchproviders/identica_people.desktop:74
+#: src/urifilters/ikws/searchproviders/identica_people.desktop:75
 msgctxt "Query"
 msgid "https://identi.ca/search/people?q=\\\\{@}&search=Search"
 msgstr "https://identi.ca/search/people?q=\\\\{@}&search=Search"
@@ -931,7 +931,7 @@ msgctxt "Name"
 msgid "Internet Movie Database"
 msgstr "အင်တာနက်ရုပ်ရှင်ဒေတာဘေ့စ်"
 
-#: src/urifilters/ikws/searchproviders/imdb.desktop:94
+#: src/urifilters/ikws/searchproviders/imdb.desktop:95
 msgctxt "Query"
 msgid "https://imdb.com/find?s=all&q=\\\\{@}"
 msgstr "https://imdb.com/find?s=all&q=\\\\{@}"
@@ -941,7 +941,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: Italian to English"
 msgstr "ဝါ့ဒ်ရပ်ဖ်ဖရမ့် ဒေါ့ ကွန်း ဘာသာပြန်ခြင်း - အီတလီမှ အင်္ဂလိပ်သို့"
 
-#: src/urifilters/ikws/searchproviders/it2en.desktop:93
+#: src/urifilters/ikws/searchproviders/it2en.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
 msgstr "https://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
@@ -951,7 +951,7 @@ msgctxt "Name"
 msgid "Jamendo"
 msgstr "ဂျမန်ဒို"
 
-#: src/urifilters/ikws/searchproviders/jamendo.desktop:76
+#: src/urifilters/ikws/searchproviders/jamendo.desktop:77
 msgctxt "Query"
 msgid "https://www.jamendo.com/en/search?qs=q=\\\\{@}"
 msgstr "https://www.jamendo.com/en/search?qs=q=\\\\{@}"
@@ -961,7 +961,7 @@ msgctxt "Name"
 msgid "Ask Jeeves"
 msgstr "ဂျီစ်ကိုမေးရန်"
 
-#: src/urifilters/ikws/searchproviders/jeeves.desktop:93
+#: src/urifilters/ikws/searchproviders/jeeves.desktop:94
 msgctxt "Query"
 msgid ""
 "https://www.ask.com/main/askJeeves.asp?"
@@ -975,7 +975,7 @@ msgctxt "Name"
 msgid "KDE App Search"
 msgstr "ကေဒီအီး အပ်ရှာဖွေရန်"
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:95
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:96
 msgctxt "Query"
 msgid "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
@@ -985,7 +985,7 @@ msgctxt "Name"
 msgid "KDE API Documentation"
 msgstr "ကေဒီအီး အေပီအိုင် ဒိုကူမန်တေးရှင်း"
 
-#: src/urifilters/ikws/searchproviders/kde.desktop:96
+#: src/urifilters/ikws/searchproviders/kde.desktop:97
 msgctxt "Query"
 msgid "https://api.kde.org/classmapper.php?class=\\\\{@}"
 msgstr "https://api.kde.org/classmapper.php?class=\\\\{@}"
@@ -995,7 +995,7 @@ msgctxt "Name"
 msgid "KDE Forums"
 msgstr "ကေဒီအီး ဖိုလ်ရမ်များ"
 
-#: src/urifilters/ikws/searchproviders/kde_forums.desktop:75
+#: src/urifilters/ikws/searchproviders/kde_forums.desktop:76
 msgctxt "Query"
 msgid ""
 "https://forum.kde.org/search.php?keywords=\\\\{@}"
@@ -1009,7 +1009,7 @@ msgctxt "Name"
 msgid "KDE Look"
 msgstr "ကေဒီအီး အသွင်အပြင်"
 
-#: src/urifilters/ikws/searchproviders/kde_look.desktop:74
+#: src/urifilters/ikws/searchproviders/kde_look.desktop:75
 msgctxt "Query"
 msgid "https://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr "https://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1019,7 +1019,7 @@ msgctxt "Name"
 msgid "KDE TechBase"
 msgstr "ကေဒီအီး နည်းပညာရှင်များ"
 
-#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:74
+#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:75
 msgctxt "Query"
 msgid "https://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr "https://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -1029,7 +1029,7 @@ msgctxt "Name"
 msgid "KDE UserBase"
 msgstr "ကေဒီအီး အသုံးပြုသူများ"
 
-#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:75
+#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:76
 msgctxt "Query"
 msgid "https://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr "https://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -1039,7 +1039,7 @@ msgctxt "Name"
 msgid "LEO-Translate"
 msgstr "လီယို-ဘာသာပြန်"
 
-#: src/urifilters/ikws/searchproviders/leo.desktop:93
+#: src/urifilters/ikws/searchproviders/leo.desktop:94
 msgctxt "Query"
 msgid "https://dict.leo.org/?search=\\\\{@}"
 msgstr "https://dict.leo.org/?search=\\\\{@}"
@@ -1049,7 +1049,7 @@ msgctxt "Name"
 msgid "Magnatune"
 msgstr "မတ်ဂနက်ကျွန်း"
 
-#: src/urifilters/ikws/searchproviders/magnatune.desktop:75
+#: src/urifilters/ikws/searchproviders/magnatune.desktop:76
 msgctxt "Query"
 msgid "https://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
 msgstr "https://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
@@ -1059,7 +1059,7 @@ msgctxt "Name"
 msgid "MetaCrawler"
 msgstr "မတ်တာခရောလ်လာ"
 
-#: src/urifilters/ikws/searchproviders/metacrawler.desktop:95
+#: src/urifilters/ikws/searchproviders/metacrawler.desktop:96
 msgctxt "Query"
 msgid "https://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
 msgstr ""
@@ -1070,7 +1070,7 @@ msgctxt "Name"
 msgid "Microsoft Developer Network Search"
 msgstr "မိုက်ခရိုဆော့ဖ်လ်ဒက်ဗ်ဗလောပါကွန်ရက် ရှာဖွေရန်"
 
-#: src/urifilters/ikws/searchproviders/msdn.desktop:93
+#: src/urifilters/ikws/searchproviders/msdn.desktop:94
 msgctxt "Query"
 msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
 msgstr "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
@@ -1080,7 +1080,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between German and Russian"
 msgstr "မာလ်တိုင်ထရန် - ဂျာမန်နှင့်ရုရှားကြား ဘာသာပြန်"
 
-#: src/urifilters/ikws/searchproviders/multitran-deru.desktop:88
+#: src/urifilters/ikws/searchproviders/multitran-deru.desktop:89
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=3&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=3&s=\\\\{@}"
@@ -1090,7 +1090,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between English and Russian"
 msgstr "မာလ်တိုင်ထရန် - အင်္ဂလိပ်နှင့်ရုရှားကြား ဘာသာပြန်"
 
-#: src/urifilters/ikws/searchproviders/multitran-enru.desktop:88
+#: src/urifilters/ikws/searchproviders/multitran-enru.desktop:89
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=1&l2=2&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=1&l2=2&s=\\\\{@}"
@@ -1100,7 +1100,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between Spanish and Russian"
 msgstr "မာလ်တိုင်ထရန် - စပိန်နှင့်ရုရှားကြား ဘာသာပြန်"
 
-#: src/urifilters/ikws/searchproviders/multitran-esru.desktop:88
+#: src/urifilters/ikws/searchproviders/multitran-esru.desktop:89
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=5&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=5&s=\\\\{@}"
@@ -1110,7 +1110,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between French and Russian"
 msgstr "မာလ်တိုင်ထရန် - ပြင်သစ်နှင့်ရုရှားကြား ဘာသာပြန်"
 
-#: src/urifilters/ikws/searchproviders/multitran-frru.desktop:88
+#: src/urifilters/ikws/searchproviders/multitran-frru.desktop:89
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=4&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=4&s=\\\\{@}"
@@ -1120,7 +1120,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between Italian and Russian"
 msgstr "မာလ်တိုင်ထရန် - အီတလီနှင့်ရုရှားကြား ဘာသာပြန်"
 
-#: src/urifilters/ikws/searchproviders/multitran-itru.desktop:88
+#: src/urifilters/ikws/searchproviders/multitran-itru.desktop:89
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=23&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=23&s=\\\\{@}"
@@ -1130,7 +1130,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between Dutch and Russian"
 msgstr "မာလ်တိုင်ထရန် - ဒတ်ချ်နှင့်ရုရှားကြား ဘာသာပြန်"
 
-#: src/urifilters/ikws/searchproviders/multitran-nlru.desktop:88
+#: src/urifilters/ikws/searchproviders/multitran-nlru.desktop:89
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=24&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=24&s=\\\\{@}"
@@ -1140,7 +1140,7 @@ msgctxt "Name"
 msgid "Netcraft"
 msgstr "နက်ခရက်ဖ်"
 
-#: src/urifilters/ikws/searchproviders/netcraft.desktop:94
+#: src/urifilters/ikws/searchproviders/netcraft.desktop:95
 msgctxt "Query"
 msgid "https://uptime.netcraft.com/up/graph?site=\\\\{@}"
 msgstr "https://uptime.netcraft.com/up/graph?site=\\\\{@}"
@@ -1150,7 +1150,7 @@ msgctxt "Name"
 msgid "Telephonebook Search Provider"
 msgstr "Telephonebook Search Provider"
 
-#: src/urifilters/ikws/searchproviders/nl-telephone.desktop:90
+#: src/urifilters/ikws/searchproviders/nl-telephone.desktop:91
 msgctxt "Query"
 msgid ""
 "https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
@@ -1164,7 +1164,7 @@ msgctxt "Name"
 msgid "Teletekst Search Provider"
 msgstr "Teletekst Search Provider"
 
-#: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:92
+#: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:93
 msgctxt "Query"
 msgid "https://nos.nl/teletekst#\\\\{@}"
 msgstr "https://nos.nl/teletekst#\\\\{@}"
@@ -1174,7 +1174,7 @@ msgctxt "Name"
 msgid "openDesktop.org"
 msgstr "အိုးပန်းဒက်စ်တော့ပ် ဒေါ့ အိုအာဂျီ"
 
-#: src/urifilters/ikws/searchproviders/opendesktop.desktop:74
+#: src/urifilters/ikws/searchproviders/opendesktop.desktop:75
 msgctxt "Query"
 msgid ""
 "https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1186,7 +1186,7 @@ msgctxt "Name"
 msgid "OpenPGP Key Search"
 msgstr "အိုးပန်းပီဂျီပီ ကီးရှာရန်"
 
-#: src/urifilters/ikws/searchproviders/pgpkeys.desktop:92
+#: src/urifilters/ikws/searchproviders/pgpkeys.desktop:93
 msgctxt "Query"
 msgid "https://pgp.mit.edu/pks/lookup?search=\\\\{@}&op=vindex"
 msgstr "https://pgp.mit.edu/pks/lookup?search=\\\\{@}&op=vindex"
@@ -1196,7 +1196,7 @@ msgctxt "Name"
 msgid "PHP Search"
 msgstr "ပီအိပ့်ချ်ပီ ရှာရန်"
 
-#: src/urifilters/ikws/searchproviders/php.desktop:93
+#: src/urifilters/ikws/searchproviders/php.desktop:94
 msgctxt "Query"
 msgid "https://secure.php.net/manual-lookup.php?pattern=\\\\{@}"
 msgstr "https://secure.php.net/manual-lookup.php?pattern=\\\\{@}"
@@ -1206,7 +1206,7 @@ msgctxt "Name"
 msgid "Python Reference Manual"
 msgstr "ပိုက်သွန်အကိုးအကားလက်စွဲစာအုပ်"
 
-#: src/urifilters/ikws/searchproviders/python.desktop:94
+#: src/urifilters/ikws/searchproviders/python.desktop:95
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?sourceid=python-search&q=\\\\{@}"
@@ -1220,7 +1220,7 @@ msgctxt "Name"
 msgid "Qt4 Documentation"
 msgstr "ကျူတီ၄ ဒိုကူမန်တေးရှင်း"
 
-#: src/urifilters/ikws/searchproviders/qt4.desktop:61
+#: src/urifilters/ikws/searchproviders/qt4.desktop:62
 msgctxt "Query"
 msgid "https://doc.qt.io/archives/qt-4.8/search-results.html?q=\\\\{@}"
 msgstr "https://doc.qt.io/archives/qt-4.8/search-results.html?q=\\\\{@}"
@@ -1230,7 +1230,7 @@ msgctxt "Name"
 msgid "Latest Qt Online Documentation"
 msgstr "ကျူတီ၏ နောက်ဆုံးပေါ်အွန်လိုင်းဒိုကူမန်တေးရှင်း"
 
-#: src/urifilters/ikws/searchproviders/qt.desktop:93
+#: src/urifilters/ikws/searchproviders/qt.desktop:94
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
 msgstr "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1240,7 +1240,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr "ကွမ့်"
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:52
+#: src/urifilters/ikws/searchproviders/qwant.desktop:53
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
@@ -1250,7 +1250,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "ကွမ့် ပုံများ"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:49
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:50
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
@@ -1260,7 +1260,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr "ကွမ့် သတင်းများ"
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:50
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:51
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
@@ -1270,7 +1270,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "ကွမ့် စျေးဝယ်ထွက်"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:49
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:50
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
@@ -1280,7 +1280,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr "ကွမ့် ဆိုရှယ်"
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:50
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:51
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
@@ -1290,7 +1290,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "ကွမ့်ဗီဒီယိုများ"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:50
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:51
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
@@ -1300,7 +1300,7 @@ msgctxt "Name"
 msgid "Dictionary of the Spanish Academy (RAE)"
 msgstr "စပိန်အကယ်ဒမီ (RAE) ၏ ဒစ်ရှင်နရီ"
 
-#: src/urifilters/ikws/searchproviders/rae.desktop:94
+#: src/urifilters/ikws/searchproviders/rae.desktop:95
 msgctxt "Query"
 msgid "https://dle.rae.es/\\\\{@}"
 msgstr "https://dle.rae.es/\\\\{@}"
@@ -1310,7 +1310,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "ဂါလစ်ရှန်းအကယ်ဒမီ (RAG) ၏ ဒစ်ရှင်နရီ"
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:59
+#: src/urifilters/ikws/searchproviders/rag.desktop:60
 msgctxt "Query"
 msgid "https://academia.gal/dicionario/-/termo/busca/\\\\{@}"
 msgstr "https://academia.gal/dicionario/-/termo/busca/\\\\{@}"
@@ -1320,7 +1320,7 @@ msgctxt "Name"
 msgid "IETF Requests for Comments"
 msgstr "မှတ်ချက်ပေးရန် အိုင်အီးတီအက်ဖ် တောင်းဆိုချက်များ"
 
-#: src/urifilters/ikws/searchproviders/rfc.desktop:89
+#: src/urifilters/ikws/searchproviders/rfc.desktop:90
 msgctxt "Query"
 msgid "https://tools.ietf.org/id/\\\\{@}"
 msgstr "https://tools.ietf.org/id/\\\\{@}"
@@ -1330,7 +1330,7 @@ msgctxt "Name"
 msgid "RPM-Find"
 msgstr "အာပီအမ်-ဖိုင်း"
 
-#: src/urifilters/ikws/searchproviders/rpmfind.desktop:95
+#: src/urifilters/ikws/searchproviders/rpmfind.desktop:96
 msgctxt "Query"
 msgid "https://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
 msgstr "https://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
@@ -1340,7 +1340,7 @@ msgctxt "Name"
 msgid "Ruby Application Archive"
 msgstr "ရူဘီအပ္ပလီကေးရှင်းဟောင်းတိုက်"
 
-#: src/urifilters/ikws/searchproviders/ruby_application_archive.desktop:94
+#: src/urifilters/ikws/searchproviders/ruby_application_archive.desktop:95
 msgctxt "Query"
 msgid "https://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
 msgstr "https://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
@@ -1350,7 +1350,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr "ဆောင်းကလောက်"
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:47
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:48
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"
 msgstr "https://soundcloud.com/search?q=\\\\{@}"
@@ -1360,7 +1360,7 @@ msgctxt "Name"
 msgid "SourceForge"
 msgstr "စို့ဖေါ့ဂျ်"
 
-#: src/urifilters/ikws/searchproviders/sourceforge.desktop:94
+#: src/urifilters/ikws/searchproviders/sourceforge.desktop:95
 msgctxt "Query"
 msgid ""
 "https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
@@ -1374,7 +1374,7 @@ msgctxt "Name"
 msgid "Technorati"
 msgstr "တက့်ချ်နိုရာတီ"
 
-#: src/urifilters/ikws/searchproviders/technorati.desktop:93
+#: src/urifilters/ikws/searchproviders/technorati.desktop:94
 msgctxt "Query"
 msgid "https://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
 msgstr "https://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
@@ -1384,7 +1384,7 @@ msgctxt "Name"
 msgid "Technorati Tags"
 msgstr "တက့်ချ်နိုရာတီ တပ်ဂ်များ"
 
-#: src/urifilters/ikws/searchproviders/technoratitags.desktop:89
+#: src/urifilters/ikws/searchproviders/technoratitags.desktop:90
 msgctxt "Query"
 msgid "https://technorati.com/tag/\\\\{@}?sourceid=kde-search"
 msgstr "https://technorati.com/tag/\\\\{@}?sourceid=kde-search"
@@ -1394,7 +1394,7 @@ msgctxt "Name"
 msgid "Merriam-Webster Thesaurus"
 msgstr "မယ်ရီအမ်-ဝက်ဘ်စတာ ဝေါဟာရပဒေသာကျမ်း"
 
-#: src/urifilters/ikws/searchproviders/thesaurus.desktop:93
+#: src/urifilters/ikws/searchproviders/thesaurus.desktop:94
 msgctxt "Query"
 msgid "https://www.merriam-webster.com/thesaurus/\\\\{@}"
 msgstr "https://www.merriam-webster.com/thesaurus/\\\\{@}"
@@ -1404,7 +1404,7 @@ msgctxt "Name"
 msgid "TV Tome"
 msgstr "တီဗီကျမ်းစာအုပ်"
 
-#: src/urifilters/ikws/searchproviders/tvtome.desktop:93
+#: src/urifilters/ikws/searchproviders/tvtome.desktop:94
 msgctxt "Query"
 msgid "https://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
 msgstr "https://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
@@ -1414,7 +1414,7 @@ msgctxt "Name"
 msgid "Urban Dictionary"
 msgstr "မြို့ပြ ဒစ်ရှင်နာရီ"
 
-#: src/urifilters/ikws/searchproviders/urbandictionary.desktop:74
+#: src/urifilters/ikws/searchproviders/urbandictionary.desktop:75
 msgctxt "Query"
 msgid "https://www.urbandictionary.com/define.php?term=\\\\{@}"
 msgstr "https://www.urbandictionary.com/define.php?term=\\\\{@}"
@@ -1424,7 +1424,7 @@ msgctxt "Name"
 msgid "U.S. Patent Database"
 msgstr "ယူ.အက်စ်. မူပိုင်ခွင့် ဒေတာဘေ့စ်"
 
-#: src/urifilters/ikws/searchproviders/uspto.desktop:93
+#: src/urifilters/ikws/searchproviders/uspto.desktop:94
 msgctxt "Query"
 msgid ""
 "http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}"
@@ -1438,7 +1438,7 @@ msgctxt "Name"
 msgid "Vimeo"
 msgstr "ဗင်မီယို"
 
-#: src/urifilters/ikws/searchproviders/vimeo.desktop:75
+#: src/urifilters/ikws/searchproviders/vimeo.desktop:76
 msgctxt "Query"
 msgid "https://vimeo.com/search?q=\\\\{@}"
 msgstr "https://vimeo.com/search?q=\\\\{@}"
@@ -1448,7 +1448,7 @@ msgctxt "Name"
 msgid "Voila"
 msgstr "ဗွိုင်လာ"
 
-#: src/urifilters/ikws/searchproviders/voila.desktop:96
+#: src/urifilters/ikws/searchproviders/voila.desktop:97
 msgctxt "Query"
 msgid "https://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
 msgstr "https://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
@@ -1458,7 +1458,7 @@ msgctxt "Name"
 msgid "Merriam-Webster Dictionary"
 msgstr "မယ်ရီအမ်-ဝက်ဘ်စတာ ဒစ်ရှင်နာရီ"
 
-#: src/urifilters/ikws/searchproviders/webster.desktop:94
+#: src/urifilters/ikws/searchproviders/webster.desktop:95
 msgctxt "Query"
 msgid "https://www.merriam-webster.com/dictionary/\\\\{@}"
 msgstr "https://www.merriam-webster.com/dictionary/\\\\{@}"
@@ -1468,7 +1468,7 @@ msgctxt "Name"
 msgid "Wikia"
 msgstr "ဝစ်ကီယား"
 
-#: src/urifilters/ikws/searchproviders/wikia.desktop:74
+#: src/urifilters/ikws/searchproviders/wikia.desktop:75
 msgctxt "Query"
 msgid ""
 "https://www.wikia.com/Special:Search?search=\\\\{@}"
@@ -1482,7 +1482,7 @@ msgctxt "Name"
 msgid "Wikipedia - The Free Encyclopedia"
 msgstr "ဝစ်ကီပီဒီယား - အခကြေးငွေပေးရန်မလိုသော စွယ်စုံကျမ်း"
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:95
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:96
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1492,7 +1492,7 @@ msgctxt "Name"
 msgid "Wiktionary - The Free Dictionary"
 msgstr "ဝစ်ရှင်နရီ - အခကြေးငွေမလိုအပ်သော ဒစ်ရှင်နာရီ"
 
-#: src/urifilters/ikws/searchproviders/wiktionary.desktop:92
+#: src/urifilters/ikws/searchproviders/wiktionary.desktop:93
 msgctxt "Query"
 msgid "https://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1502,7 +1502,7 @@ msgctxt "Name"
 msgid "Wolfram Alpha"
 msgstr "ဝုဖ်ဖရန်အယ်ဖာ"
 
-#: src/urifilters/ikws/searchproviders/wolfram_alpha.desktop:76
+#: src/urifilters/ikws/searchproviders/wolfram_alpha.desktop:77
 msgctxt "Query"
 msgid "https://www.wolframalpha.com/input/?i=\\\\{@}"
 msgstr "https://www.wolframalpha.com/input/?i=\\\\{@}"
@@ -1512,7 +1512,7 @@ msgctxt "Name"
 msgid "WordReference.com English Dictionary"
 msgstr "ဝါ့ဒ်ရပ်ဖ်ဖရမ့် ဒေါ့ ကွန်း အင်္ဂလိပ်ဒစ်ရှင်နရီ"
 
-#: src/urifilters/ikws/searchproviders/wordref.desktop:93
+#: src/urifilters/ikws/searchproviders/wordref.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/english/definition.asp?en=\\\\{@}"
 msgstr "https://www.wordreference.com/english/definition.asp?en=\\\\{@}"
@@ -1522,7 +1522,7 @@ msgctxt "Name"
 msgid "Yahoo"
 msgstr "ယဟူး"
 
-#: src/urifilters/ikws/searchproviders/yahoo.desktop:77
+#: src/urifilters/ikws/searchproviders/yahoo.desktop:78
 msgctxt "Query"
 msgid ""
 "https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
@@ -1536,7 +1536,7 @@ msgctxt "Name"
 msgid "Yahoo Images"
 msgstr "ယဟူး ပုံများ"
 
-#: src/urifilters/ikws/searchproviders/yahoo_image.desktop:74
+#: src/urifilters/ikws/searchproviders/yahoo_image.desktop:75
 msgctxt "Query"
 msgid ""
 "https://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?"
@@ -1550,7 +1550,7 @@ msgctxt "Name"
 msgid "Yahoo Local"
 msgstr "ယဟူး ဒေသတွင်း"
 
-#: src/urifilters/ikws/searchproviders/yahoo_local.desktop:73
+#: src/urifilters/ikws/searchproviders/yahoo_local.desktop:74
 msgctxt "Query"
 msgid ""
 "https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
@@ -1562,7 +1562,7 @@ msgctxt "Name"
 msgid "Yahoo Shopping"
 msgstr "ယဟူးစျေးဝယ်ထွက်"
 
-#: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:73
+#: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:74
 msgctxt "Query"
 msgid ""
 "https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
@@ -1578,7 +1578,7 @@ msgctxt "Name"
 msgid "Yahoo Video"
 msgstr "ယဟူး ဗီဒီယို"
 
-#: src/urifilters/ikws/searchproviders/yahoo_video.desktop:73
+#: src/urifilters/ikws/searchproviders/yahoo_video.desktop:74
 msgctxt "Query"
 msgid ""
 "https://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
@@ -1592,7 +1592,7 @@ msgctxt "Name"
 msgid "YouTube"
 msgstr "ယူကျုဘ်"
 
-#: src/urifilters/ikws/searchproviders/youtube.desktop:74
+#: src/urifilters/ikws/searchproviders/youtube.desktop:75
 msgctxt "Query"
 msgid "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
