@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-07 00:16+0000\n"
+"POT-Creation-Date: 2021-09-12 00:15+0000\n"
 "PO-Revision-Date: 2021-08-31 15:43+0630\n"
 "Last-Translator: zayar lwin <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -3868,12 +3868,12 @@ msgstr "windows CEတွင် တပ်ဆင်ရန်လုပ်ဆော�
 msgid "Could not find program \"mount\""
 msgstr "\"mount\" ပရိုဂရမ်ကို ရှာမတွေ့ပါ"
 
-#: ioslaves/file/file.cpp:880
+#: ioslaves/file/file.cpp:883
 #, kde-format
 msgid "unmounting is not supported by Windows CE."
 msgstr "windows CEတွင် ဖြုတ်ရန်လုပ်ဆောင်ချက် လုပ်မရပါ။"
 
-#: ioslaves/file/file.cpp:895
+#: ioslaves/file/file.cpp:898
 #, kde-format
 msgid "Could not find program \"umount\""
 msgstr "\"umount\" ပရိုဂရမ်ကို ရှာမတွေ့ပါ"
