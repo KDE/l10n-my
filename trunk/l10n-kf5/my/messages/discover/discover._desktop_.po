@@ -4,13 +4,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-07 00:32+0000\n"
 "PO-Revision-Date: 2021-09-13 03:11+0630\n"
+"Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: \n"
-"Language: my\n"
 "X-Generator: Poedit 2.2.1\n"
 
 #: discover/org.kde.discover.desktop.cmake:2
@@ -27,8 +27,11 @@ msgstr "ဆော့ဖ်ဝဲလ်စင်တာ"
 
 #: discover/org.kde.discover.desktop.cmake:108
 msgctxt "Keywords"
-msgid "program;software;repository;package;install;remove;update;apps;applications;"
-msgstr "program;software;repository;package;install;remove;update;apps;applications;ပရိုဂရမ်;ဆော့ဖ်ဝဲလ်;ရီပိုစစ်တိုရီ;ပတ်ကေ့ချ်;တပ်ဆင်;ဖယ်ရှား;အပ်ဒိတ်;အပ်;အပ္ပလီကေးရှင်း;"
+msgid ""
+"program;software;repository;package;install;remove;update;apps;applications;"
+msgstr ""
+"program;software;repository;package;install;remove;update;apps;applications;"
+"ပရိုဂရမ်;ဆော့ဖ်ဝဲလ်;ရီပိုစစ်တိုရီ;ပတ်ကေ့ချ်;တပ်ဆင်;ဖယ်ရှား;အပ်ဒိတ်;အပ်;အပ္ပလီကေးရှင်း;"
 
 #: discover/org.kde.discover.desktop.cmake:157
 msgctxt "Name"
