@@ -1,0 +1,471 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the maui-clip package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: maui-clip\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-08 00:19+0000\n"
+"PO-Revision-Date: 2021-09-15 21:44+0630\n"
+"Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: src/controllers/YouTube.qml:95
+#, kde-format
+msgid "Custom API Key"
+msgstr "ကိုယ်ပိုင်ဓလေ့ အေပီအိုင်ကီး"
+
+#: src/controllers/YouTube.qml:114
+#, kde-format
+msgid "Search results"
+msgstr "ရှာဖွေမှုရလဒ်များ"
+
+#: src/controllers/YouTube.qml:209
+#, kde-format
+msgid "No Results!"
+msgstr "ရလဒ်မရှိ။"
+
+#: src/controllers/YouTube.qml:210
+#, kde-format
+msgid "Try with another query"
+msgstr "အခြားဒေတာတောင်းဆိုမှု နှင့် နောက်တစ်ကြိမ်ကြိုးစားကြည့်ပါ"
+
+#: src/controllers/YouTube.qml:249
+#, kde-format
+msgid "Search videos..."
+msgstr "ဗီဒီယိုများရှာမည်..."
+
+#: src/main.cpp:96
+#, kde-format
+msgid "Clip"
+msgstr "ကလစ်"
+
+#: src/main.cpp:96
+#, kde-format
+msgid "Browse and play your videos."
+msgstr "သင်၏ဗီဒီယိုများကို ရှောက်ကြည့်၍ ဖွင့်ပြမည်။"
+
+#: src/main.cpp:97
+#, kde-format
+msgid "© 2019-%1 Nitrux Development Team"
+msgstr "© ၂၀၁၉ - %1 နစ်ထရက်တိုးတက်ရေးအဖွဲ့"
+
+#: src/main.cpp:98
+#, kde-format
+msgid "Camilo Higuita"
+msgstr "ခမီလိုဟီဂီတာ"
+
+#: src/main.cpp:98
+#, kde-format
+msgid "Developer"
+msgstr "ပရိုဂရမ်မာ"
+
+#: src/main.qml:108 src/main.qml:223
+#, kde-format
+msgid "Open URL"
+msgstr "ယူအာအယ်လ် ဖွင့်မည်"
+
+#: src/main.qml:110
+#, kde-format
+msgid ""
+"Enter any remote location, like YouTube video URLs, or from other services "
+"supported by MPV."
+msgstr ""
+"ယူကျူ့ဗီဒီယို ယူအာအယ်များ သို့မဟုတ် အမ်ပီဗီမှ ထောက်ပံ့ပေးထားသော အခြားဝန်ဆောင်မှုများမှ အဝေးနေရာများသို့ "
+"ဝင်ရောက်နိုင်သည်။"
+
+#: src/main.qml:139
+#, kde-format
+msgid "Delete files?"
+msgstr "ဖိုင်လ်များဖျက်မည်လား။"
+
+#: src/main.qml:140 src/views/ItemMenu.qml:116
+#, kde-format
+msgid "Accept"
+msgstr "လက်ခံမည်"
+
+#: src/main.qml:141 src/views/ItemMenu.qml:117
+#, kde-format
+msgid "Cancel"
+msgstr "ပယ်ဖျက်မည်"
+
+#: src/main.qml:142
+#, kde-format
+msgid "Are sure you want to delete %1 files"
+msgstr "ဖိုင်လ် %1ခု ကို သင်တကယ်ဖျက်တော့မည်လား"
+
+#: src/main.qml:172
+#, kde-format
+msgid "Now playing"
+msgstr "ယခုဖွင့်ပြနေသည်"
+
+#: src/main.qml:234
+#, kde-format
+msgid "Settings"
+msgstr "ဆက်တင်"
+
+#: src/main.qml:245
+#, kde-format
+msgid "About"
+msgstr "အကြောင်း"
+
+#: src/main.qml:254
+#, kde-format
+msgid "Player"
+msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
+
+#: src/main.qml:261 src/views/settings/SettingsDialog.qml:39
+#, kde-format
+msgid "Collection"
+msgstr "စုစည်းမှု"
+
+#: src/main.qml:268 src/views/ItemMenu.qml:55
+#, kde-format
+msgid "Tags"
+msgstr "တပ်ဂ်များ"
+
+#: src/main.qml:385
+#, kde-format
+msgid "Open"
+msgstr "ဖွင့်"
+
+#: src/main.qml:411
+#, kde-format
+msgid "Toogle SideBar"
+msgstr "ဘေးတန်း ဖွင့်/ပိတ်"
+
+#: src/views/BrowserLayout.qml:71
+#, kde-format
+msgid "Search %1 video"
+msgid_plural "Search %1 videos"
+msgstr[0] "ဗီဒီယို %1ခု ရှာမည်"
+
+#: src/views/ItemMenu.qml:22 src/views/SelectionBar.qml:48
+#, kde-format
+msgid "Queue"
+msgstr "ကြည့်ရှုစာရင်း"
+
+#: src/views/ItemMenu.qml:34
+#, kde-format
+msgid "Select"
+msgstr "ရွေးချယ်မည်"
+
+#: src/views/ItemMenu.qml:48
+#, kde-format
+msgid "UnFav it"
+msgstr "မနှစ်သက်"
+
+#: src/views/ItemMenu.qml:67 src/views/SelectionBar.qml:78
+#, kde-format
+msgid "Share"
+msgstr "ဝေမျှရန်"
+
+#: src/views/ItemMenu.qml:78
+#, kde-format
+msgid "Show in folder"
+msgstr "ဖိုလ်ဒါထဲတွင် ပြမည်"
+
+#: src/views/ItemMenu.qml:89
+#, kde-format
+msgid "Info"
+msgstr "အချက်"
+
+#: src/views/ItemMenu.qml:102 src/views/SelectionBar.qml:106
+#, kde-format
+msgid "Remove"
+msgstr "ဖယ်ရှားမည်"
+
+#: src/views/ItemMenu.qml:115
+#, kde-format
+msgid "Delete file?"
+msgstr "ဖိုင်လ် ဖျက်မည်လား။"
+
+#: src/views/ItemMenu.qml:118
+#, kde-format
+msgid ""
+"Are sure you want to delete \n"
+"%1"
+msgstr ""
+"သင်တကယ်ဖျက်တော့မည်လား\n"
+"%1"
+
+#: src/views/player/MPVPlayer.qml:31 src/views/settings/SettingsDialog.qml:172
+#, kde-format
+msgid "Subtitles"
+msgstr "ဗီဒီယိုစာတန်းထိုး"
+
+#: src/views/player/MPVPlayer.qml:49
+#, kde-format
+msgid "Audio Tracks"
+msgstr "အော်ဒီယိုသံစဥ်များ"
+
+#: src/views/player/PlayerView.qml:37 src/views/youtube/YouTubeView.qml:26
+#, kde-format
+msgid "Nothing Here!"
+msgstr "ဘာမှမရှိ။"
+
+#: src/views/player/PlayerView.qml:38
+#, kde-format
+msgid "Open a new video to start playing or add it to the playlist."
+msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
+
+#: src/views/player/Playlist.qml:21 src/views/tags/TagsView.qml:40
+#, kde-format
+msgid "No Videos!"
+msgstr "ဗီဒီယိုများမရှိ။"
+
+#: src/views/player/Playlist.qml:22
+#, kde-format
+msgid "Add videos to the playlist."
+msgstr "ဗီဒီယိုများကို ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
+
+#: src/views/SelectionBar.qml:37
+#, kde-format
+msgid "Play"
+msgstr "ဖွင့်ပြမည်"
+
+#: src/views/SelectionBar.qml:59
+#, kde-format
+msgid "Un/Fav"
+msgstr "မနှစ်သက်/နှစ်သက်"
+
+#: src/views/SelectionBar.qml:66
+#, kde-format
+msgid "Tag"
+msgstr "တပ်"
+
+#: src/views/SelectionBar.qml:90
+#, kde-format
+msgid "Export"
+msgstr "ထုတ်ပို့မည်"
+
+#: src/views/settings/SettingsDialog.qml:19
+#, kde-format
+msgid "General"
+msgstr "ယေဘုယျ"
+
+#: src/views/settings/SettingsDialog.qml:20
+#, kde-format
+msgid "Configure the app behavior."
+msgstr "အပ် အမူအကျင့်များ ပြင်ဆင်ပါ။"
+
+#: src/views/settings/SettingsDialog.qml:24
+#, kde-format
+msgid "Volume Step"
+msgstr "အသံထုပမာဏတိုးနှုန်း"
+
+#: src/views/settings/SettingsDialog.qml:40
+#, kde-format
+msgid "Sorting order and behavior."
+msgstr "စီမည့်အစဥ် နှင့် အမူအကျင့်။"
+
+#: src/views/settings/SettingsDialog.qml:44
+#, kde-format
+msgid "Sorting by"
+msgstr "ဖြင့်စီသည်"
+
+#: src/views/settings/SettingsDialog.qml:45
+#, kde-format
+msgid "Change the sorting key."
+msgstr "စီသည့်ကီးပြောင်းပါ။"
+
+#: src/views/settings/SettingsDialog.qml:68
+#, kde-format
+msgid "Title"
+msgstr "ခေါင်းစဉ်"
+
+#: src/views/settings/SettingsDialog.qml:74
+#, kde-format
+msgid "Date"
+msgstr "ရက်စွဲ"
+
+#: src/views/settings/SettingsDialog.qml:80
+#, kde-format
+msgid "Size"
+msgstr "အရွယ်အစား"
+
+#: src/views/settings/SettingsDialog.qml:86
+#, kde-format
+msgid "Type"
+msgstr "ရိုက်သွင်းမည်"
+
+#: src/views/settings/SettingsDialog.qml:94
+#, kde-format
+msgid "Sort order"
+msgstr "စီမည့်အစဥ်"
+
+#: src/views/settings/SettingsDialog.qml:95
+#, kde-format
+msgid "Change the sorting order."
+msgstr "စီသည့်အစဥ် ပြောင်းပါ။"
+
+#: src/views/settings/SettingsDialog.qml:116
+#, kde-format
+msgid "Ascending"
+msgstr "တက်နေသည်"
+
+#: src/views/settings/SettingsDialog.qml:123
+#, kde-format
+msgid "Descending"
+msgstr "ဆင်းနေသည်"
+
+#: src/views/settings/SettingsDialog.qml:133
+#, kde-format
+msgid "Playback"
+msgstr "ဖွင့်ပြမည်"
+
+#: src/views/settings/SettingsDialog.qml:134
+#, kde-format
+msgid "Configure the player settings."
+msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ ဆက်တင်ကို ပြင်ဆင်ပါ။"
+
+#: src/views/settings/SettingsDialog.qml:138
+#, kde-format
+msgid "Hardware Decoding"
+msgstr "ဟာ့ဒ်ဝဲ ကုတ်ဖေါ်စနစ်"
+
+#: src/views/settings/SettingsDialog.qml:139
+#, kde-format
+msgid "Use the sorting preferences globally for all the tabs and splits."
+msgstr "အကုန်လုံးအတွက် နှစ်သက်သော စီသည့်အစဥ် သုံးမည်။"
+
+#: src/views/settings/SettingsDialog.qml:152
+#, kde-format
+msgid "Audio"
+msgstr "အသံ"
+
+#: src/views/settings/SettingsDialog.qml:153
+#, kde-format
+msgid "Configure the player audio behaviour."
+msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ၏ အော်ဒီယိုအမူအကျင့် ပြင်ဆင်ပါ။"
+
+#: src/views/settings/SettingsDialog.qml:157
+#, kde-format
+msgid "Preferred Language"
+msgstr "နှစ်သက်သော ဘာသာစကား"
+
+#: src/views/settings/SettingsDialog.qml:158
+#, kde-format
+msgid "Preferred language if available."
+msgstr "ရရှိနိုင်လျှင် နှစ်သက်သော ဘာသာစကား။"
+
+#: src/views/settings/SettingsDialog.qml:173
+#, kde-format
+msgid "Configure the app UI."
+msgstr "အပ်၏ ယူအိုင် ပြင်ဆင်ပါ။"
+
+#: src/views/settings/SettingsDialog.qml:177
+#, kde-format
+msgid "Directory"
+msgstr "ဒါရိုက်ထရီ"
+
+#: src/views/settings/SettingsDialog.qml:178
+#, kde-format
+msgid "Folder path containing the subtitle files."
+msgstr "ဗီဒီယိုစာတန်းထိုးဖိုင်လ်များ ပါဝင်သော ဖိုလ်ဒါ လမ်းကြောင်း။"
+
+#: src/views/settings/SettingsDialog.qml:208
+#, kde-format
+msgid "Font Family"
+msgstr "ဖောင့်မိသားစု"
+
+#: src/views/settings/SettingsDialog.qml:221
+#, kde-format
+msgid "Font Size"
+msgstr "ဖောင့်အရွယ်အစား"
+
+#: src/views/settings/SettingsDialog.qml:236
+#, kde-format
+msgid "YouTube"
+msgstr "ယူကျုဘ်"
+
+#: src/views/settings/SettingsDialog.qml:237
+#, kde-format
+msgid "Configure YouTube details."
+msgstr "ယူကျုဘ်ဆိုင်ရာ အသေးစိတ်အချက်များ ပြင်ဆင်ပါ။"
+
+#: src/views/settings/SettingsDialog.qml:241
+#, kde-format
+msgid "Key"
+msgstr "ကီး"
+
+#: src/views/settings/SettingsDialog.qml:242
+#, kde-format
+msgid "Personal key for limitless browsing."
+msgstr "အကန့်အသတ်မရှိရှောက်ကြည့်ရန် တစ်ဦးပိုင်ကီး။"
+
+#: src/views/settings/SettingsDialog.qml:255
+#, kde-format
+msgid ""
+"<a href='https://console.developers.google.com/apis/credentials'>Get your "
+"personal key.</a>"
+msgstr ""
+"<a href='https://console.developers.google.com/apis/"
+"credentials'>သင်၏တစ်ဦးပိုင်ကီးရယူပါ။</a>"
+
+#: src/views/settings/SettingsDialog.qml:264
+#, kde-format
+msgid "Sources"
+msgstr "ဇစ်မြစ်များ"
+
+#: src/views/settings/SettingsDialog.qml:265
+#, kde-format
+msgid "Add new sources to manage and browse your video collection"
+msgstr "သင်၏ဗီဒီယိုစုစည်းမှုကို စီမံရန် နှင့် ရှောက်ကြည့်ရန် ဇစ်မြစ်အသစ်များ ထည့်ပါ"
+
+#: src/views/settings/SettingsDialog.qml:308
+#, kde-format
+msgid "Add"
+msgstr "ထည့်သွင်းမည်"
+
+#: src/views/settings/SettingsDialog.qml:330
+#, kde-format
+msgid "Remove source"
+msgstr "ဇစ်မြစ် ဖယ်ရှားမည်"
+
+#: src/views/settings/SettingsDialog.qml:331
+#, kde-format
+msgid ""
+"Are you sure you want to remove the source: \n"
+" %1"
+msgstr ""
+"ဇစ်မြစ်ကို သင်တကယ်ဖျက်တော့မည်လား။\n"
+"%1"
+
+#: src/views/tags/TagsGrid.qml:24
+#, kde-format
+msgid "No Tags!"
+msgstr "တပ်ဂ်များမရှိ။"
+
+#: src/views/tags/TagsGrid.qml:25
+#, kde-format
+msgid "Add a new tag to start organizing your video collection."
+msgstr "သင်၏ဗီဒီယိုစုစည်းမှုကို စီစဥ်ရန် တပ်ဂ်အသစ် ထည့်ပါ။"
+
+#: src/views/tags/TagsGrid.qml:37
+#, kde-format
+msgid "Filter"
+msgstr "စစ်ထုတ်မည်"
+
+#: src/views/tags/TagsView.qml:41
+#, kde-format
+msgid "There's no videos associated with the tag"
+msgstr "တပ်ဂ်နှင့် သက်ဆိုင်သော ဗီဒီယိုများ မရှိပါ"
+
+#: src/views/youtube/YouTubeView.qml:27
+#, kde-format
+msgid "Start searching for online videos."
+msgstr "အွန်လိုင်းဗီဒီယိုများ ရှာဖွေပါ။"
+
+#: src/views/youtube/YouTubeView.qml:45
+#, kde-format
+msgid "Search..."
+msgstr "ရှာရန်..."
