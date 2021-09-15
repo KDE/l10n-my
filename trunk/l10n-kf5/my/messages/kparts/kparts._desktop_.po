@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-03 00:26+0000\n"
+"PO-Revision-Date: 2021-09-15 02:18+0630\n"
+"Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language: my\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: src/browserview.desktop:5
+msgctxt "Name"
+msgid "Browser View"
+msgstr "ဘရောက်ဇာ မြင်ကွင်း"
+
+#: src/kpart.desktop:4 src/kparts-readonlypart.desktop:5
+#: src/kparts-readwritepart.desktop:5
+msgctxt "Comment"
+msgid "KDE Component"
+msgstr "ကေဒီအီး အစိတ်အပိုင်း"
+
+#: templates/kpartsapp/kpartsapp.kdevtemplate:3
+msgctxt "Name"
+msgid "KParts Application"
+msgstr "ကေပါ့စ် အပ္ပလီကေးရှင်း"
+
+#: templates/kpartsapp/kpartsapp.kdevtemplate:48
+msgctxt "Comment"
+msgid "Generate an application built on the KParts framework, using CMake."
+msgstr "ကေပါ့စ် မူဘောင်ပေါ်မူတည်၍ ပြုလုပ်ထားသော အပ္ပလီကေးရှင်းကို စီမိတ်ခ်သုံးပြီး ထုတ်လုပ်မည်။"
