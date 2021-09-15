@@ -1,0 +1,230 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the maui-booth package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: maui-booth\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-01-18 02:38+0100\n"
+"PO-Revision-Date: 2021-09-15 21:18+0630\n"
+"Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: src/main.cpp:73
+#, kde-format
+msgid "Booth"
+msgstr "ဘု"
+
+#: src/main.cpp:73
+#, kde-format
+msgid "Booth is a convergent camera app to take pictures and record videos."
+msgstr "ဘုသည် ဓါတ်ပုံရိုက်ရန် နှင့် ဗီဒီယိုမှတ်တမ်းတင်ရန် အတွက် ကင်မရာအပ်တစ်ခု ဖြစ်သည်။"
+
+#: src/main.cpp:74
+#, kde-format
+msgid "© 2020 Nitrux Development Team"
+msgstr "© ၂၀၂၀ နစ်ထရက်တိုးတက်ရေးအဖွဲ့"
+
+#: src/main.cpp:75
+#, kde-format
+msgid "Camilo Higuita"
+msgstr "ခမီလိုဟီဂီတာ"
+
+#: src/main.cpp:75
+#, kde-format
+msgid "Developer"
+msgstr "ပရိုဂရမ်မာ"
+
+#: src/main.qml:39
+#, kde-format
+msgid "Camera"
+msgstr "ကင်မရာ"
+
+#: src/main.qml:53
+#, kde-format
+msgid "Photo"
+msgstr "ပုံ"
+
+#: src/main.qml:60
+#, kde-format
+msgid "Video"
+msgstr "ဗီဒီယို"
+
+#: src/main.qml:211
+#, kde-format
+msgid "Roll"
+msgstr "ဓါတ်ပုံများ"
+
+#: src/widgets/PhotoCaptureControls.qml:94
+#, kde-format
+msgid "Auto"
+msgstr "အလိုအလျောက်"
+
+#: src/widgets/PhotoCaptureControls.qml:99
+#, kde-format
+msgid "Sunlight"
+msgstr "နေရောင်"
+
+#: src/widgets/PhotoCaptureControls.qml:104
+#, kde-format
+msgid "Cloudy"
+msgstr "တိမ်ထူထပ်"
+
+#: src/widgets/PhotoCaptureControls.qml:109
+#, kde-format
+msgid "Tungsten"
+msgstr "တန်စတန်"
+
+#: src/widgets/PhotoCaptureControls.qml:114
+#, kde-format
+msgid "Fluorescent"
+msgstr "ဖလိုရက်ဆန့်"
+
+#: src/widgets/PhotoCaptureControls.qml:121
+#: src/widgets/VideoCaptureControls.qml:95
+#, kde-format
+msgid "View"
+msgstr "မြင်ကွင်း"
+
+#: src/widgets/VideoCaptureControls.qml:89
+#, kde-format
+msgid "Stop"
+msgstr "ရပ်မည်"
+
+#: src/widgets/VideoCaptureControls.qml:118
+#, kde-format
+msgid "Switch to Photo"
+msgstr "ပုံ သို့ ပြောင်းမည်"
+
+#: src/widgets/VideoCaptureControls.qml:124
+#, kde-format
+msgid "Quit"
+msgstr "ထွက်မည်"
+
+#: src/widgets/views/Browser.qml:117 src/widgets/views/PlacesSideBar.qml:127
+#, kde-format
+msgid "Open in new tab"
+msgstr "တပ်ဘ်အသစ်တွင်ဖွင့်မည်"
+
+#: src/widgets/views/Browser.qml:125 src/widgets/views/PlacesSideBar.qml:135
+#, kde-format
+msgid "Open in split view"
+msgstr "သီးခြားမြင်ကွင်းတွင်ဖွင့်မည်"
+
+#: src/widgets/views/PlacesSideBar.qml:144
+#, kde-format
+msgid "Remove"
+msgstr "ဖယ်ရှားမည်"
+
+#: src/widgets/views/SettingsDialog.qml:13
+#, kde-format
+msgid "Navigation"
+msgstr "လမ်းညွှန်"
+
+#: src/widgets/views/SettingsDialog.qml:14
+#, kde-format
+msgid "Configure the app plugins and behavior."
+msgstr "အပ် ပလပ်ဂင်များနှင့် အမူအကျင့်များ ပြင်ဆင်ပါ။"
+
+#: src/widgets/views/SettingsDialog.qml:18
+#, kde-format
+msgid "Thumbnails"
+msgstr "သမ့်ဘ်နေးလ်"
+
+#: src/widgets/views/SettingsDialog.qml:19
+#, kde-format
+msgid "Show previews of images, videos and PDF files"
+msgstr "ပုံရိပ်များ၊ ဗီဒီယိုများ နှင့် ပီဒီအက်ဖ်ဖိုင်လ်များ၏ အကြိုမြင်ကွင်းများ ပြမည်"
+
+#: src/widgets/views/SettingsDialog.qml:33
+#, kde-format
+msgid "Hidden Files"
+msgstr "ဖွက်ထားသောဖိုင်လ်များ"
+
+#: src/widgets/views/SettingsDialog.qml:34
+#, kde-format
+msgid "List hidden files"
+msgstr "ဖွက်ထားသောဖိုင်လ်များပြမည်"
+
+#: src/widgets/views/SettingsDialog.qml:48
+#, kde-format
+msgid "Single Click"
+msgstr "တစ်ချက်နှိပ်"
+
+#: src/widgets/views/SettingsDialog.qml:49
+#, kde-format
+msgid "Open files with a single or double click"
+msgstr "ဖိုင်လ်များကို တစ်ချက် သို့ နှစ်ချက် နှိပ်၍ ဖွင့်မည်"
+
+#: src/widgets/views/SettingsDialog.qml:67
+#, kde-format
+msgid "Save Session"
+msgstr "ဆက်ရှင် သိမ်းဆည်းမည်"
+
+#: src/widgets/views/SettingsDialog.qml:68
+#, kde-format
+msgid "Save and restore tabs"
+msgstr "တပ်ဘ်များကို သိမ်းဆည်း၍ ပြန်ထားသိုမည်"
+
+#: src/widgets/views/SettingsDialog.qml:87
+#, kde-format
+msgid "Interface"
+msgstr "အင်တာဖေ့စ်"
+
+#: src/widgets/views/SettingsDialog.qml:88
+#, kde-format
+msgid "Configure the app UI."
+msgstr "အပ်၏ ယူအိုင် ပြင်ဆင်ပါ။"
+
+#: src/widgets/views/SettingsDialog.qml:93
+#, kde-format
+msgid "Grid Size"
+msgstr "ဂရစ် အရွယ်အစား"
+
+#: src/widgets/views/SettingsDialog.qml:94
+#, kde-format
+msgid "Thumbnails size in the grid view"
+msgstr "ဂရစ်မြင်ကွင်းတွင် သမ့်ဘ်နေးလ်အရွယ်အစား"
+
+#: src/widgets/views/SettingsDialog.qml:119
+#, kde-format
+msgid "S"
+msgstr "S"
+
+#: src/widgets/views/SettingsDialog.qml:125
+#, kde-format
+msgid "M"
+msgstr "M"
+
+#: src/widgets/views/SettingsDialog.qml:131
+#, kde-format
+msgid "X"
+msgstr "X"
+
+#: src/widgets/views/SettingsDialog.qml:137
+#, kde-format
+msgid "XL"
+msgstr "XL"
+
+#: src/widgets/views/SettingsDialog.qml:145
+#, kde-format
+msgid "Sidebar always visible"
+msgstr "ဘေးတန်း အမြဲတမ်း ဖေါ်ထားမည်"
+
+#: src/widgets/views/SettingsDialog.qml:146
+#, kde-format
+msgid "Keep sidebar on constrained spaces"
+msgstr "ဘေးတန်းကို နေရာအကန့်အသတ်နှင့် ထားမည်"
+
+#: src/widgets/views/SettingsDialog.qml:182
+#, kde-format
+msgid "Dark Mode"
+msgstr "အမှောင်ထုံးနည်း"
