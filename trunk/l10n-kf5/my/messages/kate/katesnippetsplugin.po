@@ -9,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-01-30 03:20+0100\n"
 "PO-Revision-Date: 2021-09-15 04:32+0630\n"
+"Last-Translator: \n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: \n"
 "X-Generator: Poedit 2.2.1\n"
 
 #, kde-format
@@ -103,7 +103,9 @@ msgstr ""
 
 #: editsnippet.cpp:182
 #, kde-format
-msgid "The snippet contains unsaved changes. Do you want to continue and lose all changes?"
+msgid ""
+"The snippet contains unsaved changes. Do you want to continue and lose all "
+"changes?"
 msgstr ""
 
 #: editsnippet.cpp:183
@@ -127,16 +129,19 @@ msgstr "&Sစာအတိုအထွာ"
 #: editsnippet.ui:68
 #, kde-format
 msgid ""
-"The text your snippet will insert into the document. <a href=\"A snippet can contain editable "
-"fields. They can be cycled by pressing Tab. The following expressions can be used in the template "
-"text to create fields: <br><tt>${field_name}</tt> creates a simple, editable field. All subsequent "
-"occurrences of the same field_name create fields which mirror the contents of the first during "
-"editing.<br><tt>${field_name=default}</tt> can be used to specify a default value for the field. "
-"<tt>default</tt> can be any JavaScript expression.<br>Use <tt>${field_name=text}</tt> to specify a "
-"fixed string as default value.<br><tt>${func(other_field1, other_field2, ...)}</tt> can be used to "
-"create a field which evaluates a JavaScript function on each edit and contains its contents. See "
-"the Scripts tab for more information.<br><tt>${cursor}</tt> can be used to mark the end position "
-"of the cursor after everything else was filled in.\">More...</a>"
+"The text your snippet will insert into the document. <a href=\"A snippet can "
+"contain editable fields. They can be cycled by pressing Tab. The following "
+"expressions can be used in the template text to create fields: <br><tt>"
+"${field_name}</tt> creates a simple, editable field. All subsequent "
+"occurrences of the same field_name create fields which mirror the contents "
+"of the first during editing.<br><tt>${field_name=default}</tt> can be used "
+"to specify a default value for the field. <tt>default</tt> can be any "
+"JavaScript expression.<br>Use <tt>${field_name=text}</tt> to specify a fixed "
+"string as default value.<br><tt>${func(other_field1, other_field2, ...)}</"
+"tt> can be used to create a field which evaluates a JavaScript function on "
+"each edit and contains its contents. See the Scripts tab for more "
+"information.<br><tt>${cursor}</tt> can be used to mark the end position of "
+"the cursor after everything else was filled in.\">More...</a>"
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, scriptTab)
@@ -149,16 +154,19 @@ msgstr ""
 #: editsnippet.ui:88
 #, kde-format
 msgid ""
-"Write down JavaScript helper functions to use in your snippets here. <a href=\"All JavaScript "
-"functions should return the contents you want to place in a template field as a string."
-"<br>Functions are called in a scope which contains the contents of all editable template fields as "
-"local variables. For example in a snippet containing <tt>${field}</tt>, a variable called "
-"<tt>field</tt> will be present which contains the up-to-date contents of the template field. Those "
-"variables can either be used in the function statically or passed as arguments, by using the <tt>"
-"${func(field)}</tt> or <tt>${field2=func(field)}</tt> syntax in the snippet string.<br>You can use "
-"the kate scripting API to get the selected text, full text, file name and more by using the "
-"appropriate methods of the <tt>document</tt> and <tt>view</tt> objects. Refer to the scripting API "
-"documentation for more information.\">More...</a>"
+"Write down JavaScript helper functions to use in your snippets here. <a href="
+"\"All JavaScript functions should return the contents you want to place in a "
+"template field as a string.<br>Functions are called in a scope which "
+"contains the contents of all editable template fields as local variables. "
+"For example in a snippet containing <tt>${field}</tt>, a variable called "
+"<tt>field</tt> will be present which contains the up-to-date contents of the "
+"template field. Those variables can either be used in the function "
+"statically or passed as arguments, by using the <tt>${func(field)}</tt> or "
+"<tt>${field2=func(field)}</tt> syntax in the snippet string.<br>You can use "
+"the kate scripting API to get the selected text, full text, file name and "
+"more by using the appropriate methods of the <tt>document</tt> and <tt>view</"
+"tt> objects. Refer to the scripting API documentation for more information."
+"\">More...</a>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, dotest_button)
@@ -178,7 +186,8 @@ msgstr "%1 စာအတိုအထွာများ"
 msgid "Snippets tool view"
 msgstr "စာအတိုအထွာများ ကိရိယာမြင်ကွင်း"
 
-#: katesnippets.cpp:55 snippetcompletionmodel.cpp:43 snippetview.cpp:80 snippetview.cpp:194
+#: katesnippets.cpp:55 snippetcompletionmodel.cpp:43 snippetview.cpp:80
+#: snippetview.cpp:194
 #, kde-format
 msgid "Snippets"
 msgstr "စာအတိုအထွာများ"
@@ -206,8 +215,9 @@ msgstr "<ဗလာ ရီပိုစစ်တိုရီ>"
 #: snippetrepository.cpp:230
 #, kde-format
 msgid ""
-"You have edited a snippet repository file not located in your personal directory; as such, a copy "
-"of the original file has been created within your personal data directory."
+"You have edited a snippet repository file not located in your personal "
+"directory; as such, a copy of the original file has been created within your "
+"personal data directory."
 msgstr ""
 
 #: snippetrepository.cpp:236
@@ -222,7 +232,8 @@ msgstr ""
 
 #: snippetrepository.cpp:284
 #, kde-format
-msgid "<qt>The error <b>%4</b><br /> has been detected in the file %1 at %2/%3</qt>"
+msgid ""
+"<qt>The error <b>%4</b><br /> has been detected in the file %1 at %2/%3</qt>"
 msgstr ""
 
 #: snippetrepository.cpp:291
@@ -232,7 +243,9 @@ msgstr ""
 
 #: snippetrepository.cpp:357
 #, kde-format
-msgid "Repository is disabled, the contained snippets will not be shown during code-completion."
+msgid ""
+"Repository is disabled, the contained snippets will not be shown during code-"
+"completion."
 msgstr ""
 
 #: snippetrepository.cpp:360
@@ -302,7 +315,8 @@ msgstr "စာအတိုအထွာ \"%1\" ကို သင်တကယ်ဖ
 
 #: snippetview.cpp:317
 #, kde-format
-msgid "Do you really want to delete the repository \"%1\" with all its snippets?"
+msgid ""
+"Do you really want to delete the repository \"%1\" with all its snippets?"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (KLineEdit, filterText)

@@ -9,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-06 00:21+0000\n"
 "PO-Revision-Date: 2021-09-15 05:38+0630\n"
+"Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: \n"
 "X-Generator: Poedit 2.2.1\n"
 
 #: ktexteditorpreviewview.cpp:31
@@ -60,7 +60,8 @@ msgstr "အကြိုမြင်ကွင်း ကိုယ်တိုင�
 
 #: previewwidget.cpp:60
 #, kde-format
-msgid "Disable automatic updates of the preview to the current document content"
+msgid ""
+"Disable automatic updates of the preview to the current document content"
 msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူ၏ အကြိုမြင်ကွင်း အလိုအလျောက်အပ်ဒိတ်တင်မှု ပိတ်ထားမည်"
 
 #: previewwidget.cpp:65

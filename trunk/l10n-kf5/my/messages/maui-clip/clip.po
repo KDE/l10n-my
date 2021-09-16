@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-08 00:19+0000\n"
+"POT-Creation-Date: 2021-09-14 00:17+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
+"Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: \n"
 "X-Generator: Poedit 2.2.1\n"
 
 #: src/controllers/YouTube.qml:95
@@ -68,7 +68,7 @@ msgstr "ခမီလိုဟီဂီတာ"
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:108 src/main.qml:223
+#: src/main.qml:108 src/main.qml:224
 #, kde-format
 msgid "Open URL"
 msgstr "ယူအာအယ်လ် ဖွင့်မည်"
@@ -107,37 +107,37 @@ msgstr "ဖိုင်လ် %1ခု ကို သင်တကယ်ဖျက�
 msgid "Now playing"
 msgstr "ယခုဖွင့်ပြနေသည်"
 
-#: src/main.qml:234
+#: src/main.qml:235
 #, kde-format
 msgid "Settings"
 msgstr "ဆက်တင်"
 
-#: src/main.qml:245
+#: src/main.qml:246
 #, kde-format
 msgid "About"
 msgstr "အကြောင်း"
 
-#: src/main.qml:254
+#: src/main.qml:255
 #, kde-format
 msgid "Player"
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
 
-#: src/main.qml:261 src/views/settings/SettingsDialog.qml:39
+#: src/main.qml:262 src/views/settings/SettingsDialog.qml:39
 #, kde-format
 msgid "Collection"
 msgstr "စုစည်းမှု"
 
-#: src/main.qml:268 src/views/ItemMenu.qml:55
+#: src/main.qml:269 src/views/ItemMenu.qml:55
 #, kde-format
 msgid "Tags"
 msgstr "တပ်ဂ်များ"
 
-#: src/main.qml:385
+#: src/main.qml:386
 #, kde-format
 msgid "Open"
 msgstr "ဖွင့်"
 
-#: src/main.qml:411
+#: src/main.qml:412
 #, kde-format
 msgid "Toogle SideBar"
 msgstr "ဘေးတန်း ဖွင့်/ပိတ်"
