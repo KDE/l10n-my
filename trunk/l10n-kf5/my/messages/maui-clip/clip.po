@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-14 00:17+0000\n"
+"POT-Creation-Date: 2021-09-17 00:16+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -68,12 +68,12 @@ msgstr "ခမီလိုဟီဂီတာ"
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:108 src/main.qml:224
+#: src/main.qml:112 src/main.qml:238
 #, kde-format
 msgid "Open URL"
 msgstr "ယူအာအယ်လ် ဖွင့်မည်"
 
-#: src/main.qml:110
+#: src/main.qml:114
 #, kde-format
 msgid ""
 "Enter any remote location, like YouTube video URLs, or from other services "
@@ -82,62 +82,62 @@ msgstr ""
 "ယူကျူ့ဗီဒီယို ယူအာအယ်များ သို့မဟုတ် အမ်ပီဗီမှ ထောက်ပံ့ပေးထားသော အခြားဝန်ဆောင်မှုများမှ အဝေးနေရာများသို့ "
 "ဝင်ရောက်နိုင်သည်။"
 
-#: src/main.qml:139
+#: src/main.qml:143
 #, kde-format
 msgid "Delete files?"
 msgstr "ဖိုင်လ်များဖျက်မည်လား။"
 
-#: src/main.qml:140 src/views/ItemMenu.qml:116
+#: src/main.qml:144 src/views/ItemMenu.qml:116
 #, kde-format
 msgid "Accept"
 msgstr "လက်ခံမည်"
 
-#: src/main.qml:141 src/views/ItemMenu.qml:117
+#: src/main.qml:145 src/views/ItemMenu.qml:117
 #, kde-format
 msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
 
-#: src/main.qml:142
+#: src/main.qml:146
 #, kde-format
 msgid "Are sure you want to delete %1 files"
 msgstr "ဖိုင်လ် %1ခု ကို သင်တကယ်ဖျက်တော့မည်လား"
 
-#: src/main.qml:172
+#: src/main.qml:182
 #, kde-format
 msgid "Now playing"
 msgstr "ယခုဖွင့်ပြနေသည်"
 
-#: src/main.qml:235
+#: src/main.qml:249
 #, kde-format
 msgid "Settings"
 msgstr "ဆက်တင်"
 
-#: src/main.qml:246
+#: src/main.qml:260
 #, kde-format
 msgid "About"
 msgstr "အကြောင်း"
 
-#: src/main.qml:255
+#: src/main.qml:269
 #, kde-format
 msgid "Player"
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
 
-#: src/main.qml:262 src/views/settings/SettingsDialog.qml:39
+#: src/main.qml:276 src/views/settings/SettingsDialog.qml:39
 #, kde-format
 msgid "Collection"
 msgstr "စုစည်းမှု"
 
-#: src/main.qml:269 src/views/ItemMenu.qml:55
+#: src/main.qml:283 src/views/ItemMenu.qml:55
 #, kde-format
 msgid "Tags"
 msgstr "တပ်ဂ်များ"
 
-#: src/main.qml:386
+#: src/main.qml:400
 #, kde-format
 msgid "Open"
 msgstr "ဖွင့်"
 
-#: src/main.qml:412
+#: src/main.qml:426
 #, kde-format
 msgid "Toogle SideBar"
 msgstr "ဘေးတန်း ဖွင့်/ပိတ်"
