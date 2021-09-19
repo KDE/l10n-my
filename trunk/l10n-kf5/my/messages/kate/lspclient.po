@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-15 00:21+0000\n"
-"PO-Revision-Date: 2021-09-15 03:48+0630\n"
+"PO-Revision-Date: 2021-09-19 13:41+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
@@ -82,9 +82,9 @@ msgid "Highlight"
 msgstr "မီးမောင်းထိုးပြရန်"
 
 #: lspclientpluginview.cpp:607
-#, fuzzy, kde-format
+#, kde-format
 msgid "Symbol Info"
-msgstr "အချက်"
+msgstr "သင်္ကေတ အချက်အလက်"
 
 #: lspclientpluginview.cpp:609
 #, fuzzy, kde-format
@@ -192,9 +192,9 @@ msgstr "&Pရှေ့တပ်ဘ်"
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkMessages)
 #: lspclientpluginview.cpp:668 lspconfigwidget.ui:110
-#, fuzzy, kde-format
+#, kde-format
 msgid "Show messages"
-msgstr "ပေးစာများအားလုံးရှင်းမည်"
+msgstr "မှတ်စာများရှင်းမည်"
 
 #: lspclientpluginview.cpp:673
 #, fuzzy, kde-format
@@ -470,9 +470,9 @@ msgid "Automatically Expand Tree"
 msgstr "သစ်ပင်ပုံစံမြင်ကွင်း"
 
 #: lspclientsymbolview.cpp:261
-#, fuzzy, kde-format
+#, kde-format
 msgid "Sort Alphabetically"
-msgstr "စီမည်"
+msgstr "အက္ခရာစဥ်ဖြင့်စီမည်"
 
 #: lspclientsymbolview.cpp:263
 #, fuzzy, kde-format
@@ -482,7 +482,7 @@ msgstr "နောက်ကွတ်ကီး၏အသေးစိတ်ပြမ
 #: lspclientsymbolview.cpp:416
 #, kde-format
 msgid "Symbols"
-msgstr ""
+msgstr "သင်္ကေတများ"
 
 #: lspclientsymbolview.cpp:543
 #, fuzzy, kde-format

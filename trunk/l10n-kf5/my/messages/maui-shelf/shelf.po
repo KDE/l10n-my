@@ -1,0 +1,184 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the maui-shelf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: maui-shelf\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-12 00:17+0000\n"
+"PO-Revision-Date: 2021-09-19 13:19+0630\n"
+"Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: src/main.cpp:48
+#, kde-format
+msgid "Shelf"
+msgstr ""
+
+#: src/main.cpp:48
+#, kde-format
+msgid "Browse and view your documents."
+msgstr ""
+
+#: src/main.cpp:48
+#, kde-format
+msgid "© 2019-%1 Nitrux Development Team"
+msgstr ""
+
+#: src/main.cpp:49
+#, kde-format
+msgid "Camilo Higuita"
+msgstr "ခမီလိုဟီဂီတာ"
+
+#: src/main.cpp:49
+#, kde-format
+msgid "Developer"
+msgstr "ပရိုဂရမ်မာ"
+
+#: src/views/cloud/CloudView.qml:30 src/views/library/LibraryView.qml:147
+#, kde-format
+msgid "Title"
+msgstr "ခေါင်းစဉ်"
+
+#: src/views/cloud/CloudView.qml:36
+#, kde-format
+msgid "Add date"
+msgstr ""
+
+#: src/views/cloud/CloudView.qml:42
+#, kde-format
+msgid "Creation date"
+msgstr "ဖန်တီးခဲ့သော ရက်စွဲ"
+
+#: src/views/cloud/CloudView.qml:48
+#, kde-format
+msgid "Format"
+msgstr ""
+
+#: src/views/cloud/CloudView.qml:54 src/views/library/LibraryView.qml:163
+#, kde-format
+msgid "Size"
+msgstr "အရွယ်အစား"
+
+#: src/views/library/LibraryView.qml:56
+#, kde-format
+msgid "Nothing here!"
+msgstr "ဘာမှမရှိ။"
+
+#: src/views/library/LibraryView.qml:57
+#, kde-format
+msgid "Add new sources to manage your documents."
+msgstr ""
+
+#: src/views/library/LibraryView.qml:82
+#, kde-format
+msgid "Open"
+msgstr "ဖွင့်မည်"
+
+#: src/views/library/LibraryView.qml:93
+#, kde-format
+msgid "Settings"
+msgstr "ဆက်တင်များ"
+
+#: src/views/library/LibraryView.qml:102
+#, kde-format
+msgid "About"
+msgstr "အကြောင်း"
+
+#: src/views/library/LibraryView.qml:116
+#, kde-format
+msgid "View type"
+msgstr "မြင်ကွင်းပုံစံများ"
+
+#: src/views/library/LibraryView.qml:122
+#, kde-format
+msgid "List"
+msgstr "စာရင်းစဥ်"
+
+#: src/views/library/LibraryView.qml:131
+#, kde-format
+msgid "Grid"
+msgstr "ဂရစ်"
+
+#: src/views/library/LibraryView.qml:141
+#, kde-format
+msgid "Sort by"
+msgstr "ဖြင့်စီမည်"
+
+#: src/views/library/LibraryView.qml:155
+#, kde-format
+msgid "Date"
+msgstr "ရက်စွဲ"
+
+#: src/views/library/LibraryView.qml:173
+#, kde-format
+msgid "Ascending"
+msgstr ""
+
+#: src/views/library/LibraryView.qml:180
+#, kde-format
+msgid "Descending"
+msgstr ""
+
+#: src/views/library/LibraryView.qml:191
+#, kde-format
+msgid "Filter..."
+msgstr ""
+
+#: src/views/library/LibraryView.qml:369
+#, kde-format
+msgid "Tag"
+msgstr "တပ်ဂ်"
+
+#: src/views/library/LibraryView.qml:379
+#, kde-format
+msgid "Share"
+msgstr "ဝေမျှမည်"
+
+#: src/views/library/LibraryView.qml:385
+#, kde-format
+msgid "Export"
+msgstr "တင်ပို့မည်"
+
+#: src/views/Viewer/Viewer.qml:36
+#, kde-format
+msgid "Nothing here"
+msgstr "ဘာမှမရှိ"
+
+#: src/views/Viewer/Viewer.qml:37
+#, kde-format
+msgid "Drop or open a document to view."
+msgstr ""
+
+#: src/views/Viewer/Viewer.qml:46
+#, kde-format
+msgid "Browser"
+msgstr "ဘရောက်ဇာ"
+
+#: src/views/Viewer/Viewer.qml:81
+#, kde-format
+msgid "Doodle"
+msgstr ""
+
+#: src/views/Viewer/Viewer.qml:91
+#, kde-format
+msgid "Browse Horizontally"
+msgstr ""
+
+#: src/views/Viewer/Viewer.qml:104
+#, kde-format
+msgid "Fill"
+msgstr ""
+
+#: src/views/Viewer/Viewer.qml:115
+#, kde-format
+msgid "Fullscreen"
+msgstr "စခရင်အပြည့်"

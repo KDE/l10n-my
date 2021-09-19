@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the konqueror package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: konqueror\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-24 02:22+0200\n"
+"PO-Revision-Date: 2021-09-14 01:52+0630\n"
+"Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: akregatorplugin.cpp:74
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Add Feed to Akregator"
+msgstr "အက်ရီဂေတာသို့ သတင်းထည့်သွင်းမည်"
+
+#: konqfeedicon.cpp:143
+#, kde-format
+msgid "Add Feed to Akregator"
+msgstr "အက်ရီဂေတာသို့ သတင်းထည့်သွင်းမည်"
+
+#: konqfeedicon.cpp:145
+#, kde-format
+msgid "Add Feeds to Akregator"
+msgstr "အက်ရီဂေတာသို့ သတင်းများထည့်သွင်းမည်"
+
+#: konqfeedicon.cpp:154
+#, kde-format
+msgid "Add All Found Feeds to Akregator"
+msgstr "တွေ့ရှိရသမျှ သတင်းအကုန်လုံးကို အက်ရီဂေတာသို့ ထည့်သွင်းမည်"
+
+#: konqfeedicon.cpp:178
+#, kde-format
+msgid "Subscribe to site updates (using news feed)"
+msgstr "ဆိုက်အသစ်များထံ စာရင်းသွင်းပါ"
+
+#: pluginutil.cpp:52 pluginutil.cpp:62
+#, kde-format
+msgid "Imported Feeds"
+msgstr "တင်သွင်းထားသော သတင်းများ"
+
+#: pluginutil.cpp:54
+#, kde-format
+msgid "Unable to contact Akregator via D-Bus"
+msgstr "ဒီ-ဘက်စ် သုံး၍ အက်ရီဂေတာကို ဆက်သွယ်မရပါ"
+
+#: pluginutil.cpp:55
+#, kde-format
+msgctxt "@title:window"
+msgid "D-Bus call failed"
+msgstr "ဒီ-ဘက်စ် ခေါ်ဆိုမှု ရှုံးနိမ့်ခဲ့သည်"
