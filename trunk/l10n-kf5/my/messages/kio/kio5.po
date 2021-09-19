@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-16 00:14+0000\n"
+"POT-Creation-Date: 2021-09-19 00:15+0000\n"
 "PO-Revision-Date: 2021-09-15 02:29+0630\n"
 "Last-Translator: zayar lwin <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -3764,6 +3764,12 @@ msgstr "%1 သို့ ပုံသိမ်းရာတွင် အမှာ�
 #, kde-format
 msgid "Icon file too big, download aborted"
 msgstr "ဝတ္တူ-မြင်ကွင်းဖိုင်လ် အလွန်ကြီးမားလှသည့်အတွက် ဒေါင်းလုတ်ရယူမှု စွန့်လွှတ်ခဲ့သည်"
+
+#: gui/kemailclientlauncherjob.cpp:80
+#, fuzzy, kde-format
+#| msgid "No terminal emulator found"
+msgid "No mail client found"
+msgstr "တာမီနယ်အီမျူလေတာ မတွေ့ပါ"
 
 #: gui/kprocessrunner.cpp:76
 #, kde-format
