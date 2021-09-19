@@ -10,9 +10,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language: my\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #: content/announcements/releases/19.12-rc.md:0
 msgid "19.12 RC Releases"
@@ -872,7 +872,7 @@ msgstr ""
 
 #: content/announcements/releases/2020-02-apps-update.md:17
 msgid "Zanshin 0.5.71"
-msgstr ""
+msgstr "ဇန်ရှင် ၀.၅.၇၁"
 
 #: content/announcements/releases/2020-02-apps-update.md:19
 msgid ""
@@ -886,7 +886,7 @@ msgstr ""
 
 #: content/announcements/releases/2020-02-apps-update.md:21
 msgid "Zanshin"
-msgstr ""
+msgstr "ဇန်ရှင်"
 
 #: content/announcements/releases/2020-02-apps-update.md:23
 msgid "Latte-dock 0.9.8"
