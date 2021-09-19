@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-30 00:18+0000\n"
-"PO-Revision-Date: 2021-09-13 03:34+0630\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2021-09-19 20:01+0630\n"
+"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #: notifier/DiscoverNotifier.cpp:104
 #, kde-format
@@ -140,7 +140,7 @@ msgstr "ဒစ်(စ)ကာဗာ ဖွင့်မည်..."
 #: notifier/NotifierItem.cpp:55
 #, kde-format
 msgid "See Updates…"
-msgstr "အပ်ဒိတ်များ ကြည့်မည်.."
+msgstr "အပ်ဒိတ်များ ကြည့်မည်..."
 
 #: notifier/NotifierItem.cpp:60
 #, kde-format

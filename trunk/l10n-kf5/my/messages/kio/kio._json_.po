@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-06 00:29+0000\n"
-"PO-Revision-Date: 2021-09-15 02:26+0630\n"
-"Last-Translator: zayar lwin <lw1nzayar@yandex.com>\n"
+"PO-Revision-Date: 2021-09-20 02:05+0630\n"
+"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/ioslaves/http/kcookiejar/kcookiejar.json
@@ -51,7 +51,7 @@ msgstr "ကတ်ချ်သွင်းထားသော အဝေးဖိ�
 #: src/kpac/proxyscout.json
 msgctxt "Description"
 msgid "Automatic proxy configuration"
-msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ အလိုအလျောက်ပြင်ဆင်ချက်"
+msgstr "ဆ.သ.ရ-ကွန်ရက်ကြားခံအလိုအလျောက်ပြင်ဆင်ချက်"
 
 #: src/kpasswdserver/kpasswdserver.json
 msgctxt "Description"

@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-08 00:24+0000\n"
-"PO-Revision-Date: 2021-09-17 17:30+0630\n"
+"PO-Revision-Date: 2021-09-19 20:03+0630\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
+"X-Generator: Poedit 3.0\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -158,9 +158,9 @@ msgid "Do not ask again"
 msgstr "နောက်ထပ်မမေးပါနှင့်"
 
 #: dolphinmainwindow.cpp:576
-#, fuzzy, kde-format
+#, kde-format
 msgid "Show &Terminal Panel"
-msgstr "တာမီနယ်ပန်နယ်"
+msgstr "&Tတာမီနယ်ပန်နယ်ပြမည်"
 
 #: dolphinmainwindow.cpp:586
 #, kde-format
@@ -1127,9 +1127,9 @@ msgid "Running Dolphin as root can be dangerous. Please be careful."
 msgstr ""
 
 #: dolphinviewcontainer.cpp:436 search/dolphinsearchbox.cpp:292
-#, fuzzy, kde-format
+#, kde-format
 msgid "Search for %1 in %2"
-msgstr "ဖြင့် '%1'ကို ရှာမည်"
+msgstr "%2တွင် %1အတွက် ရှာမည်"
 
 #: dolphinviewcontainer.cpp:472
 #, kde-format
@@ -1137,9 +1137,9 @@ msgid "Search"
 msgstr "ရှာမည်"
 
 #: dolphinviewcontainer.cpp:474
-#, fuzzy, kde-format
+#, kde-format
 msgid "Search for %1"
-msgstr "ဖြင့် '%1'ကို ရှာမည်"
+msgstr "%1အတွက် ရှာမည်"
 
 #: dolphinviewcontainer.cpp:558
 #, kde-format
@@ -1935,7 +1935,7 @@ msgstr "ဖွင့်ပြမည်"
 #: panels/information/phononwidget.cpp:159
 #, kde-format
 msgid "pause"
-msgstr "ခတ္တရပ်မည်"
+msgstr "ခေတ္တရပ်မည်"
 
 #. i18n: ectx: label, entry (IconSize), group (PlacesPanel)
 #: panels/places/dolphin_placespanelsettings.kcfg:11
@@ -2906,7 +2906,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group"
 msgid "View: "
-msgstr "မြင်ကွင်း"
+msgstr "မြင်ကွင်း - "
 
 #: settings/general/behaviorsettingspage.cpp:52
 #, kde-format
@@ -2930,7 +2930,7 @@ msgstr "အက္ခရာစဥ်၊ စာလုံးအကြီးအသ�
 #, kde-format
 msgctxt "@title:group"
 msgid "Sorting mode: "
-msgstr "စီသည့်ထုံးနည်း -"
+msgstr "စီသည့်ထုံးနည်း - "
 
 #: settings/general/behaviorsettingspage.cpp:70
 #, kde-format
@@ -3033,14 +3033,14 @@ msgid "Always ask"
 msgstr "အမြဲတမ်းမေးပါ"
 
 #: settings/general/confirmationssettingspage.cpp:75
-#, fuzzy, kde-format
+#, kde-format
 msgid "Open in application"
-msgstr "&Aအပ္ပလီကေးရှင်း"
+msgstr "အပ္ပလီကေးရှင်းတွင်ဖွင့်မည်"
 
 #: settings/general/confirmationssettingspage.cpp:75
-#, fuzzy, kde-format
+#, kde-format
 msgid "Run script"
-msgstr "တပ်ဆင်ရေးညွှန်ကြားကုတ် %1 ကို မဆောင်ရွက်နိုင်ခဲ့ပါ"
+msgstr "ညွှန်ကြားကုတ် ဆောင်ရွက်မည်"
 
 #: settings/general/generalsettingspage.cpp:30 settings/kcm/kcmdolphingeneral.cpp:35
 #, kde-format

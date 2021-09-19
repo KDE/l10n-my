@@ -120,9 +120,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/4/4.11.0.md:39
-#, fuzzy
 msgid "About these release announcements"
-msgstr "အကြောင်း"
+msgstr "ထိုထုတ်ဝေမှုကြေညာချက်များအကြောင်း"
 
 #: content/announcements/4/4.11.0.md:41
 msgid ""
@@ -172,9 +171,8 @@ msgid "The new send-later work flow in Kontact"
 msgstr ""
 
 #: content/announcements/4/4.11.0/applications.md:11
-#, fuzzy
 msgid "Kontact Suite Improvements"
-msgstr "![KMail security configuration](Kontact_security.png)"
+msgstr "ကွန်တပ် ပရိုဂရမ်အုပ်စု တိုးတက်မှုများ"
 
 #: content/announcements/4/4.11.0/applications.md:13
 msgid ""
@@ -220,9 +218,8 @@ msgid "KStars shows interesting upcoming events visible from your location"
 msgstr ""
 
 #: content/announcements/4/4.11.0/applications.md:25
-#, fuzzy
 msgid "Other Application Improvements"
-msgstr "&Oအခြားအပ္ပလီကေးရှင်း..."
+msgstr "အခြားအပ္ပလီကေးရှင်းတိုးတက်မှုများ"
 
 #: content/announcements/4/4.11.0/applications.md:27
 msgid ""
@@ -278,9 +275,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/4/4.11.0/applications.md:52 content/announcements/4/4.11.0/plasma.md:52 content/announcements/4/4.11.0/platform.md:38
-#, fuzzy
 msgid "Also Announced Today:"
-msgstr "ယနေ့"
+msgstr "ယနေ့တွင် ကြေညာခဲ့သေးသည်များ -"
 
 #: content/announcements/4/4.11.0/applications.md:54 content/announcements/4/4.11.0/platform.md:40
 msgid ""
@@ -299,9 +295,8 @@ msgid "Plasma Workspaces 4.11 Continues to Refine User Experience"
 msgstr ""
 
 #: content/announcements/4/4.11.0/plasma.md:7
-#, fuzzy
 msgid "KDE Plasma Workspaces 4.11"
-msgstr "ကေဒီအီးပလက်စမာ {{ .Get \"maj_min\" }}"
+msgstr "ကေဒီအီးပလက်စမာ အလုပ်နေရာများ ၄.၁၁"
 
 #: content/announcements/4/4.11.0/plasma.md:9
 msgid ""
@@ -314,9 +309,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/4/4.11.0/plasma.md:11
-#, fuzzy
 msgid "Improved notification handling"
-msgstr "မှတ်တမ်းစာအုပ် ကြည့်ရှုမှုနှင့်ကိုင်တွယ်မှု"
+msgstr "တိုးတက်လာသောအသိပေးကြားမှုကိုင်တွယ်ခြင်း"
 
 #: content/announcements/4/4.11.0/plasma.md:13
 msgid ""
@@ -345,9 +339,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/4/4.11.0/plasma.md:21
-#, fuzzy
 msgid "Monitor Handling and Web Shortcuts"
-msgstr "ဝက်ဘ်ဆိုင်ရာဖြတ်လမ်းများ ပြင်ဆင်မည်..."
+msgstr "ဝက်ဘ်ဆိုင်ရာဖြတ်လမ်းများ နှင့် ကိုင်တွယ်မှု စောင့်ကြည့်မည်"
 
 #: content/announcements/4/4.11.0/plasma.md:23
 msgid ""
@@ -418,7 +411,7 @@ msgstr ""
 
 #: content/announcements/4/4.11.0/platform.md:17
 msgid "Installing the KDE Development Platform"
-msgstr ""
+msgstr "ကေဒီအီးပရိုဂရမ်ရေးသားမှုပလက်ဖောင်း တပ်ဆင်နေသည်"
 
 #: content/announcements/4/4.11.1.md:0
 msgid "KDE Ships Plasma Workspaces, Applications and Platform 4.11.1."
@@ -790,9 +783,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/4/4.13.0/applications.md:15
-#, fuzzy
 msgid "Cloud Storage Support"
-msgstr "မှတ်ဉာဏ်နေရာ -"
+msgstr "ကွန်ရက်ပေါ်မှတ်ဉာဏ်သိမ်းဆည်းခြင်းထောက်ပံ့မှု"
 
 #: content/announcements/4/4.13.0/applications.md:17
 msgid ""
@@ -812,9 +804,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/4/4.13.0/applications.md:25
-#, fuzzy
 msgid "Other Changes"
-msgstr "&Oအခြား..."
+msgstr "အခြားပြောင်းလဲမှုများ"
 
 #: content/announcements/4/4.13.0/applications.md:27
 msgid ""
@@ -1124,9 +1115,8 @@ msgid "KDE Ships Applications 14.12."
 msgstr "ကေဒီအီးသည် အပ္ပလီကေးရှင်းများ ၁၄.၁၂ တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/14.12.0.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 14.12"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၄.၁၂ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/14.12.0.md:5
 msgid ""
@@ -1175,14 +1165,12 @@ msgid "The April release of KDE Applications 15.04 will include many new feature
 msgstr ""
 
 #: content/announcements/applications/14.12.1.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 14.12.1."
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၄.၁၂.၁ တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/14.12.1.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 14.12.1"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၄.၁၂.၁ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/14.12.1.md:5
 msgid ""
@@ -1206,9 +1194,8 @@ msgid "KDE Ships Applications 14.12.2."
 msgstr "ကေဒီအီးသည် အပ္ပလီကေးရှင်းများ ၁၄.၁၂.၂ တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/14.12.2.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 14.12.2"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၄.၁၂.၂ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/14.12.2.md:5
 msgid ""
@@ -1225,9 +1212,8 @@ msgid "KDE Ships Applications 14.12.3."
 msgstr "ကေဒီအီးသည် အပ္ပလီကေးရှင်းများ ၁၄.၁၂.၃ တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/14.12.3.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 14.12.3"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၄.၁၂.၃ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/14.12.3.md:5
 msgid ""
@@ -1461,9 +1447,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/15.08.0.md:0
-#, fuzzy
 msgid "KDE Ships Applications 15.08.0."
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် အပ္ပလီကေးရှင်းများ ၁၅.၀၈.၀ တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/15.08.0.md:0
 #, fuzzy
@@ -1513,14 +1498,12 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/15.08.0.md:21
-#, fuzzy
 msgid "KSudoku with a character puzzle"
-msgstr "အက္ခရာ -"
+msgstr "အက္ခရာပဟေဠိပါဝင်သော ကေဆူဒိုခူ"
 
 #: content/announcements/applications/15.08.0.md:23
-#, fuzzy
 msgid "Dolphin, Edu and Games"
-msgstr "လင်းပိုင်"
+msgstr "လင်းပိုင်၊ အီးဒီယူ နှင့် ဂိမ်းများ"
 
 #: content/announcements/applications/15.08.0.md:25
 msgid ""
@@ -1670,9 +1653,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/15.12.0.md:11
-#, fuzzy
 msgid "A Spectacular New Addition"
-msgstr "အမျိုးအစားအသစ်"
+msgstr "စိတ်လှုပ်ရှားဖွယ်ကောင်းသော အသစ်ထပ်ပေါင်းမှု"
 
 #: content/announcements/applications/15.12.0.md:13
 msgid "After 14 years of being a part of KDE, KSnapshot has been retired and replaced with a new screenshot application, Spectacle."
@@ -1716,9 +1698,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/15.12.0.md:29
-#, fuzzy
 msgid "All Play and No Work"
-msgstr "&Wအလုပ်လမ်းကြောင်း -"
+msgstr "အမြဲတမ်းဆော့ပြီး အလုပ်မလုပ်ပါ"
 
 #: content/announcements/applications/15.12.0.md:31
 msgid "KSudoku new Welcome Screen (on a Mac OS X)"
@@ -1750,9 +1731,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/15.12.0.md:41
-#, fuzzy
 msgid "Important Fixes"
-msgstr "အရေးကြီး"
+msgstr "အရေးကြီးသော ပြုပြင်မှုများ"
 
 #: content/announcements/applications/15.12.0.md:43
 msgid ""
@@ -1947,9 +1927,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/16.04.0.md:9
-#, fuzzy
 msgid "KDE's Newest Addition"
-msgstr "သက်တမ်းငယ်စဥ်ကြီးလိုက်"
+msgstr "ကေဒီအီး၏အသစ်လွင်ဆုံးထပ်ပေါင်းမှု"
 
 #: content/announcements/applications/16.04.0.md:13
 msgid ""
@@ -2085,9 +2064,8 @@ msgstr ""
 
 #: content/announcements/applications/16.04.0.md:63 content/announcements/applications/16.08.0.md:29 content/announcements/applications/16.12.0.md:55
 #: content/announcements/applications/17.04.0.md:49
-#, fuzzy
 msgid "And more!"
-msgstr "ပိုမို"
+msgstr "ပြီးတော့နောက်ထပ်ရှိသေးသည်။"
 
 #: content/announcements/applications/16.04.0.md:65
 msgid ""
@@ -2225,9 +2203,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/16.08.0.md:17
-#, fuzzy
 msgid "New Marble version"
-msgstr "ဤဗားရှင်းတွင် အသစ်အဆန်းများ"
+msgstr "မာဘယ်ဗားရှင်းအသစ်"
 
 #: content/announcements/applications/16.08.0.md:19
 msgid ""
@@ -2429,9 +2406,8 @@ msgid "You can find more information on <a href='%[1]s'>Ivan Lakhtanov's blog</a
 msgstr ""
 
 #: content/announcements/applications/16.12.0.md:43
-#, fuzzy
 msgid "Advanced archiving"
-msgstr "အဆင့်မြင့်ဆက်တင်"
+msgstr "အဆင့်မြင့်ထိမ်းသိမ်းတိုက်ဖွဲ့ခြင်း"
 
 #: content/announcements/applications/16.12.0.md:47
 msgid "Ark has several new features:"
@@ -2802,9 +2778,8 @@ msgid "Dolphin developers report that Dolphin now shows 'Deletion Time' in the T
 msgstr ""
 
 #: content/announcements/applications/17.08.0.md:17
-#, fuzzy
 msgid "KIO-Extras"
-msgstr "&Kကေအိုင်အို သုံးမည်"
+msgstr "ကေအိုင်အို-အိပ်စ်ထရာ"
 
 #: content/announcements/applications/17.08.0.md:19
 msgid "Kio-Extras now provides better support for Samba shares."
@@ -2812,16 +2787,15 @@ msgstr ""
 
 #: content/announcements/applications/17.08.0.md:21
 msgid "KAlgebra"
-msgstr ""
+msgstr "ကေအယ်ဂျီဘရာ"
 
 #: content/announcements/applications/17.08.0.md:23
 msgid "The KAlgebra developers have worked on improving their Kirigami front-end on the desktop, and implemented code completion."
 msgstr ""
 
 #: content/announcements/applications/17.08.0.md:25 content/announcements/applications/19.08.0.md:67
-#, fuzzy
 msgid "Kontact"
-msgstr "![KMail security configuration](Kontact_security.png)"
+msgstr "ကွန်တပ်"
 
 #: content/announcements/applications/17.08.0.md:27
 msgid "In KMailtransport, developers have reactivated akonadi transport support, created plugins support, and recreated sendmail mail transport support."
@@ -2847,9 +2821,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/17.08.0.md:33 content/announcements/applications/19.08.0.md:79
-#, fuzzy
 msgid "Kdenlive"
-msgstr "![Kdenlive Subtitles Features](Kdenlive_subtitles_onlineresources.png)"
+msgstr "ကေဒန်လိုက်ဗ်"
 
 #: content/announcements/applications/17.08.0.md:35
 msgid ""
@@ -2871,9 +2844,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/17.08.0.md:41 content/announcements/applications/19.08.0.md:49
-#, fuzzy
 msgid "Konsole"
-msgstr "ကွန်ဆိုး တပ်ဆင်မည်"
+msgstr "ကွန်ဆိုး"
 
 #: content/announcements/applications/17.08.0.md:43
 msgid ""
@@ -2883,7 +2855,7 @@ msgstr ""
 
 #: content/announcements/applications/17.08.0.md:45
 msgid "KAppTemplate"
-msgstr ""
+msgstr "ကေအပ်တန်ပလိတ်"
 
 #: content/announcements/applications/17.08.0.md:47
 msgid ""
@@ -3072,9 +3044,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/17.12.0.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 17.12.0"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၇.၁၂.၀ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/17.12.0.md:5
 msgid "December 14, 2017. KDE Applications 17.12.0 are now released."
@@ -3139,9 +3110,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/17.12.0.md:33 content/announcements/applications/18.12.0.md:57 content/announcements/applications/19.04.0.md:118
-#, fuzzy
 msgid "Development"
-msgstr "ဝက်ဘ်ဆိုက်ရေးသားမှုဆိုင်ရာ"
+msgstr "ပရိုဂရမ်ရေးသားမှု"
 
 #: content/announcements/applications/17.12.0.md:37
 msgid ""
@@ -3202,9 +3172,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/17.12.1.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 17.12.1"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၇.၁၂.၁ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/17.12.1.md:5
 msgid ""
@@ -3229,9 +3198,8 @@ msgid "JAVA import has been fixed in Umbrello UML diagram tool"
 msgstr ""
 
 #: content/announcements/applications/17.12.2.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 17.12.2"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၇.၁၂.၂ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/17.12.2.md:5
 msgid ""
@@ -3244,9 +3212,8 @@ msgid "About 20 recorded bugfixes include improvements to Kontact, Dolphin, Gwen
 msgstr ""
 
 #: content/announcements/applications/17.12.3.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 17.12.3"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၇.၁၂.၃ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/17.12.3.md:5
 msgid ""
@@ -3319,9 +3286,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/18.04.0.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.04.0"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၀၄.၀ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.04.0.md:5
 msgid "April 19, 2018. KDE Applications 18.04.0 are now released."
@@ -3595,9 +3561,8 @@ msgid "The user can now choose whether or not Spectacle automatically quits afte
 msgstr ""
 
 #: content/announcements/applications/18.04.0.md:122
-#, fuzzy
 msgid "Important bug fixes include:"
-msgstr "ဆော့ဖ်ဝဲလ်ပြစ်ချက်ပြုပြင်မှုများသည် အများအားဖြင့် သေးငယ်သော်လည်း အရေကြီး၍ အောက်ပါများ ပါဝင်သည် -"
+msgstr "အရေးကြီးသော ဆော့ဖ်ဝဲလ်ပြစ်ချက်ပြုပြင်မှုများ -"
 
 #: content/announcements/applications/18.04.0.md:124
 msgid "Drag-and-drop to Chromium windows now works as expected."
@@ -3649,9 +3614,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/18.04.1.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.04.1"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၀၄.၁ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.04.1.md:5
 msgid ""
@@ -3676,9 +3640,8 @@ msgid "Umbrello's C++ import now understands the 'explicit' keyword"
 msgstr ""
 
 #: content/announcements/applications/18.04.2.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.04.2"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၀၄.၂ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.04.2.md:5
 msgid ""
@@ -3703,9 +3666,8 @@ msgid "Exporting of Cantor worksheets to LaTeX has been fixed for Maxima matrice
 msgstr ""
 
 #: content/announcements/applications/18.04.3.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.04.3"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၀၄.၃ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.04.3.md:5
 msgid ""
@@ -3772,9 +3734,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/18.08.0.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.08.0"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၀၈.၀ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.08.0.md:5
 msgid "August 16, 2018. KDE Applications 18.08.0 are now released."
@@ -3993,9 +3954,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/18.08.1.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.08.1"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၀၈.၁ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.08.1.md:5
 msgid ""
@@ -4020,9 +3980,8 @@ msgid "Okular now remembers the sidebar mode after saving PDF documents"
 msgstr ""
 
 #: content/announcements/applications/18.08.2.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.08.2"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၀၈.၂ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.08.2.md:5
 msgid ""
@@ -4047,9 +4006,8 @@ msgid "A visual glitch in the Paris card deck for KDE's card games has been fixe
 msgstr ""
 
 #: content/announcements/applications/18.08.3.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.08.3"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၀၈.၃ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.08.3.md:5
 msgid ""
@@ -4132,9 +4090,8 @@ msgid "KDE Ships Applications 18.12."
 msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/18.12.0.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.12.0"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၁၂.၀ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.12.0.md:7
 msgid "KDE Applications %[1]s are now released."
@@ -4256,7 +4213,7 @@ msgstr ""
 
 #: content/announcements/applications/18.12.0.md:61
 msgid "<a href='%[1]s'>Kate</a>, KDE's advanced text editor:"
-msgstr ""
+msgstr "<a href='%[1]s'>ကိတ်</a>၊ ကေဒီအီး၏အဆင့်မြင့်စာသားတည်းဖြတ်ကိရိယာ -"
 
 #: content/announcements/applications/18.12.0.md:63
 msgid "When using the embedded terminal, it now automatically synchronizes the current directory with the active document's on-disk location"
@@ -4271,9 +4228,8 @@ msgid "Kate’s built-in tab switcher now shows full paths for similarly-named f
 msgstr ""
 
 #: content/announcements/applications/18.12.0.md:66
-#, fuzzy
 msgid "Line numbers are now on by default"
-msgstr "စာကြောင်းနံပါတ်များ ထုတ်ပို့မည်"
+msgstr "ဒီဖော့အရ စာကြောင်းနံပါတ်များကို ယခုဖွင့်ထားသည်"
 
 #: content/announcements/applications/18.12.0.md:67
 msgid "The incredibly useful and powerful Text Filter plugin is now enabled by default and is more discoverable"
@@ -4374,7 +4330,7 @@ msgstr ""
 
 #: content/announcements/applications/18.12.0.md:100
 msgid "<a href='%[1]s'>Gwenview</a>, KDE's image viewer:"
-msgstr ""
+msgstr "<a href='%[1]s'>ဂွမ်းဗျူး</a>၊ ကေဒီအီး၏ပုံရိပ်ကြည့်ကိရိယာ -"
 
 #: content/announcements/applications/18.12.0.md:102
 msgid "The 'Reduce Red Eye' tool received a variety of nice usability improvements"
@@ -4437,9 +4393,8 @@ msgid "<a href='%[1]s'>Cantor</a>, KDE's mathematical frontend:"
 msgstr ""
 
 #: content/announcements/applications/18.12.0.md:127
-#, fuzzy
 msgid "Add Markdown entry type"
-msgstr "စာရင်းမှတ်ချက် အမျိုးအစား"
+msgstr "မာ့ခ်ဒေါင်း အန်ထရီ အမျိုးအစား ထည့်မည်"
 
 #: content/announcements/applications/18.12.0.md:128
 msgid "Animated highlighting of the currently calculated command entry"
@@ -4527,9 +4482,8 @@ msgid "KDE Ships Applications 18.12.1."
 msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/18.12.1.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.12.1"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၁၂.၁ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.12.1.md:7 content/announcements/applications/19.04.1.md:7 content/announcements/applications/19.08.1.md:7
 msgid ""
@@ -4554,9 +4508,8 @@ msgid "Konsole renders box-drawing characters correctly again"
 msgstr ""
 
 #: content/announcements/applications/18.12.2.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.12.2"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၁၂.၂ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.12.2.md:7 content/announcements/applications/19.04.2.md:7 content/announcements/applications/19.08.2.md:7
 msgid ""
@@ -4586,9 +4539,8 @@ msgid "KDE Ships Applications 18.12.2."
 msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/18.12.3.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 18.12.3"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၈.၁၂.၃ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/18.12.3.md:7 content/announcements/applications/19.04.3.md:7 content/announcements/applications/19.08.3.md:7
 msgid ""
@@ -4668,9 +4620,8 @@ msgid "KDE Ships Applications 19.04."
 msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/19.04.0.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 19.04.0"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၉.၀၄.၀ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/19.04.0.md:0
 msgid "19.04.0"
@@ -4731,9 +4682,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/19.04.0.md:37
-#, fuzzy
 msgid "Bug fixes include:"
-msgstr "သိုလှောင်နေရာ (မစောင့်ကြည့်ထားသောဖိုင်လ်များအပါအဝင်)"
+msgstr "ဆော့ဖ်ဝဲလ်ပြစ်ချက်ပြုပြင်မှုများ -"
 
 #: content/announcements/applications/19.04.0.md:39
 msgid "When using a modern version of the SMB protocol, you can now <a href='%[1]s'>discover Samba shares</a> for Mac and Linux machines."
@@ -5144,9 +5094,8 @@ msgid "KDE Ships Applications 19.04.1."
 msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/19.04.1.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 19.04.1"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၉.၀၄.၁ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/19.04.1.md:9
 msgid "About twenty recorded bugfixes include improvements to Kontact, Ark, Cantor, Dolphin, Kdenlive, Spectacle, Umbrello, among others."
@@ -5170,9 +5119,8 @@ msgid "KDE Ships Applications 19.04.2."
 msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/19.04.2.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 19.04.2"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၉.၀၄.၂ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/19.04.2.md:9
 msgid "Nearly fifty recorded bugfixes include improvements to Kontact, Ark, Dolphin, JuK, Kdenlive, KmPlot, Okular, Spectacle, among others."
@@ -5196,9 +5144,8 @@ msgid "KDE Ships Applications 19.04.3."
 msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/applications/19.04.3.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 19.04.3"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၉.၀၄.၃ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/19.04.3.md:9
 msgid "Over sixty recorded bugfixes include improvements to Kontact, Ark, Cantor, JuK, K3b, Kdenlive, KTouch, Okular, Umbrello, among others."
@@ -5267,9 +5214,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/applications/19.08.0.md:0
-#, fuzzy
 msgid "KDE Ships KDE Applications 19.08.0"
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်။"
+msgstr "ကေဒီအီးသည် ကေဒီအီးအပ္ပလီကေးရှင်းများ ၁၉.၀၈.၀ တင်ပို့ခဲ့သည်"
 
 #: content/announcements/applications/19.08.0.md:0
 msgid "19.08.0"
@@ -5311,9 +5257,8 @@ msgid "We have also solved many of the paper cuts and small bugs, ensuring that 
 msgstr ""
 
 #: content/announcements/applications/19.08.0.md:27
-#, fuzzy
 msgid "Dolphin new bookmark feature"
-msgstr "လင်းပိုင်ဝင်းဒိုးအသစ် ဖွင့်မည်"
+msgstr "လင်းပိုင်၏စာမျက်နှာမှတ်သားမှုစွမ်းဆောင်ရည်အသစ်"
 
 #: content/announcements/applications/19.08.0.md:29
 msgid "Gwenview"
@@ -5611,9 +5556,8 @@ msgid "Itinerary: Departure information"
 msgstr "Itinerary: ထွက်ခွာမှုအချက်အလက်များ"
 
 #: content/announcements/gear/21.04.md:5
-#, fuzzy
 msgid "**Welcome to KDE Gear ⚙️ 21.04!**"
-msgstr "ကေဒီအီးဂီယာ ကို ကွန်ပိုင်းလုပ်နေသည်"
+msgstr "**ကေဒီအီးဂီယာ ⚙️ ၂၁.၀၄ မှ ကြိုဆိုပါ၏။**"
 
 #: content/announcements/gear/21.04.md:7
 msgid ""
@@ -5648,9 +5592,8 @@ msgid "Read on and discover everything that's new in the world of KDE apps:"
 msgstr ""
 
 #: content/announcements/gear/21.04.md:17
-#, fuzzy
 msgid "[Kontact](https://apps.kde.org/kontact/)"
-msgstr "![KMail security configuration](Kontact_security.png)"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 
 #: content/announcements/gear/21.04.md:19
 msgid ""
@@ -5710,9 +5653,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/gear/21.04.md:41 content/announcements/gear/21.08.0.md:13
-#, fuzzy
 msgid "[Dolphin](https://apps.kde.org/dolphin/)"
-msgstr "လင်းပိုင် ကိရိယာတန်း"
+msgstr "လင်းပိုင်](https://apps.kde.org/dolphin/)"
 
 #: content/announcements/gear/21.04.md:43
 msgid ""
@@ -5758,9 +5700,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/gear/21.04.md:57 content/announcements/gear/21.08.0.md:81
-#, fuzzy
 msgid "[Elisa](https://elisa.kde.org/)"
-msgstr "https://packages.debian.org/\\\\{@}"
+msgstr "[အလီဆာ](https://elisa.kde.org/)"
 
 #: content/announcements/gear/21.04.md:59
 msgid ""
@@ -5785,9 +5726,8 @@ msgid "One of the best players for your desktop or phone."
 msgstr ""
 
 #: content/announcements/gear/21.04.md:69
-#, fuzzy
 msgid "[Kdenlive](https://kdenlive.org)"
-msgstr "![Kdenlive Online Resources](Kdenlive_onlineresources.png)"
+msgstr "[ကေဒန်လိုက်ဗ်](https://kdenlive.org)"
 
 #: content/announcements/gear/21.04.md:71
 msgid ""
@@ -5823,9 +5763,8 @@ msgid "Unleash your internal Nolan and get to grips with Kdenlive now!"
 msgstr ""
 
 #: content/announcements/gear/21.04.md:84
-#, fuzzy
 msgid "[Konsole](https://apps.kde.org/konsole/)"
-msgstr "![Konsole's previews](konsole_previews.png)"
+msgstr "[ကွန်ဆိုး](https://apps.kde.org/konsole/)"
 
 #: content/announcements/gear/21.04.md:86
 msgid ""
@@ -5856,9 +5795,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/gear/21.04.md:94
-#, fuzzy
 msgid "... And All This Too:"
-msgstr "အမှိုက်ပုံးသို့ ပို့ရန်အတွက် ဖိုင်လ်သည် အလွန်အမင်း ကြီးမားနေပါသည်။"
+msgstr "...နောက်ပြီးဒါတွေအားလုံး -"
 
 #: content/announcements/gear/21.04.md:96
 msgid ""
@@ -5916,9 +5854,8 @@ msgid "KDE Gear 21.08"
 msgstr "ကေဒီအီးဂီယာ ၂၁.၀၈"
 
 #: content/announcements/gear/21.08.0.md:5
-#, fuzzy
 msgid "**Welcome to KDE Gear ⚙️ 21.08!**"
-msgstr "ကေဒီအီးဂီယာ ကို ကွန်ပိုင်းလုပ်နေသည်"
+msgstr "**ကေဒီအီးဂီယာ ⚙️ ၂၁.၀၈ မှ ကြိုဆိုပါ၏။**"
 
 #: content/announcements/gear/21.08.0.md:7
 msgid ""
@@ -6017,9 +5954,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/gear/21.08.0.md:41
-#, fuzzy
 msgid "[Konsole](https://konsole.kde.org/)"
-msgstr "ကွန်ဆိုး တပ်ဆင်မည်"
+msgstr "[ကွန်ဆိုး](https://konsole.kde.org/)"
 
 #: content/announcements/gear/21.08.0.md:43
 msgid ""
@@ -6086,9 +6022,8 @@ msgid "Working with a text terminal does not get much easier than this."
 msgstr ""
 
 #: content/announcements/gear/21.08.0.md:65
-#, fuzzy
 msgid "[Gwenview](https://apps.kde.org/gwenview/)"
-msgstr "![Gwenview's redesigned zoom control](gwenview_size.png)"
+msgstr "[ဂွမ်းဗျူး](https://apps.kde.org/gwenview/)"
 
 #: content/announcements/gear/21.08.0.md:67
 msgid ""
@@ -6141,9 +6076,8 @@ msgid "Elisa is available for Linux, Windows, Android and Plasma Mobile."
 msgstr ""
 
 #: content/announcements/gear/21.08.0.md:89
-#, fuzzy
 msgid "... And all this too:"
-msgstr "အမှိုက်ပုံးသို့ ပို့ရန်အတွက် ဖိုင်လ်သည် အလွန်အမင်း ကြီးမားနေပါသည်။"
+msgstr "...နောက်ပြီးဒါတွေအားလုံး -"
 
 #: content/announcements/gear/21.08.0.md:91
 msgid ""
@@ -6320,9 +6254,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.0-beta2.md:10
-#, fuzzy
 msgid "Changes in Plasma 5"
-msgstr "5"
+msgstr "ပလက်စမာ ၅ တွင်ပြောင်းလဲလာမှုများ"
 
 #: content/announcements/plasma/5/5.0-beta2.md:12
 msgid ""
@@ -6402,9 +6335,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.0-beta2.md:36
-#, fuzzy
 msgid "Known issues"
-msgstr "သိသောအပ္ပလီကေးရှင်းများ"
+msgstr "သိသောပြဿနာများ"
 
 #: content/announcements/plasma/5/5.0-beta2.md:38
 msgid ""
@@ -6570,9 +6502,8 @@ msgid "A new Breeze widget theme for Qt 4 lets applications written with KDE Pla
 msgstr ""
 
 #: content/announcements/plasma/5/5.0.md:0
-#, fuzzy
 msgid "KDE Ships Plasma 5.0."
-msgstr "ကေဒီအီးသည် မူဘောင် %ver တင်ပို့ခဲ့သည်"
+msgstr "ကေဒီအီးသည် ပလက်စမာ ၅.၀ တင်ပို့ခဲ့သည်။"
 
 #: content/announcements/plasma/5/5.0.md:0
 msgid "New Plasma brings a cleaner interface on top of a new graphics stack"
@@ -6707,9 +6638,8 @@ msgid "Suitability and Updates"
 msgstr "သင့်တော်မှုများနှင့် အပ်ဒိတ်များ"
 
 #: content/announcements/plasma/5/5.0.md:59
-#, fuzzy
 msgid "New Lock Screen"
-msgstr "ပန်နယ်များ သော့ခတ်မည်"
+msgstr "လော့စခရင်အသစ်"
 
 #: content/announcements/plasma/5/5.0.md:61
 msgid ""
@@ -6729,9 +6659,8 @@ msgid "Before installation, it is recommended to read the list of <a href='https
 msgstr ""
 
 #: content/announcements/plasma/5/5.0.md:67
-#, fuzzy
 msgid "Ending the Plasma Session"
-msgstr "ပလက်စမာ အက်အွန်များ"
+msgstr "ပလက်စမာဆက်ရှင်ကို အဆုံးသတ်နေသည်"
 
 #: content/announcements/plasma/5/5.0.md:69
 msgid ""
@@ -6816,9 +6745,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.1.0.md:25
-#, fuzzy
 msgid "New and Old Features"
-msgstr "စွမ်းဆောင်ရည်များ -"
+msgstr "စွမ်းဆောင်ရည်အသစ်နှင့်အဟောင်းများ"
 
 #: content/announcements/plasma/5/5.1.0.md:29
 msgid ""
@@ -6876,9 +6804,8 @@ msgstr ""
 
 #: content/announcements/plasma/5/5.1.95.md:7 content/announcements/plasma/5/5.2.0.md:7 content/announcements/plasma/5/5.2.0.md:11
 #: content/announcements/plasma/5/5.2.0.md:13 content/announcements/plasma/5/5.2.1.md:5 content/announcements/plasma/5/5.2.2.md:5
-#, fuzzy
 msgid "Dual monitor setup"
-msgstr "_Dနှစ်ခုတွဲ"
+msgstr "မော်နီတာနှစ်လုံးတွဲ ပြင်ဆင်မှု"
 
 #: content/announcements/plasma/5/5.1.95.md:9 content/announcements/plasma/5/5.2.0.md:9
 msgid "New Components"
@@ -6907,9 +6834,8 @@ msgid "Panel Task Manager"
 msgstr "ပန်နယ် အလုပ်မန်နေဂျာ"
 
 #: content/announcements/plasma/5/5.10.0.md:11 content/announcements/plasma/5/5.9.95.md:11
-#, fuzzy
 msgid "Middle Mouse Click to Group"
-msgstr "တပ်ဘ်ပိတ်ရန် ၎င်းပေါ်တွင် မော့က်စ်အလယ်ကီးနှိပ်ပါ"
+msgstr "အုပ်စုဖွဲ့ရန် မော့က်စ်အလယ်ကီးနှိပ်ပါ"
 
 #: content/announcements/plasma/5/5.10.0.md:13 content/announcements/plasma/5/5.9.95.md:13
 msgid "Task Manager, the list of applications in the panel, has gained options for middle mouse click such as grouping and ungrouping applications."
@@ -7385,14 +7311,12 @@ msgid "Edit Application Entries Direct from Menu."
 msgstr ""
 
 #: content/announcements/plasma/5/5.10.95.md:37 content/announcements/plasma/5/5.11.0.md:37
-#, fuzzy
 msgid "Kicker without Sidebar "
-msgstr "ဘေးတန်း"
+msgstr "ဘေးတန်းမပါသော ကစ်ခ်ကာ "
 
 #: content/announcements/plasma/5/5.10.95.md:37 content/announcements/plasma/5/5.11.0.md:37
-#, fuzzy
 msgid "Kicker without Sidebar"
-msgstr "ဘေးတန်း"
+msgstr "ဘေးတန်းမပါသော ကစ်ခ်ကာ"
 
 #: content/announcements/plasma/5/5.10.95.md:39
 msgid ""
@@ -7443,9 +7367,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.10.95.md:55 content/announcements/plasma/5/5.11.0.md:57
-#, fuzzy
 msgid "Additional improvements include:"
-msgstr "နောက်ထပ်သတင်းအချက်အလက်"
+msgstr "နောက်ထပ်တိုးတက်မှုများ -"
 
 #: content/announcements/plasma/5/5.10.95.md:57 content/announcements/plasma/5/5.11.0.md:59
 msgid "Application identification logic, used for e.g. pinning apps in Task Manager, has been greatly improved"
@@ -7699,7 +7622,7 @@ msgstr "xdg_shell_unstable_v6"
 
 #: content/announcements/plasma/5/5.11.95.md:36 content/announcements/plasma/5/5.12.0.md:67
 msgid "xdg_foreign_unstable_v2"
-msgstr ""
+msgstr "xdg_foreign_unstable_v2"
 
 #: content/announcements/plasma/5/5.11.95.md:37 content/announcements/plasma/5/5.12.0.md:68
 msgid "idle_inhibit_unstable_v1"
@@ -7748,9 +7671,8 @@ msgid "Discover's new app page"
 msgstr ""
 
 #: content/announcements/plasma/5/5.11.95.md:50
-#, fuzzy
 msgid "Improvements in User Interface"
-msgstr "အင်တာဖေ့စ်"
+msgstr "အသုံးပြုသူအင်တာဖေ့စ်တွင် တိုးတက်မှုများ"
 
 #: content/announcements/plasma/5/5.11.95.md:52
 msgid "Redesigned app pages to showcase great software"
@@ -7801,9 +7723,8 @@ msgid "Integrate PackageKit global signals into notifications"
 msgstr ""
 
 #: content/announcements/plasma/5/5.11.95.md:66
-#, fuzzy
 msgid "Distro upgrade for new releases"
-msgstr "ဒစ်စထရို အပ်ဂရိတ် ဒေတာ မရှိပါ"
+msgstr "ထုတ်ဝေးမှုအသစ်များအတွက် ဒစ်စထရိုအပ်ဂရိတ်"
 
 #: content/announcements/plasma/5/5.11.95.md:67
 msgid "Reboot notification for when Discover installs or updates a package that needs a reboot"
@@ -7990,14 +7911,12 @@ msgid "New System Settings Interface"
 msgstr "စစ်စတမ်ဆက်တင်များ၏ အင်တာဖေ့စ်အသစ်"
 
 #: content/announcements/plasma/5/5.11.95.md:125 content/announcements/plasma/5/5.12.0.md:113
-#, fuzzy
 msgid "New Look System Settings "
-msgstr "စစ်စတမ်သတ်မှတ်ချက်များ"
+msgstr "အသွင်အပြင်စစ်စတမ်ဆက်တင်အသစ်များ "
 
 #: content/announcements/plasma/5/5.11.95.md:125 content/announcements/plasma/5/5.12.0.md:113
-#, fuzzy
 msgid "New Look System Settings"
-msgstr "စစ်စတမ်သတ်မှတ်ချက်များ"
+msgstr "အသွင်အပြင်စစ်စတမ်ဆက်တင်အသစ်များ"
 
 #: content/announcements/plasma/5/5.11.95.md:127
 msgid ""
@@ -8053,15 +7972,13 @@ msgstr ""
 #: content/announcements/plasma/5/5.11.95.md:147 content/announcements/plasma/5/5.11.95.md:149 content/announcements/plasma/5/5.12.0.md:135
 #: content/announcements/plasma/5/5.12.0.md:137 content/announcements/plasma/5/5.7.95.md:19 content/announcements/plasma/5/5.7.95.md:21
 #: content/announcements/plasma/5/5.8.0.md:19 content/announcements/plasma/5/5.8.0.md:21
-#, fuzzy
 msgid "Get Hot New Stuff"
-msgstr "စာအတိုအထွာအသစ်များ ရယူမည်"
+msgstr "ခေတ်စားသော စတပ်ဖ်အသစ်များရယူပါ"
 
 #: content/announcements/plasma/5/5.11.95.md:149 content/announcements/plasma/5/5.12.0.md:137 content/announcements/plasma/5/5.7.95.md:21
 #: content/announcements/plasma/5/5.8.0.md:21
-#, fuzzy
 msgid "Get Hot New Stuff "
-msgstr "စာအတိုအထွာအသစ်များ ရယူမည်"
+msgstr "ခေတ်စားသော စတပ်ဖ်အသစ်များရယူပါ "
 
 #: content/announcements/plasma/5/5.11.95.md:151
 msgid ""
@@ -8120,12 +8037,12 @@ msgstr ""
 #: content/announcements/plasma/5/5.12.0.md:161 content/announcements/plasma/5/5.7.95.md:42 content/announcements/plasma/5/5.7.95.md:45
 #: content/announcements/plasma/5/5.8.0.md:42 content/announcements/plasma/5/5.8.0.md:45
 msgid "Infinitely Customisable"
-msgstr ""
+msgstr "အဆုံးအစမရှိစိတ်ကြိုက်ပြင်ဆင်၍ရ"
 
 #: content/announcements/plasma/5/5.11.95.md:173 content/announcements/plasma/5/5.12.0.md:161 content/announcements/plasma/5/5.7.95.md:45
 #: content/announcements/plasma/5/5.8.0.md:45
 msgid "Infinitely Customisable "
-msgstr ""
+msgstr "အဆုံးအစမရှိစိတ်ကြိုက်ပြင်ဆင်၍ရ "
 
 #: content/announcements/plasma/5/5.11.95.md:175
 msgid "Plasma is simple by default but you can customise it however you like with new widgets, panels, screens and styles."
@@ -8587,14 +8504,12 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.12.90.md:35 content/announcements/plasma/5/5.13.0.md:35
-#, fuzzy
 msgid "Lock Screen"
-msgstr "ပန်နယ်များ သော့ခတ်မည်"
+msgstr "လော့စခရင်"
 
 #: content/announcements/plasma/5/5.12.90.md:37 content/announcements/plasma/5/5.13.0.md:37
-#, fuzzy
 msgid "Login Screen"
-msgstr "လော့ဂင် အိုကေ"
+msgstr "လော့ဂင် စခရင်"
 
 #: content/announcements/plasma/5/5.12.90.md:37 content/announcements/plasma/5/5.13.0.md:37
 msgid "Lock and Login Screen new Look"
@@ -8605,9 +8520,8 @@ msgid "Improved Blur Effect in the Dash Menu"
 msgstr ""
 
 #: content/announcements/plasma/5/5.12.90.md:41 content/announcements/plasma/5/5.13.0.md:41
-#, fuzzy
 msgid "Graphics Compositor"
-msgstr "ဂရပ်ဖစ်"
+msgstr "ဂရပ်ဖစ်ကွန်ပိုစစ်တာ"
 
 #: content/announcements/plasma/5/5.12.90.md:43 content/announcements/plasma/5/5.13.0.md:43
 msgid ""
@@ -8641,9 +8555,8 @@ msgid "Much More"
 msgstr "နောက်ထပ်ပိုမို"
 
 #: content/announcements/plasma/5/5.12.90.md:57 content/announcements/plasma/5/5.13.0.md:57
-#, fuzzy
 msgid "Other changes include:"
-msgstr "သိုလှောင်နေရာ (မစောင့်ကြည့်ထားသောဖိုင်လ်များအပါအဝင်)"
+msgstr "အခြားပြောင်းလဲမှုများ -"
 
 #: content/announcements/plasma/5/5.12.90.md:59 content/announcements/plasma/5/5.13.0.md:59
 msgid "A tech preview of <a href='http://blog.broulik.de/2018/03/gtk-global-menu/'>GTK global menu integration</a>."
@@ -8837,14 +8750,12 @@ msgid "Please test and send us bug reports and feedback. The final release is sc
 msgstr ""
 
 #: content/announcements/plasma/5/5.13.90.md:15
-#, fuzzy
 msgid "New in Plasma 5.14 Beta"
-msgstr "ကေဒီအီးပလက်စမာ {{ .Get \"maj_min\" }} ဘီတာ"
+msgstr "ကေဒီအီးပလက်စမာ ၅.၁၄ ဘီတာ တွင်အသစ်ပါသည်များ"
 
 #: content/announcements/plasma/5/5.13.90.md:19 content/announcements/plasma/5/5.14.0.md:17
-#, fuzzy
 msgid "Display Configuration Widget"
-msgstr "ရက်စွဲဖော်ပြမှုပုံစံ"
+msgstr "ဒစ်(စ)ပလေးပြင်ဆင်မှုဝစ်ဂျတ်"
 
 #: content/announcements/plasma/5/5.13.90.md:21 content/announcements/plasma/5/5.14.0.md:19
 msgid "There's a new Display Configuration widget for screen management which is useful for presentations."
@@ -8903,9 +8814,8 @@ msgid "Widget and panels get consistent icons and other user interface improveme
 msgstr ""
 
 #: content/announcements/plasma/5/5.13.90.md:40 content/announcements/plasma/5/5.14.0.md:38
-#, fuzzy
 msgid "Logout Warning"
-msgstr "သတိ"
+msgstr "လော့အောက် သတိပေးချက်"
 
 #: content/announcements/plasma/5/5.13.90.md:42 content/announcements/plasma/5/5.14.0.md:40
 msgid "Plasma now warns on logout when other users are logged in."
@@ -9139,18 +9049,16 @@ msgid "Please test this beta release and send us bug reports and feedback. The f
 msgstr ""
 
 #: content/announcements/plasma/5/5.14.90.md:15
-#, fuzzy
 msgid "New in Plasma 5.15 Beta"
-msgstr "ကေဒီအီးပလက်စမာ {{ .Get \"maj_min\" }} ဘီတာ"
+msgstr "ကေဒီအီးပလက်စမာ ၅.၁၅ ဘီတာ တွင်အသစ်ပါသည်များ"
 
 #: content/announcements/plasma/5/5.14.90.md:17 content/announcements/plasma/5/5.15.0.md:21
 msgid "Plasma Widgets"
 msgstr "ပလက်စမာ ဝစ်ဂျတ်များ"
 
 #: content/announcements/plasma/5/5.14.90.md:19 content/announcements/plasma/5/5.15.0.md:23
-#, fuzzy
 msgid "Bluetooth Battery Status"
-msgstr "၄၇ ဝပ်-နာရီ ဘက်ထရီ"
+msgstr "ဘလူးတုဘက််ထရီအခြေအနေ"
 
 #: content/announcements/plasma/5/5.14.90.md:21
 msgid ""
@@ -9248,9 +9156,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.14.90.md:57 content/announcements/plasma/5/5.15.0.md:61
-#, fuzzy
 msgid "Cross-Platform Integration"
-msgstr " [ဖြတ်သန်းဒိုမန်း]"
+msgstr "ပလက်ဖောင်းစုံ ပေါင်းစည်းမှု"
 
 #: content/announcements/plasma/5/5.14.90.md:59 content/announcements/plasma/5/5.15.0.md:63
 msgid "Firefox with native KDE open/save dialogs"
@@ -9281,9 +9188,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.14.90.md:71 content/announcements/plasma/5/5.15.0.md:75
-#, fuzzy
 msgid "Distro Release Upgrade Notification"
-msgstr "ဒစ်စထရို အပ်ဂရိတ် ဒေတာ မရှိပါ"
+msgstr "ဒစ်စထရိုထုတ်ဝေလိုက်သောအပ်ဂရိတ်ဆိုင်ရာအသိပေးကြားချက်"
 
 #: content/announcements/plasma/5/5.14.90.md:73
 msgid ""
@@ -9380,7 +9286,7 @@ msgstr "ဆ.သ.ရ-ကွန်ရက် စီမံမှု"
 
 #: content/announcements/plasma/5/5.14.90.md:117 content/announcements/plasma/5/5.15.0.md:121
 msgid "WireGuard VPN Tunnels"
-msgstr ""
+msgstr "ဝိုင်ယာဂါ့ ဗွီပီအန် ဥမင်များ"
 
 #: content/announcements/plasma/5/5.14.90.md:119 content/announcements/plasma/5/5.15.0.md:123
 msgid "Plasma now offers support for WireGuard VPN tunnels when the appropriate Network Manager plugin is installed."
@@ -9402,9 +9308,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.14.90.md:127 content/announcements/plasma/5/5.15.0.md:131
-#, fuzzy
 msgid "Icon Emblems in Breeze"
-msgstr "![System Settings](/breeze-icons/systemsettings.svg)"
+msgstr "ဘရီဇ်တွင်ရှိသော အိုင်ကွန်အမ်ဘလန်များ"
 
 #: content/announcements/plasma/5/5.14.90.md:129 content/announcements/plasma/5/5.15.0.md:133
 msgid ""
@@ -9485,9 +9390,8 @@ msgid "Install Plasma 5.15 and let us know what you think."
 msgstr ""
 
 #: content/announcements/plasma/5/5.15.0.md:19
-#, fuzzy
 msgid "New in Plasma %[1]s"
-msgstr "ခွင့်ပြုချက်အသစ်များ - %1"
+msgstr "ကေဒီအီးပလက်စမာ %[1]s တွင်အသစ်ပါသည်များ"
 
 #: content/announcements/plasma/5/5.15.0.md:25
 msgid ""
@@ -10803,14 +10707,12 @@ msgid "Notifications"
 msgstr "အသိပေးချက်များ"
 
 #: content/announcements/plasma/5/5.17.90.md:38
-#, fuzzy
 msgid "Draggable Download File Icon"
-msgstr "ဝတ္တူ-မြင်ကွင်းဖိုင်လ် အလွန်ကြီးမားလှသည့်အတွက် ဒေါင်းလုတ်ရယူမှု စွန့်လွှတ်ခဲ့သည်"
+msgstr "ဆွဲ၍ရသော ဒေါင်းလုတ်ဖိုင်လ်အိုင်ကွန်"
 
 #: content/announcements/plasma/5/5.17.90.md:40
-#, fuzzy
 msgid "Low Bluetooth Battery"
-msgstr "အနည်းအကျဥ်း"
+msgstr "ဘလူးတုဘက််ထရီအားနည်း"
 
 #: content/announcements/plasma/5/5.17.90.md:40
 msgid "Bluetooth Device Battery Low Notification"
@@ -10933,9 +10835,8 @@ msgid "Flatpak portal support"
 msgstr "ဖလက်ပတ်ခ် ပေါ့တယ် ထောက်ပံ့မှု"
 
 #: content/announcements/plasma/5/5.17.90.md:85 content/announcements/plasma/5/5.18.0.md:87
-#, fuzzy
 msgid "Night Color feature"
-msgstr "feature"
+msgstr "ညဘက်အရောင်စွမ်းဆောင်ရည်"
 
 #: content/announcements/plasma/5/5.17.90.md:86
 msgid "Thunderbolt Device Management"
@@ -11012,9 +10913,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.18.0.md:29
-#, fuzzy
 msgid "Night color widget"
-msgstr "ညဘက် စာကြည့်စနစ် ဖွင့်၊ ပိတ်"
+msgstr "ညဘက်အရောင်ဝစ်ဂျတ်"
 
 #: content/announcements/plasma/5/5.18.0.md:31
 msgid ""
@@ -11403,9 +11303,8 @@ msgid "Redesigned Info Center"
 msgstr "ပြန်ဒီဇိုင်းဆွဲထားသော အချက်အလက်စင်တာ"
 
 #: content/announcements/plasma/5/5.18.90.md:63 content/announcements/plasma/5/5.19.0.md:48
-#, fuzzy
 msgid "KWin Window Manager"
-msgstr "ဖိုင်လ်မန်နေဂျာ"
+msgstr "ကေဝင်း ဝင်းဒိုးမန်နေဂျာ"
 
 #: content/announcements/plasma/5/5.18.90.md:65
 msgid "The new subsurface clipping for Wayland greatly reduces the flickering in many applications."
@@ -11420,9 +11319,8 @@ msgid "Screen rotation for tablets and convertable laptops now works on Wayland.
 msgstr ""
 
 #: content/announcements/plasma/5/5.18.90.md:69 content/announcements/plasma/5/5.19.0.md:52
-#, fuzzy
 msgid "Icon Recoloring in the Titlebar"
-msgstr "&wခေါင်းစဥ်တန်းတွင် လမ်းကြောင်း ပြမည်"
+msgstr "ခေါင်းစဥ်တန်းတွင် အိုင်ကွန်အရောင် ပြန်ချယ်မှု"
 
 #: content/announcements/plasma/5/5.18.90.md:73
 msgid "Flatpak repositories in use are easier to remove now."
@@ -11636,9 +11534,8 @@ msgid "Read on to discover all the new features and improvements of Plasma 5.20�
 msgstr ""
 
 #: content/announcements/plasma/5/5.19.90.md:15
-#, fuzzy
 msgid "Look and Feel"
-msgstr "ကေဒီအီး အသွင်အပြင်"
+msgstr "အသွင်အပြင် နှင့် ခံစားမှု"
 
 #: content/announcements/plasma/5/5.19.90.md:17
 msgid "Icon only task manager by default"
@@ -11795,9 +11692,8 @@ msgid "The touchpad cursor speed can now be configured on a much more granular b
 msgstr ""
 
 #: content/announcements/plasma/5/5.19.90.md:66
-#, fuzzy
 msgid "Klipper support"
-msgstr "ပလပ်ဂင် ထောက်ပံ့မှု"
+msgstr "ကေလစ်ပါ ထောက်ပံ့မှု"
 
 #: content/announcements/plasma/5/5.19.90.md:67
 msgid "You can now middle-click to paste (at least in KDE apps; GTK apps do not implement this yet)"
@@ -11867,9 +11763,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.2.0.md:34
-#, fuzzy
 msgid "Other highlights"
-msgstr "&Oအခြား..."
+msgstr "အခြားအထူးဖော်ပြချက်များ"
 
 #: content/announcements/plasma/5/5.2.0.md:36
 msgid "<strong>Undo</strong> changes to Plasma desktop layout"
@@ -11896,9 +11791,8 @@ msgid "<strong>Breeze window decoration</strong> theme adds a new look to your d
 msgstr ""
 
 #: content/announcements/plasma/5/5.2.0.md:46
-#, fuzzy
 msgid "New Breeze Window Decoration"
-msgstr "လမ်းကြောင်းကို ဝင်းဒိုးအသစ်တွင် ဖွင့်မည်"
+msgstr "ဘရီဇ်ဝင်းဒိုးအလှဆင်မှုအသစ်"
 
 #: content/announcements/plasma/5/5.2.0.md:48
 msgid "The artists in the visual design group have been hard at work on many new <strong>Breeze icons</strong>"
@@ -12070,14 +11964,12 @@ msgid "New energy usage monitor"
 msgstr ""
 
 #: content/announcements/plasma/5/5.2.95.md:13
-#, fuzzy
 msgid "Energy Usage monitor"
-msgstr "အသုံးပြုရန် သတ်မှတ်ချက်များ"
+msgstr "စွမ်းအင်သုံးစွဲမှုစောင့်ကြည့်ကိရိယာ"
 
 #: content/announcements/plasma/5/5.2.95.md:15 content/announcements/plasma/5/5.3.0.md:15
-#, fuzzy
 msgid "Enhanced Power Management"
-msgstr "&Mစီမံမှု"
+msgstr "အဆင့်မြင့်တင်ထားသော ပါဝါစီမံမှု"
 
 #: content/announcements/plasma/5/5.2.95.md:17 content/announcements/plasma/5/5.3.0.md:17
 msgid "Power management settings can be configured differently for certain activities"
@@ -12120,14 +12012,12 @@ msgid "Bluedevil"
 msgstr ""
 
 #: content/announcements/plasma/5/5.2.95.md:28 content/announcements/plasma/5/5.3.0.md:28
-#, fuzzy
 msgid "Better Bluetooth Capabilities"
-msgstr "ဆာဗာ၏စွမ်းဆောင်ရည်ကို စုံးစမ်းရန်"
+msgstr "ပိုမိုကောင်းမွန်သော ဘလူးတုဆိုင်ရာ လုပ်ရည်ကိုင်ရည်များ"
 
 #: content/announcements/plasma/5/5.2.95.md:30 content/announcements/plasma/5/5.3.0.md:30
-#, fuzzy
 msgid "New Bluetooth applet"
-msgstr "ပရိုဂရမ်မာ (ဂျာဗားအပ်ပလက် ထောက်ပံ့မှု)"
+msgstr "ဘလူးတုအပ်ပလပ်အသစ်"
 
 #: content/announcements/plasma/5/5.2.95.md:31 content/announcements/plasma/5/5.3.0.md:31
 msgid "Bluedevil was ported to a new library from KDE, BluezQt"
@@ -12158,9 +12048,8 @@ msgid "Application Menu can show recent contacts"
 msgstr ""
 
 #: content/announcements/plasma/5/5.2.95.md:43 content/announcements/plasma/5/5.3.0.md:43
-#, fuzzy
 msgid "Improved Plasma Widgets"
-msgstr "ပလက်စမာ ဝစ်ဂတ်များ"
+msgstr "တိုးတက်လာသော ပလက်စမာဝစ်ဂျတ်များ"
 
 #: content/announcements/plasma/5/5.2.95.md:45 content/announcements/plasma/5/5.3.0.md:45
 msgid "Clipboard applet gains support for showing barcodes"
@@ -12269,9 +12158,8 @@ msgid "Plasma new wallpaper"
 msgstr ""
 
 #: content/announcements/plasma/5/5.20.0.md:17
-#, fuzzy
 msgid "Look and feel"
-msgstr "ကေဒီအီး အသွင်အပြင်"
+msgstr "အသွင်အပြင် နှင့် ခံစားမှု"
 
 #: content/announcements/plasma/5/5.20.0.md:17
 msgid ""
@@ -12316,9 +12204,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.20.0.md:39 content/announcements/plasma/5/5.20.0.md:41
-#, fuzzy
 msgid "On-screen displays"
-msgstr "Black screen ဖွင့်၊ပိတ်"
+msgstr "စခရင်ပေါ် ဒစ်(စ)ပလေးများ"
 
 #: content/announcements/plasma/5/5.20.0.md:43
 msgid ""
@@ -12413,14 +12300,12 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.20.0.md:84
-#, fuzzy
 msgid "New Bluetooth KCM"
-msgstr "&Nအသစ်..."
+msgstr "ဘလူးတုကေစီအမ်အသစ်"
 
 #: content/announcements/plasma/5/5.20.0.md:86
-#, fuzzy
 msgid "New Autostart KCM"
-msgstr "အလိုအလျောက်စတင်မည်"
+msgstr "အလိုအလျောက်စတင်မှုကေစီအမ်အသစ်"
 
 #: content/announcements/plasma/5/5.20.0.md:88
 msgid "New User KCM"
@@ -12549,14 +12434,12 @@ msgid "KRunner"
 msgstr ""
 
 #: content/announcements/plasma/5/5.20.90.md:0
-#, fuzzy
 msgid "Better support for timezones"
-msgstr "ပရိုဂရမ်မာ (ဂျာဗားအပ်ပလက် ထောက်ပံ့မှု)"
+msgstr "အချိန်ဒေသများအတွက် ပိုမိုကောင်းမွန်လာသော ထောက်ပံ့မှု"
 
 #: content/announcements/plasma/5/5.20.90.md:0
-#, fuzzy
 msgid "Digital Clock"
-msgstr "ဒီဂျစ်တယ်အရာဝတ္တု ခွဲခြားသတ်မှတ်အတည်ပြုချက်"
+msgstr "ဒီဂျစ်တယ်နာရီ"
 
 #: content/announcements/plasma/5/5.20.90.md:0
 msgid "The sound applet now displays the live microphone volume"
@@ -12591,9 +12474,8 @@ msgid "The final version of Plasma 5.21 will be available on the 16th of Februar
 msgstr ""
 
 #: content/announcements/plasma/5/5.20.90.md:21 content/announcements/plasma/5/5.21.0.md:11
-#, fuzzy
 msgid "New Application Launcher"
-msgstr "အပ္ပလီကေးရှင်းသို့ ချိတ်ထားသော လင့်ခ်အသစ်"
+msgstr "အပ္ပလီကေးရှင်းလောင်ချာအသစ်"
 
 #: content/announcements/plasma/5/5.20.90.md:25
 msgid ""
@@ -12751,9 +12633,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.20.90.md:165 content/announcements/plasma/5/5.21.0.md:144
-#, fuzzy
 msgid "New Accessibility KCM"
-msgstr "သုံးရန်လွယ်ကူစေသည်များ"
+msgstr "သုံးရန်လွယ်ကူစေမှုကေစီအမ်အသစ်"
 
 #: content/announcements/plasma/5/5.20.90.md:167 content/announcements/plasma/5/5.21.0.md:146
 msgid "Desktop Session KCM"
@@ -12764,9 +12645,8 @@ msgid "New SDDM KCM"
 msgstr "အက်စ်ဒီဒီအမ် ကေစီအမ် အသစ်"
 
 #: content/announcements/plasma/5/5.20.90.md:171 content/announcements/plasma/5/5.21.0.md:150
-#, fuzzy
 msgid "New Firewall KCM"
-msgstr "Proxy,Proxy server,Firewall,Squid,ကြားခံ"
+msgstr "မီးတံတိုင်းကေစီအမ် အသစ်"
 
 #: content/announcements/plasma/5/5.20.90.md:177 content/announcements/plasma/5/5.21.0.md:156
 msgid "Applets"
@@ -13192,9 +13072,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.21.90.md:57
-#, fuzzy
 msgid "KWin/graphics"
-msgstr "ဂရပ်ဖစ်"
+msgstr "ကေဝင်း/ဂရပ်ဖစ်"
 
 #: content/announcements/plasma/5/5.21.90.md:59
 msgid "KWin now supports direct scan-out for fullscreen windows run on non-NVIDIA GPUs on Wayland, which improves performance"
@@ -13388,9 +13267,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.22.0.md:85
-#, fuzzy
 msgid "KWin & Graphics"
-msgstr "ဂရပ်ဖစ်"
+msgstr "ကေဝင်းနှင့် ဂရပ်ဖစ်"
 
 #: content/announcements/plasma/5/5.22.0.md:87
 msgid ""
@@ -13623,9 +13501,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.3.95.md:34 content/announcements/plasma/5/5.4.0.md:31
-#, fuzzy
 msgid "KRunner history"
-msgstr "မှတ်တမ်း"
+msgstr "ကေရန်နာ မှတ်တမ်း"
 
 #: content/announcements/plasma/5/5.3.95.md:36 content/announcements/plasma/5/5.4.0.md:33
 msgid "KRunner now remembers your previous searches and automatically completes from the history as you type."
@@ -13644,9 +13521,8 @@ msgid "The Networks applet is now able to display network traffic graphs. It als
 msgstr ""
 
 #: content/announcements/plasma/5/5.3.95.md:44 content/announcements/plasma/5/5.4.0.md:45
-#, fuzzy
 msgid "Other changes and additions"
-msgstr "&Oအခြား..."
+msgstr "အခြားပြောင်းလဲမှုများနှင့် ထပ်ပေါင်းမှုများ"
 
 #: content/announcements/plasma/5/5.3.95.md:46 content/announcements/plasma/5/5.4.0.md:47
 msgid "Much improved high DPI support"
@@ -13686,7 +13562,7 @@ msgstr ""
 
 #: content/announcements/plasma/5/5.3.95.md:55 content/announcements/plasma/5/5.4.0.md:55
 msgid "ISO date support in Digital clock"
-msgstr ""
+msgstr "ဒီဂျစ်တယ်နာရီတွင် အိုင်အက်စ်အိုရက်စွဲအသုံးပြုနိုင်မှု"
 
 #: content/announcements/plasma/5/5.3.95.md:56 content/announcements/plasma/5/5.4.0.md:56
 msgid "New easy way to switch 12h/24h clock format in Digital clock"
@@ -13903,14 +13779,12 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.4.95.md:27 content/announcements/plasma/5/5.5.0.md:29
-#, fuzzy
 msgid "Color Picker Plasma Applet"
-msgstr "အရောင်ရွေးကိရိယာ ဆက်တင်"
+msgstr "အရောင်ရွေးကိရိယာ ပလက်စမာအပ်ပလက်"
 
 #: content/announcements/plasma/5/5.4.95.md:29 content/announcements/plasma/5/5.5.0.md:31
-#, fuzzy
 msgid "New Applets in Plasma Addons"
-msgstr "ပလက်စမာ အက်အွန်များ"
+msgstr "ပလက်စမာအက်အွန်များတွင် အပ်ပလပ်အသစ်များ"
 
 #: content/announcements/plasma/5/5.4.95.md:31 content/announcements/plasma/5/5.5.0.md:33
 msgid "Color Picker"
@@ -13942,9 +13816,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.4.95.md:43 content/announcements/plasma/5/5.5.0.md:45
-#, fuzzy
 msgid "Disk Quota"
-msgstr "%1 ဒစ်စ်တွင်ရှိပြီး"
+msgstr "ဒစ်စ်ဝေစု"
 
 #: content/announcements/plasma/5/5.4.95.md:45 content/announcements/plasma/5/5.5.0.md:47
 msgid ""
@@ -13963,9 +13836,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.4.95.md:51 content/announcements/plasma/5/5.5.0.md:53
-#, fuzzy
 msgid "Legacy System Tray Icons"
-msgstr "![System Settings](/breeze-icons/systemsettings.svg)"
+msgstr "သမိုင်းလက်ကျန်စစ်စတမ်ထရေးအိုင်ကွန်များ"
 
 #: content/announcements/plasma/5/5.4.95.md:53 content/announcements/plasma/5/5.5.0.md:55
 msgid "Restored Legacy Icons in System Tray Support"
@@ -13978,9 +13850,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.4.95.md:57 content/announcements/plasma/5/5.5.0.md:59
-#, fuzzy
 msgid "Bug Stats"
-msgstr "ဒေဘီယမ် ဘီတီအက်စ် ဆော့ဖ်လ်ဝဲလ်ပြစ်ချက်ရှာဖွေရန်"
+msgstr "ဆော့ဖ်ဝဲပြစ်ချက် အချက်အလက်များ"
 
 #: content/announcements/plasma/5/5.4.95.md:59 content/announcements/plasma/5/5.5.0.md:61
 msgid "In the run up to the Plasma 5.5 beta an incredible <a href='https://goo.gl/mckdTF'>over 1,000 bugs were fixed</a>."
@@ -14044,9 +13915,8 @@ msgid "With the help of the KDE Visual Design Group we came up with a new design
 msgstr ""
 
 #: content/announcements/plasma/5/5.4.95.md:85 content/announcements/plasma/5/5.5.0.md:93
-#, fuzzy
 msgid "File Indexer Status"
-msgstr "ဖိုင်လ်အခြေအနေ"
+msgstr "ဖိုင်လ်စီကိရိယာအခြေအနေ"
 
 #: content/announcements/plasma/5/5.4.95.md:89 content/announcements/plasma/5/5.5.0.md:97
 msgid "A status module for the file indexer was added."
@@ -14063,9 +13933,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.4.95.md:95
-#, fuzzy
 msgid "Known Issues"
-msgstr "သိသောအပ္ပလီကေးရှင်းများ"
+msgstr "သိသောပြဿနာများ"
 
 #: content/announcements/plasma/5/5.4.95.md:97
 msgid ""
@@ -14082,18 +13951,16 @@ msgid "Breeze Icons "
 msgstr "ဘရီဇ်အိုင်ကွန်များ "
 
 #: content/announcements/plasma/5/5.5.0.md:29
-#, fuzzy
 msgid "Color Picker Plasma Applet "
-msgstr "အရောင်ရွေးကိရိယာ ဆက်တင်"
+msgstr "အရောင်ရွေးကိရိယာ ပလက်စမာအပ်ပလက် "
 
 #: content/announcements/plasma/5/5.5.0.md:39
 msgid "User Switcher Plasma Applet "
 msgstr ""
 
 #: content/announcements/plasma/5/5.5.0.md:53
-#, fuzzy
 msgid "Legacy System Tray Icons "
-msgstr "![System Settings](/breeze-icons/systemsettings.svg)"
+msgstr "သမိုင်းလက်ကျန်စစ်စတမ်ထရေးအိုင်ကွန်များ "
 
 #: content/announcements/plasma/5/5.5.0.md:67
 msgid "Screen Locker "
@@ -14122,9 +13989,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.5.0.md:93
-#, fuzzy
 msgid "File Indexer Status "
-msgstr "ဖိုင်လ်အခြေအနေ"
+msgstr "ဖိုင်လ်စီကိရိယာအခြေအနေ "
 
 #: content/announcements/plasma/5/5.5.0.md:103
 msgid "Wallpapers"
@@ -14137,9 +14003,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.5.0.md:107
-#, fuzzy
 msgid "Known Issues\""
-msgstr "သိသောအပ္ပလီကေးရှင်းများ"
+msgstr "သိသောပြဿနာများ\""
 
 #: content/announcements/plasma/5/5.5.0.md:109
 msgid ""
@@ -14248,9 +14113,8 @@ msgid "Slicker Plasma Theme"
 msgstr "စလစ်ကာ ပလက်စမာ သင်း"
 
 #: content/announcements/plasma/5/5.5.95.md:13 content/announcements/plasma/5/5.6.0.md:13
-#, fuzzy
 msgid "Breeze Color Scheme Support"
-msgstr "&Cအရောင်အစီအစဥ်ပြပုံ"
+msgstr "ဘရီဇ်အရောင်အစီအစဥ်ပြပုံ ထောက်ပံ့မှု"
 
 #: content/announcements/plasma/5/5.5.95.md:15 content/announcements/plasma/5/5.6.0.md:15
 msgid ""
@@ -14263,9 +14127,8 @@ msgid "Supercharged Task Manager"
 msgstr "စွမ်းဆောင်ရည်မြင့်တင်ထားသော အလုပ်မန်နေဂျာ"
 
 #: content/announcements/plasma/5/5.5.95.md:19 content/announcements/plasma/5/5.6.0.md:19
-#, fuzzy
 msgid "Copy Progress"
-msgstr "သို့ကူးယူရန်"
+msgstr "ကူးယူမှုအခြေအနေ"
 
 #: content/announcements/plasma/5/5.5.95.md:21 content/announcements/plasma/5/5.6.0.md:21
 msgid "Multitasking has just become easier. The much improved task manager in Plasma 5.6 now displays progress of tasks, such as downloading or copying files."
@@ -14273,9 +14136,8 @@ msgstr ""
 
 #: content/announcements/plasma/5/5.5.95.md:23 content/announcements/plasma/5/5.5.95.md:25 content/announcements/plasma/5/5.6.0.md:23
 #: content/announcements/plasma/5/5.6.0.md:25
-#, fuzzy
 msgid "Media Controls"
-msgstr "မီဒီယာဖိုင်လ်အလိုအလျောက်ဖွင့်မည်"
+msgstr "မီဒီယာထိန်းချုပ်မှုများ"
 
 #: content/announcements/plasma/5/5.5.95.md:25 content/announcements/plasma/5/5.6.0.md:25
 msgid "Media Controls in Panel and Tooltips"
@@ -14510,14 +14372,12 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.6.95.md:24 content/announcements/plasma/5/5.7.0.md:15
-#, fuzzy
 msgid "Agenda Items in Calendar "
-msgstr "ရွေးချယ်ထားသော တန်ဆာ %1ခုအတွက် ကိုယ်ပိုင်လက္ခဏာများ"
+msgstr "ပြက္ခဒိန်တွင် အေဂျန်ဒါအိုင်တမ်များ "
 
 #: content/announcements/plasma/5/5.6.95.md:24 content/announcements/plasma/5/5.7.0.md:15
-#, fuzzy
 msgid "Agenda Items in Calendar"
-msgstr "ရွေးချယ်ထားသော တန်ဆာ %1ခုအတွက် ကိုယ်ပိုင်လက္ခဏာများ"
+msgstr "ပြက္ခဒိန်တွင် အေဂျန်ဒါအိုင်တမ်များ"
 
 #: content/announcements/plasma/5/5.6.95.md:26 content/announcements/plasma/5/5.7.0.md:17
 msgid "Plasma 5.7 marks the return of the agenda view in the calendar, which provides a quick and easily accessible overview of upcoming appointments and holidays."
@@ -14532,9 +14392,8 @@ msgid "Dragging Application to Audio Device"
 msgstr ""
 
 #: content/announcements/plasma/5/5.6.95.md:31 content/announcements/plasma/5/5.7.0.md:27
-#, fuzzy
 msgid "Better Kiosk Support"
-msgstr "ပလပ်ဂင် ထောက်ပံ့မှု"
+msgstr "ပိုမိုကောင်းမွန်သော Kiosk ထောက်ပံ့မှု"
 
 #: content/announcements/plasma/5/5.6.95.md:33
 msgid ""
@@ -14775,9 +14634,8 @@ msgid "Right-to-Left Language Support "
 msgstr "ညာမှစ၊ဘယ်ဆုံးသည့် ဘာသာစကားထောက်ပံ့မှု "
 
 #: content/announcements/plasma/5/5.7.95.md:60 content/announcements/plasma/5/5.8.0.md:61
-#, fuzzy
 msgid "Improved Applets"
-msgstr "![Media Player Applets](media.png)"
+msgstr "တိုးတက်လာသော အပ်ပလပ်များ"
 
 #: content/announcements/plasma/5/5.7.95.md:63 content/announcements/plasma/5/5.8.0.md:63
 #, fuzzy
@@ -14802,14 +14660,12 @@ msgid "Simplified Global Shortcuts"
 msgstr "ရိုးရှင်းသော အများသုံးဖြတ်လမ်းများ"
 
 #: content/announcements/plasma/5/5.7.95.md:69 content/announcements/plasma/5/5.8.0.md:71
-#, fuzzy
 msgid "Global Shortcuts Setup "
-msgstr "&Sဖြတ်လမ်းများ -"
+msgstr "အများသုံးဖြတ်လမ်းများ ပြင်ဆင်မှု "
 
 #: content/announcements/plasma/5/5.7.95.md:69 content/announcements/plasma/5/5.8.0.md:71
-#, fuzzy
 msgid "Global Shortcuts Setup"
-msgstr "&Sဖြတ်လမ်းများ -"
+msgstr "အများသုံးဖြတ်လမ်းများ ပြင်ဆင်မှု"
 
 #: content/announcements/plasma/5/5.7.95.md:71 content/announcements/plasma/5/5.8.0.md:73
 msgid ""
@@ -15106,9 +14962,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.8.95.md:9 content/announcements/plasma/5/5.9.0.md:9
-#, fuzzy
 msgid "Be even more productive"
-msgstr "၁ သို့မဟုတ် ထက်ပိုသော"
+msgstr "ပို၍အလုပ်တွင်ကျယ်စေလိုက်ပါ"
 
 #: content/announcements/plasma/5/5.8.95.md:11 content/announcements/plasma/5/5.9.0.md:11
 msgid "Spectacle screenshot notifications can now be dragged into e-mail composers (including web mail) "
@@ -15243,9 +15098,8 @@ msgid ""
 msgstr ""
 
 #: content/announcements/plasma/5/5.8.95.md:55 content/announcements/plasma/5/5.9.0.md:55
-#, fuzzy
 msgid "New network configuration module"
-msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင်ချက်"
+msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင်မှုဆိုင်ရာ မော်ဂျူးအသစ်"
 
 #: content/announcements/plasma/5/5.8.95.md:57 content/announcements/plasma/5/5.9.0.md:57
 msgid "Network Connections Configuration"

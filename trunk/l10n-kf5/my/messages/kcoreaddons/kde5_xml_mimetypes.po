@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: kde5_xml_mimetypes\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-07-14 00:15+0000\n"
-"PO-Revision-Date: 2021-08-28 15:14+0630\n"
-"Last-Translator: zayar lwin <lw1nzayar@yandex.com>\n"
+"PO-Revision-Date: 2021-09-20 02:07+0630\n"
+"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: kde5.xml.podir/kde5.xml.in.h:1
@@ -151,12 +151,12 @@ msgstr "ဖောင့် ပတ်ကေ့များ"
 #: kde5.xml.podir/kde5.xml.in.h:31
 msgctxt "comment"
 msgid "Windows server"
-msgstr "Windows ဆာဗာ"
+msgstr "ဝင်းဒိုးစ် ဆာဗာ"
 
 #: kde5.xml.podir/kde5.xml.in.h:32
 msgctxt "comment"
 msgid "Windows workgroup"
-msgstr "Windows အလုပ်အုပ်စု"
+msgstr "ဝင်းဒိုးစ် အလုပ်အုပ်စု"
 
 #: kde5.xml.podir/kde5.xml.in.h:34
 msgctxt "comment"
@@ -251,7 +251,7 @@ msgstr "အမ်ဘရီလို ယူအမ်အယ်လ် ပုံစ�
 #: kde5.xml.podir/kde5.xml.in.h:52
 msgctxt "comment"
 msgid "Windows link"
-msgstr "Windows လင့်ခ်"
+msgstr "ဝင်းဒိုးစ် လင့်ခ်"
 
 #: kde5.xml.podir/kde5.xml.in.h:53
 msgctxt "comment"
