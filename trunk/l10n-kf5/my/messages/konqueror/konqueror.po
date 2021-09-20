@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-11 00:17+0000\n"
+"POT-Creation-Date: 2021-09-20 00:18+0000\n"
 "PO-Revision-Date: 2021-09-17 17:27+0630\n"
+"Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: \n"
 "X-Generator: Poedit 2.2.1\n"
 
 #, kde-format
@@ -28,7 +28,8 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "lw1nzayar@yandex.com"
 
-#: src/konqclosedwindowsmanager.cpp:423 src/konqmainwindow.cpp:5058 src/konqmainwindow.cpp:5104
+#: src/konqclosedwindowsmanager.cpp:423 src/konqmainwindow.cpp:5058
+#: src/konqmainwindow.cpp:5104
 #, kde-format
 msgid "no name"
 msgstr "အမည်မရှိ"
@@ -39,7 +40,8 @@ msgctxt "@title:window"
 msgid "Configure Extensions"
 msgstr "တိုးချဲ့ပရိုဂရမ်ငယ်များ ပြင်ဆင်မည်"
 
-#: src/konqextensionmanager.cpp:80 src/konqextensionmanager.cpp:87 src/konqextensionmanager.cpp:88
+#: src/konqextensionmanager.cpp:80 src/konqextensionmanager.cpp:87
+#: src/konqextensionmanager.cpp:88
 #, kde-format
 msgid "Extensions"
 msgstr "တိုးချဲ့ပရိုဂရမ်ငယ်များ"
@@ -55,10 +57,11 @@ msgstr ""
 #: src/konqframestatusbar.cpp:120
 #, kde-format
 msgid ""
-"Checking this box on at least two views sets those views as 'linked'. Then, when you change directories in one view, the "
-"other views linked with it will automatically update to show the current directory. This is especially useful with "
-"different types of views, such as a directory tree with an icon view or detailed view, and possibly a terminal emulator "
-"window."
+"Checking this box on at least two views sets those views as 'linked'. Then, "
+"when you change directories in one view, the other views linked with it will "
+"automatically update to show the current directory. This is especially "
+"useful with different types of views, such as a directory tree with an icon "
+"view or detailed view, and possibly a terminal emulator window."
 msgstr ""
 
 #: src/konqframestatusbar.cpp:166
@@ -100,7 +103,9 @@ msgstr "စီမည်"
 
 #: src/konqhistorymodel.cpp:132
 #, kde-format
-msgid "<qt><center><b>%1</b></center><hr />Last visited: %2<br />First visited: %3<br />Number of times visited: %4</qt>"
+msgid ""
+"<qt><center><b>%1</b></center><hr />Last visited: %2<br />First visited: "
+"%3<br />Number of times visited: %4</qt>"
 msgstr ""
 
 #: src/konqhistorymodel.cpp:226
@@ -206,7 +211,8 @@ msgstr "ဒေးဗစ်ဖော့"
 
 #: src/konqmain.cpp:189
 #, kde-format
-msgid "Developer (framework, parts, JavaScript, I/O library) and former maintainer"
+msgid ""
+"Developer (framework, parts, JavaScript, I/O library) and former maintainer"
 msgstr "ပရိုဂရမ်မာ (မူဘောင်၊ အစိတ်အပိုင်းများ၊ ဂျာဗားစခရစ်၊ အိုင်/အို ကုတ်ကြည့်တိုက်) နှင့် ယခင်က ထိန်းသိမ်းသူ"
 
 #: src/konqmain.cpp:190
@@ -264,8 +270,10 @@ msgstr "ပရိုဂရမ်မာ (စာရင်းစဥ်မြင်�
 msgid "Lars Knoll"
 msgstr "လားစ်နူးလ်"
 
-#: src/konqmain.cpp:195 src/konqmain.cpp:196 src/konqmain.cpp:197 src/konqmain.cpp:199 src/konqmain.cpp:200
-#: src/konqmain.cpp:202 src/konqmain.cpp:203 src/konqmain.cpp:204 src/konqmain.cpp:205 src/konqmain.cpp:207
+#: src/konqmain.cpp:195 src/konqmain.cpp:196 src/konqmain.cpp:197
+#: src/konqmain.cpp:199 src/konqmain.cpp:200 src/konqmain.cpp:202
+#: src/konqmain.cpp:203 src/konqmain.cpp:204 src/konqmain.cpp:205
+#: src/konqmain.cpp:207
 #, kde-format
 msgid "Developer (HTML rendering engine)"
 msgstr "ပရိုဂရမ်မာ (အိပ်ချ်တီအမ်အယ် ရုပ်ပြရေးဆွဲအင်ဂျင်)"
@@ -307,8 +315,11 @@ msgstr "စတီဖန်ကူလော့"
 
 #: src/konqmain.cpp:201
 #, kde-format
-msgid "Developer (HTML rendering engine, I/O library, regression test framework)"
-msgstr "ပရိုဂရမ်မာ (အိပ်ချ်တီအမ်အယ် ရုပ်ပြရေးဆွဲအင်ဂျင်၊ အိုင်/အို ကုတ်ကြည့်တိုက်၊ စွမ်းဆောင်ရည်ကျဆင်းမှုစမ်းသပ်သော မူဘောင်)"
+msgid ""
+"Developer (HTML rendering engine, I/O library, regression test framework)"
+msgstr ""
+"ပရိုဂရမ်မာ (အိပ်ချ်တီအမ်အယ် ရုပ်ပြရေးဆွဲအင်ဂျင်၊ အိုင်/အို ကုတ်ကြည့်တိုက်၊ စွမ်းဆောင်ရည်ကျဆင်းမှုစမ်းသပ်သော "
+"မူဘောင်)"
 
 #: src/konqmain.cpp:202
 #, kde-format
@@ -511,8 +522,10 @@ msgstr ""
 
 #: src/konqmain.cpp:236
 #, kde-format
-msgid "Preload for later use. This mode does not support URLs on the command line"
-msgstr "နောင်တွင် သုံးရန် ကြိုတွန်းတင်ထားမည်။ ဤထုံးနည်းသည် အမိန့်စာကြောင်းများပေါ်ရှိ ယူအာအယ်များကို မထောက်ပံ့ပါ"
+msgid ""
+"Preload for later use. This mode does not support URLs on the command line"
+msgstr ""
+"နောင်တွင် သုံးရန် ကြိုတွန်းတင်ထားမည်။ ဤထုံးနည်းသည် အမိန့်စာကြောင်းများပေါ်ရှိ ယူအာအယ်များကို မထောက်ပံ့ပါ"
 
 #: src/konqmain.cpp:237
 #, kde-format
@@ -561,7 +574,9 @@ msgstr "ဝန်ဆောင်မှု"
 
 #: src/konqmain.cpp:242
 #, kde-format
-msgid "For URLs that point to files, opens the directory and selects the file, instead of opening the actual file"
+msgid ""
+"For URLs that point to files, opens the directory and selects the file, "
+"instead of opening the actual file"
 msgstr ""
 
 #: src/konqmain.cpp:243
@@ -602,15 +617,19 @@ msgid ""
 "Reloading the page will discard these changes."
 msgstr ""
 
-#: src/konqmainwindow.cpp:1666 src/konqmainwindow.cpp:2429 src/konqmainwindow.cpp:2522 src/konqmainwindow.cpp:2554
-#: src/konqmainwindow.cpp:2597 src/konqmainwindow.cpp:2619 src/konqmainwindow.cpp:5026
+#: src/konqmainwindow.cpp:1666 src/konqmainwindow.cpp:2429
+#: src/konqmainwindow.cpp:2522 src/konqmainwindow.cpp:2554
+#: src/konqmainwindow.cpp:2597 src/konqmainwindow.cpp:2619
+#: src/konqmainwindow.cpp:5026
 #, kde-format
 msgctxt "@title:window"
 msgid "Discard Changes?"
 msgstr "ပြောင်းလဲမှုများကို ပစ်ပယ်မှာလား။"
 
-#: src/konqmainwindow.cpp:1666 src/konqmainwindow.cpp:2429 src/konqmainwindow.cpp:2522 src/konqmainwindow.cpp:2554
-#: src/konqmainwindow.cpp:2597 src/konqmainwindow.cpp:2620 src/konqmainwindow.cpp:5026
+#: src/konqmainwindow.cpp:1666 src/konqmainwindow.cpp:2429
+#: src/konqmainwindow.cpp:2522 src/konqmainwindow.cpp:2554
+#: src/konqmainwindow.cpp:2597 src/konqmainwindow.cpp:2620
+#: src/konqmainwindow.cpp:5026
 #, kde-format
 msgid "&Discard Changes"
 msgstr "&Dပြောင်းလဲမှုများ ပစ်ပယ်မည်"
@@ -659,8 +678,9 @@ msgstr "'အိမ်စာမျက်နှာ' သို့ သွားမ�
 #: src/konqmainwindow.cpp:2113
 #, kde-format
 msgid ""
-"<html>Navigate to your 'Home Page'<br /><br />You can configure the location where this button takes you under <b>Settings "
-"-> Configure Konqueror -> General</b>.</html>"
+"<html>Navigate to your 'Home Page'<br /><br />You can configure the location "
+"where this button takes you under <b>Settings -> Configure Konqueror -> "
+"General</b>.</html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:2428
@@ -942,7 +962,8 @@ msgstr "တည်နေရာပြ-တန်း"
 
 #: src/konqmainwindow.cpp:3789
 #, kde-format
-msgid "<html>Location Bar<br /><br />Enter a web address or search term.</html>"
+msgid ""
+"<html>Location Bar<br /><br />Enter a web address or search term.</html>"
 msgstr "<htmlတည်နေရာပြ-တန်း<br /><br />ဝက်ဘ်လိပ်စာ သို့မဟုတ် ရှာလိုသော စကားလုံး ရိုက်ထည့်ပါ။</html>"
 
 #: src/konqmainwindow.cpp:3793
@@ -952,8 +973,11 @@ msgstr "တည်နေရာပြ-တန်းကို ရှင်းမည�
 
 #: src/konqmainwindow.cpp:3797
 #, kde-format
-msgid "<html>Clear Location bar<br /><br />Clears the contents of the location bar.</html>"
-msgstr "<html>တည်နေရာပြ-တန်း ရှင်းမည်<br /><br />တည်နေရာပြ-တန်း၏ပါဝင်ဒေတာများ ရှင်းပစ်သည်။</html>"
+msgid ""
+"<html>Clear Location bar<br /><br />Clears the contents of the location bar."
+"</html>"
+msgstr ""
+"<html>တည်နေရာပြ-တန်း ရှင်းမည်<br /><br />တည်နေရာပြ-တန်း၏ပါဝင်ဒေတာများ ရှင်းပစ်သည်။</html>"
 
 #: src/konqmainwindow.cpp:3802
 #, kde-format
@@ -972,14 +996,17 @@ msgstr "သွားမည်"
 
 #: src/konqmainwindow.cpp:3841
 #, kde-format
-msgid "<html>Go<br /><br />Goes to the page that has been entered into the location bar.</html>"
+msgid ""
+"<html>Go<br /><br />Goes to the page that has been entered into the location "
+"bar.</html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3847
 #, kde-format
 msgid ""
-"<html>Enter the parent folder<br /><br />For instance, if the current location is file:/home/%1 clicking this button will "
-"take you to file:/home.</html>"
+"<html>Enter the parent folder<br /><br />For instance, if the current "
+"location is file:/home/%1 clicking this button will take you to file:/home.</"
+"html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3850
@@ -1005,8 +1032,9 @@ msgstr "ပိတ်သိမ်းတပ်ဘ်များမှတ်တမ
 #: src/konqmainwindow.cpp:3861
 #, kde-format
 msgid ""
-"<html>Reload the currently displayed document<br /><br />This may, for example, be needed to refresh web pages that have "
-"been modified since they were loaded, in order to make the changes visible.</html>"
+"<html>Reload the currently displayed document<br /><br />This may, for "
+"example, be needed to refresh web pages that have been modified since they "
+"were loaded, in order to make the changes visible.</html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3864
@@ -1017,8 +1045,9 @@ msgstr "လက်ရှိပြထားသော မှတ်တမ်းပ�
 #: src/konqmainwindow.cpp:3866
 #, kde-format
 msgid ""
-"<html>Reload all currently displayed documents in tabs<br /><br />This may, for example, be needed to refresh web pages "
-"that have been modified since they were loaded, in order to make the changes visible.</html>"
+"<html>Reload all currently displayed documents in tabs<br /><br />This may, "
+"for example, be needed to refresh web pages that have been modified since "
+"they were loaded, in order to make the changes visible.</html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3869
@@ -1029,21 +1058,24 @@ msgstr ""
 #: src/konqmainwindow.cpp:3871
 #, kde-format
 msgid ""
-"<html>Stop loading the document<br /><br />All network transfers will be stopped and Konqueror will display the content "
-"that has been received so far.</html>"
+"<html>Stop loading the document<br /><br />All network transfers will be "
+"stopped and Konqueror will display the content that has been received so far."
+"</html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3875
 #, kde-format
 msgid ""
-"<html>Reload the currently displayed document<br /><br />This may, for example, be needed to refresh web pages that have "
-"been modified since they were loaded, in order to make the changes visible. Any images on the page are downloaded again, "
-"even if cached copies exist.</html>"
+"<html>Reload the currently displayed document<br /><br />This may, for "
+"example, be needed to refresh web pages that have been modified since they "
+"were loaded, in order to make the changes visible. Any images on the page "
+"are downloaded again, even if cached copies exist.</html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3879
 #, kde-format
-msgid "Force a reload of the currently displayed document and any contained images"
+msgid ""
+"Force a reload of the currently displayed document and any contained images"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3881
@@ -1054,8 +1086,9 @@ msgstr "မှတ်တမ်းပုံနှိပ်မူတွန်းတ
 #: src/konqmainwindow.cpp:3883
 #, kde-format
 msgid ""
-"<html>Cut the currently selected text or item(s) and move it to the system clipboard<br /><br />This makes it available to "
-"the <b>Paste</b> command in Konqueror and other KDE applications.</html>"
+"<html>Cut the currently selected text or item(s) and move it to the system "
+"clipboard<br /><br />This makes it available to the <b>Paste</b> command in "
+"Konqueror and other KDE applications.</html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3887
@@ -1066,8 +1099,9 @@ msgstr ""
 #: src/konqmainwindow.cpp:3889
 #, kde-format
 msgid ""
-"<html>Copy the currently selected text or item(s) to the system clipboard<br /><br />This makes it available to the "
-"<b>Paste</b> command in Konqueror and other KDE applications.</html>"
+"<html>Copy the currently selected text or item(s) to the system "
+"clipboard<br /><br />This makes it available to the <b>Paste</b> command in "
+"Konqueror and other KDE applications.</html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3893
@@ -1078,8 +1112,8 @@ msgstr ""
 #: src/konqmainwindow.cpp:3895
 #, kde-format
 msgid ""
-"<html>Paste the previously cut or copied clipboard contents<br /><br />This also works for text copied or cut from other "
-"KDE applications.</html>"
+"<html>Paste the previously cut or copied clipboard contents<br /><br />This "
+"also works for text copied or cut from other KDE applications.</html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3898
@@ -1090,9 +1124,11 @@ msgstr "ကလစ်ဘုတ်၏ပါဝင်ဒေတာများ ပ�
 #: src/konqmainwindow.cpp:3900
 #, kde-format
 msgid ""
-"<html>Print the currently displayed document<br /><br />You will be presented with a dialog where you can set various "
-"options, such as the number of copies to print and which printer to use.<br /><br />This dialog also provides access to "
-"special KDE printing services such as creating a PDF file from the current document.</html>"
+"<html>Print the currently displayed document<br /><br />You will be "
+"presented with a dialog where you can set various options, such as the "
+"number of copies to print and which printer to use.<br /><br />This dialog "
+"also provides access to special KDE printing services such as creating a PDF "
+"file from the current document.</html>"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3906
@@ -1102,12 +1138,16 @@ msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူ
 
 #: src/konqmainwindow.cpp:3908
 #, kde-format
-msgid "A locked view cannot change folders. Use in combination with 'link view' to explore many files from one folder"
+msgid ""
+"A locked view cannot change folders. Use in combination with 'link view' to "
+"explore many files from one folder"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3909
 #, kde-format
-msgid "Sets the view as 'linked'. A linked view follows folder changes made in other linked views."
+msgid ""
+"Sets the view as 'linked'. A linked view follows folder changes made in "
+"other linked views."
 msgstr ""
 
 #: src/konqmainwindow.cpp:3913
@@ -1118,8 +1158,8 @@ msgstr "&Iလက်ရှိစာမျက်နှာကို စစ်ဆေ
 #: src/konqmainwindow.cpp:3914
 #, kde-format
 msgid ""
-"<html>Shows the developer tools for the current page<br/><br/>The current view is split in two and the developer tools are "
-"displayed in the second half"
+"<html>Shows the developer tools for the current page<br/><br/>The current "
+"view is split in two and the developer tools are displayed in the second half"
 msgstr ""
 
 #: src/konqmainwindow.cpp:3915
@@ -1139,7 +1179,9 @@ msgstr "&oဖိုင်လ်များရွေ့မည်..."
 
 #: src/konqmainwindow.cpp:4414
 #, kde-format
-msgid "You have requested to open more than 20 bookmarks in tabs. This might take a while. Continue?"
+msgid ""
+"You have requested to open more than 20 bookmarks in tabs. This might take a "
+"while. Continue?"
 msgstr ""
 
 #: src/konqmainwindow.cpp:4416
@@ -1191,7 +1233,8 @@ msgstr "&Vမြင်ကွင်း ထုံးနည်း"
 
 #: src/konqmainwindow.cpp:4992
 #, kde-format
-msgid "You have multiple tabs open in this window, are you sure you want to quit?"
+msgid ""
+"You have multiple tabs open in this window, are you sure you want to quit?"
 msgstr ""
 
 #: src/konqmainwindow.cpp:4994
@@ -1221,7 +1264,8 @@ msgstr ""
 
 #: src/konqmainwindow.cpp:5180
 #, kde-format
-msgid "Your sidebar is not functional or unavailable. A new entry cannot be added."
+msgid ""
+"Your sidebar is not functional or unavailable. A new entry cannot be added."
 msgstr ""
 
 #: src/konqmainwindow.cpp:5180 src/konqmainwindow.cpp:5187
@@ -1248,17 +1292,21 @@ msgstr "မထည့်ပါနှင့်"
 #: src/konqmainwindow.cpp:5535
 #, kde-format
 msgid ""
-"There appears to be a configuration error. You have associated Konqueror with %1, but it cannot handle this file type."
+"There appears to be a configuration error. You have associated Konqueror "
+"with %1, but it cannot handle this file type."
 msgstr ""
 
 #: src/konqmainwindow.cpp:5616
 #, kde-format
 msgid ""
-"Your proxy configuration can't be used with the QtWebEngine HTML engine. No proxy will be used\n"
+"Your proxy configuration can't be used with the QtWebEngine HTML engine. No "
+"proxy will be used\n"
 "\n"
-" QtWebEngine only support a fixed proxy, so proxy auto-configuration (PAC) and Web Proxy Auto-Discovery protocol can't be "
-"used with QtWebEngine. If you need a proxy, please select the system proxy configuration or specify a proxy URL manually "
-"in the settings dialog. Do you want to change proxy settings now?"
+" QtWebEngine only support a fixed proxy, so proxy auto-configuration (PAC) "
+"and Web Proxy Auto-Discovery protocol can't be used with QtWebEngine. If you "
+"need a proxy, please select the system proxy configuration or specify a "
+"proxy URL manually in the settings dialog. Do you want to change proxy "
+"settings now?"
 msgstr ""
 
 #: src/konqmainwindow.cpp:5621
@@ -1279,9 +1327,10 @@ msgstr "ကြားခံပြင်ဆင်မှုဒိုင်ယာလ
 #: src/konqmainwindow.cpp:5636
 #, kde-format
 msgid ""
-"Your proxy configuration can't be used with the QtWebEngine HTML engine because it doesn't support having different "
-"proxies for the HTTP and HTTPS protocols. Your current settings are:<p><b>HTTP proxy:</b> <tt>%1</tt></p><p><b>HTTPS "
-"proxy: </b><tt>%2</tt></p>What do you want to do?"
+"Your proxy configuration can't be used with the QtWebEngine HTML engine "
+"because it doesn't support having different proxies for the HTTP and HTTPS "
+"protocols. Your current settings are:<p><b>HTTP proxy:</b> <tt>%1</tt></"
+"p><p><b>HTTPS proxy: </b><tt>%2</tt></p>What do you want to do?"
 msgstr ""
 
 #: src/konqmainwindow.cpp:5639
@@ -1302,8 +1351,9 @@ msgstr "အိပ်ချ်တီတီပီအက်စ် ကြားခ�
 #: src/konqmainwindow.cpp:5717
 #, kde-format
 msgid ""
-"You have entered Complete Full Screen mode (the user interface is completely hidden). You can exit it by pressing the "
-"keyboard shortcut for Full Screen Mode (%1)"
+"You have entered Complete Full Screen mode (the user interface is completely "
+"hidden). You can exit it by pressing the keyboard shortcut for Full Screen "
+"Mode (%1)"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
@@ -1330,6 +1380,25 @@ msgstr "&yလက်ရှိဝင်းဒိုးသာ"
 msgid "Session n&ame:"
 msgstr "&aဆက်ရှင် အမည် -"
 
+#: src/konqrun.cpp:219
+#, kde-format
+msgid ""
+"Malformed URL\n"
+"%1"
+msgstr ""
+
+#: src/konqrun.cpp:250
+#, kde-format
+msgid ""
+"<qt>Unable to run the command specified. The file or folder <b>%1</b> does "
+"not exist.</qt>"
+msgstr ""
+
+#: src/konqrun.cpp:305
+#, kde-format
+msgid "Could not find any application or handler for %1"
+msgstr ""
+
 #: src/konqsessiondlg.cpp:73
 #, kde-format
 msgctxt "@title:window"
@@ -1350,7 +1419,8 @@ msgstr "ဆက်ရှင် သိမ်းဆည်းမည်"
 
 #: src/konqsessiondlg.cpp:264
 #, kde-format
-msgid "A session with the name '%1' already exists, do you want to overwrite it?"
+msgid ""
+"A session with the name '%1' already exists, do you want to overwrite it?"
 msgstr "'%1' အမည်နှင့် ဆက်ရှင်တစ်ခုရှိပြီးဖြစ်သည်။ ယင်းကို သင်ထပ်ရေးချင်ပါသလား။"
 
 #: src/konqsessiondlg.cpp:265
@@ -1402,7 +1472,9 @@ msgstr "ဆက်ရှင် ပြန်လည်ထားသိုမည်�
 
 #: src/konqsessionmanager.cpp:120
 #, kde-format
-msgid "Konqueror did not close correctly. Would you like to restore these previous sessions?"
+msgid ""
+"Konqueror did not close correctly. Would you like to restore these previous "
+"sessions?"
 msgstr ""
 
 #: src/konqsessionmanager.cpp:132
@@ -1459,9 +1531,11 @@ msgstr "အမှား - %1"
 #: src/konqtabs.cpp:64
 #, kde-format
 msgid ""
-"This bar contains the list of currently open tabs. Click on a tab to make it active. You can also use keyboard shortcuts "
-"to navigate through tabs. The text on the tab shows the content currently open in it; place your mouse over the tab to see "
-"the full title, in case it has been shortened to fit the tab width."
+"This bar contains the list of currently open tabs. Click on a tab to make it "
+"active. You can also use keyboard shortcuts to navigate through tabs. The "
+"text on the tab shows the content currently open in it; place your mouse "
+"over the tab to see the full title, in case it has been shortened to fit the "
+"tab width."
 msgstr ""
 
 #: src/konqtabs.cpp:99
@@ -1514,7 +1588,9 @@ msgstr ""
 #. i18n: ectx: whatsthis, entry, group (UserSettings)
 #: src/konqueror.kcfg:17
 #, kde-format
-msgid "This is the URL of the web page where Konqueror will jump to when the \\\"Home\\\" button is pressed."
+msgid ""
+"This is the URL of the web page where Konqueror will jump to when the \\"
+"\"Home\\\" button is pressed."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (UndoManagerSettings)
@@ -1526,7 +1602,9 @@ msgstr "ပိတ်ထားသောအိုင်တမ်အရေအတွ
 #. i18n: ectx: whatsthis, entry, group (UndoManagerSettings)
 #: src/konqueror.kcfg:27
 #, kde-format
-msgid "This sets the maximum number of closed items that will be stored in memory. This limit will not be surpassed."
+msgid ""
+"This sets the maximum number of closed items that will be stored in memory. "
+"This limit will not be surpassed."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (FMSettings)
@@ -1539,8 +1617,8 @@ msgstr "ဖိုလ်ဒါများကို သီးခြားဝင�
 #: src/konqueror.kcfg:37
 #, kde-format
 msgid ""
-"If this option is checked, Konqueror will open a new window when you open a folder, rather than showing that folder's "
-"contents in the current window."
+"If this option is checked, Konqueror will open a new window when you open a "
+"folder, rather than showing that folder's contents in the current window."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (FMSettings)
@@ -1553,8 +1631,8 @@ msgstr "ဖိုင်လ်တစ်ပ်များ ပြမည်"
 #: src/konqueror.kcfg:43
 #, kde-format
 msgid ""
-"Here you can control if, when moving the mouse over a file, you want to see a small popup window with additional "
-"information about that file"
+"Here you can control if, when moving the mouse over a file, you want to see "
+"a small popup window with additional information about that file"
 msgstr ""
 
 #. i18n: ectx: label, entry, group (FMSettings)
@@ -1567,7 +1645,8 @@ msgstr "ဖိုင်လ်တစ်ပ်များတွင် အကြ�
 #: src/konqueror.kcfg:55
 #, kde-format
 msgid ""
-"Here you can control if you want the popup window to contain a larger preview for the file, when moving the mouse over it"
+"Here you can control if you want the popup window to contain a larger "
+"preview for the file, when moving the mouse over it"
 msgstr ""
 
 #. i18n: ectx: label, entry, group (FMSettings)
@@ -1580,8 +1659,9 @@ msgstr ""
 #: src/konqueror.kcfg:61
 #, kde-format
 msgid ""
-"Check this if you want 'Delete' menu commands to be displayed on the desktop and in the file manager's menus and context "
-"menus. You can always delete files when hidden by holding the Shift key while calling 'Move to Trash'."
+"Check this if you want 'Delete' menu commands to be displayed on the desktop "
+"and in the file manager's menus and context menus. You can always delete "
+"files when hidden by holding the Shift key while calling 'Move to Trash'."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (FMSettings)
@@ -1619,8 +1699,9 @@ msgstr "ဖိုင်လ်ဖျက်ရာတွင် အတည်ပြ�
 #: src/konqueror.kcfg:505
 #, kde-format
 msgid ""
-"This option tells Konqueror whether to ask for a confirmation when you delete a file without using the trash folder. "
-"Warning, deleted files can not be recovered, so it is recommended to leave this confirmation enabled."
+"This option tells Konqueror whether to ask for a confirmation when you "
+"delete a file without using the trash folder. Warning, deleted files can not "
+"be recovered, so it is recommended to leave this confirmation enabled."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Trash)
@@ -1633,14 +1714,16 @@ msgstr "အမှိုက်ပုံးသို့ရွေ့ယူဖို
 #: src/konqueror.kcfg:511
 #, kde-format
 msgid ""
-"This option tells Konqueror whether to ask for a confirmation when you move the file to your trash folder, from where it "
-"can be recovered very easily."
+"This option tells Konqueror whether to ask for a confirmation when you move "
+"the file to your trash folder, from where it can be recovered very easily."
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Trash)
 #: src/konqueror.kcfg:518
 #, kde-format
-msgid "If true, when opening a session from within the sessions dialog the tabs will be opened inside current window."
+msgid ""
+"If true, when opening a session from within the sessions dialog the tabs "
+"will be opened inside current window."
 msgstr ""
 
 #. i18n: ectx: Menu (file)
@@ -1720,7 +1803,8 @@ msgstr "စာမျက်နှာအမှတ်အသား ကိရိယ�
 msgid "Und&o: Closed Tab"
 msgstr "&oပြန်ဆုတ် - တပ်ဘ်ပိတ်ခြင်း"
 
-#: src/konqundomanager.cpp:105 src/konqundomanager.cpp:116 src/konqundomanager.cpp:160
+#: src/konqundomanager.cpp:105 src/konqundomanager.cpp:116
+#: src/konqundomanager.cpp:160
 #, kde-format
 msgid "Und&o: Closed Window"
 msgstr "&oပြန်ဆုတ် - ဝင်းဒိုးပိတ်ခြင်း"
@@ -1733,8 +1817,9 @@ msgstr "&oပြန်ဆုတ်"
 #: src/konqview.cpp:1184
 #, kde-format
 msgid ""
-"The page you are trying to view is the result of posted form data. If you resend the data, any action the form carried out "
-"(such as search or online purchase) will be repeated. "
+"The page you are trying to view is the result of posted form data. If you "
+"resend the data, any action the form carried out (such as search or online "
+"purchase) will be repeated. "
 msgstr ""
 
 #: src/konqview.cpp:1186

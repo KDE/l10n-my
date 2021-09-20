@@ -9,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-31 00:20+0000\n"
 "PO-Revision-Date: 2021-09-15 20:37+0630\n"
+"Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: \n"
 "X-Generator: Poedit 2.2.1\n"
 
 #, kde-format
@@ -53,8 +53,8 @@ msgstr "ဝက်ဘ်ဘရောက်ဇာ၊ ဖိုင်လ်မန�
 #: src/about/konq_aboutpage.cpp:188 src/about/konq_aboutpage.cpp:288
 #, fuzzy, kde-format
 msgctxt ""
-"Link that points to the first page of the Konqueror 'about page', Starting Points "
-"contains links to Home, Network Folders, Trash, etc."
+"Link that points to the first page of the Konqueror 'about page', Starting "
+"Points contains links to Home, Network Folders, Trash, etc."
 msgid "Starting Points"
 msgstr "စတင်နေသည်"
 
@@ -130,18 +130,18 @@ msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလု�
 #: src/about/konq_aboutpage.cpp:140
 #, kde-format
 msgid ""
-"Konqueror makes working with and managing your files easy. You can browse both local "
-"and networked folders while enjoying advanced features such as the powerful sidebar "
-"and file previews."
+"Konqueror makes working with and managing your files easy. You can browse "
+"both local and networked folders while enjoying advanced features such as "
+"the powerful sidebar and file previews."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:144
 #, kde-format
 msgid ""
-"Konqueror is also a full featured and easy to use web browser which you can use to "
-"explore the Internet. Enter the address (e.g. <a href=\"http://www.kde.org\">http://"
-"www.kde.org</a>) of a web page you would like to visit in the location bar and press "
-"Enter, or choose an entry from the Bookmarks menu."
+"Konqueror is also a full featured and easy to use web browser which you can "
+"use to explore the Internet. Enter the address (e.g. <a href=\"http://www."
+"kde.org\">http://www.kde.org</a>) of a web page you would like to visit in "
+"the location bar and press Enter, or choose an entry from the Bookmarks menu."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:149
@@ -154,13 +154,14 @@ msgstr ""
 #: src/about/konq_aboutpage.cpp:152
 #, kde-format
 msgid ""
-"To quickly go to your Home folder press the home button <img width='16' height='16' "
-"src=\"%1\"></img>."
+"To quickly go to your Home folder press the home button <img width='16' "
+"height='16' src=\"%1\"></img>."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:154
 #, kde-format
-msgid "For more detailed documentation on Konqueror click <a href=\"%1\">here</a>."
+msgid ""
+"For more detailed documentation on Konqueror click <a href=\"%1\">here</a>."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:157
@@ -171,12 +172,12 @@ msgstr "&Nကျော် >>"
 #: src/about/konq_aboutpage.cpp:193
 #, kde-format
 msgid ""
-"Konqueror is designed to embrace and support Internet standards. The aim is to fully "
-"implement the officially sanctioned standards from organizations such as the W3 and "
-"OASIS, while also adding extra support for other common usability features that "
-"arise as de facto standards across the Internet. Along with this support, for such "
-"functions as favicons, Web Shortcuts, and <A HREF=\"%1\">XBEL bookmarks</A>, "
-"Konqueror also implements:"
+"Konqueror is designed to embrace and support Internet standards. The aim is "
+"to fully implement the officially sanctioned standards from organizations "
+"such as the W3 and OASIS, while also adding extra support for other common "
+"usability features that arise as de facto standards across the Internet. "
+"Along with this support, for such functions as favicons, Web Shortcuts, and "
+"<A HREF=\"%1\">XBEL bookmarks</A>, Konqueror also implements:"
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:200
@@ -197,8 +198,8 @@ msgstr ""
 #: src/about/konq_aboutpage.cpp:203
 #, kde-format
 msgid ""
-"<A HREF=\"%1\">DOM</A> (Level 1, partially Level 2) based <A HREF=\"%2\">HTML 4.01</"
-"A>"
+"<A HREF=\"%1\">DOM</A> (Level 1, partially Level 2) based <A HREF="
+"\"%2\">HTML 4.01</A>"
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:205 src/about/konq_aboutpage.cpp:207
@@ -220,13 +221,15 @@ msgstr ""
 
 #: src/about/konq_aboutpage.cpp:210
 #, kde-format
-msgid "JavaScript disabled (globally). Enable JavaScript <A HREF=\"%1\">here</A>."
+msgid ""
+"JavaScript disabled (globally). Enable JavaScript <A HREF=\"%1\">here</A>."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:211
 #, kde-format
 msgid ""
-"JavaScript enabled (globally). Configure JavaScript <A HREF=\\\"%1\\\">here</A>."
+"JavaScript enabled (globally). Configure JavaScript <A HREF=\\\"%1\\\">here</"
+"A>."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:212
@@ -237,8 +240,8 @@ msgstr ""
 #: src/about/konq_aboutpage.cpp:213
 #, kde-format
 msgid ""
-"JDK 1.2.0 (Java 2) compatible VM (<A HREF=\"%1\">OpenJDK</A> or <A HREF=\"%2\">Sun/"
-"Oracle</A>)"
+"JDK 1.2.0 (Java 2) compatible VM (<A HREF=\"%1\">OpenJDK</A> or <A HREF="
+"\"%2\">Sun/Oracle</A>)"
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:215
@@ -249,8 +252,8 @@ msgstr ""
 #: src/about/konq_aboutpage.cpp:216
 #, kde-format
 msgid ""
-"NPAPI <A HREF=\"%2\">plugins</A> (for viewing <A HREF=\"%1\">Flash<SUP>&reg;</SUP></"
-"A>, etc.)"
+"NPAPI <A HREF=\"%2\">plugins</A> (for viewing <A HREF=\"%1\">Flash<SUP>&reg;"
+"</SUP></A>, etc.)"
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:220
@@ -348,8 +351,8 @@ msgstr "အတိုချုံးပြမြင်ကွင်း"
 #: src/about/konq_aboutpage.cpp:241
 #, kde-format
 msgctxt ""
-"Link that points to the first page of the Konqueror 'about page', Starting Points "
-"contains links to Home, Network Folders, Trash, etc."
+"Link that points to the first page of the Konqueror 'about page', Starting "
+"Points contains links to Home, Network Folders, Trash, etc."
 msgid "<a href=\"%1\">Return to Starting Points</a>"
 msgstr ""
 
@@ -361,75 +364,79 @@ msgstr ""
 #: src/about/konq_aboutpage.cpp:293
 #, kde-format
 msgid ""
-"Use Web-Shortcuts: by typing \"gg: KDE\" one can search the Internet, using Google, "
-"for the search phrase \"KDE\". There are a lot of Web-Shortcuts predefined to make "
-"searching for software or looking up certain words in an encyclopedia a breeze. You "
-"can even <a href=\"%1\">create your own</a> Web-Shortcuts."
+"Use Web-Shortcuts: by typing \"gg: KDE\" one can search the Internet, using "
+"Google, for the search phrase \"KDE\". There are a lot of Web-Shortcuts "
+"predefined to make searching for software or looking up certain words in an "
+"encyclopedia a breeze. You can even <a href=\"%1\">create your own</a> Web-"
+"Shortcuts."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:298
 #, kde-format
 msgid ""
-"Use the magnifier button <img width='16' height='16' src=\"%1\"></img> in the HTML "
-"toolbar to increase the font size on your web page."
+"Use the magnifier button <img width='16' height='16' src=\"%1\"></img> in "
+"the HTML toolbar to increase the font size on your web page."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:300
 #, kde-format
 msgid ""
-"When you want to paste a new address into the Location toolbar you might want to "
-"clear the current entry by pressing the black arrow with the white cross <img "
-"width='16' height='16' src=\"%1\"></img> in the toolbar."
+"When you want to paste a new address into the Location toolbar you might "
+"want to clear the current entry by pressing the black arrow with the white "
+"cross <img width='16' height='16' src=\"%1\"></img> in the toolbar."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:304
 #, kde-format
 msgid ""
-"To create a link on your desktop pointing to the current page, simply drag the icon "
-"(favicon) that is to the left of the Location toolbar, drop it on to the desktop, "
-"and choose \"Icon\"."
+"To create a link on your desktop pointing to the current page, simply drag "
+"the icon (favicon) that is to the left of the Location toolbar, drop it on "
+"to the desktop, and choose \"Icon\"."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:307
 #, kde-format
 msgid ""
-"You can also find <img width='16' height='16' src=\"%1\" /> \"Full-Screen Mode\" in "
-"the Settings menu. This feature is very useful for \"Talk\" sessions."
+"You can also find <img width='16' height='16' src=\"%1\" /> \"Full-Screen "
+"Mode\" in the Settings menu. This feature is very useful for \"Talk\" "
+"sessions."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:310
 #, kde-format
 msgid ""
-"Divide et impera (lat. \"Divide and conquer\") - by splitting a window into two "
-"parts (e.g. Window -> <img width='16' height='16' src=\"%1\" /> Split View Left/"
-"Right) you can make Konqueror appear the way you like."
+"Divide et impera (lat. \"Divide and conquer\") - by splitting a window into "
+"two parts (e.g. Window -> <img width='16' height='16' src=\"%1\" /> Split "
+"View Left/Right) you can make Konqueror appear the way you like."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:313
 #, kde-format
 msgid ""
-"Use the <a href=\"%1\">user-agent</a> feature if the website you are visiting asks "
-"you to use a different browser (and do not forget to send a complaint to the "
-"webmaster!)"
+"Use the <a href=\"%1\">user-agent</a> feature if the website you are "
+"visiting asks you to use a different browser (and do not forget to send a "
+"complaint to the webmaster!)"
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:316
 #, kde-format
 msgid ""
-"The <img width='16' height='16' src=\"%1\"></img> History in your Sidebar ensures "
-"that you can keep track of the pages you have visited recently."
+"The <img width='16' height='16' src=\"%1\"></img> History in your Sidebar "
+"ensures that you can keep track of the pages you have visited recently."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:318
 #, kde-format
-msgid "Use a caching <a href=\"%1\">proxy</a> to speed up your Internet connection."
+msgid ""
+"Use a caching <a href=\"%1\">proxy</a> to speed up your Internet connection."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:320
 #, kde-format
 msgid ""
-"Advanced users will appreciate the Konsole which you can embed into Konqueror "
-"(Settings -> <img width='16' height='16' SRC=\"%1\"></img> Show Terminal Emulator)."
+"Advanced users will appreciate the Konsole which you can embed into "
+"Konqueror (Settings -> <img width='16' height='16' SRC=\"%1\"></img> Show "
+"Terminal Emulator)."
 msgstr ""
 
 #: src/about/konq_aboutpage.cpp:324
@@ -478,7 +485,8 @@ msgid "&Languages"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, showPasswords)
-#: src/ui/credentialsdetailswidget.ui:34 src/webenginecustomizecacheablefieldsdlg.ui:44
+#: src/ui/credentialsdetailswidget.ui:34
+#: src/webenginecustomizecacheablefieldsdlg.ui:44
 #, fuzzy, kde-format
 msgid "&Show passwords"
 msgstr "ပြမည် -"
@@ -503,26 +511,29 @@ msgstr ""
 #: src/ui/featurepermissionbar.cpp:72
 #, kde-format
 msgid ""
-"<html><b>%1</b> would like to access information about your current physical location"
+"<html><b>%1</b> would like to access information about your current physical "
+"location"
 msgstr ""
 
 #: src/ui/featurepermissionbar.cpp:74
 #, kde-format
 msgid ""
-"<html><b>%1</b> would like to access your microphone and other audio capture devices"
+"<html><b>%1</b> would like to access your microphone and other audio capture "
+"devices"
 msgstr ""
 
 #: src/ui/featurepermissionbar.cpp:76
 #, kde-format
 msgid ""
-"<html><b>%1</b> would like to access your camera and other video capture devices"
+"<html><b>%1</b> would like to access your camera and other video capture "
+"devices"
 msgstr ""
 
 #: src/ui/featurepermissionbar.cpp:78
 #, kde-format
 msgid ""
-"<html><b>%1</b> would like to access to your microphone, camera and other audio and "
-"video capture devices"
+"<html><b>%1</b> would like to access to your microphone, camera and other "
+"audio and video capture devices"
 msgstr ""
 
 #: src/ui/featurepermissionbar.cpp:80
@@ -695,9 +706,9 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt><p>To display the requested web page again, the browser needs to resend "
-"information you have previously submitted.</p><p>If you were shopping online and "
-"made a purchase, click the Cancel button to prevent a duplicate purchase.Otherwise, "
-"click the Continue button to display the webpage again.</p>"
+"information you have previously submitted.</p><p>If you were shopping online "
+"and made a purchase, click the Cancel button to prevent a duplicate purchase."
+"Otherwise, click the Continue button to display the webpage again.</p>"
 msgstr ""
 
 #: src/webenginepage.cpp:280
@@ -708,8 +719,8 @@ msgstr "သတင်းအချက်အလက်"
 #: src/webenginepage.cpp:379
 #, kde-format
 msgid ""
-"<p>The server failed the authenticity check (%1). The error is:</p><p><tt>%2</tt></"
-"p>Do you want to ignore this error?"
+"<p>The server failed the authenticity check (%1). The error is:</p><p><tt>"
+"%2</tt></p>Do you want to ignore this error?"
 msgstr ""
 
 #: src/webenginepage.cpp:383
@@ -731,7 +742,8 @@ msgid ""
 "Do you want to allow it access?"
 msgstr ""
 
-#: src/webenginepage.cpp:542 src/webenginepage.cpp:659 src/webenginepage.cpp:670
+#: src/webenginepage.cpp:542 src/webenginepage.cpp:659
+#: src/webenginepage.cpp:670
 #, fuzzy, kde-format
 msgid "Network Transmission"
 msgstr "ဆ.သ.ရ-ကွန်ရက်"
@@ -744,8 +756,8 @@ msgstr "အသုံးပြုခွင့်မရှိ"
 #: src/webenginepage.cpp:618
 #, kde-format
 msgid ""
-"<qt>This untrusted page links to<br/><b>%1</b>.<br/>Do you want to follow the link?</"
-"qt>"
+"<qt>This untrusted page links to<br/><b>%1</b>.<br/>Do you want to follow "
+"the link?</qt>"
 msgstr ""
 
 #: src/webenginepage.cpp:620
@@ -798,8 +810,8 @@ msgstr "ပို့ရန်..."
 #: src/webenginepage.cpp:720
 #, kde-format
 msgid ""
-"<qt>Do you want to allow this site to attach the following files to the email "
-"message?</qt>"
+"<qt>Do you want to allow this site to attach the following files to the "
+"email message?</qt>"
 msgstr ""
 
 #: src/webenginepage.cpp:722
@@ -820,8 +832,8 @@ msgstr "တွဲထားချက်"
 #: src/webenginepage.cpp:738
 #, kde-format
 msgid ""
-"This site attempted to attach a file from your computer in the form submission. The "
-"attachment was removed for your protection."
+"This site attempted to attach a file from your computer in the form "
+"submission. The attachment was removed for your protection."
 msgstr ""
 
 #: src/webenginepage.cpp:741
@@ -839,8 +851,8 @@ msgstr ""
 #: src/webenginepage.cpp:873
 #, kde-format
 msgid ""
-"<qt>This site is requesting to open a popup window to<p>%1</p><br/>Do you want to "
-"allow this?</qt>"
+"<qt>This site is requesting to open a popup window to<p>%1</p><br/>Do you "
+"want to allow this?</qt>"
 msgstr ""
 
 #: src/webenginepage.cpp:877
@@ -863,13 +875,14 @@ msgstr "ခွင့်ပြုမည်"
 msgctxt "Program Name"
 msgid "WebEnginePart"
 msgstr ""
-"အပ္ပလီကေးရှင်းအကုန်လုံးတော့ ဤကြားခံ-သတ်မှတ်ချက်များကို လိုက်နာမည်မဟုတ်ပါ။ အထူးသဖြင့် <application>မီးမြေခွေး</"
-"application>၊ <application>ခရိုမီယမ်</application>၊ ၎င်းတို့မှဆင်းသက်လာသောအပ္ပလီကေးရှင်းများ သို့မဟုတ် "
-"<application>ကျူတီဝက်ဘ်အင်ဂျင်</"
-"application>ကိုအသုံးပြုသောအပ္ပလီကေးရှင်းများ(<application>ဝက်လ်အင်ဂျင်ပတ့်</application>သုံးသည့် "
-"<application>ကွန်ကွာရာ</application>၊ <application>အာခရီဂိတ်တာ</application>၊ "
-"<application>ဖယ်လ်ကွန်</application> ကဲ့သို့) သည် ယင်းသတ်မှတ်ချက်များကို လိုက်နာမည်မဟုတ်ပါ။ "
-"အချို့အပ္ပလီကေးရှင်းများသညိ ကြားခံကို ပြင်ဆင်ရန် ၎င်းတို့၏ကိုယ်ပိုင်သတ်မှတ်ချက်များ ပေးထားသည်။"
+"အပ္ပလီကေးရှင်းအကုန်လုံးတော့ ဤကြားခံ-သတ်မှတ်ချက်များကို လိုက်နာမည်မဟုတ်ပါ။ အထူးသဖြင့် "
+"<application>မီးမြေခွေး</application>၊ <application>ခရိုမီယမ်</application>၊ "
+"၎င်းတို့မှဆင်းသက်လာသောအပ္ပလီကေးရှင်းများ သို့မဟုတ် <application>ကျူတီဝက်ဘ်အင်ဂျင်</"
+"application>ကိုအသုံးပြုသောအပ္ပလီကေးရှင်းများ(<application>ဝက်လ်အင်ဂျင်ပတ့်</"
+"application>သုံးသည့် <application>ကွန်ကွာရာ</application>၊ <application>အာခရီဂိတ်တာ</"
+"application>၊ <application>ဖယ်လ်ကွန်</application> ကဲ့သို့) သည် ယင်းသတ်မှတ်ချက်များကို "
+"လိုက်နာမည်မဟုတ်ပါ။ အချို့အပ္ပလီကေးရှင်းများသညိ ကြားခံကို ပြင်ဆင်ရန် ၎င်းတို့၏ကိုယ်ပိုင်သတ်မှတ်ချက်များ "
+"ပေးထားသည်။"
 
 #: src/webenginepart.cpp:134
 #, fuzzy, kde-format
@@ -900,8 +913,8 @@ msgstr "ထိန်းသိမ်းသူ"
 msgid "Dawit Alemayehu"
 msgstr "ဒါဝစ်အလမ်မာရဟူ"
 
-#: src/webenginepart.cpp:141 src/webenginepart.cpp:143 src/webenginepart.cpp:144
-#: src/webenginepart.cpp:145
+#: src/webenginepart.cpp:141 src/webenginepart.cpp:143
+#: src/webenginepart.cpp:144 src/webenginepart.cpp:145
 #, kde-format
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
@@ -984,7 +997,8 @@ msgstr "အက်စ်အက်စ်အယ်လ်"
 #, kde-format
 msgctxt "find action \"whats this\" text"
 msgid ""
-"<h3>Find text</h3>Shows a dialog that allows you to find text on the displayed page."
+"<h3>Find text</h3>Shows a dialog that allows you to find text on the "
+"displayed page."
 msgstr ""
 
 #: src/webenginepart.cpp:604
@@ -995,34 +1009,35 @@ msgstr "မိတ်ဆွေ အက်စ်အက်စ်အယ်လ် အ�
 #: src/webenginepart.cpp:685
 #, fuzzy, kde-format
 msgctxt ""
-"status bar text when hovering email links; looks like \"Email: xy@kde.org - CC: "
-"z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
 msgid "Email: "
 msgstr ""
 "https://dict.tu-chemnitz.de/dings.cgi?"
-"lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}&iservice=&comment=&email"
+"lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
+"&iservice=&comment=&email"
 
 #: src/webenginepart.cpp:714
 #, kde-format
 msgctxt ""
-"status bar text when hovering email links; looks like \"Email: xy@kde.org - CC: "
-"z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
 msgid " - CC: "
 msgstr ""
 
 #: src/webenginepart.cpp:716
 #, kde-format
 msgctxt ""
-"status bar text when hovering email links; looks like \"Email: xy@kde.org - CC: "
-"z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
 msgid " - BCC: "
 msgstr ""
 
 #: src/webenginepart.cpp:718
 #, fuzzy, kde-format
 msgctxt ""
-"status bar text when hovering email links; looks like \"Email: xy@kde.org - CC: "
-"z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
 msgid " - Subject: "
 msgstr "အကြောင်းအရာ -"
 
@@ -1063,7 +1078,8 @@ msgstr "အတည်ပြုချက်"
 
 #: src/webenginepart.cpp:981
 #, kde-format
-msgid "<html>Do you want %1 to remember the login information for <b>%2</b>?</html>"
+msgid ""
+"<html>Do you want %1 to remember the login information for <b>%2</b>?</html>"
 msgstr ""
 
 #: src/webenginepart.cpp:1052
@@ -1190,8 +1206,8 @@ msgstr "%1 သည် အထွက်ကုတ် %2 နှင့် ပြီး
 #: src/webengineparterrorschemehandler.cpp:108
 #, kde-format
 msgid ""
-"<html><body><h3>Unable to display error message</h3><p>The error template file "
-"<em>error.html</em> could not be found.</p></body></html>"
+"<html><body><h3>Unable to display error message</h3><p>The error template "
+"file <em>error.html</em> could not be found.</p></body></html>"
 msgstr ""
 
 #: src/webengineparterrorschemehandler.cpp:117
@@ -1404,17 +1420,17 @@ msgstr "စကားဝှက် -"
 msgctxt "Web field with type 'e-mail'"
 msgid "e-mail"
 msgstr ""
-"<qt><p>ဤစာရင်းသည် သင်၏အပ္ပလီကေးရှင်း ကိုင်တွယ်နိုင်သော ဖိုင်လ်အမျိုးအစားများကို ပြသင့်သည်။ ယင်းကို <u>အမ်အိုင်အမ်အီးတိုက်</"
-"u> ဖြင့် စုစည်းစီစဥ်ထားသည်။</p>\n"
-"<p> အမ်အိုင်အမ်အီး (MIME)၊ Multipurpose Internet (e)Mail Extensionသည် ဖိုင်လ်အမည်နောက်တွဲများနှင့် "
-"ယင်းတို့၏သက်ဆိုင်ရာ <u>အမ်အိုင်အမ်အီးတိုက်</u>များကို အခြေခံ၍ ဒေတာအမျိုးအစားကို ခွဲခြားသတ်မှတ်သော စံလုပ်ရိုးလုပ်ထုံးဖြစ်သည်။ "
-"သာဓက။ ။ ပန်း.bmp တွင် '.'နောက်မှလာသော ဖိုင်လ်အမည်နောက်တွဲ \"bmp\" က ယင်းဖိုင်လ်သည် <u>image/x-bmp</u> "
-"ပုံရိပ်အမျိုးအစားဖြစ်ကြောင့်ပြသနေသည်။ ဘယ်ဖိုင်လ်ကို ဘယ်အပ္ပလီကေးရှင်းနှင့် ဖွင့်ရမည်ဆိုသည်ကို သိရှိရန် စစ်စတမ်ကို "
-"အပ္ပလီကေးရှင်းတစ်ခုချင်းစီ၏ ဖိုင်လ်အမည်နောက်တွဲနှင့် အမ်အိုင်အမ်အီးတိုက်များကို ကိုင်တွယ်နိုင်စွမ်းအကြောင်းအား အသိပေးထားရမည်။</"
-"p>\n"
-"<p>ဤအပ္ပလီကေးရှင်းကို စာရင်းတွင်မပါသော အမ်အိုင်အမ်အီးတိုက်များနှင့် ပတ်သက်စေလိုပါက အောက်ပါ <b>ထည့်မည်</b> ခလုတ်ကို "
-"နှိပ်ပါ။ ၎င်း မကိုင်တွယ်နိုင်သော အမ်အိုင်အမ်အီးတိုက်များ စာရင်းတွင်ပါပါက ထုတ်ပစ်ရန် <b>ဖယ်မည်</b> ခလုတ်ကိုနှိပ်ပါ။</p></"
-"qt>"
+"<qt><p>ဤစာရင်းသည် သင်၏အပ္ပလီကေးရှင်း ကိုင်တွယ်နိုင်သော ဖိုင်လ်အမျိုးအစားများကို ပြသင့်သည်။ ယင်းကို "
+"<u>အမ်အိုင်အမ်အီးတိုက်</u> ဖြင့် စုစည်းစီစဥ်ထားသည်။</p>\n"
+"<p> အမ်အိုင်အမ်အီး (MIME)၊ Multipurpose Internet (e)Mail Extensionသည် "
+"ဖိုင်လ်အမည်နောက်တွဲများနှင့် ယင်းတို့၏သက်ဆိုင်ရာ <u>အမ်အိုင်အမ်အီးတိုက်</u>များကို အခြေခံ၍ ဒေတာအမျိုးအစားကို "
+"ခွဲခြားသတ်မှတ်သော စံလုပ်ရိုးလုပ်ထုံးဖြစ်သည်။ သာဓက။ ။ ပန်း.bmp တွင် '.'နောက်မှလာသော ဖိုင်လ်အမည်နောက်တွဲ "
+"\"bmp\" က ယင်းဖိုင်လ်သည် <u>image/x-bmp</u> ပုံရိပ်အမျိုးအစားဖြစ်ကြောင့်ပြသနေသည်။ ဘယ်ဖိုင်လ်ကို "
+"ဘယ်အပ္ပလီကေးရှင်းနှင့် ဖွင့်ရမည်ဆိုသည်ကို သိရှိရန် စစ်စတမ်ကို အပ္ပလီကေးရှင်းတစ်ခုချင်းစီ၏ ဖိုင်လ်အမည်နောက်တွဲနှင့် "
+"အမ်အိုင်အမ်အီးတိုက်များကို ကိုင်တွယ်နိုင်စွမ်းအကြောင်းအား အသိပေးထားရမည်။</p>\n"
+"<p>ဤအပ္ပလီကေးရှင်းကို စာရင်းတွင်မပါသော အမ်အိုင်အမ်အီးတိုက်များနှင့် ပတ်သက်စေလိုပါက အောက်ပါ <b>ထည့်မည်</b> "
+"ခလုတ်ကို နှိပ်ပါ။ ၎င်း မကိုင်တွယ်နိုင်သော အမ်အိုင်အမ်အီးတိုက်များ စာရင်းတွင်ပါပါက ထုတ်ပစ်ရန် <b>ဖယ်မည်</b> "
+"ခလုတ်ကိုနှိပ်ပါ။</p></qt>"
 
 #: src/webenginewallet.cpp:120
 #, fuzzy, kde-format
@@ -1492,6 +1508,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "<ul><li><b>Field internal name: </b>%1</li><li><b>Field type: </b>%2</"
-"li><li><b>Field id: </b>%3</li><li><b>Field is read only: </b>%4</li><li><b>Field is "
-"enabled: </b>%5</li><li><b>Autocompletion is enabled: </b>%6</li></ul>"
+"li><li><b>Field id: </b>%3</li><li><b>Field is read only: </b>%4</"
+"li><li><b>Field is enabled: </b>%5</li><li><b>Autocompletion is enabled: </b>"
+"%6</li></ul>"
 msgstr ""

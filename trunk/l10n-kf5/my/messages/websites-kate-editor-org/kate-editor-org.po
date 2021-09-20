@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
-"Language: my\n"
 "X-Generator: Poedit 3.0\n"
 
 #: config.yaml:0
@@ -92,22 +92,22 @@ msgstr "အပ္ပလီကေးရှင်းစွမ်းဆောင်
 
 #: content/about-kate.en.md:7
 msgid ""
-"![Screenshot showing Kate window splitting feature and terminal plugin](/images/kate-"
-"window.png)"
+"![Screenshot showing Kate window splitting feature and terminal plugin](/"
+"images/kate-window.png)"
 msgstr ""
-"![Screenshot showing Kate window splitting feature and terminal plugin](/images/kate-"
-"window.png)"
+"![Screenshot showing Kate window splitting feature and terminal plugin](/"
+"images/kate-window.png)"
 
 #: content/about-kate.en.md:9
 msgid ""
-"View and edit multiple documents at the same time, by splitting horizontally and "
-"vertically the window"
+"View and edit multiple documents at the same time, by splitting horizontally "
+"and vertically the window"
 msgstr ""
 
 #: content/about-kate.en.md:10
 msgid ""
-"Lot of plugins: [Embedded terminal](https://konsole.kde.org), SQL plugin, build plugin, "
-"GDB plugin, Replace in Files, and more"
+"Lot of plugins: [Embedded terminal](https://konsole.kde.org), SQL plugin, "
+"build plugin, GDB plugin, Replace in Files, and more"
 msgstr ""
 "ပလပ်ဂင်အများကြီး - [Embedded terminal](https://konsole.kde.org)၊ အက်စ်ကျူအယ်ပလပ်ဂင်၊ "
 "တည်ဆောက်မှုပလပ်ဂင်၊ ဂျီဒီဘီပလပ်ဂင်၊ ဖိုင်လ်များတွင် အစားထိုးမှု နှင့် နောက်ထပ်ပလပ်ဂင်များ"
@@ -126,9 +126,11 @@ msgstr "အထွေထွေစွမ်းဆောင်ရည်များ
 
 #: content/about-kate.en.md:16
 msgid ""
-"![Screenshot showing Kate search and replace feature](/images/kate-search-replace.png)"
+"![Screenshot showing Kate search and replace feature](/images/kate-search-"
+"replace.png)"
 msgstr ""
-"![Screenshot showing Kate search and replace feature](/images/kate-search-replace.png)"
+"![Screenshot showing Kate search and replace feature](/images/kate-search-"
+"replace.png)"
 
 #: content/about-kate.en.md:18
 msgid "Encoding support (Unicode and lots of others)"
@@ -156,9 +158,11 @@ msgstr "အဆင့်မြင့်စာသားတည်းဖြတ်က
 
 #: content/about-kate.en.md:26
 msgid ""
-"![Screenshot of Kate border with line number and bookmark](/images/kate-border.png)"
+"![Screenshot of Kate border with line number and bookmark](/images/kate-"
+"border.png)"
 msgstr ""
-"![Screenshot of Kate border with line number and bookmark](/images/kate-border.png)"
+"![Screenshot of Kate border with line number and bookmark](/images/kate-"
+"border.png)"
 
 #: content/about-kate.en.md:28
 msgid "Bookmarking system (also supported: break points etc.)"
@@ -181,8 +185,10 @@ msgid "Code folding"
 msgstr "ကုတ် ခေါက်ခြင်း"
 
 #: content/about-kate.en.md:36
-msgid "![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
-msgstr "![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
+msgid ""
+"![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
+msgstr ""
+"![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
 
 #: content/about-kate.en.md:38
 msgid "Highlighting support for over 300 languages"
@@ -205,8 +211,10 @@ msgid "Programming Features"
 msgstr "ပရိုဂရမ်မင်းဆိုင်ရာစွမ်းဆောင်ရည်များ"
 
 #: content/about-kate.en.md:45
-msgid "![Screenshot of Kate programming features](/images/kate-programming.png)"
-msgstr "![Screenshot of Kate programming features](/images/kate-programming.png)"
+msgid ""
+"![Screenshot of Kate programming features](/images/kate-programming.png)"
+msgstr ""
+"![Screenshot of Kate programming features](/images/kate-programming.png)"
 
 #: content/about-kate.en.md:47
 msgid "Scriptable auto indentation"
@@ -233,8 +241,10 @@ msgid "Search & Replace"
 msgstr "ရှာဖွေ၊အစားထိုး"
 
 #: content/about-kate.en.md:55
-msgid "![Screenshot of Kate incremental search feature](/images/kate-search.png)"
-msgstr "![Screenshot of Kate incremental search feature](/images/kate-search.png)"
+msgid ""
+"![Screenshot of Kate incremental search feature](/images/kate-search.png)"
+msgstr ""
+"![Screenshot of Kate incremental search feature](/images/kate-search.png)"
 
 #: content/about-kate.en.md:57
 msgid "Incremental search, also known as &#8220;find as you type&#8221;"
@@ -257,8 +267,10 @@ msgid "Backup and Restore"
 msgstr "ဘက်ခ်အပ် နှင့် ရီစတိုး"
 
 #: content/about-kate.en.md:64
-msgid "![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
-msgstr "![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
+msgid ""
+"![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
+msgstr ""
+"![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
 
 #: content/about-kate.en.md:66
 msgid "Backups on save"
@@ -302,16 +314,17 @@ msgstr "လင်းနက်စ် နှင့် ယူနစ်စ်မျ�
 
 #: content/get-it.en.md:9
 msgid ""
-"Install [Kate](https://apps.kde.org/en/kate) or [KWrite](https://apps.kde.org/en/"
-"kwrite) from [your distribution](https://kde.org/distributions/)"
+"Install [Kate](https://apps.kde.org/en/kate) or [KWrite](https://apps.kde."
+"org/en/kwrite) from [your distribution](https://kde.org/distributions/)"
 msgstr ""
 
 #: content/get-it.en.md:13
 msgid ""
-"These buttons only works with [Discover](https://apps.kde.org/en/discover) and other "
-"AppStream application stores, such as [GNOME Software](https://wiki.gnome.org/Apps/"
-"Software). You can also use your distribution's package manager, such as [Muon](https://"
-"apps.kde.org/en/muon) or [Synaptic](https://wiki.debian.org/Synaptic)."
+"These buttons only works with [Discover](https://apps.kde.org/en/discover) "
+"and other AppStream application stores, such as [GNOME Software](https://"
+"wiki.gnome.org/Apps/Software). You can also use your distribution's package "
+"manager, such as [Muon](https://apps.kde.org/en/muon) or [Synaptic](https://"
+"wiki.debian.org/Synaptic)."
 msgstr ""
 
 #: content/get-it.en.md:17
@@ -347,7 +360,9 @@ msgid "Windows"
 msgstr "ဝင်းဒိုးများ"
 
 #: content/get-it.en.md:31
-msgid "[Kate in the Microsoft Store](https://www.microsoft.com/store/apps/9NWMW7BB59HW)"
+msgid ""
+"[Kate in the Microsoft Store](https://www.microsoft.com/store/"
+"apps/9NWMW7BB59HW)"
 msgstr "[မိုက်ခရိုဆော့ဖ်စတိုးရှိ ကိတ်](https://www.microsoft.com/store/apps/9NWMW7BB59HW)"
 
 #: content/get-it.en.md:33
@@ -360,19 +375,19 @@ msgstr "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 
 #: content/get-it.en.md:36
 msgid ""
-"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows%2064-bit/"
-"job/Kate_Release_win64/) *"
+"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
+"%2064-bit/job/Kate_Release_win64/) *"
 msgstr ""
-"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows%2064-bit/"
-"job/Kate_Release_win64/) *"
+"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
+"%2064-bit/job/Kate_Release_win64/) *"
 
 #: content/get-it.en.md:37
 msgid ""
-"[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/Windows%2064-bit/"
-"job/Kate_Nightly_win64/) **"
+"[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/Windows"
+"%2064-bit/job/Kate_Nightly_win64/) **"
 msgstr ""
-"[ကိတ်ညစဥ် (၆၄ဘစ်) တပ်ဆင်ဖိုင်လ်](https://binary-factory.kde.org/view/Windows%2064-bit/job/"
-"Kate_Nightly_win64/) **"
+"[ကိတ်ညစဥ် (၆၄ဘစ်) တပ်ဆင်ဖိုင်လ်](https://binary-factory.kde.org/view/Windows%2064-bit/"
+"job/Kate_Nightly_win64/) **"
 
 #: content/get-it.en.md:38
 msgid "[Build it](/build-it/#windows) from source."
@@ -404,26 +419,28 @@ msgstr "[Build it](/build-it/#mac) မူရင်းမှ။"
 
 #: content/get-it.en.md:56
 msgid ""
-"**About the releases:** <br> [Kate](https://apps.kde.org/en/kate) and [KWrite](https://"
-"apps.kde.org/en/kwrite) are part of [KDE Applications](https://apps.kde.org), which are "
-"[released typically 3 times a year en-masse](https://community.kde.org/Schedules). The "
-"[text editing](https://api.kde.org/frameworks/ktexteditor/html/) and the [syntax "
-"highlighting](https://api.kde.org/frameworks/syntax-highlighting/html/) engines are "
-"provided by [KDE Frameworks](https://kde.org/announcements/kde-frameworks-5.0/), which "
-"is [updated monthly](https://community.kde.org/Schedules/Frameworks). New releases are "
-"announced [here](https://kde.org/announcements/)."
+"**About the releases:** <br> [Kate](https://apps.kde.org/en/kate) and "
+"[KWrite](https://apps.kde.org/en/kwrite) are part of [KDE Applications]"
+"(https://apps.kde.org), which are [released typically 3 times a year en-"
+"masse](https://community.kde.org/Schedules). The [text editing](https://api."
+"kde.org/frameworks/ktexteditor/html/) and the [syntax highlighting](https://"
+"api.kde.org/frameworks/syntax-highlighting/html/) engines are provided by "
+"[KDE Frameworks](https://kde.org/announcements/kde-frameworks-5.0/), which "
+"is [updated monthly](https://community.kde.org/Schedules/Frameworks). New "
+"releases are announced [here](https://kde.org/announcements/)."
 msgstr ""
 
 #: content/get-it.en.md:58
 msgid ""
-"\\* The **release** packages contain the latest version of Kate and KDE Frameworks."
+"\\* The **release** packages contain the latest version of Kate and KDE "
+"Frameworks."
 msgstr ""
 
 #: content/get-it.en.md:60
 msgid ""
-"\\*\\* The **nightly** packages are automatically compiled daily from source code, "
-"therefore they may be unstable and contain bugs or incomplete features. These are only "
-"recommended for testing purposes."
+"\\*\\* The **nightly** packages are automatically compiled daily from source "
+"code, therefore they may be unstable and contain bugs or incomplete "
+"features. These are only recommended for testing purposes."
 msgstr ""
 
 #: content/mascot.md:0
@@ -432,8 +449,8 @@ msgstr "ကိတ်၏လာဘ်ကောင်"
 
 #: content/mascot.md:5
 msgid ""
-"Kate's mascot, Kate the Cyber Woodpecker, was designed by [Tyson Tan](https://www."
-"tysontan.com/)."
+"Kate's mascot, Kate the Cyber Woodpecker, was designed by [Tyson Tan]"
+"(https://www.tysontan.com/)."
 msgstr ""
 
 #: content/mascot.md:7
@@ -448,9 +465,11 @@ msgstr ""
 
 #: content/mascot.md:11
 msgid ""
-"![Kate the Cyber Woodpecker](/images/mascot/electrichearts_20210103_kate_normal.png)"
+"![Kate the Cyber Woodpecker](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
 msgstr ""
-"![Kate the Cyber Woodpecker](/images/mascot/electrichearts_20210103_kate_normal.png)"
+"![Kate the Cyber Woodpecker](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
 
 #: content/mascot.md:13
 msgid "Version without footer text"
@@ -486,10 +505,10 @@ msgstr "လိုင်စင်အတွက်၊ တိုင်ဆွန်�
 
 #: content/mascot.md:27
 msgid ""
-"I hereby donate the new Kate the Cyber Woodpecker to Kate Editor project. The artworks "
-"are dual licensed under LGPL (or whatever the same as Kate Editor) and Creative Commons "
-"BY-SA. In this way you don't need to ask me for permission before using/modifying the "
-"mascot."
+"I hereby donate the new Kate the Cyber Woodpecker to Kate Editor project. "
+"The artworks are dual licensed under LGPL (or whatever the same as Kate "
+"Editor) and Creative Commons BY-SA. In this way you don't need to ask me for "
+"permission before using/modifying the mascot."
 msgstr ""
 
 #: content/mascot.md:29
@@ -498,10 +517,11 @@ msgstr ""
 
 #: content/mascot.md:33
 msgid ""
-"I asked Tyson if I can share the intermediate versions we exchanged to show the "
-"evolution and he agreed and even wrote some short summaries about the individual steps. "
-"This includes the initial mascot and the icon that fit into this design evolution. I "
-"therefore just quote what he wrote about the different steps below."
+"I asked Tyson if I can share the intermediate versions we exchanged to show "
+"the evolution and he agreed and even wrote some short summaries about the "
+"individual steps. This includes the initial mascot and the icon that fit "
+"into this design evolution. I therefore just quote what he wrote about the "
+"different steps below."
 msgstr ""
 
 #: content/mascot.md:35
@@ -518,14 +538,16 @@ msgstr ""
 
 #: content/mascot.md:44
 msgid ""
-"The 2014 version was done perhaps during my lowest point as an artist. I had not been "
-"drawing much in years, and was on the verge of giving up completely. There were some "
-"interesting ideas in this version, namely the {} brackets on her chest, and the color "
-"scheme inspired by doxygen code highlighting. However, the execution was very "
-"simplistic -- at that time, I deliberately stop using any fancy techniques to expose my "
-"inadequate base skills. In the followed years, I would be going through an arduous "
-"process to rebuild my broken, self-taught art foundation from the ground up. I'm "
-"grateful that the Kate team still kept this one on their website for many years."
+"The 2014 version was done perhaps during my lowest point as an artist. I had "
+"not been drawing much in years, and was on the verge of giving up "
+"completely. There were some interesting ideas in this version, namely the {} "
+"brackets on her chest, and the color scheme inspired by doxygen code "
+"highlighting. However, the execution was very simplistic -- at that time, I "
+"deliberately stop using any fancy techniques to expose my inadequate base "
+"skills. In the followed years, I would be going through an arduous process "
+"to rebuild my broken, self-taught art foundation from the ground up. I'm "
+"grateful that the Kate team still kept this one on their website for many "
+"years."
 msgstr ""
 
 #: content/mascot.md:46
@@ -538,12 +560,13 @@ msgstr "![2020 - The new Kate icon](/images/mascot/history/kate-3000px.png)"
 
 #: content/mascot.md:55
 msgid ""
-"The new Kate icon was the only time I attempted real vector art. It was at that time I "
-"began to develop some faint artistic sense. I had no previous experience of icon "
-"design, there was zero discipline like math-guided proportion. Every shape and curve "
-"was tweaked using my instinct as an artist. The concept was very simple: it's a bird "
-"shaped like the letter \"K\", and it has to be sharp. The bird was chunkier until "
-"Christoph pointed it out, I later turned it into a more sleek shape."
+"The new Kate icon was the only time I attempted real vector art. It was at "
+"that time I began to develop some faint artistic sense. I had no previous "
+"experience of icon design, there was zero discipline like math-guided "
+"proportion. Every shape and curve was tweaked using my instinct as an "
+"artist. The concept was very simple: it's a bird shaped like the letter \"K"
+"\", and it has to be sharp. The bird was chunkier until Christoph pointed it "
+"out, I later turned it into a more sleek shape."
 msgstr ""
 
 #: content/mascot.md:57
@@ -560,8 +583,8 @@ msgstr ""
 
 #: content/mascot.md:61
 msgid ""
-"In this initial sketch, I was tempted to ditch the robotic concept and just draw a cute "
-"good looking bird instead."
+"In this initial sketch, I was tempted to ditch the robotic concept and just "
+"draw a cute good looking bird instead."
 msgstr ""
 
 #: content/mascot.md:63
@@ -578,10 +601,11 @@ msgstr ""
 
 #: content/mascot.md:69
 msgid ""
-"Kate's mascot re-design resumed after I finished drawing the new splash picture for the "
-"upcoming Krita 5.0. I was able to push myself to do more each time I attempted a new "
-"picture at that time, so I was determined to keep the robotic concept. Although the "
-"proportion was off, the mech design elements was more or less coined in this one."
+"Kate's mascot re-design resumed after I finished drawing the new splash "
+"picture for the upcoming Krita 5.0. I was able to push myself to do more "
+"each time I attempted a new picture at that time, so I was determined to "
+"keep the robotic concept. Although the proportion was off, the mech design "
+"elements was more or less coined in this one."
 msgstr ""
 
 #: content/mascot.md:71
@@ -598,12 +622,12 @@ msgstr ""
 
 #: content/mascot.md:79
 msgid ""
-"The proportion was adjusted after Christoph pointed it out. The pose was adjusted to "
-"feel more comfortable. The wings were re-drawn after studying on real bird wings. A "
-"cool-looking, detailed keyboard was hand-drawn to emphasize the main usage of the "
-"application. An abstract background was added with a proper 2D typography design. The "
-"general idea is: unmistakably cutting edge and artificial, but also unmistakably full "
-"of life and humanity."
+"The proportion was adjusted after Christoph pointed it out. The pose was "
+"adjusted to feel more comfortable. The wings were re-drawn after studying on "
+"real bird wings. A cool-looking, detailed keyboard was hand-drawn to "
+"emphasize the main usage of the application. An abstract background was "
+"added with a proper 2D typography design. The general idea is: unmistakably "
+"cutting edge and artificial, but also unmistakably full of life and humanity."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -624,12 +648,13 @@ msgstr "ကိတ်သည် စွမ်းဆောင်ရည်ပြည�
 
 #: i18n/en.yaml:0
 msgid ""
-"Kate is packed with features that will make it easier for you to view and edit all your "
-"text files. Kate lets you to edit and view many files at the same time, both in tabs "
-"and split views, and comes with a wide variety of plugins, including an embedded "
-"terminal that lets you launch console commands directly from Kate, powerful search and "
-"replace plugins, and a preview plugin that can show you what your MD, HTML and even SVG "
-"will look like."
+"Kate is packed with features that will make it easier for you to view and "
+"edit all your text files. Kate lets you to edit and view many files at the "
+"same time, both in tabs and split views, and comes with a wide variety of "
+"plugins, including an embedded terminal that lets you launch console "
+"commands directly from Kate, powerful search and replace plugins, and a "
+"preview plugin that can show you what your MD, HTML and even SVG will look "
+"like."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -642,10 +667,11 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"Kate supports highlighting for over 300 languages making it easier to read code in "
-"almost all programming languages. Kate also understands how brackets works and will "
-"help you navigate inside complex code blocks hierarchies. On-the-fly spellchecking is "
-"also included and will help you check your text before publishing."
+"Kate supports highlighting for over 300 languages making it easier to read "
+"code in almost all programming languages. Kate also understands how brackets "
+"works and will help you navigate inside complex code blocks hierarchies. On-"
+"the-fly spellchecking is also included and will help you check your text "
+"before publishing."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -662,10 +688,10 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"Work on multiple files at the same time with split views. Use the project sidebar to "
-"navigate your project directory structures and use Kate's smart tabs to quickly access "
-"your recently opened documents. The powerful search and replace tool lets you quickly "
-"search inside your entire projects."
+"Work on multiple files at the same time with split views. Use the project "
+"sidebar to navigate your project directory structures and use Kate's smart "
+"tabs to quickly access your recently opened documents. The powerful search "
+"and replace tool lets you quickly search inside your entire projects."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -682,11 +708,12 @@ msgstr "သင်၏နောက်အပ္ပလီကေးရှင်းက
 
 #: i18n/en.yaml:0
 msgid ""
-"Kate is the perfect tool for programming as it includes autocompletion for many "
-"languages with the help of the [Language Server Protocol (LSP)](https://microsoft."
-"github.io/language-server-protocol/). The editor has been optimized for editing code "
-"and provide scriptable auto indentation, VI input mode, rectangular block selection "
-"mode, smart comment and uncomment handling and much more."
+"Kate is the perfect tool for programming as it includes autocompletion for "
+"many languages with the help of the [Language Server Protocol (LSP)](https://"
+"microsoft.github.io/language-server-protocol/). The editor has been "
+"optimized for editing code and provide scriptable auto indentation, VI input "
+"mode, rectangular block selection mode, smart comment and uncomment handling "
+"and much more."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -695,10 +722,11 @@ msgstr "ပလပ်ဂင်များ"
 
 #: i18n/en.yaml:0
 msgid ""
-"Kate contains many plugins installed by defaults, making it more powerful than any "
-"other text editor. Use the integrated terminal emulator to run commands directly from "
-"Kate, execute SQL queries with the SQL extension, use GDB to debug your program, build "
-"projects with just one click, and much, much more."
+"Kate contains many plugins installed by defaults, making it more powerful "
+"than any other text editor. Use the integrated terminal emulator to run "
+"commands directly from Kate, execute SQL queries with the SQL extension, use "
+"GDB to debug your program, build projects with just one click, and much, "
+"much more."
 msgstr ""
 
 #: i18n/en.yaml:0

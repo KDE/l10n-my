@@ -21,11 +21,11 @@ msgstr ""
 #: discover/DiscoverObject.cpp:158
 #, kde-format
 msgid ""
-"Discover currently cannot be used to install any apps because none of its app backends are available. "
-"Please report this error to your distribution."
+"Discover currently cannot be used to install any apps because none of its "
+"app backends are available. Please report this error to your distribution."
 msgstr ""
-"ဒစ်(စ)ကာဗာ အနေဖြင့် ၎င်း၏အုတ်မြစ်ပရိုဂရမ်များ တစ်ခုမှ မရှိသောကြောင့် အပ်များ တပ်ဆင်၍မရနိုင်ပါ။ ဤအမှားအယွင်းကို သင်၏ဒစ်စထရီဗျူးရှင်းထံ "
-"တင်ပြပါ။"
+"ဒစ်(စ)ကာဗာ အနေဖြင့် ၎င်း၏အုတ်မြစ်ပရိုဂရမ်များ တစ်ခုမှ မရှိသောကြောင့် အပ်များ တပ်ဆင်၍မရနိုင်ပါ။ "
+"ဤအမှားအယွင်းကို သင်၏ဒစ်စထရီဗျူးရှင်းထံ တင်ပြပါ။"
 
 #: discover/DiscoverObject.cpp:243
 #, kde-format
@@ -34,8 +34,11 @@ msgstr "အမျိုးအစား '%1' ကိုရှာမတွေ့ခ
 
 #: discover/DiscoverObject.cpp:280
 #, kde-format
-msgid "Cannot interact with flatpak resources without the flatpak backend %1. Please install it first."
-msgstr "ဖလက်ပတ်ခ်-အုတ်မြစ်ပရိုဂရမ် %1 မရှိဘဲ ဖလက်ပတ်ခ်အပ်များ တပ်ဆင်၍မရပါ။ ကျေးဇူးပြု၍ ၎င်းအား အရင်တပ်ဆင်ပါ။"
+msgid ""
+"Cannot interact with flatpak resources without the flatpak backend %1. "
+"Please install it first."
+msgstr ""
+"ဖလက်ပတ်ခ်-အုတ်မြစ်ပရိုဂရမ် %1 မရှိဘဲ ဖလက်ပတ်ခ်အပ်များ တပ်ဆင်၍မရပါ။ ကျေးဇူးပြု၍ ၎င်းအား အရင်တပ်ဆင်ပါ။"
 
 #: discover/DiscoverObject.cpp:284 discover/DiscoverObject.cpp:314
 #, kde-format
@@ -65,7 +68,8 @@ msgstr "အမျိုးအစားတစ်ခုဖြင့် အပ်�
 #: discover/main.cpp:44
 #, kde-format
 msgid "Open Discover in a said mode. Modes correspond to the toolbar buttons."
-msgstr "ပြောထားသော ထုံးနည်းဖြင့် ဒစ်(စ)ကာဗာကို ဖွင့်မည်။ ထုံးနည်းများသည် ကိရိယာတန်းခလုတ်များနှင့် သက်ဆိုင်သည်။"
+msgstr ""
+"ပြောထားသော ထုံးနည်းဖြင့် ဒစ်(စ)ကာဗာကို ဖွင့်မည်။ ထုံးနည်းများသည် ကိရိယာတန်းခလုတ်များနှင့် သက်ဆိုင်သည်။"
 
 #: discover/main.cpp:45
 #, kde-format
@@ -195,8 +199,9 @@ msgid "Add"
 msgstr "ထည့်သွင်းမည်"
 
 #: discover/qml/AddSourceDialog.qml:67 discover/qml/DiscoverWindow.qml:226
-#: discover/qml/InstallApplicationButton.qml:54 discover/qml/ProgressView.qml:104
-#: discover/qml/SourcesPage.qml:134 discover/qml/UpdatesPage.qml:141
+#: discover/qml/InstallApplicationButton.qml:54
+#: discover/qml/ProgressView.qml:104 discover/qml/SourcesPage.qml:134
+#: discover/qml/UpdatesPage.qml:141
 #, kde-format
 msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
@@ -207,13 +212,15 @@ msgctxt "Part of a string like this: '<app name> - <category>'"
 msgid "- %1"
 msgstr "- %1"
 
-#: discover/qml/ApplicationDelegate.qml:105 discover/qml/ApplicationPage.qml:133
+#: discover/qml/ApplicationDelegate.qml:105
+#: discover/qml/ApplicationPage.qml:133
 #, kde-format
 msgid "%1 rating"
 msgid_plural "%1 ratings"
 msgstr[0] "အကဲဖြတ်ချက် %1ခု"
 
-#: discover/qml/ApplicationDelegate.qml:105 discover/qml/ApplicationPage.qml:133
+#: discover/qml/ApplicationDelegate.qml:105
+#: discover/qml/ApplicationPage.qml:133
 #, kde-format
 msgid "No ratings yet"
 msgstr "အကဲဖြတ်ချက်မရှိသေးပါ"
@@ -479,11 +486,11 @@ msgstr "အသုံးပြုအချက်အလက််များ ပ�
 #: discover/qml/Feedback.qml:12
 #, kde-format
 msgid ""
-"Sends anonymized usage information to KDE so we can better understand our users. For more information "
-"see https://kde.org/privacypolicy-apps.php."
+"Sends anonymized usage information to KDE so we can better understand our "
+"users. For more information see https://kde.org/privacypolicy-apps.php."
 msgstr ""
-"ကျွန်ုပ်တို့အနေဖြင့် အသုံးပြုသူများ၏လိုလားချက်များကို သိရှိရန် အမည်ဖျောက်ထားသော အသုံးပြုအချက်အလက်များကို ကေဒီအီးသို့ ပေးပို့ပါ။ ပိုမိုသိလိုပါက https://"
-"kde.org/privacypolicy-apps.php သို့သွားပါ။"
+"ကျွန်ုပ်တို့အနေဖြင့် အသုံးပြုသူများ၏လိုလားချက်များကို သိရှိရန် အမည်ဖျောက်ထားသော အသုံးပြုအချက်အလက်များကို "
+"ကေဒီအီးသို့ ပေးပို့ပါ။ ပိုမိုသိလိုပါက https://kde.org/privacypolicy-apps.php သို့သွားပါ။"
 
 #: discover/qml/Feedback.qml:16
 #, kde-format
@@ -502,8 +509,12 @@ msgstr "တုံ့ပြန်ချက်ပြင်ဆင်မည်…"
 
 #: discover/qml/Feedback.qml:50
 #, kde-format
-msgid "You can help us improving this application by sharing statistics and participate in surveys."
-msgstr "ဤအပ္ပလီကေးရှင်း တိုးတက်စေရန် ဆောင်ရွက်ရာတွင် အသုံးပြုစာရင်းအင်းများ မျှဝေ၍ စစ်တမ်းကောက်ချက်များတွင် ဖြေဆို၍ ပါဝင်ကူညီနိုင်သည်။"
+msgid ""
+"You can help us improving this application by sharing statistics and "
+"participate in surveys."
+msgstr ""
+"ဤအပ္ပလီကေးရှင်း တိုးတက်စေရန် ဆောင်ရွက်ရာတွင် အသုံးပြုစာရင်းအင်းများ မျှဝေ၍ စစ်တမ်းကောက်ချက်များတွင် "
+"ဖြေဆို၍ ပါဝင်ကူညီနိုင်သည်။"
 
 #: discover/qml/Feedback.qml:50
 #, kde-format
@@ -526,7 +537,8 @@ msgctxt "State being fetched"
 msgid "Loading…"
 msgstr "တင်သွင်းနေသည်…"
 
-#: discover/qml/InstallApplicationButton.qml:32 discover/qml/InstallApplicationButton.qml:125
+#: discover/qml/InstallApplicationButton.qml:32
+#: discover/qml/InstallApplicationButton.qml:125
 #, kde-format
 msgctxt "Install the version of an app that comes from Snap, Flatpak, etc"
 msgid "Install from %1"
@@ -842,7 +854,8 @@ msgctxt "@info"
 msgid "The system must be restarted to fully apply the installed updates"
 msgstr "တပ်ဆင်ခဲ့သော အပ်ဒိတ်များ အပြည့်အဝသက်ဝင်စေရန် စစ်စတမ်ကိုပြန်စတင်ရမည်"
 
-#: discover/qml/UpdatesPage.qml:377 discover/qml/UpdatesPage.qml:383 discover/qml/UpdatesPage.qml:389
+#: discover/qml/UpdatesPage.qml:377 discover/qml/UpdatesPage.qml:383
+#: discover/qml/UpdatesPage.qml:389
 #, kde-format
 msgctxt "@info"
 msgid "Up to date"
