@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-21 00:18+0000\n"
-"PO-Revision-Date: 2021-09-15 22:49+0630\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2021-09-21 20:20+0630\n"
+"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -31,17 +31,17 @@ msgstr "lw1nzayar@yandex.com"
 #: app/main.cpp:86 app/SettingsBase.cpp:63
 #, kde-format
 msgid "Info Center"
-msgstr ""
+msgstr "အချက်အလက်စင်တာ"
 
 #: app/main.cpp:88
 #, kde-format
 msgid "Centralized and convenient overview of system information."
-msgstr ""
+msgstr "စစ်စတမ်ဆိုင်ရာအချက်အလက်များ ခြုံငုံမြင်ကွင်း။"
 
 #: app/main.cpp:90 app/main.cpp:101 icons/IconMode.cpp:60
 #, kde-format
 msgid "(c) 2009, Ben Cooksley"
-msgstr ""
+msgstr "(c) ၂၀၁၉၊ ဘန်ကွတ်စလေ"
 
 #: app/main.cpp:97 app/SettingsBase.cpp:66 runner/systemsettingsrunner.cpp:187
 #: sidebar/package/contents/ui/introPage.qml:63
@@ -52,22 +52,22 @@ msgstr "စစ်စတမ် ဆက်တင်"
 #: app/main.cpp:99
 #, kde-format
 msgid "Central configuration center by KDE."
-msgstr ""
+msgstr "ကေဒီအီးမှ ပေးသော ဗဟိုပြင်ဆင်မှုစင်တာ။"
 
 #: app/main.cpp:112 icons/IconMode.cpp:61 sidebar/SidebarMode.cpp:287
 #, kde-format
 msgid "Ben Cooksley"
-msgstr ""
+msgstr "ဘန်ကွတ်စလေ"
 
 #: app/main.cpp:112
 #, kde-format
 msgid "Maintainer"
-msgstr ""
+msgstr "ထိန်းသိမ်းသူ"
 
 #: app/main.cpp:113 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:288
 #, kde-format
 msgid "Mathias Soeken"
-msgstr ""
+msgstr "မတ်သီရက်ဆိုကန်"
 
 #: app/main.cpp:113 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:288
 #, kde-format
@@ -77,54 +77,53 @@ msgstr "ပရိုဂရမ်မာ"
 #: app/main.cpp:114
 #, kde-format
 msgid "Will Stephenson"
-msgstr ""
+msgstr "ဝီလ်စတီဖန်ဆင်"
 
 #: app/main.cpp:114
 #, kde-format
 msgid "Internal module representation, internal module model"
-msgstr ""
+msgstr "မော်ဂျူးအတွင်းပိုင်းပုံဖော်မှု၊ မော်ဂျူးအတွင်းပိုင်းမော်ဒယ်"
 
 #: app/main.cpp:122
 #, kde-format
 msgid "List all possible modules"
-msgstr ""
+msgstr "ဖြစ်နိုင်သော မော်ဂျူးအကုန်ပြပါ"
 
 #: app/main.cpp:123 app/main.cpp:186
 #, kde-format
 msgid "Configuration module to open"
-msgstr ""
+msgstr "ဖွင့်ရမည့် ပြင်ဆင်ရေးမော်ဂျူး"
 
 #: app/main.cpp:124 app/main.cpp:187
 #, kde-format
 msgid "Arguments for the module"
-msgstr ""
+msgstr "မော်ဂျူးအတွက်ပေးချက်များ"
 
 #: app/main.cpp:132
 #, kde-format
 msgid "The following modules are available:"
-msgstr ""
+msgstr "အောက်ပါမော်ဂျူးများရရှိနေပါပြီ -"
 
 #: app/main.cpp:149
 #, kde-format
 msgid "No description available"
-msgstr ""
+msgstr "ဖော်ပြချက်မရရှိနိုင်ပါ"
 
 #: app/SettingsBase.cpp:57
 #, kde-format
 msgctxt "Search through a list of control modules"
 msgid "Search"
-msgstr ""
+msgstr "ရှာမည်"
 
 #: app/SettingsBase.cpp:168
 #, kde-format
 msgid "Switch to Icon View"
-msgstr ""
+msgstr "အိုင်ကွန်ပြမြင်ကွင်းသို့ပြောင်းမည်"
 
 #: app/SettingsBase.cpp:175
-#, fuzzy, kde-format
-#| msgid "Sidebar View"
+#, kde-format
 msgid "Switch to Sidebar View"
-msgstr "ဘေးတန်း မြင်ကွင်း"
+msgstr "ဘေးတန်းမြင်ကွင်း သို့ပြောင်းမည်"
 
 #: app/SettingsBase.cpp:203
 #, kde-format
@@ -136,50 +135,50 @@ msgstr "အကူအညီ"
 msgid ""
 "System Settings was unable to find any views, and hence has nothing to "
 "display."
-msgstr ""
+msgstr "စစ်စတမ်ဆက်တင်များသည် မည်သည်မြင်ကွင်းမှ ရှာမတွေ့ပါ။ ထို့ကြောင် ဘာမှ ပြစရာမရှိပါ။"
 
 #: app/SettingsBase.cpp:341
 #, kde-format
 msgid "No views found"
-msgstr ""
+msgstr "မြင်ကွင်းများမတွေ့ပါ"
 
 #: app/SettingsBase.cpp:372
 #, kde-format
 msgid "About Active View"
-msgstr ""
+msgstr "သက်ဝင်မြင်ကွင်းအကြောင်း"
 
 #: app/SettingsBase.cpp:438
 #, kde-format
 msgid "About %1"
-msgstr ""
+msgstr "%1 အကြောင်း"
 
 #. i18n: ectx: label, entry (ActiveView), group (Main)
 #: app/systemsettings.kcfg:9
 #, kde-format
 msgid "Internal name for the view used"
-msgstr ""
+msgstr "အသုံးပြုထားသော မြင်ကွင်း၏အတွင်းပိုင်းအမည်"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: app/systemsettingsui.rc:15
 #, kde-format
 msgid "About System Settings"
-msgstr ""
+msgstr "စစ်စတမ်ဆက်တင်များအကြောင်း"
 
 #: app/ToolTips/tooltipmanager.cpp:189
 #, kde-format
 msgid "Contains 1 item"
 msgid_plural "Contains %1 items"
-msgstr[0] ""
+msgstr[0] "အိုင်တမ် %1ခု ပါဝင်သည်"
 
 #: core/ExternalAppModule.cpp:27
 #, kde-format
 msgid "%1 is an external application and has been automatically launched"
-msgstr ""
+msgstr "%1 သည် ပြင်ပအပ္ပလီကေးရှင်းတစ်ခုဖြစ်ပြီး ယင်းကို အလိုအလျောက်လွှင့်တင်ထားခြင်းဖြစ်သည်"
 
 #: core/ExternalAppModule.cpp:28
 #, kde-format
 msgid "Relaunch %1"
-msgstr ""
+msgstr "%1 ပြန်လွှင့်တင်မည်"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, ExternalModule)
 #: core/externalModule.ui:14
@@ -190,7 +189,7 @@ msgstr "ဒိုင်ယာလော့"
 #: core/ModuleView.cpp:168
 #, kde-format
 msgid "Reset all current changes to previous values"
-msgstr ""
+msgstr "လက်ရှိပြောင်းလဲမှုများအကုန်လုံးကို ယခင်တန်ဖိုးများကို ပြန်ပြောင်းမည်"
 
 #: core/ModuleView.cpp:321
 #, kde-format
@@ -198,21 +197,23 @@ msgid ""
 "The settings of the current module have changed.\n"
 "Do you want to apply the changes or discard them?"
 msgstr ""
+"လက်ရှိမော်ဂျူး၏ဆက်တင်များ ပြောင်းလဲသွားပြီ။\n"
+"ပြောင်းလဲမှုများကို သုံးမှာလား၊ စွန့်ပစ်မှာလား။"
 
 #: core/ModuleView.cpp:323
 #, kde-format
 msgid "Apply Settings"
-msgstr ""
+msgstr "ဆက်တင်များသက်ရောက်စေမည်"
 
 #: icons/IconMode.cpp:56
 #, kde-format
 msgid "Icon View"
-msgstr ""
+msgstr "အိုင်ကွန်ပြမြင်ကွင်း"
 
 #: icons/IconMode.cpp:58
 #, kde-format
 msgid "Provides a categorized icons view of control modules."
-msgstr ""
+msgstr "ထိန်းချုပ်မော်ဂျူးများ၏ အမျိုးခွဲထားသော အိုင်ကွန်ပြမြင်ကွင်း ပေးသည်။"
 
 #: icons/IconMode.cpp:61 sidebar/SidebarMode.cpp:286
 #: sidebar/SidebarMode.cpp:287
@@ -223,12 +224,12 @@ msgstr "ရေးသားသူ"
 #: icons/IconMode.cpp:65
 #, kde-format
 msgid "All Settings"
-msgstr ""
+msgstr "ဆက်တင်များအားလုံး"
 
 #: icons/IconMode.cpp:66
 #, kde-format
 msgid "Keyboard Shortcut: %1"
-msgstr ""
+msgstr "ကီးဘုတ်ဖြတ်လမ်း - %1"
 
 #: runner/systemsettingsrunner.cpp:185
 #, kde-format
@@ -238,23 +239,23 @@ msgstr "စစ်စတမ်ဆိုင်ရာ အချက်အလက်"
 #: runner/systemsettingsrunner.cpp:212
 #, kde-format
 msgid "Finds system settings modules whose names or descriptions match :q:"
-msgstr ""
+msgstr ":q: နှင့် အမည် သို့မဟုတ် ဖော်ပြချက်နှင့် ကိုက်ညီသော စစ်စတမ်ဆက်တင်မော်ဂျူးများ ရှာဖွေမည်။"
 
 #: sidebar/package/contents/ui/CategoriesPage.qml:57
 #, kde-format
 msgid "Show intro page"
-msgstr ""
+msgstr "မိတ်ဆက်စာမျက်နှာပြမည်"
 
 #: sidebar/package/contents/ui/CategoriesPage.qml:84
 #, kde-format
 msgid "Show menu"
-msgstr ""
+msgstr "မီနူးပြမည်"
 
 #: sidebar/package/contents/ui/CategoriesPage.qml:95
 #, kde-format
 msgctxt "A search yielded no results"
 msgid "No items matching your search"
-msgstr ""
+msgstr "သင်၏ရှာဖွေမှုနှင့်ကိုက်ညီသော အိုင်တမ်များမတွေ့ပါ"
 
 #: sidebar/package/contents/ui/CategoriesPage.qml:205
 #: sidebar/package/contents/ui/SubCategoryPage.qml:199
@@ -263,22 +264,22 @@ msgctxt ""
 "Action to show indicators for settings with custom data. Use as short a "
 "translation as is feasible, as horizontal space is limited."
 msgid "Highlight Changed Settings"
-msgstr ""
+msgstr "ပြောင်းသွားသောဆက်တင်များ အလင်းတင်ပြမည်"
 
 #: sidebar/package/contents/ui/IntroIcon.qml:79
 #, kde-format
 msgid "Most used module number %1"
-msgstr ""
+msgstr "အသုံးများဆုံးမော်ဂျူးနံပါတ် %1"
 
 #: sidebar/package/contents/ui/introPage.qml:56
 #, kde-format
 msgid "Plasma"
-msgstr ""
+msgstr "ပလက်စမာ"
 
 #: sidebar/package/contents/ui/introPage.qml:82
 #, kde-format
 msgid "Frequently Used"
-msgstr ""
+msgstr "မကြာခဏအသုံးပြုထားသော"
 
 #: sidebar/package/contents/ui/SubCategoryPage.qml:46
 #, kde-format
@@ -293,17 +294,17 @@ msgstr "ဘေးတန်း မြင်ကွင်း"
 #: sidebar/SidebarMode.cpp:283
 #, kde-format
 msgid "Provides a categorized sidebar for control modules."
-msgstr ""
+msgstr "ထိန်းချုပ်မော်ဂျူးများအတွက် အမျိုးခွဲဘေးတန်း ပေးသည်။"
 
 #: sidebar/SidebarMode.cpp:285
 #, kde-format
 msgid "(c) 2017, Marco Martin"
-msgstr ""
+msgstr "(c) ၂၀၁၇၊ မာကိုမာတင်"
 
 #: sidebar/SidebarMode.cpp:286
 #, kde-format
 msgid "Marco Martin"
-msgstr ""
+msgstr "မာကိုမာတင်"
 
 #: sidebar/SidebarMode.cpp:784
 #, kde-format
@@ -313,10 +314,10 @@ msgstr "ဘေးတန်း"
 #: sidebar/SidebarMode.cpp:826
 #, kde-format
 msgid "Most Used"
-msgstr ""
+msgstr "အသုံးများဆုံး"
 
 #: sidebar/ToolTips/tooltipmanager.cpp:205
 #, kde-format
 msgid "<i>Contains 1 item</i>"
 msgid_plural "<i>Contains %1 items</i>"
-msgstr[0] ""
+msgstr[0] "<i>အိုင်တမ် %1ခု ပါဝင်သည်</i>"

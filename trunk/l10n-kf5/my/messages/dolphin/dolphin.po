@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-08 00:24+0000\n"
-"PO-Revision-Date: 2021-09-19 20:03+0630\n"
+"PO-Revision-Date: 2021-09-20 16:52+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
@@ -4521,7 +4521,7 @@ msgctxt ""
 "of selected files/folders."
 msgid "Actions for One Selected File"
 msgid_plural "Actions for %1 Selected Files"
-msgstr[0] ""
+msgstr[0] "ရွေးချယ်ထားသော ဖိုင်လ် %1ခု အတွက် လုပ်ဆောင်ချက်များ"
 
 #: views/dolphinviewactionhandler.cpp:803
 #, kde-format
@@ -4530,7 +4530,7 @@ msgctxt ""
 "of selected files/folders."
 msgid "Actions for One Selected Folder"
 msgid_plural "Actions for %1 Selected Folders"
-msgstr[0] ""
+msgstr[0] "ရွေးချယ်ထားသော ဖိုလ်ဒါ %1ခု အတွက် လုပ်ဆောင်ချက်များ"
 
 #: views/dolphinviewactionhandler.cpp:807
 #, kde-format
