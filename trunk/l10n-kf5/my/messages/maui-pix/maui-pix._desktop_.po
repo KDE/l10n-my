@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-24 00:26+0000\n"
+"POT-Creation-Date: 2021-09-21 00:24+0000\n"
 "PO-Revision-Date: 2021-09-19 13:25+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,12 +18,12 @@ msgctxt "Name"
 msgid "Pix"
 msgstr "ပစ်ဇ်"
 
-#: src/org.kde.pix.desktop:36
+#: src/org.kde.pix.desktop:37
 msgctxt "Comment"
 msgid "Image gallery viewer"
 msgstr "ပုံရိပ်ခင်းကျင်းပြတိုက်ကြည့်ရှုကိရိယာ"
 
-#: src/org.kde.pix.desktop:73
+#: src/org.kde.pix.desktop:75
 msgctxt "GenericName"
 msgid "Image Gallery"
 msgstr "ပုံရိပ်ခင်းကျင်းပြတိုက်"
