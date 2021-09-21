@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-05-24 02:52+0200\n"
+"PO-Revision-Date: 2021-09-21 12:18+0630\n"
+"Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
+"Language: my\n"
+"X-Generator: Poedit 3.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.zanshin.appdata.xml:6
+msgid "Zanshin"
+msgstr "ဇန်ရှင်"
+
+#. (itstool) path: component/summary
+#: org.kde.zanshin.appdata.xml:7
+msgid "To Do Management Application"
+msgstr "လုပ်ရန် စီမံမှု အပ္ပလီကေးရှင်း"
+
+#. (itstool) path: description/p
+#: org.kde.zanshin.appdata.xml:9
+msgid "Zanshin is a powerful yet simple application for managing your day to day actions. It helps you organize and reduce the cognitive pressure of what one has to do in his job and personal life. You'll never forget anything anymore, getting your mind like water."
+msgstr "ဇန်ရှင်သည် နိစ္စဓူဝကိစ္စများကို စီမံပေးမည့် ရိုးရှင်းသော်လည်း စွမ်းရည်ပြည့်ဝလှသော အပ္ပလီကေးရှင်းတစ်ခုဖြစ်သည်။ ယင်းသည် သင်၏ အလုပ်နှင့် အိမ်နေဘဝများတွင် ဘာလုပ်ရမည်ကို စီမံရာတွင် ကူညီပေးသည်။ သင်အနေနဲ့ နောက်ထပ် ဘယ်အရာမှ မေ့တော့မည်မဟုတ်။ စိတ် ရေလိုကြည်လာပါလိမ့်မည်။"
+
+#. (itstool) path: description/p
+#: org.kde.zanshin.appdata.xml:14
+msgid "Features:"
+msgstr "စွမ်းဆောင်ရည်များ -"
+
+#. (itstool) path: ul/li
+#: org.kde.zanshin.appdata.xml:16
+msgid "Collects tasks from everywhere"
+msgstr "နေရာတိုင်းမှအလုပ်များ စုစည်းသည်"
+
+#. (itstool) path: ul/li
+#: org.kde.zanshin.appdata.xml:17
+msgid "Organize tasks in projects and contexts"
+msgstr "ပရောဂျက်များနှင့် သက်ဆိုင်ရာကိစ္စများတွင် အလုပ်များ စီစဥ်သည်"
+
+#. (itstool) path: ul/li
+#: org.kde.zanshin.appdata.xml:18
+msgid "Akonadi-enabled application allowing to get the data from virtually anywhere (local, imap, web service...)"
+msgstr "မည်သည်နေရာမှမဆို (စက်တွင်း၊ အိုင်မတ်၊ ဝက်ဘ်ဝန်ဆောင်မှု...) ဒေတာရယူနိုင်သည့် အကွန်နဒီဖွင့်ထားသော အပ္ပလီကေးရှင်း"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.zanshin.appdata.xml:25
+msgid "Zanshin main window"
+msgstr "ဇန်ရှင် ပင်မဝင်းဒိုး"
