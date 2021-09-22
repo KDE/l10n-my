@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-15 00:28+0000\n"
+"POT-Creation-Date: 2021-09-22 00:26+0000\n"
 "PO-Revision-Date: 2021-09-13 03:11+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -43,7 +43,7 @@ msgctxt "Name"
 msgid "Software Update"
 msgstr "ဆော့ဖ်ဝဲလ်အပ်ဒိတ်"
 
-#: kcm/kcm_updates.desktop:44
+#: kcm/kcm_updates.desktop:45
 msgctxt "Comment"
 msgid "Configure software update behavior"
 msgstr "ဆော့ဖ်ဝဲလ်အပ်ဒိတ်တင်သော အမူအကျင့်ကို ပြင်ဆင်မည်"

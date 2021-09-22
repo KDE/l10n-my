@@ -4,13 +4,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-08 00:31+0000\n"
 "PO-Revision-Date: 2021-09-20 02:30+0630\n"
+"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
-"Language: my\n"
 "X-Generator: Poedit 3.0\n"
 
 #: templates/akonadiresource/akonadiresource.kdevtemplate:2
@@ -26,5 +26,6 @@ msgstr "အကွန်နဒီ ရင်းမြစ်တန်းပလိ�
 
 #: templates/akonadiserializer/akonadiserializer.kdevtemplate:39
 msgctxt "Comment"
-msgid "Akonadi Serializer Template. A template for an Akonadi data serializer plugin"
+msgid ""
+"Akonadi Serializer Template. A template for an Akonadi data serializer plugin"
 msgstr "အကွန်နဒီ စီရီရယ်လိုက်ဇာ တန်းပလိတ်။ အကွန်နဒီဒေတာစီရီရယ်လိုက်ဇာပလပ်ဂင်အတွက် တန်းပလိတ်တစ်ခု"
