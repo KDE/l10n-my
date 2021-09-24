@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-23 00:18+0000\n"
+"POT-Creation-Date: 2021-09-24 00:18+0000\n"
 "PO-Revision-Date: 2021-09-19 19:59+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1643,30 +1643,43 @@ msgstr[0] ""
 "ဤလုပ်ဆောင်ချက်သည် အောက်ပါပတ်ကေ့ချ်များကို ဖယ်ရှားမည်-\n"
 "%2"
 
-#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:129
-#, kde-format
-msgid "Version: "
-msgstr "ဗားရှင်း - "
+#: libdiscover/backends/RpmOstreeBackend/rpm-ostree-backend-categories.xml:4
+#, fuzzy, kde-format
+#| msgctxt "@action:button"
+#| msgid "Repair System"
+msgctxt "Category"
+msgid "Operating System"
+msgstr "စစ်စတမ်ကို ပြန်ပြင်မည်"
 
-#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:129
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:245
 #, kde-format
-msgid "BaseCommit: "
-msgstr "ဘေ့စ်ကောမစ်- "
+msgid "GPL and other licenses"
+msgstr ""
 
-#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:130
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:251
 #, kde-format
-msgid "GPGSignature: Valid signature by "
-msgstr "ဂျီပီဂျီလက်မှတ်- မှန်ကန်သည့်လက်မှတ်ထိုးခဲ့သူ "
+msgid "Remote: "
+msgstr ""
 
-#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:130
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:296
 #, kde-format
-msgid "Origin: "
-msgstr "မူလဇစ်မြစ်- "
+msgid "The currently running version of %1."
+msgstr ""
 
-#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:167
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:298
 #, kde-format
-msgid "The currently active deployment."
-msgstr "လက်ရှိသက်ဝင်နေသော လုပ်ဆောင်မှု။"
+msgid "Installed but not currently running version of %1."
+msgstr ""
+
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeSourcesBackend.cpp:73
+#, kde-format
+msgid "ostree remotes"
+msgstr ""
+
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeTransaction.cpp:119
+#, kde-format
+msgid "Current rpm-ostree transaction in progress:"
+msgstr ""
 
 #: libdiscover/backends/SnapBackend/SnapBackend.cpp:43
 #, kde-format
@@ -1730,7 +1743,7 @@ msgctxt "Do not translate or alter \\u009C"
 msgid "%1 → %2%1 → %2%2"
 msgstr ""
 
-#: libdiscover/resources/ResourcesModel.cpp:99
+#: libdiscover/resources/ResourcesModel.cpp:100
 #, kde-format
 msgctxt "@action Checks the Internet for updates"
 msgid "Check for Updates"
@@ -1818,3 +1831,18 @@ msgstr "စစ်စတမ် အပ်ဒိတ်များ"
 msgctxt "@item:inlistbox"
 msgid "Addons"
 msgstr "အက်အွန်များ"
+
+#~ msgid "Version: "
+#~ msgstr "ဗားရှင်း - "
+
+#~ msgid "BaseCommit: "
+#~ msgstr "ဘေ့စ်ကောမစ်- "
+
+#~ msgid "GPGSignature: Valid signature by "
+#~ msgstr "ဂျီပီဂျီလက်မှတ်- မှန်ကန်သည့်လက်မှတ်ထိုးခဲ့သူ "
+
+#~ msgid "Origin: "
+#~ msgstr "မူလဇစ်မြစ်- "
+
+#~ msgid "The currently active deployment."
+#~ msgstr "လက်ရှိသက်ဝင်နေသော လုပ်ဆောင်မှု။"
