@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-20 00:14+0000\n"
+"POT-Creation-Date: 2021-09-25 00:13+0000\n"
 "PO-Revision-Date: 2021-09-20 02:05+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -3641,7 +3641,7 @@ msgstr "ဒက်စ်တော့ပ်သည် အော့ဖ်လို�
 #. i18n: ectx: property (text), widget (QPushButton, sha1CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha256CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha512CopyButton)
-#: filewidgets/kurlnavigator.cpp:469 widgets/checksumswidget.ui:118
+#: filewidgets/kurlnavigator.cpp:474 widgets/checksumswidget.ui:118
 #: widgets/checksumswidget.ui:156 widgets/checksumswidget.ui:194
 #: widgets/checksumswidget.ui:232
 #, kde-format
@@ -3649,37 +3649,37 @@ msgid "Copy"
 msgstr "ကူးယူရန်"
 
 #. i18n: ectx: property (text), widget (QPushButton, pasteButton)
-#: filewidgets/kurlnavigator.cpp:473 widgets/checksumswidget.ui:39
+#: filewidgets/kurlnavigator.cpp:478 widgets/checksumswidget.ui:39
 #, kde-format
 msgid "Paste"
 msgstr "ပွား"
 
-#: filewidgets/kurlnavigator.cpp:485
+#: filewidgets/kurlnavigator.cpp:490
 #, kde-format
 msgid "Open %1 in tab"
 msgstr "%1ကို တပ်ဗ်တွင်ဖွင့်"
 
-#: filewidgets/kurlnavigator.cpp:495
+#: filewidgets/kurlnavigator.cpp:500
 #, kde-format
 msgid "Edit"
 msgstr "တည်းဖြတ်"
 
-#: filewidgets/kurlnavigator.cpp:498
+#: filewidgets/kurlnavigator.cpp:503
 #, kde-format
 msgid "Navigate"
 msgstr "လမ်းညွှန်မည်"
 
-#: filewidgets/kurlnavigator.cpp:513
+#: filewidgets/kurlnavigator.cpp:518
 #, kde-format
 msgid "Show Full Path"
 msgstr "လမ်းကြောင်းအပြည့်အစုံပြမည်"
 
-#: filewidgets/kurlnavigator.cpp:765
+#: filewidgets/kurlnavigator.cpp:770
 #, kde-format
 msgid "Custom Path"
 msgstr "ကိုယ်ပိုင်ဓလေ့သတ်မှတ်ထားသော လမ်းကြောင်း"
 
-#: filewidgets/kurlnavigatorbutton.cpp:681
+#: filewidgets/kurlnavigatorbutton.cpp:698
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "More"
