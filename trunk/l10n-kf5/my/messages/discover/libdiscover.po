@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-27 00:18+0000\n"
+"POT-Creation-Date: 2021-09-28 00:18+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -28,22 +28,23 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "lw1nzayar@yandex.com"
 
-#: libdiscover/appstream/AppStreamUtils.cpp:101 libdiscover/resources/AbstractResource.cpp:283
+#: libdiscover/appstream/AppStreamUtils.cpp:100
+#: libdiscover/resources/AbstractResource.cpp:283
 #, kde-format
 msgid "%1, released on %2"
 msgstr "%2 တွင်ထုတ်လွှင့်ခဲ့သော %1"
 
-#: libdiscover/appstream/OdrsReviewsBackend.cpp:140
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:143
 #, kde-format
 msgid "Error while fetching reviews: %1"
 msgstr "သုံးသပ်ချက်များရယူရာတွင်အခက်အခဲဖြစ်ပေါ်ခဲ့သည်- %1"
 
-#: libdiscover/appstream/OdrsReviewsBackend.cpp:186
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:189
 #, kde-format
 msgid "Error while submitting usefulness: %1"
 msgstr "အသုံးဝင်မှုတင်ပြရာတွင်အခက်အခဲဖြစ်ပေါ်ခဲ့သည်- %1"
 
-#: libdiscover/appstream/OdrsReviewsBackend.cpp:243
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:246
 #, kde-format
 msgid "Error while submitting review: %1"
 msgstr "သုံးသပ်ချက်တင်ပြရာတွင်အခက်အခဲဖြစ်ပေါ်ခဲ့သည်- %1"
@@ -475,12 +476,12 @@ msgctxt "Category"
 msgid "System Settings"
 msgstr "စစ်စတမ်သတ်မှတ်ချက်များ"
 
-#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:554
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:571
 #, kde-format
 msgid "Local bundle"
 msgstr "စက်တွင်းအထုပ်"
 
-#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1360
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1415
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:582
 #, kde-format
 msgid "Malformed appstream url '%1'"
@@ -529,7 +530,9 @@ msgstr "ဖလက်ဟပ်ဘ် ထည့်သွင်းမည်"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:54
 #, kde-format
-msgid "Makes it possible to easily install the applications listed in https://flathub.org"
+msgid ""
+"Makes it possible to easily install the applications listed in https://"
+"flathub.org"
 msgstr "ယင်းသည် https://flathub.org တွင် ပြထားသော အပ္ပလီကေးရှင်းများကို အလွယ်တကူ တပ်ဆင်နိုင်စေသည်"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:103
@@ -544,7 +547,9 @@ msgstr "'%1' ကိုဖယ်ရှားနေသည်"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:220
 #, kde-format
-msgid "To remove this repository, the following applications must be uninstalled:<ul><li>%1</li></ul>"
+msgid ""
+"To remove this repository, the following applications must be uninstalled:"
+"<ul><li>%1</li></ul>"
 msgstr "ဤရီပိုစစ်တိုရီကို ဖယ်ရှာရန် အောက်ပါအပ္ပလီကေးရှင်းများကို ဖယ်ရှားပစ်ရမည်-<ul><li>%1</li></ul>"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:236
@@ -613,10 +618,15 @@ msgstr "%1 အုတ်မြစ်ပရိုဂရမ်တွင် ဆ.သ.
 
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:396
 #, kde-format
-msgid "Too many requests sent to the server for backend %1. Please try again in a few minutes."
-msgstr "အုတ်မြစ်ပရိုဂရမ် %1 အတွက် ဆာဗာသို့ တောင်းခံမှု အများအပြားပို့ခဲ့ပြီးဖြစ်သည်။ ကျေးဇူးပြု၍ ခေတ္တခဏစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားပါ။"
+msgid ""
+"Too many requests sent to the server for backend %1. Please try again in a "
+"few minutes."
+msgstr ""
+"အုတ်မြစ်ပရိုဂရမ် %1 အတွက် ဆာဗာသို့ တောင်းခံမှု အများအပြားပို့ခဲ့ပြီးဖြစ်သည်။ ကျေးဇူးပြု၍ "
+"ခေတ္တခဏစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားပါ။"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:399 libdiscover/backends/KNSBackend/KNSBackend.cpp:405
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:399
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:405
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:410
 #, kde-format
 msgid "Invalid %1 backend, contact your distributor."
@@ -625,8 +635,9 @@ msgstr "မမှန်ကန်သော %1 အုတ်မြစ်ပရိ�
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:429
 #, kde-format
 msgid ""
-"Unable to complete the update of %1. You can try and perform this action through the Get Hot New Stuff "
-"dialog, which grants tighter control. The reported error was:\n"
+"Unable to complete the update of %1. You can try and perform this action "
+"through the Get Hot New Stuff dialog, which grants tighter control. The "
+"reported error was:\n"
 "%2"
 msgstr ""
 
@@ -1005,7 +1016,8 @@ msgstr "Rootအဖြစ်တပ်ဆင်ခြင်းသည် မမှ�
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:144
 #, kde-format
-msgctxt "Failed to sync your Linux distro repositories or other sources of packages"
+msgctxt ""
+"Failed to sync your Linux distro repositories or other sources of packages"
 msgid "Cannot fetch sources"
 msgstr "ပရိုဂရမ်စာရင်းများ မရယူနိုင်ခဲ့ပါ"
 
@@ -1041,12 +1053,16 @@ msgstr "'%1' ပြောင်းလဲသွားသောကြောင်�
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:168
 #, kde-format
-msgid "'%1' was updated for security reasons, a restart of the session is recommended."
+msgid ""
+"'%1' was updated for security reasons, a restart of the session is "
+"recommended."
 msgstr "လုံခြုံရေးအရ '%1'ကို အပ်ဒိတ်တင်ခဲ့သည်။ လုပ်ငန်းဆောင်ရွက်မှုခန်း ပြန်စတင်ရန်လိုသည်။"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:170
 #, kde-format
-msgid "'%1' was updated for security reasons, a restart of the system is recommended."
+msgid ""
+"'%1' was updated for security reasons, a restart of the system is "
+"recommended."
 msgstr "လုံခြုံရေးအရ '%1'ကို အပ်ဒိတ်တင်ခဲ့သည်။ စစ်စတမ်ကို ပြန်စတင်ပါ။"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:175
@@ -1217,7 +1233,9 @@ msgstr "ရှင်းနေသည်..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:270
 #, kde-format
-msgid "The transaction is currently resolving the dependencies of the packages it will install…"
+msgid ""
+"The transaction is currently resolving the dependencies of the packages it "
+"will install…"
 msgstr "တပ်ဆင်မည့် ပတ်ကေ့ချ်များ၏ မှီခိုပရိုဂရမ်များကို ဖြေရှင်းနေသည်..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:272
@@ -1227,7 +1245,8 @@ msgstr "ပတ်ကေ့ချ်များ၏လက်မှတ်မျာ
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:274
 #, kde-format
-msgid "The transaction is currently testing the commit of this set of packages…"
+msgid ""
+"The transaction is currently testing the commit of this set of packages…"
 msgstr "ပတ်ကေ့ချ်အစုများ ပေးအပ်မှုကို စစ်ဆေးနေသည်..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:276
@@ -1539,15 +1558,21 @@ msgstr "ဖယ်ရှားမည့် ပတ်ကေ့ချ်မျာ�
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:413
 #, kde-format
 msgid ""
-"The following packages will be removed by the update:<ul><li>%1</li></ul><br/>in order to install:<ul><li>%2</"
-"li></ul>"
-msgstr "အောက်ပါပတ်ကေ့ချ်များကို အပ်ဒိတ် <ul><li>%2</li></ul> တင်ရန် ဖယ်ရှားမည်-<ul><li>%1</li></ul><br/>"
+"The following packages will be removed by the update:<ul><li>%1</li></ul><br/"
+">in order to install:<ul><li>%2</li></ul>"
+msgstr ""
+"အောက်ပါပတ်ကေ့ချ်များကို အပ်ဒိတ် <ul><li>%2</li></ul> တင်ရန် ဖယ်ရှားမည်-<ul><li>%1</li></"
+"ul><br/>"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:508
 #, kde-kuit-format
 msgctxt "@info"
-msgid "%1:<nl/><nl/>%2<nl/><nl/>Please report this issue to the packagers of your distribution."
-msgstr "%1:<nl/><nl/>%2<nl/><nl/>ကျေးဇူးပြု၍ ဤအမှားကို သင်၏ဒစ်စထရီဗျူးရှင်းမှ ပရိုဂရမ်ထုတ်ပိုးသူများထံ တင်ပြပါ။"
+msgid ""
+"%1:<nl/><nl/>%2<nl/><nl/>Please report this issue to the packagers of your "
+"distribution."
+msgstr ""
+"%1:<nl/><nl/>%2<nl/><nl/>ကျေးဇူးပြု၍ ဤအမှားကို သင်၏ဒစ်စထရီဗျူးရှင်းမှ ပရိုဂရမ်ထုတ်ပိုးသူများထံ "
+"တင်ပြပါ။"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:518
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:303
@@ -1664,16 +1689,19 @@ msgstr "စနပ်"
 msgid "%1 - %2"
 msgstr "%1 - %2"
 
-#: libdiscover/backends/SnapBackend/SnapTransaction.cpp:49
+#: libdiscover/backends/SnapBackend/SnapTransaction.cpp:51
 #, kde-format
 msgid ""
-"This Snap application is not compatible with security sandboxing and will have full access to this computer. "
-"Install it anyway?"
-msgstr "ဤစနပ်အပ္ပလီကေးရှင်းသည် သီးသန့်ကန့်ထားခြင်း မရှိဘဲ သင်၏ကွန်ပြူတာကို အပြည့်အဝအသုံးပြုခွင့်ရရှိလိမ့်မည်။ ၎င်းကို ဘာဖြစ်ဖြစ်တပ်ဆင်မှာလား။"
+"This Snap application is not compatible with security sandboxing and will "
+"have full access to this computer. Install it anyway?"
+msgstr ""
+"ဤစနပ်အပ္ပလီကေးရှင်းသည် သီးသန့်ကန့်ထားခြင်း မရှိဘဲ သင်၏ကွန်ပြူတာကို အပြည့်အဝအသုံးပြုခွင့်ရရှိလိမ့်မည်။ ၎င်းကို "
+"ဘာဖြစ်ဖြစ်တပ်ဆင်မှာလား။"
 
 #: libdiscover/DiscoverBackendsFactory.cpp:111
 #, kde-format
-msgid "List all the backends we'll want to have loaded, separated by comma ','."
+msgid ""
+"List all the backends we'll want to have loaded, separated by comma ','."
 msgstr "အသုံးပြုလိုသော အုတ်မြစ်ပရိုဂရမ်များအားလုံးကို '၊' ခြားပြီး ရိုက်သွင်းပါ"
 
 #: libdiscover/resources/AbstractResource.cpp:88
