@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-28 00:18+0000\n"
+"POT-Creation-Date: 2021-09-29 00:18+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1429,9 +1429,9 @@ msgid "Unavailable"
 msgstr "မရရှိသေး"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:108
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:141
-#, kde-format
-msgid "Offline Updates"
+#, fuzzy, kde-format
+#| msgid "Offline Updates"
+msgid "Failed Offline Update"
 msgstr "အော့ဖ်လိုင်း အပ်ဒိတ်များ"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:109
@@ -1469,6 +1469,11 @@ msgstr "ပြန်ပြင်မှုမအောင်မြင်ပါ"
 msgctxt "@info"
 msgid "%1<nl/>Please report this error to your distribution."
 msgstr "%1<nl/>ကျေးဇူးပြု၍ ဤအမှားကို သင်၏ဒစ်စထရီဗျူးရှင်းထံ တင်ပြပါ။"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:141
+#, kde-format
+msgid "Offline Updates"
+msgstr "အော့ဖ်လိုင်း အပ်ဒိတ်များ"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:142
 #, kde-format
