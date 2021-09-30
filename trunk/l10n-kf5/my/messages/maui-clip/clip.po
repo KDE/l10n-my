@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-17 00:16+0000\n"
+"POT-Creation-Date: 2021-09-30 00:15+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -54,8 +54,9 @@ msgid "Browse and play your videos."
 msgstr "သင်၏ဗီဒီယိုများကို ရှောက်ကြည့်၍ ဖွင့်ပြမည်။"
 
 #: src/main.cpp:97
-#, kde-format
-msgid "© 2019-%1 Nitrux Development Team"
+#, fuzzy, kde-format
+#| msgid "© 2019-%1 Nitrux Development Team"
+msgid "© 2019-%1 Maui Development Team"
 msgstr "© ၂၀၁၉ - %1 နစ်ထရက်တိုးတက်ရေးအဖွဲ့"
 
 #: src/main.cpp:98
@@ -68,7 +69,7 @@ msgstr "ခမီလိုဟီဂီတာ"
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:112 src/main.qml:238
+#: src/main.qml:112 src/main.qml:237
 #, kde-format
 msgid "Open URL"
 msgstr "ယူအာအယ်လ် ဖွင့်မည်"
@@ -87,12 +88,12 @@ msgstr ""
 msgid "Delete files?"
 msgstr "ဖိုင်လ်များဖျက်မည်လား။"
 
-#: src/main.qml:144 src/views/ItemMenu.qml:116
+#: src/main.qml:144 src/views/ItemMenu.qml:118
 #, kde-format
 msgid "Accept"
 msgstr "လက်ခံမည်"
 
-#: src/main.qml:145 src/views/ItemMenu.qml:117
+#: src/main.qml:145 src/views/ItemMenu.qml:119
 #, kde-format
 msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
@@ -107,37 +108,37 @@ msgstr "ဖိုင်လ် %1ခု ကို သင်တကယ်ဖျက�
 msgid "Now playing"
 msgstr "ယခုဖွင့်ပြနေသည်"
 
-#: src/main.qml:249
+#: src/main.qml:248
 #, kde-format
 msgid "Settings"
 msgstr "ဆက်တင်"
 
-#: src/main.qml:260
+#: src/main.qml:259
 #, kde-format
 msgid "About"
 msgstr "အကြောင်း"
 
-#: src/main.qml:269
+#: src/main.qml:268
 #, kde-format
 msgid "Player"
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
 
-#: src/main.qml:276 src/views/settings/SettingsDialog.qml:39
+#: src/main.qml:275 src/views/settings/SettingsDialog.qml:39
 #, kde-format
 msgid "Collection"
 msgstr "စုစည်းမှု"
 
-#: src/main.qml:283 src/views/ItemMenu.qml:55
+#: src/main.qml:282 src/views/ItemMenu.qml:31
 #, kde-format
 msgid "Tags"
 msgstr "တပ်ဂ်များ"
 
-#: src/main.qml:400
+#: src/main.qml:399
 #, kde-format
 msgid "Open"
 msgstr "ဖွင့်"
 
-#: src/main.qml:426
+#: src/main.qml:425
 #, kde-format
 msgid "Toogle SideBar"
 msgstr "ဘေးတန်း ဖွင့်/ပိတ်"
@@ -148,47 +149,47 @@ msgid "Search %1 video"
 msgid_plural "Search %1 videos"
 msgstr[0] "ဗီဒီယို %1ခု ရှာမည်"
 
-#: src/views/ItemMenu.qml:22 src/views/SelectionBar.qml:48
-#, kde-format
-msgid "Queue"
-msgstr "ကြည့်ရှုစာရင်း"
-
-#: src/views/ItemMenu.qml:34
-#, kde-format
-msgid "Select"
-msgstr "ရွေးချယ်မည်"
-
-#: src/views/ItemMenu.qml:48
+#: src/views/ItemMenu.qml:24
 #, kde-format
 msgid "UnFav it"
 msgstr "မနှစ်သက်"
 
-#: src/views/ItemMenu.qml:67 src/views/SelectionBar.qml:78
-#, kde-format
-msgid "Share"
-msgstr "ဝေမျှရန်"
-
-#: src/views/ItemMenu.qml:78
-#, kde-format
-msgid "Show in folder"
-msgstr "ဖိုလ်ဒါထဲတွင် ပြမည်"
-
-#: src/views/ItemMenu.qml:89
+#: src/views/ItemMenu.qml:43
 #, kde-format
 msgid "Info"
 msgstr "အချက်"
 
-#: src/views/ItemMenu.qml:102 src/views/SelectionBar.qml:106
+#: src/views/ItemMenu.qml:54 src/views/SelectionBar.qml:78
+#, kde-format
+msgid "Share"
+msgstr "ဝေမျှရန်"
+
+#: src/views/ItemMenu.qml:65 src/views/SelectionBar.qml:48
+#, kde-format
+msgid "Queue"
+msgstr "ကြည့်ရှုစာရင်း"
+
+#: src/views/ItemMenu.qml:77
+#, kde-format
+msgid "Select"
+msgstr "ရွေးချယ်မည်"
+
+#: src/views/ItemMenu.qml:91
+#, kde-format
+msgid "Show in folder"
+msgstr "ဖိုလ်ဒါထဲတွင် ပြမည်"
+
+#: src/views/ItemMenu.qml:104 src/views/SelectionBar.qml:106
 #, kde-format
 msgid "Remove"
 msgstr "ဖယ်ရှားမည်"
 
-#: src/views/ItemMenu.qml:115
+#: src/views/ItemMenu.qml:117
 #, kde-format
 msgid "Delete file?"
 msgstr "ဖိုင်လ် ဖျက်မည်လား။"
 
-#: src/views/ItemMenu.qml:118
+#: src/views/ItemMenu.qml:120
 #, kde-format
 msgid ""
 "Are sure you want to delete \n"
