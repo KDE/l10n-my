@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-30 03:20+0100\n"
+"POT-Creation-Date: 2021-10-03 00:19+0000\n"
 "PO-Revision-Date: 2021-09-15 05:40+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -53,12 +53,12 @@ msgstr "တိုင်"
 msgid "Message"
 msgstr "မှတ်စာ"
 
-#: plugin_katexmlcheck.cpp:299
+#: plugin_katexmlcheck.cpp:295
 #, kde-format
 msgid "<b>Error:</b> Could not create temporary file '%1'."
 msgstr ""
 
-#: plugin_katexmlcheck.cpp:393
+#: plugin_katexmlcheck.cpp:389
 #, kde-format
 msgid ""
 "<b>Error:</b> Failed to execute xmllint. Please make sure that xmllint is "
