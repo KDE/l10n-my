@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-03 00:19+0000\n"
+"POT-Creation-Date: 2021-10-04 00:19+0000\n"
 "PO-Revision-Date: 2021-09-15 00:53+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1606,7 +1606,7 @@ msgstr "ဆက်ရှင် ရွေးချယ်ကိရိယာ"
 msgid "Restore"
 msgstr "ပြန်လည်ထားသိုမည်"
 
-#: session/katesessionmanagedialog.cpp:305
+#: session/katesessionmanagedialog.cpp:306
 #, kde-format
 msgid "Session will be deleted on dialog close"
 msgstr "ဒိုင်ယာလော့ ပိတ်သည်နှင့် ဆက်ရှင်ကို ဖျက်ပစ်မည်"
