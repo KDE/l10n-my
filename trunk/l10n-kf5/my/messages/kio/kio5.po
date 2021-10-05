@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-29 00:14+0000\n"
+"POT-Creation-Date: 2021-10-05 00:14+0000\n"
 "PO-Revision-Date: 2021-10-04 01:41+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -4819,12 +4819,8 @@ msgstr "အမှိုက်ပုံးသို့ ပို့ရန်အ�
 
 #: ioslaves/trash/trashimpl.cpp:1319
 #, kde-format
-msgid ""
-"The trash has reached its maximum size!\n"
-"Cleanup the trash manually."
+msgid "The trash is full. Empty it or remove items manually."
 msgstr ""
-"အမှိုက်ပုံး ပြည့်သွားပြီ\n"
-"ကိုယ်တိုင် အမှိုက်ပုံးရှင်းပါ။"
 
 #: kcms/cookies/kcookiesmain.cpp:38
 #, kde-format
@@ -8371,34 +8367,34 @@ msgstr "&Rယူအာအယ်လ်"
 msgid "URL:"
 msgstr "ယူအာအယ်လ် -"
 
-#: widgets/kpropertiesdialog.cpp:3143 widgets/kpropertiesdialog.cpp:3420
+#: widgets/kpropertiesdialog.cpp:3143 widgets/kpropertiesdialog.cpp:3421
 #, kde-format
 msgid ""
 "Could not save properties. Only entries on local file systems are supported."
 msgstr ""
 "ကိုယ်ပိုင်လက္ခဏာများ သိမ်းဆည်း၍မရပါ။ စက်တွင်းဖိုင်လ်စနစ်များရှိ စာရင်းမှတ်ချက်များကိုသာ လုပ်ဆောင်နိုင်သည်။"
 
-#: widgets/kpropertiesdialog.cpp:3216
+#: widgets/kpropertiesdialog.cpp:3217
 #, kde-format
 msgid "&Application"
 msgstr "&Aအပ္ပလီကေးရှင်း"
 
-#: widgets/kpropertiesdialog.cpp:3358
+#: widgets/kpropertiesdialog.cpp:3359
 #, kde-format
 msgid "Add File Type for %1"
 msgstr "%1 အတွက်ဖိုင်လ်အမျိုးအစားထည့်မည်"
 
-#: widgets/kpropertiesdialog.cpp:3359
+#: widgets/kpropertiesdialog.cpp:3360
 #, kde-format
 msgid "Select one or more file types to add:"
 msgstr "တစ်ခု၊ တစ်ခုထက်ပိုသော ဖိုင်လ်အမျိုးအစားများ ထည့်သွင်းရန် ရွေးချယ်မည် -"
 
-#: widgets/kpropertiesdialog.cpp:3505
+#: widgets/kpropertiesdialog.cpp:3506
 #, kde-format
 msgid "Only executables on local file systems are supported."
 msgstr "စက်တွင်းဖိုင်စနစ်ပေါ်ရှိ လုပ်ဆောင်-ဖိုင်လ်များသာ ဆောင်ရွက်ခွင့်ပြုသည်။"
 
-#: widgets/kpropertiesdialog.cpp:3519
+#: widgets/kpropertiesdialog.cpp:3521
 #, kde-format
 msgid "Advanced Options for %1"
 msgstr "%1 အတွက် အဆင့်မြင့်ရွေးချယ်စရာများ"
@@ -8984,3 +8980,10 @@ msgstr "ဤအရာသည် ပရိုဂရမ်ကို စတင်လ�
 #, kde-format
 msgid "If you do not trust this program, click Cancel"
 msgstr "သင် ဤပရိုဂရမ်ကို မယုံကြည်လျှင် 'ပယ်ဖျက်ရန်' ခလုတ်ကိုနှိပ်ပါ"
+
+#~ msgid ""
+#~ "The trash has reached its maximum size!\n"
+#~ "Cleanup the trash manually."
+#~ msgstr ""
+#~ "အမှိုက်ပုံး ပြည့်သွားပြီ\n"
+#~ "ကိုယ်တိုင် အမှိုက်ပုံးရှင်းပါ။"
