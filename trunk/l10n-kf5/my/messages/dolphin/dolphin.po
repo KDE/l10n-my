@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-05 00:19+0000\n"
+"POT-Creation-Date: 2021-10-07 00:19+0000\n"
 "PO-Revision-Date: 2021-09-24 16:56+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -3070,10 +3070,12 @@ msgid "Enabled plugins"
 msgstr "ဖွင့်ထားသောပလပ်ဂင်များ"
 
 #: settings/dolphinsettingsdialog.cpp:41
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu menu for configure actions"
+#| msgid "Configure"
 msgctxt "@title:window"
-msgid "Dolphin Preferences"
-msgstr "လင်းပိုင်ဆိုင်ရာ နှစ်သက်-သတ်မှတ်ချက်များ"
+msgid "Configure"
+msgstr "ပြင်ဆင်မည်"
 
 #: settings/dolphinsettingsdialog.cpp:55
 #, kde-format
@@ -4546,3 +4548,7 @@ msgstr[0] "ရွေးချယ်ထားသော အိုင်တမ် %
 msgctxt "@info:status"
 msgid "Updating version information..."
 msgstr "ဗားရှင်းဆိုင်ရာ အချက်အလက်များ အပ်ဒိတ်တင်နေသည်..."
+
+#~ msgctxt "@title:window"
+#~ msgid "Dolphin Preferences"
+#~ msgstr "လင်းပိုင်ဆိုင်ရာ နှစ်သက်-သတ်မှတ်ချက်များ"
