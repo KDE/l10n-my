@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-12 00:31+0000\n"
+"POT-Creation-Date: 2021-10-10 00:30+0000\n"
 "PO-Revision-Date: 2021-09-15 04:53+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -27,6 +27,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Color Picker"
 msgstr "အရောင်ရွေးကိရိယာ"
+
+#: addons/compiler-explorer/ce_plugin.json
+msgctxt "Name"
+msgid "Compiler Explorer"
+msgstr ""
 
 #: addons/externaltools/externaltoolsplugin.json
 msgctxt "Name"
@@ -153,6 +158,11 @@ msgctxt "Description"
 msgid ""
 "Adds an inline Color preview/picker to colors in the text (e.g. #FFFFFF, "
 "white)"
+msgstr ""
+
+#: addons/compiler-explorer/ce_plugin.json
+msgctxt "Description"
+msgid "View generated asm for C/C++ code"
 msgstr ""
 
 #: addons/externaltools/externaltoolsplugin.json

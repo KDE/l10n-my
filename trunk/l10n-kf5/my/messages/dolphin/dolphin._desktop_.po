@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-21 00:24+0000\n"
+"POT-Creation-Date: 2021-10-10 00:26+0000\n"
 "PO-Revision-Date: 2021-09-16 00:03+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,17 +18,17 @@ msgctxt "Name"
 msgid "Dolphin View"
 msgstr "လင်းပိုင် မြင်ကွင်း"
 
-#: src/dolphinpart.desktop.in:74
+#: src/dolphinpart.desktop.in:75
 msgctxt "Name"
 msgid "Icons"
 msgstr "အိုင်ကွန်များ"
 
-#: src/dolphinpart.desktop.in:132
+#: src/dolphinpart.desktop.in:134
 msgctxt "Name"
 msgid "Compact"
 msgstr "ကျစ်လစ်"
 
-#: src/dolphinpart.desktop.in:189
+#: src/dolphinpart.desktop.in:192
 msgctxt "Name"
 msgid "Details"
 msgstr "အသေးစိတ်"
@@ -38,7 +38,7 @@ msgctxt "Name"
 msgid "Dolphin"
 msgstr "လင်းပိုင်"
 
-#: src/org.kde.dolphin.desktop:60
+#: src/org.kde.dolphin.desktop:61
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr "ဖိုင်လ်မန်နေဂျာ"
@@ -48,24 +48,24 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr "လင်းပိုင် ယေဘုယျ"
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:54
+#: src/settings/kcm/kcmdolphingeneral.desktop:55
 msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "ဤဝန်ဆောင်မှုက လင်းပိုင် ယေဘုယျဆက်တင်ကို ပြင်ဆင်နိုင်စေသည်။"
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:115
+#: src/settings/kcm/kcmdolphingeneral.desktop:117
 msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "ယေဘုယျ"
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:167
+#: src/settings/kcm/kcmdolphingeneral.desktop:170
 msgctxt "Comment"
 msgid "Configure general file manager settings"
 msgstr "ဖိုင်လ်မန်နေဂျာ ယေဘုယျဆက်တင် ပြင်ဆင်မည်"
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:219
-#: src/settings/kcm/kcmdolphinnavigation.desktop:220
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:216
+#: src/settings/kcm/kcmdolphingeneral.desktop:223
+#: src/settings/kcm/kcmdolphinnavigation.desktop:224
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:220
 msgctxt "X-KDE-Keywords"
 msgid "file manager"
 msgstr "ဖိုင်လ်မန်နေဂျာ"
@@ -75,17 +75,17 @@ msgctxt "Name"
 msgid "Dolphin Navigation"
 msgstr "လင်းပိုင် လမ်းညွှန်"
 
-#: src/settings/kcm/kcmdolphinnavigation.desktop:54
+#: src/settings/kcm/kcmdolphinnavigation.desktop:55
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "ဤဝန်ဆောင်မှုက လင်းပိုင် လမ်းညွှန်ကို ပြင်ဆင်နိုင်စေသည်။"
 
-#: src/settings/kcm/kcmdolphinnavigation.desktop:114
+#: src/settings/kcm/kcmdolphinnavigation.desktop:116
 msgctxt "Name"
 msgid "Navigation"
 msgstr "လမ်းညွှန်"
 
-#: src/settings/kcm/kcmdolphinnavigation.desktop:167
+#: src/settings/kcm/kcmdolphinnavigation.desktop:170
 msgctxt "Comment"
 msgid "Configure file manager navigation"
 msgstr "ဖိုင်လ်မန်နေဂျာ လမ်းညွှန် ပြင်ဆင်မည်"
@@ -95,17 +95,17 @@ msgctxt "Name"
 msgid "Dolphin View Modes"
 msgstr "လင်းပိုင် မြင်ကွင်းထုံးနည်းများ"
 
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:53
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:54
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr "ဤဝန်ဆောင်မှုက လင်းပိုင် မြင်ကွင်းထုံးနည်းများကို ပြင်ဆင်နိုင်စေသည်။"
 
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:112
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:114
 msgctxt "Name"
 msgid "View Modes"
 msgstr "မြင်ကွင်းထုံးနည်းများ"
 
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:164
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:167
 msgctxt "Comment"
 msgid "Configure file manager view modes"
 msgstr "ဖိုင်လ်မန်နေဂျာ မြင်ကွင်းထုံးနည်းများ ပြင်ဆင်မည်"
