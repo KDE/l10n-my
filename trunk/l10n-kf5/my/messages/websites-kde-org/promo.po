@@ -298,8 +298,10 @@ msgid "Games"
 msgstr "ဂိမ်းများ"
 
 #: content/hardware.md:0
-msgid "Buy hardware with Plasma and KDE Applications"
-msgstr ""
+#, fuzzy
+#| msgid "Buy a device with Plasma"
+msgid "Buy devices with Plasma and KDE Applications"
+msgstr "ပလက်စမာဖြင့် စက်တစ်လုံးဝယ်ယူလိုက်ပါ"
 
 #: content/hardware.md:0
 msgid ""
@@ -559,13 +561,13 @@ msgid "starting at $199"
 msgstr "၁၉၉ဒေါ်လာမှ စျေးစသည်"
 
 #: content/hardware.md:0
-msgid "Hardware sellers with KDE Plasma as an option"
+msgid "Hardware sellers and services with KDE Plasma as an option"
 msgstr ""
 
 #: content/hardware.md:0
 msgid ""
-"You can find here a list of hardware sellers who offer Plasma as an option "
-"when buying the laptop:"
+"You can find here a list of hardware sellers and services offering Plasma as "
+"an option:"
 msgstr ""
 
 #: content/hardware.md:5

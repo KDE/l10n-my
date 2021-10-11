@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akonadi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-02 00:17+0000\n"
+"POT-Creation-Date: 2021-10-11 00:18+0000\n"
 "PO-Revision-Date: 2021-09-27 23:52+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -49,12 +49,12 @@ msgctxt "Name and type of Akonadi resource"
 msgid "%1 of type %2"
 msgstr "%2 အမျိုးအစားဖြစ်သော %1"
 
-#: agentbase/agentbase.cpp:897
+#: agentbase/agentbase.cpp:894
 #, kde-format
 msgid "Agent identifier"
 msgstr "အေးဂျင့်ခွဲခြားသတ်မှတ်အတည်ပြုချက်"
 
-#: agentbase/agentbase.cpp:903
+#: agentbase/agentbase.cpp:900
 #, kde-format
 msgid "Akonadi Agent"
 msgstr "အကွန်နဒီအေးဂျင့်"
@@ -188,34 +188,34 @@ msgstr ""
 msgid "Agent instance creation timed out."
 msgstr "အေးဂျင့်အင်းစတမ့် ဖန်တီးမှု အချိန်ကုန်သွားပြီ။"
 
-#: core/jobs/agentinstancecreatejob.cpp:154
+#: core/jobs/agentinstancecreatejob.cpp:151
 #, kde-format
 msgid "Unable to obtain agent type '%1'."
 msgstr "'%1' အေးဂျင့်အမျိုးအစား မရရှိနိုင်ခဲ့ပါ။"
 
-#: core/jobs/agentinstancecreatejob.cpp:162
+#: core/jobs/agentinstancecreatejob.cpp:159
 #, kde-format
 msgid "Unable to create agent instance."
 msgstr "အေးဂျင့်အင်းစတမ့်ကိုမဖန်တီးနိုင်ခဲ့ပါ။"
 
-#: core/jobs/collectionattributessynchronizationjob.cpp:76
+#: core/jobs/collectionattributessynchronizationjob.cpp:73
 #, kde-format
 msgid "Invalid collection instance."
 msgstr "မမှန်ကန်သော စုစည်းမှု အင်းစတမ့်။"
 
-#: core/jobs/collectionattributessynchronizationjob.cpp:83
-#: core/jobs/resourcesynchronizationjob.cpp:91
+#: core/jobs/collectionattributessynchronizationjob.cpp:80
+#: core/jobs/resourcesynchronizationjob.cpp:88
 #, kde-format
 msgid "Invalid resource instance."
 msgstr "မမှန်ကန်သော ရင်းမြစ်အင်းစတမ့်။"
 
-#: core/jobs/collectionattributessynchronizationjob.cpp:105
-#: core/jobs/resourcesynchronizationjob.cpp:116
+#: core/jobs/collectionattributessynchronizationjob.cpp:102
+#: core/jobs/resourcesynchronizationjob.cpp:113
 #, kde-format
 msgid "Unable to obtain D-Bus interface for resource '%1'"
 msgstr ""
 
-#: core/jobs/collectionattributessynchronizationjob.cpp:128
+#: core/jobs/collectionattributessynchronizationjob.cpp:125
 #, kde-format
 msgid "Collection attributes synchronization timed out."
 msgstr ""
@@ -271,29 +271,29 @@ msgstr "မမှန်ကန်သော စုစည်းမှု။"
 msgid "Invalid parent collection"
 msgstr "စုစည်းမှုတပ်ဆင်ပြီး"
 
-#: core/jobs/job.cpp:337
+#: core/jobs/job.cpp:335
 #, kde-format
 msgid "Cannot connect to the Akonadi service."
 msgstr ""
 
-#: core/jobs/job.cpp:340
+#: core/jobs/job.cpp:338
 #, kde-format
 msgid ""
 "The protocol version of the Akonadi server is incompatible. Make sure you "
 "have a compatible version installed."
 msgstr ""
 
-#: core/jobs/job.cpp:343
+#: core/jobs/job.cpp:341
 #, kde-format
 msgid "User canceled operation."
 msgstr "အသုံးပြုသူသည် လုပ်ဆောင်မှု ပယ်ဖျက်လိုက်သည်။"
 
-#: core/jobs/job.cpp:348
+#: core/jobs/job.cpp:346
 #, kde-format
 msgid "Unknown error."
 msgstr "မသိသောအမှား။"
 
-#: core/jobs/job.cpp:387
+#: core/jobs/job.cpp:385
 #, kde-format
 msgid "Unexpected response"
 msgstr "မမျှော်လင့်ထားသော တုံ့ပြန်ချက်"
@@ -303,7 +303,7 @@ msgstr "မမျှော်လင့်ထားသော တုံ့ပြ�
 msgid "Failed to create relation."
 msgstr "တောင်းဆိုထားသောဖိုလ်ဒါ တည်ဆောက်ရန် ကြိုးပမ်းမှု မအောင်မြင်ခဲ့ပါ။"
 
-#: core/jobs/resourcesynchronizationjob.cpp:142
+#: core/jobs/resourcesynchronizationjob.cpp:139
 #, fuzzy, kde-format
 msgid "Resource synchronization timed out."
 msgstr "ချိတ်ဆက်ရန် ကြိုးစားချိန်ကုန်သွားသည်။"
@@ -313,28 +313,28 @@ msgstr "ချိတ်ဆက်ရန် ကြိုးစားချိန�
 msgid "Could not fetch root collection of resource %1."
 msgstr ""
 
-#: core/jobs/specialcollectionshelperjobs.cpp:193
+#: core/jobs/specialcollectionshelperjobs.cpp:190
 #, kde-format
 msgid "No resource ID given."
 msgstr ""
 
-#: core/jobs/specialcollectionshelperjobs.cpp:330
+#: core/jobs/specialcollectionshelperjobs.cpp:327
 #, fuzzy, kde-format
 msgid "Invalid resource identifier '%1'"
 msgstr "ယူအာအယ် ရင်းမြစ်တန်ဖိုး မမှန်ကန်ပါ"
 
-#: core/jobs/specialcollectionshelperjobs.cpp:346
-#: core/jobs/specialcollectionshelperjobs.cpp:354
+#: core/jobs/specialcollectionshelperjobs.cpp:343
+#: core/jobs/specialcollectionshelperjobs.cpp:351
 #, kde-format
 msgid "Failed to configure default resource via D-Bus."
 msgstr ""
 
-#: core/jobs/specialcollectionshelperjobs.cpp:419
+#: core/jobs/specialcollectionshelperjobs.cpp:416
 #, kde-format
 msgid "Failed to fetch the resource collection."
 msgstr ""
 
-#: core/jobs/specialcollectionshelperjobs.cpp:606
+#: core/jobs/specialcollectionshelperjobs.cpp:600
 #, kde-format
 msgid "Timeout trying to get lock."
 msgstr ""
@@ -369,32 +369,32 @@ msgstr ""
 msgid "Could not find restore collection and restore resource is not available"
 msgstr ""
 
-#: core/models/agentinstancemodel.cpp:186
+#: core/models/agentinstancemodel.cpp:183
 #, kde-format
 msgctxt "@title:column, name of a thing"
 msgid "Name"
 msgstr "အမည်"
 
-#: core/models/entitytreemodel.cpp:197
+#: core/models/entitytreemodel.cpp:195
 #, kde-format
 msgctxt "@info:status"
 msgid "Loading..."
 msgstr "တွန်းတင်နေသည်..."
 
-#: core/models/entitytreemodel.cpp:489
+#: core/models/entitytreemodel.cpp:487
 #, kde-format
 msgctxt "@window:title"
 msgid "Error"
 msgstr "အမှား"
 
-#: core/models/entitytreemodel.cpp:490
+#: core/models/entitytreemodel.cpp:488
 #, kde-format
 msgid ""
 "The target collection '%1' contains already\n"
 "a collection with name '%2'."
 msgstr ""
 
-#: core/models/entitytreemodel.cpp:659
+#: core/models/entitytreemodel.cpp:657
 #, kde-format
 msgctxt "@title:column Name of a thing"
 msgid "Name"
@@ -436,7 +436,7 @@ msgctxt "@title:window"
 msgid "Error"
 msgstr "အမှား"
 
-#: core/models/favoritecollectionsmodel.cpp:408
+#: core/models/favoritecollectionsmodel.cpp:405
 #, kde-format
 msgid "Favorite Folders"
 msgstr "နှစ်သက်မှုဖိုလ်ဒါများ"
@@ -466,25 +466,25 @@ msgstr "မှတ်ဉာဏ်သိမ်းနေရာအရွယ်အစ
 msgid "Subfolder Storage Size"
 msgstr "လက်အောက်ခံဖိုလ်ဒါ၏မှတ်ဉာဏ်သိမ်းနေရာအရွယ်အစား"
 
-#: core/models/statisticsproxymodel.cpp:228
+#: core/models/statisticsproxymodel.cpp:225
 #, kde-format
 msgctxt "number of unread entities in the collection"
 msgid "Unread"
 msgstr "မဖတ်ရသေး"
 
-#: core/models/statisticsproxymodel.cpp:229
+#: core/models/statisticsproxymodel.cpp:226
 #, kde-format
 msgctxt "number of entities in the collection"
 msgid "Total"
 msgstr "စုစုပေါင်း"
 
-#: core/models/statisticsproxymodel.cpp:230
+#: core/models/statisticsproxymodel.cpp:227
 #, kde-format
 msgctxt "collection size"
 msgid "Size"
 msgstr "အရွယ်အစား"
 
-#: core/models/tagmodel.cpp:67
+#: core/models/tagmodel.cpp:64
 #, kde-format
 msgid "Tag"
 msgstr "တပ်ဂ်"
@@ -499,17 +499,17 @@ msgstr "အညွှန်းအတွက် အိုင်တမ်မရယ�
 msgid "Index is no longer available"
 msgstr "စာသားအကျယ်ညွှန်းကိန်း"
 
-#: core/partfetcher.cpp:117
+#: core/partfetcher.cpp:114
 #, kde-format
 msgid "Payload part '%1' is not available for this index"
 msgstr ""
 
-#: core/partfetcher.cpp:126
+#: core/partfetcher.cpp:123
 #, fuzzy, kde-format
 msgid "No session available for this index"
 msgstr "ရရှိနိုင်သော"
 
-#: core/partfetcher.cpp:135
+#: core/partfetcher.cpp:132
 #, fuzzy, kde-format
 msgid "No item available for this index"
 msgstr "ရရှိနိုင်သော"
@@ -843,18 +843,18 @@ msgstr ""
 msgid "Maintenance"
 msgstr "ထိမ်းသိမ်းမှု"
 
-#: widgets/collectionmaintenancepage.cpp:132
+#: widgets/collectionmaintenancepage.cpp:129
 #, kde-format
 msgid "Error while retrieving indexed items count"
 msgstr ""
 
-#: widgets/collectionmaintenancepage.cpp:135
+#: widgets/collectionmaintenancepage.cpp:132
 #, fuzzy, kde-format
 msgid "Indexed %1 item in this folder"
 msgid_plural "Indexed %1 items in this folder"
 msgstr[0] "တန်ဆာ %1ခု"
 
-#: widgets/collectionmaintenancepage.cpp:139
+#: widgets/collectionmaintenancepage.cpp:136
 #, kde-format
 msgid "Calculating indexed items..."
 msgstr "စီထားသော အိုင်တမ်များ တွက်နေသည်..."
@@ -935,17 +935,17 @@ msgctxt "@title:window"
 msgid "Select a collection"
 msgstr "စုစည်းမှု ရွေးချယ်မည်"
 
-#: widgets/collectionview.cpp:220
+#: widgets/collectionview.cpp:217
 #, kde-format
 msgid "&Move here"
 msgstr "&Mဤနေရာသို့ရွေ့ယူရန်"
 
-#: widgets/collectionview.cpp:221
+#: widgets/collectionview.cpp:218
 #, kde-format
 msgid "&Copy here"
 msgstr "&Cဤနေရာသို့ကူးယူမည်"
 
-#: widgets/collectionview.cpp:223
+#: widgets/collectionview.cpp:220
 #, kde-format
 msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
@@ -1005,12 +1005,12 @@ msgstr ""
 msgid "Data"
 msgstr "ဒေတာ"
 
-#: widgets/controlgui.cpp:226
+#: widgets/controlgui.cpp:223
 #, kde-format
 msgid "Starting Akonadi server..."
 msgstr "အကွန်နဒီဆာဗာစတင်နေသည်..."
 
-#: widgets/controlgui.cpp:232
+#: widgets/controlgui.cpp:229
 #, kde-format
 msgid "Stopping Akonadi server..."
 msgstr "အကွန်နဒီဆာဗာကို ရပ်တန့်နေသည်..."
@@ -2390,57 +2390,57 @@ msgstr "(c) ၂၀၀၉ ဗော်ကာခရောက်စ် <vkrause@kde
 msgid "No data loaded."
 msgstr "တွန်းတင်ထားသော ဒေတာများမရှိပါ။"
 
-#: xml/xmldocument.cpp:123
+#: xml/xmldocument.cpp:120
 #, kde-format
 msgid "No filename specified"
 msgstr "ဖိုင်လ်အမည်မပေးထားပါ"
 
-#: xml/xmldocument.cpp:131
+#: xml/xmldocument.cpp:128
 #, kde-format
 msgid "Unable to open data file '%1'."
 msgstr "'%1' ဒေတာဖိုင်လ်ကို မဖွင့်နိုင်ခဲ့ပါ။"
 
-#: xml/xmldocument.cpp:136
+#: xml/xmldocument.cpp:133
 #, kde-format
 msgid "File %1 does not exist."
 msgstr "ဖိုင်လ် %1 မရှိပါ။"
 
-#: xml/xmldocument.cpp:144
+#: xml/xmldocument.cpp:141
 #, kde-format
 msgid "Unable to parse data file '%1'."
 msgstr "'%1' ဒေတာဖိုင်လ်ကို အဓိပ္ပါယ်ရှိအောင် မဖတ်နိုင်ခဲ့ပါ။"
 
-#: xml/xmldocument.cpp:151
+#: xml/xmldocument.cpp:148
 #, kde-format
 msgid "Schema definition could not be loaded and parsed."
 msgstr "စခီးမား အဓိပ္ပါယ်ဖွင့်ဆိုမှုကို မတွန်းတင်နိုင်၍ မဖတ်နိုင်ခဲ့ပါ။"
 
-#: xml/xmldocument.cpp:156
+#: xml/xmldocument.cpp:153
 #, kde-format
 msgid "Unable to create schema parser context."
 msgstr ""
 
-#: xml/xmldocument.cpp:161
+#: xml/xmldocument.cpp:158
 #, kde-format
 msgid "Unable to create schema."
 msgstr "စခီးမားကို မဖန်တီးနိုင်ခဲ့ပါ။"
 
-#: xml/xmldocument.cpp:166
+#: xml/xmldocument.cpp:163
 #, kde-format
 msgid "Unable to create schema validation context."
 msgstr ""
 
-#: xml/xmldocument.cpp:171
+#: xml/xmldocument.cpp:168
 #, kde-format
 msgid "Invalid file format."
 msgstr "မမှန်ကန်သော ဖိုင်လ်သိမ်းဆည်းပုံစံ။"
 
-#: xml/xmldocument.cpp:179
+#: xml/xmldocument.cpp:176
 #, kde-format
 msgid "Unable to parse data file: %1"
 msgstr "ဒေတာဖိုင်လ်ကို အဓိပ္ပါယ်ရှိအောင် မဖတ်နိုင်ခဲ့ပါ - %1"
 
-#: xml/xmldocument.cpp:304
+#: xml/xmldocument.cpp:301
 #, kde-format
 msgid "Unable to find collection %1"
 msgstr "စုစည်းမှု %1 ကိုမရှာနိုင်ခဲ့ပါ"
