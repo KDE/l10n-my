@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-10 00:17+0000\n"
+"POT-Creation-Date: 2021-10-13 00:16+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -69,12 +69,12 @@ msgstr "ခမီလိုဟီဂီတာ"
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:120
+#: src/main.qml:100
 #, kde-format
 msgid "Open URL"
 msgstr "ယူအာအယ်လ် ဖွင့်မည်"
 
-#: src/main.qml:122
+#: src/main.qml:102
 #, kde-format
 msgid ""
 "Enter any remote location, like YouTube video URLs, or from other services "
@@ -83,65 +83,77 @@ msgstr ""
 "ယူကျူ့ဗီဒီယို ယူအာအယ်များ သို့မဟုတ် အမ်ပီဗီမှ ထောက်ပံ့ပေးထားသော အခြားဝန်ဆောင်မှုများမှ အဝေးနေရာများသို့ "
 "ဝင်ရောက်နိုင်သည်။"
 
-#: src/main.qml:154
+#: src/main.qml:134
 #, kde-format
 msgid "Delete files?"
 msgstr "ဖိုင်လ်များဖျက်မည်လား။"
 
-#: src/main.qml:155 src/views/ItemMenu.qml:121
+#: src/main.qml:135 src/views/ItemMenu.qml:121
 #, kde-format
 msgid "Accept"
 msgstr "လက်ခံမည်"
 
-#: src/main.qml:156 src/views/ItemMenu.qml:122
+#: src/main.qml:136 src/views/ItemMenu.qml:122
 #, kde-format
 msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
 
-#: src/main.qml:157
+#: src/main.qml:137
 #, kde-format
 msgid "Are sure you want to delete %1 files"
 msgstr "ဖိုင်လ် %1ခု ကို သင်တကယ်ဖျက်တော့မည်လား"
 
-#: src/main.qml:188
+#: src/main.qml:163
 #, kde-format
 msgid "Now playing"
 msgstr "ယခုဖွင့်ပြနေသည်"
 
-#: src/main.qml:254
-#, kde-format
-msgid "Settings"
-msgstr "ဆက်တင်"
-
-#: src/main.qml:266
-#, kde-format
-msgid "About"
-msgstr "အကြောင်း"
-
-#: src/main.qml:275
+#: src/main.qml:205
 #, kde-format
 msgid "Player"
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
 
-#: src/main.qml:281 src/views/settings/SettingsDialog.qml:39
+#: src/main.qml:264 src/views/youtube/YouTubeView.qml:26
+#, kde-format
+msgid "Nothing Here!"
+msgstr "ဘာမှမရှိ။"
+
+#: src/main.qml:265
+#, fuzzy, kde-format
+#| msgid "Open a new video to start playing or add it to the playlist."
+msgid "Open a new video from your collection or file system."
+msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
+
+#: src/main.qml:286 src/main.qml:498 src/views/settings/SettingsDialog.qml:39
 #, kde-format
 msgid "Collection"
 msgstr "စုစည်းမှု"
 
-#: src/main.qml:288 src/views/ItemMenu.qml:31
-#, kde-format
-msgid "Tags"
-msgstr "တပ်ဂ်များ"
-
-#: src/main.qml:412
+#: src/main.qml:293
 #, kde-format
 msgid "Open"
 msgstr "ဖွင့်"
 
-#: src/main.qml:438
-#, kde-format
-msgid "Toogle SideBar"
+#: src/main.qml:405
+#, fuzzy, kde-format
+#| msgid "Toogle SideBar"
+msgid "Toggle SideBar"
 msgstr "ဘေးတန်း ဖွင့်/ပိတ်"
+
+#: src/main.qml:472
+#, kde-format
+msgid "Settings"
+msgstr "ဆက်တင်"
+
+#: src/main.qml:484
+#, kde-format
+msgid "About"
+msgstr "အကြောင်း"
+
+#: src/main.qml:505 src/views/ItemMenu.qml:31
+#, kde-format
+msgid "Tags"
+msgstr "တပ်ဂ်များ"
 
 #: src/views/BrowserLayout.qml:71
 #, kde-format
@@ -207,16 +219,6 @@ msgstr "ဗီဒီယိုစာတန်းထိုး"
 #, kde-format
 msgid "Audio Tracks"
 msgstr "အော်ဒီယိုသံစဥ်များ"
-
-#: src/views/player/PlayerView.qml:41 src/views/youtube/YouTubeView.qml:26
-#, kde-format
-msgid "Nothing Here!"
-msgstr "ဘာမှမရှိ။"
-
-#: src/views/player/PlayerView.qml:42
-#, kde-format
-msgid "Open a new video to start playing or add it to the playlist."
-msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
 
 #: src/views/player/Playlist.qml:21 src/views/tags/TagsView.qml:40
 #, kde-format
