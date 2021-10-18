@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akonadi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-11 00:18+0000\n"
+"POT-Creation-Date: 2021-10-18 00:17+0000\n"
 "PO-Revision-Date: 2021-09-27 23:52+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -266,7 +266,7 @@ msgstr "မသတ်မှတ်ထား"
 msgid "Invalid collection."
 msgstr "မမှန်ကန်သော စုစည်းမှု။"
 
-#: core/jobs/itemcreatejob.cpp:107
+#: core/jobs/itemcreatejob.cpp:105
 #, fuzzy, kde-format
 msgid "Invalid parent collection"
 msgstr "စုစည်းမှုတပ်ဆင်ပြီး"
