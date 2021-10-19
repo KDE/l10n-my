@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-16 01:41+0000\n"
+"POT-Creation-Date: 2021-10-19 01:43+0000\n"
 "PO-Revision-Date: 2021-09-13 03:00+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -553,22 +553,22 @@ msgid ""
 "<ul><li>%1</li></ul>"
 msgstr "ဤရီပိုစစ်တိုရီကို ဖယ်ရှာရန် အောက်ပါအပ္ပလီကေးရှင်းများကို ဖယ်ရှားပစ်ရမည်-<ul><li>%1</li></ul>"
 
-#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:236
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:237
 #, kde-format
 msgid "Failed to remove %1 remote repository: %2"
 msgstr "%1 အဝေးရီပိုစစ်တိုရီ ကိုမဖယ်ရှားနိုင်ခဲ့ပါ - %2"
 
-#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:240
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:241
 #, kde-format
 msgid "Could not find %1"
 msgstr "%1ကိုရှာမတွေ့ခဲ့ပါ"
 
-#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:335
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:336
 #, kde-format
 msgid "%1 (user)"
 msgstr "%1 (အသုံးပြုသူ)"
 
-#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:379
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:381
 #, kde-format
 msgid "Enter a Flatpak repository URI (*.flatpakrepo):"
 msgstr "ဖလက်ပတ်ခ် ရီပိုစစ်တိုရီ ယူအာအိုင် (*.flatpakrepo) ရေးသွင်းပါ-"
