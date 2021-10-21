@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-17 00:14+0000\n"
+"POT-Creation-Date: 2021-10-21 00:14+0000\n"
 "PO-Revision-Date: 2021-10-07 21:08+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2759,43 +2759,43 @@ msgstr "ဖွင့်"
 msgid "Save As"
 msgstr "အဖြစ်သိမ်းမည်"
 
-#: filewidgets/kfilecopytomenu.cpp:68
+#: filewidgets/kfilecopytomenu.cpp:70
 #, kde-format
 msgctxt "@title:menu"
 msgid "Copy To"
 msgstr "သို့ကူးယူရန်"
 
-#: filewidgets/kfilecopytomenu.cpp:74
+#: filewidgets/kfilecopytomenu.cpp:76
 #, kde-format
 msgctxt "@title:menu"
 msgid "Move To"
 msgstr "သို့ရွေ့ယူရန်"
 
-#: filewidgets/kfilecopytomenu.cpp:99
+#: filewidgets/kfilecopytomenu.cpp:101
 #, kde-format
 msgctxt "@title:menu"
 msgid "Home Folder"
 msgstr "အိမ်ဖိုလ်ဒါ"
 
-#: filewidgets/kfilecopytomenu.cpp:107
+#: filewidgets/kfilecopytomenu.cpp:109
 #, kde-format
 msgctxt "@title:menu"
 msgid "Root Folder"
 msgstr "Root ဖိုလ်ဒါ"
 
-#: filewidgets/kfilecopytomenu.cpp:143
+#: filewidgets/kfilecopytomenu.cpp:145
 #, kde-format
 msgctxt "@title:menu in Copy To or Move To submenu"
 msgid "Browse..."
 msgstr "ရှောက်ကြည့်..."
 
-#: filewidgets/kfilecopytomenu.cpp:227
+#: filewidgets/kfilecopytomenu.cpp:229
 #, kde-format
 msgctxt "@title:menu"
 msgid "Copy Here"
 msgstr "ဤနေရာသို့ကူးယူရန်"
 
-#: filewidgets/kfilecopytomenu.cpp:227
+#: filewidgets/kfilecopytomenu.cpp:229
 #, kde-format
 msgctxt "@title:menu"
 msgid "Move Here"
@@ -3679,19 +3679,19 @@ msgctxt "@action:inmenu"
 msgid "More"
 msgstr "ပိုမို"
 
-#: filewidgets/kurlnavigatorprotocolcombo.cpp:158
+#: filewidgets/kurlnavigatorprotocolcombo.cpp:155
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Devices"
 msgstr "စက်များ"
 
-#: filewidgets/kurlnavigatorprotocolcombo.cpp:162
+#: filewidgets/kurlnavigatorprotocolcombo.cpp:159
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Subversion"
 msgstr "ဗားရှင်းငယ်"
 
-#: filewidgets/kurlnavigatorprotocolcombo.cpp:166
+#: filewidgets/kurlnavigatorprotocolcombo.cpp:163
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Other"

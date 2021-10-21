@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-01 00:18+0000\n"
+"POT-Creation-Date: 2021-10-21 00:16+0000\n"
 "PO-Revision-Date: 2021-09-15 20:30+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1763,74 +1763,74 @@ msgid ""
 "URLs of hyperlinks. This option specifies the treatment of such attempts."
 msgstr ""
 
-#: main.cpp:51
+#: main.cpp:43
 #, kde-format
 msgid "Konqueror Browsing Control Module"
 msgstr ""
 
-#: main.cpp:53
+#: main.cpp:45
 #, kde-format
 msgid "(c) 1999 - 2001 The Konqueror Developers"
 msgstr "(c) ၁၉၉၉-၂၀၀၁ ကွန်ကွာရာ ပရိုဂရမ်မာများ"
 
-#: main.cpp:55
+#: main.cpp:47
 #, kde-format
 msgid "Waldo Bastian"
 msgstr "ဝါလ်ဒိုဘက်စတီရှန်"
 
-#: main.cpp:56
+#: main.cpp:48
 #, kde-format
 msgid "David Faure"
 msgstr "ဒေးဗစ်ဖော့"
 
-#: main.cpp:57
+#: main.cpp:49
 #, kde-format
 msgid "Matthias Kalle Dalheimer"
 msgstr "မတ်သီးရက်စ်ကယ်လီဒယ်ဟိန်မာ"
 
-#: main.cpp:58
+#: main.cpp:50
 #, kde-format
 msgid "Lars Knoll"
 msgstr "လားစ်နူးလ်"
 
-#: main.cpp:59
+#: main.cpp:51
 #, kde-format
 msgid "Dirk Mueller"
 msgstr "ဒစ်ခ်မျူလာ"
 
-#: main.cpp:60
+#: main.cpp:52
 #, kde-format
 msgid "Daniel Molkentin"
 msgstr "ဒန်နီရယ်မော်ကန်တင်"
 
-#: main.cpp:61
+#: main.cpp:53
 #, kde-format
 msgid "Wynn Wilkes"
 msgstr "ဝင်ဝစ်လ်စ်"
 
-#: main.cpp:63
+#: main.cpp:55
 #, kde-format
 msgid "Leo Savernik"
 msgstr "လီယိုဆဗာနစ်ခ်"
 
-#: main.cpp:63
+#: main.cpp:55
 #, kde-format
 msgid ""
 "JavaScript access controls\n"
 "Per-domain policies extensions"
 msgstr ""
 
-#: main.cpp:75
+#: main.cpp:67
 #, kde-format
 msgid "&Java"
 msgstr "&Jဂျာဗား"
 
-#: main.cpp:79
+#: main.cpp:71
 #, kde-format
 msgid "Java&Script"
 msgstr ""
 
-#: main.cpp:119
+#: main.cpp:111
 #, kde-format
 msgid ""
 "<h2>JavaScript</h2>On this page, you can configure whether JavaScript "
