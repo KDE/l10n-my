@@ -320,7 +320,7 @@ msgid "Simple by default, Powerful when needed"
 msgstr "မူလသတ်မှတ်ချက်အရ ရိုးရှင်းသည်။ သို့သော် လိုအပ်ပါက အလွန်စွမ်းရည်ပြည့်ဝလှပေသည်"
 
 #: i18n/en.yaml:0
-msgid "25 Years of Awesomness"
+msgid "25 Years of Awesomeness"
 msgstr ""
 
 #: i18n/en.yaml:0
