@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-19 01:43+0000\n"
+"POT-Creation-Date: 2021-10-23 01:41+0000\n"
 "PO-Revision-Date: 2021-09-13 03:00+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1576,7 +1576,7 @@ msgstr ""
 "တင်ပြပါ။"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:518
-#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:303
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:298
 #, kde-format
 msgid ""
 "Media Change of type '%1' is requested.\n"
@@ -1586,13 +1586,13 @@ msgstr ""
 "%2"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:551
-#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:282
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:277
 #, kde-format
 msgid "Accept EULA"
 msgstr "အီးယူအယ်အေ လက်ခံမည်"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:552
-#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:283
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:278
 #, kde-format
 msgid ""
 "The package %1 and its vendor %2 require that you accept their license:\n"
@@ -1602,13 +1602,13 @@ msgstr ""
 "%3"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:669
-#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:320
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:315
 #, kde-format
 msgid "Missing signature for %1 in %2"
 msgstr "%2 တွင် %1 အတွက် လက်မှတ်ပျောက်နေသည်"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:670
-#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:321
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:316
 #, kde-format
 msgid ""
 "Do you trust the following key?\n"
