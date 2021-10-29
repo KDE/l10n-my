@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-14 00:16+0000\n"
+"POT-Creation-Date: 2021-10-29 00:18+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -43,28 +43,28 @@ msgstr "အခြားဒေတာတောင်းဆိုမှု နှ�
 msgid "Search videos..."
 msgstr "ဗီဒီယိုများရှာမည်..."
 
-#: src/main.cpp:96
+#: src/main.cpp:97
 #, kde-format
 msgid "Clip"
 msgstr "ကလစ်"
 
-#: src/main.cpp:96
+#: src/main.cpp:97
 #, kde-format
 msgid "Browse and play your videos."
 msgstr "သင်၏ဗီဒီယိုများကို ရှောက်ကြည့်၍ ဖွင့်ပြမည်။"
 
-#: src/main.cpp:97
+#: src/main.cpp:98
 #, fuzzy, kde-format
 #| msgid "© 2019-%1 Nitrux Development Team"
 msgid "© 2019-%1 Maui Development Team"
 msgstr "© ၂၀၁၉ - %1 နစ်ထရက်တိုးတက်ရေးအဖွဲ့"
 
-#: src/main.cpp:98
+#: src/main.cpp:99
 #, kde-format
 msgid "Camilo Higuita"
 msgstr "ခမီလိုဟီဂီတာ"
 
-#: src/main.cpp:98
+#: src/main.cpp:99
 #, kde-format
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
@@ -155,7 +155,7 @@ msgstr "အကြောင်း"
 msgid "Tags"
 msgstr "တပ်ဂ်များ"
 
-#: src/views/BrowserLayout.qml:71
+#: src/views/BrowserLayout.qml:67
 #, kde-format
 msgid "Search %1 video"
 msgid_plural "Search %1 videos"
@@ -210,7 +210,7 @@ msgstr ""
 "သင်တကယ်ဖျက်တော့မည်လား\n"
 "%1"
 
-#: src/views/player/MPVPlayer.qml:31 src/views/settings/SettingsDialog.qml:172
+#: src/views/player/MPVPlayer.qml:31 src/views/settings/SettingsDialog.qml:173
 #, kde-format
 msgid "Subtitles"
 msgstr "ဗီဒီယိုစာတန်းထိုး"
@@ -350,62 +350,62 @@ msgstr "အသံ"
 msgid "Configure the player audio behaviour."
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ၏ အော်ဒီယိုအမူအကျင့် ပြင်ဆင်ပါ။"
 
-#: src/views/settings/SettingsDialog.qml:157
+#: src/views/settings/SettingsDialog.qml:158
 #, kde-format
 msgid "Preferred Language"
 msgstr "နှစ်သက်သော ဘာသာစကား"
 
-#: src/views/settings/SettingsDialog.qml:158
+#: src/views/settings/SettingsDialog.qml:159
 #, kde-format
 msgid "Preferred language if available."
 msgstr "ရရှိနိုင်လျှင် နှစ်သက်သော ဘာသာစကား။"
 
-#: src/views/settings/SettingsDialog.qml:173
+#: src/views/settings/SettingsDialog.qml:174
 #, kde-format
 msgid "Configure the app UI."
 msgstr "အပ်၏ ယူအိုင် ပြင်ဆင်ပါ။"
 
-#: src/views/settings/SettingsDialog.qml:177
+#: src/views/settings/SettingsDialog.qml:179
 #, kde-format
 msgid "Directory"
 msgstr "ဒါရိုက်ထရီ"
 
-#: src/views/settings/SettingsDialog.qml:178
+#: src/views/settings/SettingsDialog.qml:180
 #, kde-format
 msgid "Folder path containing the subtitle files."
 msgstr "ဗီဒီယိုစာတန်းထိုးဖိုင်လ်များ ပါဝင်သော ဖိုလ်ဒါ လမ်းကြောင်း။"
 
-#: src/views/settings/SettingsDialog.qml:208
+#: src/views/settings/SettingsDialog.qml:210
 #, kde-format
 msgid "Font Family"
 msgstr "ဖောင့်မိသားစု"
 
-#: src/views/settings/SettingsDialog.qml:221
+#: src/views/settings/SettingsDialog.qml:223
 #, kde-format
 msgid "Font Size"
 msgstr "ဖောင့်အရွယ်အစား"
 
-#: src/views/settings/SettingsDialog.qml:236
+#: src/views/settings/SettingsDialog.qml:238
 #, kde-format
 msgid "YouTube"
 msgstr "ယူကျုဘ်"
 
-#: src/views/settings/SettingsDialog.qml:237
+#: src/views/settings/SettingsDialog.qml:239
 #, kde-format
 msgid "Configure YouTube details."
 msgstr "ယူကျုဘ်ဆိုင်ရာ အသေးစိတ်အချက်များ ပြင်ဆင်ပါ။"
 
-#: src/views/settings/SettingsDialog.qml:241
+#: src/views/settings/SettingsDialog.qml:243
 #, kde-format
 msgid "Key"
 msgstr "ကီး"
 
-#: src/views/settings/SettingsDialog.qml:242
+#: src/views/settings/SettingsDialog.qml:244
 #, kde-format
 msgid "Personal key for limitless browsing."
 msgstr "အကန့်အသတ်မရှိရှောက်ကြည့်ရန် တစ်ဦးပိုင်ကီး။"
 
-#: src/views/settings/SettingsDialog.qml:255
+#: src/views/settings/SettingsDialog.qml:257
 #, kde-format
 msgid ""
 "<a href='https://console.developers.google.com/apis/credentials'>Get your "
@@ -414,27 +414,27 @@ msgstr ""
 "<a href='https://console.developers.google.com/apis/"
 "credentials'>သင်၏တစ်ဦးပိုင်ကီးရယူပါ။</a>"
 
-#: src/views/settings/SettingsDialog.qml:264
+#: src/views/settings/SettingsDialog.qml:266
 #, kde-format
 msgid "Sources"
 msgstr "ဇစ်မြစ်များ"
 
-#: src/views/settings/SettingsDialog.qml:265
+#: src/views/settings/SettingsDialog.qml:267
 #, kde-format
 msgid "Add new sources to manage and browse your video collection"
 msgstr "သင်၏ဗီဒီယိုစုစည်းမှုကို စီမံရန် နှင့် ရှောက်ကြည့်ရန် ဇစ်မြစ်အသစ်များ ထည့်ပါ"
 
-#: src/views/settings/SettingsDialog.qml:308
+#: src/views/settings/SettingsDialog.qml:310
 #, kde-format
 msgid "Add"
 msgstr "ထည့်သွင်းမည်"
 
-#: src/views/settings/SettingsDialog.qml:330
+#: src/views/settings/SettingsDialog.qml:332
 #, kde-format
 msgid "Remove source"
 msgstr "ဇစ်မြစ် ဖယ်ရှားမည်"
 
-#: src/views/settings/SettingsDialog.qml:331
+#: src/views/settings/SettingsDialog.qml:333
 #, kde-format
 msgid ""
 "Are you sure you want to remove the source: \n"
