@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-29 00:18+0000\n"
+"POT-Creation-Date: 2021-10-31 00:15+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -69,7 +69,7 @@ msgstr "ခမီလိုဟီဂီတာ"
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:101
+#: src/main.qml:101 src/main.qml:233
 #, kde-format
 msgid "Open URL"
 msgstr "ယူအာအယ်လ် ဖွင့်မည်"
@@ -108,52 +108,52 @@ msgstr "ဖိုင်လ် %1ခု ကို သင်တကယ်ဖျက�
 msgid "Now playing"
 msgstr "ယခုဖွင့်ပြနေသည်"
 
-#: src/main.qml:206
+#: src/main.qml:220
+#, kde-format
+msgid "Open"
+msgstr "ဖွင့်"
+
+#: src/main.qml:244
+#, kde-format
+msgid "Settings"
+msgstr "ဆက်တင်"
+
+#: src/main.qml:256
+#, kde-format
+msgid "About"
+msgstr "အကြောင်း"
+
+#: src/main.qml:264 src/main.qml:385 src/views/settings/SettingsDialog.qml:39
+#, kde-format
+msgid "Collection"
+msgstr "စုစည်းမှု"
+
+#: src/main.qml:271 src/views/ItemMenu.qml:31
+#, kde-format
+msgid "Tags"
+msgstr "တပ်ဂ်များ"
+
+#: src/main.qml:302
 #, kde-format
 msgid "Player"
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
 
-#: src/main.qml:266 src/views/youtube/YouTubeView.qml:26
+#: src/main.qml:363 src/views/youtube/YouTubeView.qml:26
 #, kde-format
 msgid "Nothing Here!"
 msgstr "ဘာမှမရှိ။"
 
-#: src/main.qml:267
+#: src/main.qml:364
 #, fuzzy, kde-format
 #| msgid "Open a new video to start playing or add it to the playlist."
 msgid "Open a new video from your collection or file system."
 msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
 
-#: src/main.qml:288 src/main.qml:510 src/views/settings/SettingsDialog.qml:39
-#, kde-format
-msgid "Collection"
-msgstr "စုစည်းမှု"
-
-#: src/main.qml:295
-#, kde-format
-msgid "Open"
-msgstr "ဖွင့်"
-
-#: src/main.qml:416
+#: src/main.qml:506
 #, fuzzy, kde-format
 #| msgid "Toogle SideBar"
 msgid "Toggle SideBar"
 msgstr "ဘေးတန်း ဖွင့်/ပိတ်"
-
-#: src/main.qml:484
-#, kde-format
-msgid "Settings"
-msgstr "ဆက်တင်"
-
-#: src/main.qml:496
-#, kde-format
-msgid "About"
-msgstr "အကြောင်း"
-
-#: src/main.qml:517 src/views/ItemMenu.qml:31
-#, kde-format
-msgid "Tags"
-msgstr "တပ်ဂ်များ"
 
 #: src/views/BrowserLayout.qml:67
 #, kde-format

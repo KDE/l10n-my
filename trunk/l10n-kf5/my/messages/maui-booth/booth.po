@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-booth\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-18 02:38+0100\n"
+"POT-Creation-Date: 2021-10-31 00:15+0000\n"
 "PO-Revision-Date: 2021-09-15 21:18+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,77 +18,54 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#: src/main.cpp:73
+#: src/main.cpp:50
 #, kde-format
 msgid "Booth"
 msgstr "ဘု"
 
-#: src/main.cpp:73
-#, kde-format
-msgid "Booth is a convergent camera app to take pictures and record videos."
+#: src/main.cpp:50
+#, fuzzy, kde-format
+#| msgid "Booth is a convergent camera app to take pictures and record videos."
+msgid "Camera app to take pictures and record videos."
 msgstr "ဘုသည် ဓါတ်ပုံရိုက်ရန် နှင့် ဗီဒီယိုမှတ်တမ်းတင်ရန် အတွက် ကင်မရာအပ်တစ်ခု ဖြစ်သည်။"
 
-#: src/main.cpp:74
-#, kde-format
-msgid "© 2020 Nitrux Development Team"
+#: src/main.cpp:50
+#, fuzzy, kde-format
+#| msgid "© 2020 Nitrux Development Team"
+msgid "© 2020 Maui Development Team"
 msgstr "© ၂၀၂၀ နစ်ထရက်တိုးတက်ရေးအဖွဲ့"
 
-#: src/main.cpp:75
+#: src/main.cpp:52
 #, kde-format
 msgid "Camilo Higuita"
 msgstr "ခမီလိုဟီဂီတာ"
 
-#: src/main.cpp:75
+#: src/main.cpp:52
 #, kde-format
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:39
+#: src/main.qml:37
 #, kde-format
 msgid "Camera"
 msgstr "ကင်မရာ"
 
-#: src/main.qml:53
+#: src/main.qml:51
 #, kde-format
 msgid "Photo"
 msgstr "ပုံ"
 
-#: src/main.qml:60
+#: src/main.qml:58
 #, kde-format
 msgid "Video"
 msgstr "ဗီဒီယို"
 
-#: src/main.qml:211
+#: src/main.qml:209
 #, kde-format
 msgid "Roll"
 msgstr "ဓါတ်ပုံများ"
 
-#: src/widgets/PhotoCaptureControls.qml:94
-#, kde-format
-msgid "Auto"
-msgstr "အလိုအလျောက်"
-
-#: src/widgets/PhotoCaptureControls.qml:99
-#, kde-format
-msgid "Sunlight"
-msgstr "နေရောင်"
-
-#: src/widgets/PhotoCaptureControls.qml:104
-#, kde-format
-msgid "Cloudy"
-msgstr "တိမ်ထူထပ်"
-
-#: src/widgets/PhotoCaptureControls.qml:109
-#, kde-format
-msgid "Tungsten"
-msgstr "တန်စတန်"
-
-#: src/widgets/PhotoCaptureControls.qml:114
-#, kde-format
-msgid "Fluorescent"
-msgstr "ဖလိုရက်ဆန့်"
-
-#: src/widgets/PhotoCaptureControls.qml:121
+#: src/widgets/PhotoCaptureControls.qml:122
 #: src/widgets/VideoCaptureControls.qml:95
 #, kde-format
 msgid "View"
@@ -228,3 +205,18 @@ msgstr "ဘေးတန်းကို နေရာအကန့်အသတ်�
 #, kde-format
 msgid "Dark Mode"
 msgstr "အမှောင်ထုံးနည်း"
+
+#~ msgid "Auto"
+#~ msgstr "အလိုအလျောက်"
+
+#~ msgid "Sunlight"
+#~ msgstr "နေရောင်"
+
+#~ msgid "Cloudy"
+#~ msgstr "တိမ်ထူထပ်"
+
+#~ msgid "Tungsten"
+#~ msgstr "တန်စတန်"
+
+#~ msgid "Fluorescent"
+#~ msgstr "ဖလိုရက်ဆန့်"
