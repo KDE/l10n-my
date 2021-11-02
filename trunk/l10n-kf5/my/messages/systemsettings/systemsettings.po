@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-21 00:18+0000\n"
+"POT-Creation-Date: 2021-11-02 00:19+0000\n"
 "PO-Revision-Date: 2021-09-21 20:20+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -251,13 +251,13 @@ msgstr "မိတ်ဆက်စာမျက်နှာပြမည်"
 msgid "Show menu"
 msgstr "မီနူးပြမည်"
 
-#: sidebar/package/contents/ui/CategoriesPage.qml:97
+#: sidebar/package/contents/ui/CategoriesPage.qml:99
 #, kde-format
 msgctxt "A search yielded no results"
 msgid "No items matching your search"
 msgstr "သင်၏ရှာဖွေမှုနှင့်ကိုက်ညီသော အိုင်တမ်များမတွေ့ပါ"
 
-#: sidebar/package/contents/ui/CategoriesPage.qml:206
+#: sidebar/package/contents/ui/CategoriesPage.qml:208
 #: sidebar/package/contents/ui/SubCategoryPage.qml:199
 #, kde-format
 msgctxt ""
