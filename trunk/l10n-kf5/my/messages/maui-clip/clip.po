@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-31 00:15+0000\n"
+"POT-Creation-Date: 2021-11-03 00:18+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -43,28 +43,28 @@ msgstr "အခြားဒေတာတောင်းဆိုမှု နှ�
 msgid "Search videos..."
 msgstr "ဗီဒီယိုများရှာမည်..."
 
-#: src/main.cpp:97
+#: src/main.cpp:99
 #, kde-format
 msgid "Clip"
 msgstr "ကလစ်"
 
-#: src/main.cpp:97
+#: src/main.cpp:99
 #, kde-format
 msgid "Browse and play your videos."
 msgstr "သင်၏ဗီဒီယိုများကို ရှောက်ကြည့်၍ ဖွင့်ပြမည်။"
 
-#: src/main.cpp:98
+#: src/main.cpp:100
 #, fuzzy, kde-format
 #| msgid "© 2019-%1 Nitrux Development Team"
 msgid "© 2019-%1 Maui Development Team"
 msgstr "© ၂၀၁၉ - %1 နစ်ထရက်တိုးတက်ရေးအဖွဲ့"
 
-#: src/main.cpp:99
+#: src/main.cpp:101
 #, kde-format
 msgid "Camilo Higuita"
 msgstr "ခမီလိုဟီဂီတာ"
 
-#: src/main.cpp:99
+#: src/main.cpp:101
 #, kde-format
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
@@ -149,7 +149,7 @@ msgstr "ဘာမှမရှိ။"
 msgid "Open a new video from your collection or file system."
 msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
 
-#: src/main.qml:506
+#: src/main.qml:504
 #, fuzzy, kde-format
 #| msgid "Toogle SideBar"
 msgid "Toggle SideBar"
@@ -219,6 +219,11 @@ msgstr "ဗီဒီယိုစာတန်းထိုး"
 #, kde-format
 msgid "Audio Tracks"
 msgstr "အော်ဒီယိုသံစဥ်များ"
+
+#: src/views/player/PlayerView.qml:44
+#, kde-format
+msgid "Playing mode"
+msgstr ""
 
 #: src/views/player/Playlist.qml:21 src/views/tags/TagsView.qml:40
 #, kde-format
