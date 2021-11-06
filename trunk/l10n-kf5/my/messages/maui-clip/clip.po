@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-03 00:18+0000\n"
+"POT-Creation-Date: 2021-11-06 00:16+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -210,7 +210,7 @@ msgstr ""
 "သင်တကယ်ဖျက်တော့မည်လား\n"
 "%1"
 
-#: src/views/player/MPVPlayer.qml:31 src/views/settings/SettingsDialog.qml:173
+#: src/views/player/MPVPlayer.qml:31
 #, kde-format
 msgid "Subtitles"
 msgstr "ဗီဒီယိုစာတန်းထိုး"
@@ -365,81 +365,27 @@ msgstr "နှစ်သက်သော ဘာသာစကား"
 msgid "Preferred language if available."
 msgstr "ရရှိနိုင်လျှင် နှစ်သက်သော ဘာသာစကား။"
 
-#: src/views/settings/SettingsDialog.qml:174
-#, kde-format
-msgid "Configure the app UI."
-msgstr "အပ်၏ ယူအိုင် ပြင်ဆင်ပါ။"
-
-#: src/views/settings/SettingsDialog.qml:179
-#, kde-format
-msgid "Directory"
-msgstr "ဒါရိုက်ထရီ"
-
-#: src/views/settings/SettingsDialog.qml:180
-#, kde-format
-msgid "Folder path containing the subtitle files."
-msgstr "ဗီဒီယိုစာတန်းထိုးဖိုင်လ်များ ပါဝင်သော ဖိုလ်ဒါ လမ်းကြောင်း။"
-
-#: src/views/settings/SettingsDialog.qml:210
-#, kde-format
-msgid "Font Family"
-msgstr "ဖောင့်မိသားစု"
-
-#: src/views/settings/SettingsDialog.qml:223
-#, kde-format
-msgid "Font Size"
-msgstr "ဖောင့်အရွယ်အစား"
-
-#: src/views/settings/SettingsDialog.qml:238
-#, kde-format
-msgid "YouTube"
-msgstr "ယူကျုဘ်"
-
-#: src/views/settings/SettingsDialog.qml:239
-#, kde-format
-msgid "Configure YouTube details."
-msgstr "ယူကျုဘ်ဆိုင်ရာ အသေးစိတ်အချက်များ ပြင်ဆင်ပါ။"
-
-#: src/views/settings/SettingsDialog.qml:243
-#, kde-format
-msgid "Key"
-msgstr "ကီး"
-
-#: src/views/settings/SettingsDialog.qml:244
-#, kde-format
-msgid "Personal key for limitless browsing."
-msgstr "အကန့်အသတ်မရှိရှောက်ကြည့်ရန် တစ်ဦးပိုင်ကီး။"
-
-#: src/views/settings/SettingsDialog.qml:257
-#, kde-format
-msgid ""
-"<a href='https://console.developers.google.com/apis/credentials'>Get your "
-"personal key.</a>"
-msgstr ""
-"<a href='https://console.developers.google.com/apis/"
-"credentials'>သင်၏တစ်ဦးပိုင်ကီးရယူပါ။</a>"
-
-#: src/views/settings/SettingsDialog.qml:266
+#: src/views/settings/SettingsDialog.qml:264
 #, kde-format
 msgid "Sources"
 msgstr "ဇစ်မြစ်များ"
 
-#: src/views/settings/SettingsDialog.qml:267
+#: src/views/settings/SettingsDialog.qml:265
 #, kde-format
 msgid "Add new sources to manage and browse your video collection"
 msgstr "သင်၏ဗီဒီယိုစုစည်းမှုကို စီမံရန် နှင့် ရှောက်ကြည့်ရန် ဇစ်မြစ်အသစ်များ ထည့်ပါ"
 
-#: src/views/settings/SettingsDialog.qml:310
+#: src/views/settings/SettingsDialog.qml:308
 #, kde-format
 msgid "Add"
 msgstr "ထည့်သွင်းမည်"
 
-#: src/views/settings/SettingsDialog.qml:332
+#: src/views/settings/SettingsDialog.qml:330
 #, kde-format
 msgid "Remove source"
 msgstr "ဇစ်မြစ် ဖယ်ရှားမည်"
 
-#: src/views/settings/SettingsDialog.qml:333
+#: src/views/settings/SettingsDialog.qml:331
 #, kde-format
 msgid ""
 "Are you sure you want to remove the source: \n"
@@ -477,3 +423,37 @@ msgstr "အွန်လိုင်းဗီဒီယိုများ ရှ�
 #, kde-format
 msgid "Search..."
 msgstr "ရှာရန်..."
+
+#~ msgid "Configure the app UI."
+#~ msgstr "အပ်၏ ယူအိုင် ပြင်ဆင်ပါ။"
+
+#~ msgid "Directory"
+#~ msgstr "ဒါရိုက်ထရီ"
+
+#~ msgid "Folder path containing the subtitle files."
+#~ msgstr "ဗီဒီယိုစာတန်းထိုးဖိုင်လ်များ ပါဝင်သော ဖိုလ်ဒါ လမ်းကြောင်း။"
+
+#~ msgid "Font Family"
+#~ msgstr "ဖောင့်မိသားစု"
+
+#~ msgid "Font Size"
+#~ msgstr "ဖောင့်အရွယ်အစား"
+
+#~ msgid "YouTube"
+#~ msgstr "ယူကျုဘ်"
+
+#~ msgid "Configure YouTube details."
+#~ msgstr "ယူကျုဘ်ဆိုင်ရာ အသေးစိတ်အချက်များ ပြင်ဆင်ပါ။"
+
+#~ msgid "Key"
+#~ msgstr "ကီး"
+
+#~ msgid "Personal key for limitless browsing."
+#~ msgstr "အကန့်အသတ်မရှိရှောက်ကြည့်ရန် တစ်ဦးပိုင်ကီး။"
+
+#~ msgid ""
+#~ "<a href='https://console.developers.google.com/apis/credentials'>Get your "
+#~ "personal key.</a>"
+#~ msgstr ""
+#~ "<a href='https://console.developers.google.com/apis/"
+#~ "credentials'>သင်၏တစ်ဦးပိုင်ကီးရယူပါ။</a>"

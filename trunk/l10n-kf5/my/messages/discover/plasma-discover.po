@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-22 00:18+0000\n"
+"POT-Creation-Date: 2021-11-06 00:18+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -209,7 +209,7 @@ msgstr "%1 အဝေးရီပိုစစ်တိုရီအသစ်ကိ
 msgid "Add"
 msgstr "ထည့်သွင်းမည်"
 
-#: discover/qml/AddSourceDialog.qml:67 discover/qml/DiscoverWindow.qml:244
+#: discover/qml/AddSourceDialog.qml:67 discover/qml/DiscoverWindow.qml:246
 #: discover/qml/InstallApplicationButton.qml:54
 #: discover/qml/ProgressView.qml:104 discover/qml/SourcesPage.qml:134
 #: discover/qml/UpdatesPage.qml:153
@@ -217,20 +217,20 @@ msgstr "ထည့်သွင်းမည်"
 msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
 
-#: discover/qml/ApplicationDelegate.qml:79
+#: discover/qml/ApplicationDelegate.qml:81
 #, kde-format
 msgctxt "Part of a string like this: '<app name> - <category>'"
 msgid "- %1"
 msgstr "- %1"
 
-#: discover/qml/ApplicationDelegate.qml:105
+#: discover/qml/ApplicationDelegate.qml:109
 #: discover/qml/ApplicationPage.qml:133
 #, kde-format
 msgid "%1 rating"
 msgid_plural "%1 ratings"
 msgstr[0] "အကဲဖြတ်ချက် %1ခု"
 
-#: discover/qml/ApplicationDelegate.qml:105
+#: discover/qml/ApplicationDelegate.qml:109
 #: discover/qml/ApplicationPage.qml:133
 #, kde-format
 msgid "No ratings yet"
@@ -343,6 +343,7 @@ msgid "Search: %1"
 msgstr "ရှာဖွေ- %1"
 
 #: discover/qml/ApplicationsListPage.qml:47
+#: discover/qml/ApplicationsListPage.qml:180
 #, kde-format
 msgid "Search"
 msgstr "ရှာဖွေမည်"
@@ -406,7 +407,7 @@ msgctxt ""
 msgid "https://duckduckgo.com/?q=%1"
 msgstr ""
 
-#: discover/qml/ApplicationsListPage.qml:184
+#: discover/qml/ApplicationsListPage.qml:195
 #, kde-format
 msgid "Still looking…"
 msgstr "ရှာနေဆဲ…"
@@ -447,78 +448,78 @@ msgstr "ပြမည်"
 msgid "Return to the Featured page"
 msgstr "ကြော်ငြာစာမျက်နှာသို့ပြန်မည်"
 
-#: discover/qml/DiscoverWindow.qml:40
+#: discover/qml/DiscoverWindow.qml:42
 #, kde-format
 msgid "Running as <em>root</em> is discouraged and unnecessary."
 msgstr "<em>root</em> အဖြစ်မောင်းနှင်ခြင်းသည် မလိုအပ်၍ အားမပေးပါ။"
 
-#: discover/qml/DiscoverWindow.qml:52
+#: discover/qml/DiscoverWindow.qml:54
 #, kde-format
 msgid "&Home"
 msgstr "&Hအိမ်"
 
-#: discover/qml/DiscoverWindow.qml:63
+#: discover/qml/DiscoverWindow.qml:65
 #, kde-format
 msgid "&Search"
 msgstr "&Sရှာဖွေမည်"
 
-#: discover/qml/DiscoverWindow.qml:71
+#: discover/qml/DiscoverWindow.qml:73
 #, kde-format
 msgid "&Installed"
 msgstr "&Iတပ်ဆင်ပြီး"
 
-#: discover/qml/DiscoverWindow.qml:78
+#: discover/qml/DiscoverWindow.qml:80
 #, kde-format
 msgid "Fetching &updates…"
 msgstr "&uအပ်ဒိတ်များရယူနေသည်…"
 
-#: discover/qml/DiscoverWindow.qml:78
+#: discover/qml/DiscoverWindow.qml:80
 #, kde-format
 msgid "&Up to date"
 msgstr "&Uနောက်ဆုံးပေါ်"
 
-#: discover/qml/DiscoverWindow.qml:78
+#: discover/qml/DiscoverWindow.qml:80
 #, kde-format
 msgctxt "Update section name"
 msgid "&Update (%1)"
 msgstr "&Uအပ်ဒိတ် (%1)"
 
-#: discover/qml/DiscoverWindow.qml:85
+#: discover/qml/DiscoverWindow.qml:87
 #, kde-format
 msgid "&About"
 msgstr "&Aအကြောင်း"
 
-#: discover/qml/DiscoverWindow.qml:93
+#: discover/qml/DiscoverWindow.qml:95
 #, kde-format
 msgid "S&ettings"
 msgstr "&eဆက်တင်များ"
 
-#: discover/qml/DiscoverWindow.qml:143
+#: discover/qml/DiscoverWindow.qml:145
 #, kde-format
 msgid "Error"
 msgstr "အမှား"
 
-#: discover/qml/DiscoverWindow.qml:147
+#: discover/qml/DiscoverWindow.qml:149
 #, kde-format
 msgid "Could not close Discover, there are tasks that need to be done."
 msgstr "မပြီးသေးသောအလုပ်များ ကျန်ရှိနေသောကြောင့် ဒစ်(စ)ကာဗာကို မပိတ်နိုင်ခဲ့ပါ။"
 
-#: discover/qml/DiscoverWindow.qml:147
+#: discover/qml/DiscoverWindow.qml:149
 #, kde-format
 msgid "Quit Anyway"
 msgstr "ဘာဖြစ်ဖြစ်ထွက်မည်"
 
-#: discover/qml/DiscoverWindow.qml:150
+#: discover/qml/DiscoverWindow.qml:152
 #, kde-format
 msgid "Unable to find resource: %1"
 msgstr "ရင်းမြစ်ကိုမရှာနိုင်ခဲ့ပါ - %1"
 
-#: discover/qml/DiscoverWindow.qml:192 discover/qml/UpdatesPage.qml:57
+#: discover/qml/DiscoverWindow.qml:194 discover/qml/UpdatesPage.qml:57
 #, kde-format
 msgid "Report this issue"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:231 discover/qml/SourcesPage.qml:124
+#: discover/qml/DiscoverWindow.qml:233 discover/qml/SourcesPage.qml:124
 #, kde-format
 msgid "Proceed"
 msgstr "ဆက်လုပ်မည်"
