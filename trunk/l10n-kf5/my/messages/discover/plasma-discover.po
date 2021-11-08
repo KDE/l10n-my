@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-06 00:18+0000\n"
+"POT-Creation-Date: 2021-11-08 00:19+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -210,27 +210,21 @@ msgid "Add"
 msgstr "ထည့်သွင်းမည်"
 
 #: discover/qml/AddSourceDialog.qml:67 discover/qml/DiscoverWindow.qml:246
-#: discover/qml/InstallApplicationButton.qml:54
+#: discover/qml/InstallApplicationButton.qml:41
 #: discover/qml/ProgressView.qml:104 discover/qml/SourcesPage.qml:134
 #: discover/qml/UpdatesPage.qml:153
 #, kde-format
 msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
 
-#: discover/qml/ApplicationDelegate.qml:81
-#, kde-format
-msgctxt "Part of a string like this: '<app name> - <category>'"
-msgid "- %1"
-msgstr "- %1"
-
-#: discover/qml/ApplicationDelegate.qml:109
+#: discover/qml/ApplicationDelegate.qml:139
 #: discover/qml/ApplicationPage.qml:133
 #, kde-format
 msgid "%1 rating"
 msgid_plural "%1 ratings"
 msgstr[0] "အကဲဖြတ်ချက် %1ခု"
 
-#: discover/qml/ApplicationDelegate.qml:109
+#: discover/qml/ApplicationDelegate.qml:139
 #: discover/qml/ApplicationPage.qml:133
 #, kde-format
 msgid "No ratings yet"
@@ -577,25 +571,18 @@ msgstr "သင့်တုံ့ပြန်ချက်များကို �
 msgid "Participate…"
 msgstr "ပါဝင်ကူညီမည်…"
 
-#: discover/qml/InstallApplicationButton.qml:27
+#: discover/qml/InstallApplicationButton.qml:25
 #, kde-format
 msgctxt "State being fetched"
 msgid "Loading…"
 msgstr "တင်သွင်းနေသည်…"
 
-#: discover/qml/InstallApplicationButton.qml:32
-#: discover/qml/InstallApplicationButton.qml:131
-#, kde-format
-msgctxt "Install the version of an app that comes from Snap, Flatpak, etc"
-msgid "Install from %1"
-msgstr "%1မှ တပ်ဆင်မည်"
-
-#: discover/qml/InstallApplicationButton.qml:34
+#: discover/qml/InstallApplicationButton.qml:28
 #, kde-format
 msgid "Install"
 msgstr "တပ်ဆင်မည်"
 
-#: discover/qml/InstallApplicationButton.qml:36
+#: discover/qml/InstallApplicationButton.qml:30
 #, kde-format
 msgid "Remove"
 msgstr "ဖယ်ရှားမည်"
@@ -912,6 +899,14 @@ msgstr "အပ်ဒိတ်ရှိ၊မရှိ စစ်ဆေးသင�
 msgctxt "@info"
 msgid "Time of last update unknown"
 msgstr "နောက်ဆုံးအကြိမ်အပ်ဒိတ်တင်ခဲ့သောအချိန်မသိ"
+
+#~ msgctxt "Part of a string like this: '<app name> - <category>'"
+#~ msgid "- %1"
+#~ msgstr "- %1"
+
+#~ msgctxt "Install the version of an app that comes from Snap, Flatpak, etc"
+#~ msgid "Install from %1"
+#~ msgstr "%1မှ တပ်ဆင်မည်"
 
 #~ msgctxt "@info"
 #~ msgid "The updates will be installed the next time the system is restarted"

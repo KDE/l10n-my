@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-06 00:16+0000\n"
+"POT-Creation-Date: 2021-11-08 00:17+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -118,38 +118,38 @@ msgstr "ဖွင့်"
 msgid "Settings"
 msgstr "ဆက်တင်"
 
-#: src/main.qml:256
+#: src/main.qml:252
 #, kde-format
 msgid "About"
 msgstr "အကြောင်း"
 
-#: src/main.qml:264 src/main.qml:385 src/views/settings/SettingsDialog.qml:39
+#: src/main.qml:260 src/main.qml:381 src/views/settings/SettingsDialog.qml:39
 #, kde-format
 msgid "Collection"
 msgstr "စုစည်းမှု"
 
-#: src/main.qml:271 src/views/ItemMenu.qml:31
+#: src/main.qml:267 src/views/ItemMenu.qml:31
 #, kde-format
 msgid "Tags"
 msgstr "တပ်ဂ်များ"
 
-#: src/main.qml:302
+#: src/main.qml:298
 #, kde-format
 msgid "Player"
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
 
-#: src/main.qml:363 src/views/youtube/YouTubeView.qml:26
+#: src/main.qml:359 src/views/youtube/YouTubeView.qml:26
 #, kde-format
 msgid "Nothing Here!"
 msgstr "ဘာမှမရှိ။"
 
-#: src/main.qml:364
+#: src/main.qml:360
 #, fuzzy, kde-format
 #| msgid "Open a new video to start playing or add it to the playlist."
 msgid "Open a new video from your collection or file system."
 msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
 
-#: src/main.qml:504
+#: src/main.qml:500
 #, fuzzy, kde-format
 #| msgid "Toogle SideBar"
 msgid "Toggle SideBar"
@@ -160,6 +160,30 @@ msgstr "ဘေးတန်း ဖွင့်/ပိတ်"
 msgid "Search %1 video"
 msgid_plural "Search %1 videos"
 msgstr[0] "ဗီဒီယို %1ခု ရှာမည်"
+
+#: src/views/collection/CollectionView.qml:13 src/views/player/Playlist.qml:21
+#: src/views/tags/TagsView.qml:40
+#, kde-format
+msgid "No Videos!"
+msgstr "ဗီဒီယိုများမရှိ။"
+
+#: src/views/collection/CollectionView.qml:14
+#, fuzzy, kde-format
+#| msgid "Open a new video to start playing or add it to the playlist."
+msgid "Add a new video source or open a file."
+msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
+
+#: src/views/collection/CollectionView.qml:19
+#, fuzzy, kde-format
+#| msgid "Open"
+msgid "Open file"
+msgstr "ဖွင့်"
+
+#: src/views/collection/CollectionView.qml:25
+#, fuzzy, kde-format
+#| msgid "Sources"
+msgid "Add sources"
+msgstr "ဇစ်မြစ်များ"
 
 #: src/views/ItemMenu.qml:24
 #, kde-format
@@ -224,11 +248,6 @@ msgstr "အော်ဒီယိုသံစဥ်များ"
 #, kde-format
 msgid "Playing mode"
 msgstr ""
-
-#: src/views/player/Playlist.qml:21 src/views/tags/TagsView.qml:40
-#, kde-format
-msgid "No Videos!"
-msgstr "ဗီဒီယိုများမရှိ။"
 
 #: src/views/player/Playlist.qml:22
 #, kde-format

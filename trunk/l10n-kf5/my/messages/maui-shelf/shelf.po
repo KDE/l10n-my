@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-shelf\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-14 00:16+0000\n"
+"POT-Creation-Date: 2021-11-08 00:17+0000\n"
 "PO-Revision-Date: 2021-09-19 13:19+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -43,7 +43,7 @@ msgstr "ခမီလိုဟီဂီတာ"
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/views/cloud/CloudView.qml:30 src/views/library/LibraryView.qml:148
+#: src/views/cloud/CloudView.qml:30 src/views/library/LibraryView.qml:157
 #, kde-format
 msgid "Title"
 msgstr "ခေါင်းစဉ်"
@@ -63,7 +63,7 @@ msgstr "ဖန်တီးခဲ့သော ရက်စွဲ"
 msgid "Format"
 msgstr ""
 
-#: src/views/cloud/CloudView.qml:54 src/views/library/LibraryView.qml:164
+#: src/views/cloud/CloudView.qml:54 src/views/library/LibraryView.qml:173
 #, kde-format
 msgid "Size"
 msgstr "အရွယ်အစား"
@@ -78,72 +78,83 @@ msgstr "ဘာမှမရှိ။"
 msgid "Add new sources to manage your documents."
 msgstr ""
 
-#: src/views/library/LibraryView.qml:83
+#: src/views/library/LibraryView.qml:65
+#, fuzzy, kde-format
+#| msgid "Open"
+msgid "Open file"
+msgstr "ဖွင့်မည်"
+
+#: src/views/library/LibraryView.qml:71
+#, kde-format
+msgid "Add sources"
+msgstr ""
+
+#: src/views/library/LibraryView.qml:96
 #, kde-format
 msgid "Open"
 msgstr "ဖွင့်မည်"
 
-#: src/views/library/LibraryView.qml:94
+#: src/views/library/LibraryView.qml:103
 #, kde-format
 msgid "Settings"
 msgstr "ဆက်တင်များ"
 
-#: src/views/library/LibraryView.qml:103
+#: src/views/library/LibraryView.qml:112
 #, kde-format
 msgid "About"
 msgstr "အကြောင်း"
 
-#: src/views/library/LibraryView.qml:117
+#: src/views/library/LibraryView.qml:126
 #, kde-format
 msgid "View type"
 msgstr "မြင်ကွင်းပုံစံများ"
 
-#: src/views/library/LibraryView.qml:123
+#: src/views/library/LibraryView.qml:132
 #, kde-format
 msgid "List"
 msgstr "စာရင်းစဥ်"
 
-#: src/views/library/LibraryView.qml:132
+#: src/views/library/LibraryView.qml:141
 #, kde-format
 msgid "Grid"
 msgstr "ဂရစ်"
 
-#: src/views/library/LibraryView.qml:142
+#: src/views/library/LibraryView.qml:151
 #, kde-format
 msgid "Sort by"
 msgstr "ဖြင့်စီမည်"
 
-#: src/views/library/LibraryView.qml:156
+#: src/views/library/LibraryView.qml:165
 #, kde-format
 msgid "Date"
 msgstr "ရက်စွဲ"
 
-#: src/views/library/LibraryView.qml:174
+#: src/views/library/LibraryView.qml:183
 #, kde-format
 msgid "Ascending"
 msgstr ""
 
-#: src/views/library/LibraryView.qml:181
+#: src/views/library/LibraryView.qml:190
 #, kde-format
 msgid "Descending"
 msgstr ""
 
-#: src/views/library/LibraryView.qml:192
+#: src/views/library/LibraryView.qml:201
 #, kde-format
 msgid "Filter..."
 msgstr ""
 
-#: src/views/library/LibraryView.qml:370
+#: src/views/library/LibraryView.qml:379
 #, kde-format
 msgid "Tag"
 msgstr "တပ်ဂ်"
 
-#: src/views/library/LibraryView.qml:380 src/views/Viewer/Viewer.qml:98
+#: src/views/library/LibraryView.qml:389 src/views/Viewer/Viewer.qml:98
 #, kde-format
 msgid "Share"
 msgstr "ဝေမျှမည်"
 
-#: src/views/library/LibraryView.qml:386
+#: src/views/library/LibraryView.qml:395
 #, kde-format
 msgid "Export"
 msgstr "တင်ပို့မည်"
