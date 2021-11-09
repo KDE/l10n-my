@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-03 00:23+0000\n"
+"POT-Creation-Date: 2021-11-09 00:20+0000\n"
 "PO-Revision-Date: 2021-09-15 04:45+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -400,20 +400,10 @@ msgstr "&Sသက်ဝင်နေသည်များ ပြမည်"
 
 #: katefiletreeplugin.cpp:253
 #, kde-format
-msgid "Save Current Document"
-msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူကို သိမ်းဆည်းမည်"
-
-#: katefiletreeplugin.cpp:254
-#, kde-format
 msgid "Save the current document"
 msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူကို သိမ်းဆည်းမည်"
 
-#: katefiletreeplugin.cpp:258
-#, kde-format
-msgid "Save Current Document As"
-msgstr "အဖြစ် လက်ရှိမှတ်တမ်းပုံနှိပ်မူကို သိမ်းဆည်းမည်"
-
-#: katefiletreeplugin.cpp:259
+#: katefiletreeplugin.cpp:257
 #, kde-format
 msgid "Save current document under new name"
 msgstr ""
@@ -423,3 +413,9 @@ msgstr ""
 #, kde-format
 msgid "&View"
 msgstr "&Vမြင်ကွင်း"
+
+#~ msgid "Save Current Document"
+#~ msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူကို သိမ်းဆည်းမည်"
+
+#~ msgid "Save Current Document As"
+#~ msgstr "အဖြစ် လက်ရှိမှတ်တမ်းပုံနှိပ်မူကို သိမ်းဆည်းမည်"
