@@ -1,0 +1,1864 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kate\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-26 00:20+0000\n"
+"PO-Revision-Date: 2021-09-15 00:53+0630\n"
+"Last-Translator: \n"
+"Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ဇေယျာလွင်"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "lw1nzayar@yandex.com"
+
+#. i18n: ectx: Menu (file)
+#: data/kateui.rc:6
+#, kde-format
+msgid "&File"
+msgstr "&Fဖိုင်လ်"
+
+#. i18n: ectx: Menu (edit)
+#: data/kateui.rc:40
+#, kde-format
+msgid "&Edit"
+msgstr "&Eတည်းဖြတ်"
+
+#. i18n: ectx: Menu (view)
+#: data/kateui.rc:51
+#, kde-format
+msgid "&View"
+msgstr "&Vမြင်ကွင်း"
+
+#. i18n: ectx: Menu (view-split)
+#: data/kateui.rc:64
+#, kde-format
+msgid "Split View"
+msgstr "မြင်ကွင်းခွဲမည်"
+
+#. i18n: ectx: Menu (tools)
+#: data/kateui.rc:91
+#, kde-format
+msgid "&Tools"
+msgstr "&Tကိရိယာများ"
+
+#. i18n: ectx: Menu (sessions)
+#: data/kateui.rc:99
+#, kde-format
+msgid "Sess&ions"
+msgstr "&iဆက်ရှင်များ"
+
+#. i18n: ectx: Menu (settings)
+#: data/kateui.rc:108
+#, kde-format
+msgid "&Settings"
+msgstr "&Sဆက်တင်"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: data/kateui.rc:115
+#, kde-format
+msgid "Main Toolbar"
+msgstr "ပင်မကိရိယာတန်း"
+
+#. i18n: ectx: Menu (viewspace_popup_statusbar)
+#: data/kateui.rc:148
+#, kde-format
+msgid "&Status Bar Items"
+msgstr "&Sအခြေအနေပြတန်း တန်ဆာများ"
+
+#: kateapp.cpp:227
+#, kde-format
+msgid "Folders can only be opened when the projects plugin is enabled"
+msgstr "ပရောဂျက်များပလပ်ဂင်သုံးထားမှသာ ဖိုလ်ဒါများကို ဖွင့်နိုင်သည်"
+
+#: kateapp.cpp:340
+#, kde-format
+msgid ""
+"The file '%1' could not be opened: it is not a normal file, it is a folder."
+msgstr "ဖိုင်လ် '%1' ကို ဖွင့်မရပါ။ ယင်းသည် ရိုးရိုးဖိုင်လ်မဟုတ်၊ ဖိုလ်ဒါဖြစ်သည်။"
+
+#: katecolorschemechooser.cpp:44
+#, kde-format
+msgid "&Color Scheme"
+msgstr "&Cအရောင်အစီအစဥ်ပြပုံ"
+
+#: kateconfigdialog.cpp:41
+#, kde-format
+msgid "Configure"
+msgstr "ပြင်ဆင်မည်"
+
+#: kateconfigdialog.cpp:72 katemdi.cpp:644
+#, kde-format
+msgid "Behavior"
+msgstr "အမူအကျင့်"
+
+#: kateconfigdialog.cpp:73
+#, kde-format
+msgid "Behavior Options"
+msgstr "အမူအကျင့်ဆိုင်ရာရွေးချယ်စရာများ"
+
+#: kateconfigdialog.cpp:80
+#, kde-format
+msgid "&Behavior"
+msgstr "&Bအမူအကျင့်"
+
+#: kateconfigdialog.cpp:85
+#, kde-format
+msgid "&Switch to output view upon message type:"
+msgstr ""
+
+#: kateconfigdialog.cpp:90
+#, kde-format
+msgid "Never"
+msgstr "ဘယ်တော့မှ"
+
+#: kateconfigdialog.cpp:90
+#, kde-format
+msgid "Error"
+msgstr "အမှား"
+
+#: kateconfigdialog.cpp:90 kateconfigdialog.cpp:434
+#, kde-format
+msgid "Warning"
+msgstr "သတိ"
+
+#: kateconfigdialog.cpp:90
+#, kde-format
+msgid "Info"
+msgstr "အချက်"
+
+#: kateconfigdialog.cpp:90
+#, kde-format
+msgid "Log"
+msgstr "မှတ်တမ်း"
+
+#: kateconfigdialog.cpp:96
+#, kde-format
+msgid "Use a separate &dialog for handling externally modified files"
+msgstr "ပြင်ပမှမွမ်းမံထားသောဖိုင်လ်များကိုင်တွယ်ရန် &dသီးခြားဒိုင်ယာလော့ သုံးမည်"
+
+#: kateconfigdialog.cpp:99
+#, kde-format
+msgid ""
+"If enabled, a modal dialog will be used to show all of the modified files. "
+"If not enabled, you will be individually asked what to do for each modified "
+"file only when that file's view receives focus."
+msgstr ""
+"ဖွင့်ထားလျှင် မွမ်းမံထားသောဖိုင်လ်အကုန်လုံးကို ပြရန် မော်ဒယ်ဒိုင်ယာလော့တစ်ခု ကိုသုံးမည်။ ပိတ်ထားလျှင် "
+"ဘာလုပ်ရမည်ဆိုသည်ကို သင့်အား တစ်ဖိုင်လ်ချင်းဆီကမေးမည်။"
+
+#: kateconfigdialog.cpp:109
+#, kde-format
+msgid "&Tabs"
+msgstr "&Tတပ်ဘ်များ"
+
+#: kateconfigdialog.cpp:113
+#, kde-format
+msgid "&Limit number of tabs:"
+msgstr "&Lတပ််ဘ်အရေအတွက်ကန့်သတ်မည် -"
+
+#: kateconfigdialog.cpp:119
+#, kde-format
+msgid "Unlimited"
+msgstr "အကန့်အသတ်မရှိ"
+
+#: kateconfigdialog.cpp:124
+#, kde-format
+msgid "&Show close button"
+msgstr "&Sပိတ်ရန်ခလုတ်ပြမည်"
+
+#: kateconfigdialog.cpp:126
+#, kde-format
+msgid "When checked each tab will display a close button."
+msgstr "အမှန်ခြစ်ထားပါက တပ်ဘ်တစ်ချင်းဆီတွင် ပိတ်မည်-ခလုတ် ပြထားမည်"
+
+#: kateconfigdialog.cpp:130
+#, kde-format
+msgid "&Expand tabs"
+msgstr "&Eတပ်ဘ်များဖြန့်မည်"
+
+#: kateconfigdialog.cpp:132
+#, kde-format
+msgid "When checked tabs take as much size as possible."
+msgstr "အမှန်ခြစ်ထားပါက တပ်ဘ်များသည် ရနိုင်သမျှ နေရာယူမည်။"
+
+#: kateconfigdialog.cpp:136
+#, kde-format
+msgid "&Double click opens a new document"
+msgstr ""
+
+#: kateconfigdialog.cpp:138
+#, kde-format
+msgid "When checked double click opens a new document."
+msgstr "အမှန်ခြစ်ထားပါက မောက့်စ်ကီးနှစ်ခါနှိပ်ချိန်တွင် မှတ်တမ်းပုံနှိပ်မူအသစ်ဖွင့်မည်။"
+
+#: kateconfigdialog.cpp:142
+#, kde-format
+msgid "&Middle click closes a document"
+msgstr ""
+
+#: kateconfigdialog.cpp:144
+#, kde-format
+msgid "When checked middle click closes a document."
+msgstr "အမှန်ခြစ်ထားပါက အလယ်ခလုတ်နှိပ်လျှင် မှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်။"
+
+#: kateconfigdialog.cpp:159
+#, kde-format
+msgid "Session"
+msgstr "ဆက်ရှင်"
+
+#: kateconfigdialog.cpp:160
+#, kde-format
+msgid "Session Management"
+msgstr "ဆက်ရှင် စီမံမှု"
+
+#: kateconfigdialog.cpp:171
+#, kde-format
+msgctxt "The special case of 'Delete unused meta-information after'"
+msgid "(never)"
+msgstr "(မလုပ်ပါ)"
+
+#: kateconfigdialog.cpp:172
+#, kde-format
+msgctxt "The suffix of 'Delete unused meta-information after'"
+msgid " day"
+msgid_plural " days"
+msgstr[0] " ရက်"
+
+#: kateconfigdialog.cpp:221
+#, kde-format
+msgid "Plugins"
+msgstr "ပလပ်ဂင်များ"
+
+#: kateconfigdialog.cpp:222
+#, kde-format
+msgid "Plugin Manager"
+msgstr "ပလပ်ဂင် မန်နေဂျာ"
+
+#: kateconfigdialog.cpp:240 kateconfigdialog.cpp:241
+#, kde-format
+msgid "User Feedback"
+msgstr "အသုံးပြုသူတုံ့ပြန်ချက်"
+
+#: kateconfigdialog.cpp:433
+#, kde-format
+msgid ""
+"You have unsaved changes. Do you want to apply the changes or discard them?"
+msgstr "သင့်တွင် မသိမ်းဆည်းရသေးသော ပြောင်းလဲမှုများရှိသည်။ ယင်းတို့ကို သိမ်းမှာလား၊ စွန့်ပစ်မှာလား။"
+
+#: kateconfigplugindialogpage.cpp:66
+#, kde-format
+msgid "Name"
+msgstr "အမည်"
+
+#: kateconfigplugindialogpage.cpp:66
+#, kde-format
+msgid "Description"
+msgstr "ဖော်ပြချက်"
+
+#: kateconfigplugindialogpage.cpp:69
+#, kde-format
+msgid ""
+"Here you can see all available Kate plugins. Those with a check mark are "
+"loaded, and will be loaded again the next time Kate is started."
+msgstr ""
+
+#: katedocmanager.cpp:229
+#, kde-format
+msgid ""
+"The supposedly temporary file %1 has been modified. Do you want to delete it "
+"anyway?"
+msgstr ""
+
+#: katedocmanager.cpp:232
+#, kde-format
+msgid "Delete File?"
+msgstr "ဖိုင်လ် ဖျက်မည်လား။"
+
+#: katedocmanager.cpp:340
+#, kde-format
+msgid ""
+"<p>The document '%1' has been modified, but not saved.</p><p>Do you want to "
+"save your changes or discard them?</p>"
+msgstr ""
+"<p>မှတ်တမ်းပုံနှိပ်မူ '%1' ကိုမွမ်းမံထားသော်လည်း မသိမ်းဆည်းရသေးပါ။</p><p>မွမ်းမံမှုများကို "
+"သိမ်းဆည်းမှာလား၊ စွန့်ပစ်မှာလား။</p>"
+
+#: katedocmanager.cpp:343
+#, kde-format
+msgid "Close Document"
+msgstr "မှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
+
+#: katedocmanager.cpp:352
+#, kde-format
+msgid "Save As"
+msgstr "အဖြစ်သိမ်းဆည်းမည်"
+
+#: katedocmanager.cpp:370 katemainwindow.cpp:563
+#, kde-format
+msgid "New file opened while trying to close Kate, closing aborted."
+msgstr "ကိတ် ကိုပိတ်ရန် ကြိုးစားစဥ် ဖိုင်လ်အသစ်ဖွင့်ခဲ့သောကြောင့် ပိတ်ခြင်းကို စွန့်ပယ်ခဲ့သည်။"
+
+#: katedocmanager.cpp:370 katemainwindow.cpp:563
+#, kde-format
+msgid "Closing Aborted"
+msgstr "ပိတ်ခြင်းကို စွန့်ပယ်ခဲ့သည်"
+
+#: katedocmanager.cpp:448
+#, kde-format
+msgid "Starting Up"
+msgstr "စတင်နေသည်"
+
+#: katedocmanager.cpp:449
+#, kde-format
+msgid "Reopening files from the last session..."
+msgstr ""
+
+#: katefileactions.cpp:64
+#, kde-format
+msgid "Rename file"
+msgstr "ဖိုင်လ် အမည်ပြောင်းမည်"
+
+#: katefileactions.cpp:65
+#, kde-format
+msgid "New file name"
+msgstr "ဖိုင်လ်အမည်အသစ်"
+
+#: katefileactions.cpp:96
+#, kde-format
+msgid "File \"%1\" could not be moved to \"%2\""
+msgstr "ဖိုင်လ် \"%1\" ကို \"%2\" သို့မရွေ့နိုင်ခဲ့ပါ"
+
+#: katefileactions.cpp:117
+#, kde-format
+msgid "Do you really want to delete file \"%1\"?"
+msgstr "ဖိုင်လ် \"%1\" ကို သင်တကယ်ဖျက်တော့မည်လား။"
+
+#: katefileactions.cpp:118
+#, kde-format
+msgid "Delete file"
+msgstr "ဖိုင်လ် ဖျက်မည်"
+
+#: katefileactions.cpp:135
+#, kde-format
+msgid "File \"%1\" could not be deleted."
+msgstr "ဖိုင်လ် \"%1\" ကိုမဖျက်နိုင်ခဲ့ပါ"
+
+#: katemainwindow.cpp:215
+#, kde-format
+msgid "Use this command to show or hide the view's statusbar"
+msgstr "မြင်ကွင်း၏အခြေအနေပြ-တန်းကို ဤအမိန့်ကို သုံး၍ ပြ၊ ဖွက် နိုင်သည်"
+
+#: katemainwindow.cpp:218
+#, kde-format
+msgid "Show &Tabs"
+msgstr "&Tတပ်ဘ်များ ပြမည်"
+
+#: katemainwindow.cpp:221
+#, kde-format
+msgid "Use this command to show or hide the tabs for the views"
+msgstr "မြင်ကွင်းများအတွက် တပ်ဘ်များကို ဤအမိန့်ကို သုံး၍ ပြ၊ ဖွက် နိုင်သည်"
+
+#: katemainwindow.cpp:223
+#, kde-format
+msgid "Sho&w Path in Titlebar"
+msgstr "&wခေါင်းစဥ်တန်းတွင် လမ်းကြောင်း ပြမည်"
+
+#: katemainwindow.cpp:226
+#, kde-format
+msgid "Show the complete document path in the window caption"
+msgstr ""
+
+#: katemainwindow.cpp:232
+#, kde-format
+msgid "&Previous Tab"
+msgstr "&Pရှေ့တပ်ဘ်"
+
+#: katemainwindow.cpp:233
+#, kde-format
+msgid "Focus the previous tab."
+msgstr "ရှေ့တပ်ဘ်ကို အာရုံစိုက်မည်။"
+
+#: katemainwindow.cpp:238
+#, kde-format
+msgid "&Next Tab"
+msgstr "&Nနောက်တပ်ဘ်"
+
+#: katemainwindow.cpp:239
+#, kde-format
+msgid "Focus the next tab."
+msgstr "နောက်တပ်ဘ်ကို အာရုံစိုက်မည်။"
+
+#: katemainwindow.cpp:246
+#, kde-format
+msgid "&Quick Open"
+msgstr "&Qအလျင်အမြန်ဖွင့်မည်"
+
+#: katemainwindow.cpp:249
+#, kde-format
+msgid "Open a form to quick open documents."
+msgstr ""
+
+#: katemainwindow.cpp:256
+#, kde-format
+msgid "&Command Bar"
+msgstr "&Cအမိန့်ပေး-တန်း"
+
+#: katemainwindow.cpp:291
+#, kde-format
+msgid "Output"
+msgstr "အထုတ်"
+
+#: katemainwindow.cpp:301
+#, kde-format
+msgid "Create a new document"
+msgstr "မှတ်တမ်းပုံနှိပ်မူအသစ် ဖန်တီးမည်"
+
+#: katemainwindow.cpp:304
+#, kde-format
+msgid "Open an existing document for editing"
+msgstr "ရှိပြီးသား မှတ်တမ်းပုံနှိပ်မူကို တည်းဖြတ်ရန်ဖွင့်မည်"
+
+#: katemainwindow.cpp:309
+#, kde-format
+msgid ""
+"This lists files which you have opened recently, and allows you to easily "
+"open them again."
+msgstr ""
+
+#: katemainwindow.cpp:313
+#, kde-format
+msgid "Save A&ll"
+msgstr "&lအားလုံးသိမ်းဆည်းမည်"
+
+#: katemainwindow.cpp:316
+#, kde-format
+msgid "Save all open, modified documents to disk."
+msgstr "ဖွင့်ထားသော၊ မွမ်းမံထားသော မှတ်တမ်းပုံနှိပ်မူအားလုံးကို ဒစ်စ်သို့ သိမ်းမည်။"
+
+#: katemainwindow.cpp:319
+#, kde-format
+msgid "&Reload All"
+msgstr "&Rအကုန်ပြန်တွန်းတင်မည်"
+
+#: katemainwindow.cpp:321
+#, kde-format
+msgid "Reload all open documents."
+msgstr "ဖွင့်ထားသော မှတ်တမ်းပုံနှိပ်မူအကုန် ပြန်တွန်းတင်မည်။"
+
+#: katemainwindow.cpp:325
+#, kde-format
+msgid "Copy File &Path"
+msgstr "&Pဖိုင်လ်လမ်းကြောင်းကို ကူးယူမည်"
+
+#: katemainwindow.cpp:330 katemainwindow.cpp:339
+#, kde-format
+msgid "Copies the file path of the current file to clipboard."
+msgstr ""
+
+#: katemainwindow.cpp:334
+#, kde-format
+msgid "&Open Containing Folder"
+msgstr "&Oတည်ရှိသော ဖိုလ်ဒါကို ဖွင့်မည်"
+
+#: katemainwindow.cpp:343
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Rename..."
+msgstr "အမည်ပြောင်းမည်..."
+
+#: katemainwindow.cpp:348
+#, kde-format
+msgid "Renames the file belonging to the current document."
+msgstr ""
+
+#: katemainwindow.cpp:352
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete"
+msgstr "ဖျက်မည်"
+
+#: katemainwindow.cpp:357 katemainwindow.cpp:366
+#, kde-format
+msgid "Deletes the file belonging to the current document."
+msgstr ""
+
+#: katemainwindow.cpp:361
+#, kde-format
+msgid "Properties"
+msgstr "ကိုယ်ပိုင်လက္ခဏာများ"
+
+#: katemainwindow.cpp:369 katemainwindow.cpp:371
+#, kde-format
+msgid "Compare"
+msgstr "နှိုင်းယှဥ်မည်"
+
+#: katemainwindow.cpp:371
+#, kde-format
+msgid "Use the Tabbar context menu to compare two documents"
+msgstr ""
+
+#: katemainwindow.cpp:373
+#, kde-format
+msgid "Shows a hint how to compare documents."
+msgstr ""
+
+#: katemainwindow.cpp:376
+#, kde-format
+msgid "Close Orphaned"
+msgstr "သုံးခွင့်မရှိသည်များပိတ်မည်"
+
+#: katemainwindow.cpp:378
+#, kde-format
+msgid ""
+"Close all documents in the file list that could not be reopened, because "
+"they are not accessible anymore."
+msgstr "စာရင်းမှ ပြန်ဖွင့်၍မရနိုင်သော မှတ်တမ်းပုံနှိပ်မူအားလုံးကို ပိတ်မည်"
+
+#: katemainwindow.cpp:382
+#, kde-format
+msgid "Close the current document."
+msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
+
+#: katemainwindow.cpp:385
+#, kde-format
+msgid "Close Other"
+msgstr "အခြားဟာများပိတ်မည်"
+
+#: katemainwindow.cpp:387
+#, kde-format
+msgid "Close other open documents."
+msgstr "အခြားမှတ်တမ်းပုံနှိပ်မူများ ပိတ်မည်"
+
+#: katemainwindow.cpp:390
+#, kde-format
+msgid "Clos&e All"
+msgstr "&eအားလုံးပိတ်မည်"
+
+#: katemainwindow.cpp:392
+#, kde-format
+msgid "Close all open documents."
+msgstr "ဖွင့်ထားသော မှတ်တမ်းပုံနှိပ်မူအကုန် ပိတ်မည်။"
+
+#: katemainwindow.cpp:397
+#, kde-format
+msgid "Close this window"
+msgstr "ဤဝင်းဒိုးကို ပိတ်မည်"
+
+#: katemainwindow.cpp:401
+#, kde-format
+msgid "&New Window"
+msgstr "&Nဝင်းဒိုးအသစ်"
+
+#: katemainwindow.cpp:403
+#, kde-format
+msgid "Create a new Kate view (a new window with the same document list)."
+msgstr ""
+
+#: katemainwindow.cpp:410
+#, kde-format
+msgid "Open W&ith"
+msgstr "&iဖြင့် ဖွင့်မည်"
+
+#: katemainwindow.cpp:412
+#, kde-format
+msgid ""
+"Open the current document using another application registered for its file "
+"type, or an application of your choice."
+msgstr ""
+
+#: katemainwindow.cpp:417
+#, kde-format
+msgid "Configure the application's keyboard shortcut assignments."
+msgstr ""
+
+#: katemainwindow.cpp:420
+#, kde-format
+msgid "Configure which items should appear in the toolbar(s)."
+msgstr ""
+
+#: katemainwindow.cpp:423
+#, kde-format
+msgid ""
+"Configure various aspects of this application and the editing component."
+msgstr ""
+
+#: katemainwindow.cpp:427
+#, kde-format
+msgid "&Plugins Handbook"
+msgstr "&Pပလပ်ဂင်များ လက်စွဲစာအုပ်"
+
+#: katemainwindow.cpp:429
+#, kde-format
+msgid "This shows help files for various available plugins."
+msgstr ""
+
+#: katemainwindow.cpp:447
+#, kde-format
+msgctxt "Menu entry Session->New Session"
+msgid "&New Session"
+msgstr "&Nလုပ်ငန်းဆောင်ရွက်မှုခန်းအသစ်"
+
+#: katemainwindow.cpp:452
+#, kde-format
+msgid "&Save Session"
+msgstr "&Sဆက်ရှင် သိမ်းဆည်းမည်"
+
+#: katemainwindow.cpp:456
+#, kde-format
+msgid "Save Session &As..."
+msgstr "&Aအဖြစ် ဆက်ရှင်ကိုသိမ်းဆည်းမည်..."
+
+#: katemainwindow.cpp:460
+#, kde-format
+msgid "&Manage Sessions..."
+msgstr "&Mဆက်ရှင်များ စီမံမည်..."
+
+#: katemainwindow.cpp:465
+#, kde-format
+msgid "&Quick Open Session"
+msgstr "&Qဆက်ရှင်အလျင်အမြန်ဖွင့်မည်"
+
+#: katemainwindow.cpp:471
+#, kde-format
+msgid "Go back"
+msgstr "ပြန်လှည့်မည်"
+
+#: katemainwindow.cpp:479
+#, kde-format
+msgid "Go forward"
+msgstr "ရှေ့ဆက်သွားမည်"
+
+#: katemainwindow.cpp:490
+#, kde-format
+msgid "This will close all open documents. Are you sure you want to continue?"
+msgstr ""
+
+#: katemainwindow.cpp:491
+#, kde-format
+msgid "Close all documents"
+msgstr "မှတ်တမ်းပုံနှိပ်မူအားလုံး ပိတ်မည်"
+
+#: katemainwindow.cpp:506
+#, kde-format
+msgid ""
+"This will close all open documents beside the current one. Are you sure you "
+"want to continue?"
+msgstr ""
+
+#: katemainwindow.cpp:507
+#, kde-format
+msgid "Close all documents beside current one"
+msgstr "လက်ရှိတစ်ခုမှလွဲ၍ ကျန်မှတ်တမ်းပုံနှိပ်မူအားလုံးပိတ်မည်"
+
+#: katemainwindow.cpp:700
+#, kde-format
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+
+#: katemainwindow.cpp:703
+#, kde-format
+msgid "Hide menu bar"
+msgstr "မီနူးတန်း ဖွက်ထားမည်"
+
+#: katemainwindow.cpp:815
+#, kde-format
+msgid ""
+"You dropped the directory %1 into Kate. Do you want to load all files "
+"contained in it ?"
+msgstr "သင်သည် ဒါရိုက်ထရီ %1 ကို ကိတ် ထဲသို့ လွတ်ချခဲ့သည်။ ၎င်းအတွင်းရှိ ဖိုင်လ်များအားလုံး သင်ဖွင့်ချင်ပါသလား။"
+
+#: katemainwindow.cpp:818
+#, kde-format
+msgid "Load files recursively?"
+msgstr ""
+
+#: katemainwindow.cpp:946
+#, kde-format
+msgid "&Other..."
+msgstr "&Oအခြား..."
+
+#: katemainwindow.cpp:1058
+#, kde-format
+msgid " [read only]"
+msgstr " [ဖတ်၍သာရ]"
+
+#: katemdi.cpp:93
+#, kde-format
+msgid "Tool &Views"
+msgstr "ကိရိယာ &Vမြင်ကွင်းများ"
+
+#: katemdi.cpp:95
+#, kde-format
+msgid "Show Side&bars"
+msgstr "&bဘေးတန်းများ ပြမည်"
+
+#: katemdi.cpp:138
+#, kde-format
+msgid "Show %1"
+msgstr "%1 ပြမည်"
+
+#: katemdi.cpp:640
+#, kde-format
+msgid "Configure ..."
+msgstr "ပြင်ဆင်မည်..."
+
+#: katemdi.cpp:647
+#, kde-format
+msgid "Make Non-Persistent"
+msgstr "မတည်မြဲစေမည်"
+
+#: katemdi.cpp:647
+#, kde-format
+msgid "Make Persistent"
+msgstr "တည်မြဲစေမည်"
+
+#: katemdi.cpp:650
+#, kde-format
+msgid "Move To"
+msgstr "သို့ရွေ့မည်"
+
+#: katemdi.cpp:653
+#, kde-format
+msgid "Left Sidebar"
+msgstr "ဘယ်ဘေးတန်း"
+
+#: katemdi.cpp:657
+#, kde-format
+msgid "Right Sidebar"
+msgstr "ညာဘေးတန်း"
+
+#: katemdi.cpp:661
+#, kde-format
+msgid "Top Sidebar"
+msgstr "ထိပ်ဘေးတန်"
+
+#: katemdi.cpp:665
+#, kde-format
+msgid "Bottom Sidebar"
+msgstr "အောက်ဘေးတန်း"
+
+#: katemdi.cpp:1008
+#, kde-format
+msgid ""
+"<qt>You are about to hide the sidebars. With hidden sidebars it is not "
+"possible to directly access the tool views with the mouse anymore, so if you "
+"need to access the sidebars again invoke <b>View &gt; Tool Views &gt; Show "
+"Sidebars</b> in the menu. It is still possible to show/hide the tool views "
+"with the assigned shortcuts.</qt>"
+msgstr ""
+
+#: katemwmodonhddialog.cpp:59
+#, kde-format
+msgid "Documents Modified on Disk"
+msgstr "ဒစ်စ်ပေါ်တွင် ပြောင်းလဲသွားသော မှတ်တမ်းပုံနှိပ်မူများ"
+
+#: katemwmodonhddialog.cpp:75
+#, kde-format
+msgid ""
+"<qt>The documents listed below have changed on disk.<p>Select one or more at "
+"once, and press an action button until the list is empty.</p></qt>"
+msgstr ""
+"<qt>အောက်တွင်စာရင်းပြထားသော မှတ်တမ်းပုံနှိပ်မူများ ဒစ်စ်တွင် ပြောင်းလဲသွားခဲ့သည်။<p>တစ်ပြိုင်တည်း တစ်ခု "
+"သို့မဟုတ် တစ်ခုထက်ပို၍ ရွေးချယ်ပြီး စာရင်းမရှင်းမချင်း အက်ရှင်ခလုတ်နှိပ်ပါ။</p></qt>"
+
+#: katemwmodonhddialog.cpp:85
+#, kde-format
+msgid "Filename"
+msgstr "ဖိုင်လ်အမည်"
+
+#: katemwmodonhddialog.cpp:85
+#, kde-format
+msgid "Status on Disk"
+msgstr "ဒစ်စ်ပေါ်အခြေအနေ"
+
+#: katemwmodonhddialog.cpp:90
+#, kde-format
+msgid "Modified"
+msgstr "မွမ်းမံခဲ့သည်"
+
+#: katemwmodonhddialog.cpp:90
+#, kde-format
+msgid "Created"
+msgstr "ဖန်တီးခဲ့သည်"
+
+#: katemwmodonhddialog.cpp:90
+#, kde-format
+msgid "Deleted"
+msgstr "ဖျက်ခဲ့သည်"
+
+#: katemwmodonhddialog.cpp:105
+#, kde-format
+msgid "&View Difference"
+msgstr "&Vခြားနားချက်များကြည့်မည်"
+
+#: katemwmodonhddialog.cpp:107
+#, kde-format
+msgid ""
+"Calculates the difference between the editor contents and the disk file for "
+"the selected document, and shows the difference with the default "
+"application. Requires diff(1)."
+msgstr ""
+"ရွေးထားသော မှတ်တမ်းပုံနှိပ်မူအတွက် တည်းဖြတ်ကိရိယာရှိ စာသားဒေတာများနှင့် ဒစ်စ်ဖိုင်လ်ရှိ စာသားဒေတာများ "
+"ခြားနားချက် ရှာဖွေ၍ မူလသတ်မှတ်ထားသော အပ္ပလီကေးရှင်းနှင့် ပြမည်။ diff(၁) လိုအပ်သည်။"
+
+#: katemwmodonhddialog.cpp:117
+#, kde-format
+msgid "&Ignore Changes"
+msgstr "&Iပြောင်းလဲမှုများ လစ်လျူရှုမည်"
+
+#: katemwmodonhddialog.cpp:118
+#, kde-format
+msgid "Remove modified flag from selected documents"
+msgstr ""
+
+#: katemwmodonhddialog.cpp:124
+#, kde-format
+msgid "Overwrite selected documents, discarding disk changes"
+msgstr ""
+
+#: katemwmodonhddialog.cpp:128
+#, kde-format
+msgid "&Reload"
+msgstr "&Rပြန်တွန်းတင်မည်"
+
+#: katemwmodonhddialog.cpp:130
+#, kde-format
+msgid "Reload selected documents from disk"
+msgstr ""
+
+#: katemwmodonhddialog.cpp:196
+#, kde-format
+msgid ""
+"Could not save the document \n"
+"'%1'"
+msgstr ""
+"မှတ်တမ်းပုံနှိပ်မူကို မသိမ်းဆည်းနိုင်ခဲ့ပါ\n"
+"'%1'"
+
+#: katemwmodonhddialog.cpp:328
+#, kde-format
+msgid ""
+"The diff command failed. Please make sure that diff(1) is installed and in "
+"your PATH."
+msgstr ""
+"အမိန့် diff မအောင်မြင်ခဲ့ပါ။ ကျေးဇူးပြု၍ diff(1) တပ်ဆင်ထားခြင်းရှိ၊ မရှိ နှင့် PATH ထဲတွင် ရှိ၊မရှိ "
+"စစ်ဆေးပါ။"
+
+#: katemwmodonhddialog.cpp:330
+#, kde-format
+msgid "Error Creating Diff"
+msgstr "Diffဖန်တီးရာတွင် အမှားဖြစ်ပေါ်ခဲ့သည်"
+
+#: katemwmodonhddialog.cpp:337
+#, kde-format
+msgid "Ignoring amount of white space changed, the files are identical."
+msgstr "အဖြူနေရာလွတ်အက္ခရာများပြောင်းလဲမှုပမာဏကို လစ်လျူရှုလျှင် ဖိုင်လ်များ တစ်ထပ်တည်းကျပါသည်။"
+
+#: katemwmodonhddialog.cpp:337
+#, kde-format
+msgid "Diff Output"
+msgstr "Diff အထုတ်"
+
+#: kateoutputview.cpp:39
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Copy to Clipboard"
+msgstr "ကလစ်ဘုတ်သို့ကူးယူမည်"
+
+#: kateoutputview.cpp:190
+#, kde-format
+msgid "Type to filter..."
+msgstr "စစ်ထုတ်ရန် ရိုက်သွင်းပါ..."
+
+#: kateoutputview.cpp:203
+#, kde-format
+msgid "Clear all messages"
+msgstr "ပေးစာများအားလုံးရှင်းမည်"
+
+#: kateoutputview.cpp:302
+#, kde-format
+msgctxt "@info"
+msgid "Error"
+msgstr "အမှား"
+
+#: kateoutputview.cpp:306
+#, kde-format
+msgctxt "@info"
+msgid "Warning"
+msgstr "သတိ"
+
+#: kateoutputview.cpp:310
+#, kde-format
+msgctxt "@info"
+msgid "Info"
+msgstr "အချက်"
+
+#: kateoutputview.cpp:314
+#, kde-format
+msgctxt "@info"
+msgid "Log"
+msgstr "မှတ်တမ်း"
+
+#: katesavemodifieddialog.cpp:77
+#, kde-format
+msgid "Save As (%1)"
+msgstr "အဖြစ်သိမ်းဆည်းမည် (%1)"
+
+#: katesavemodifieddialog.cpp:127
+#, kde-format
+msgid "Save Documents"
+msgstr "မှတ်တမ်းပုံနှိပ်မူများ သိမ်းဆည်းမည်"
+
+#: katesavemodifieddialog.cpp:135
+#, kde-format
+msgid ""
+"<qt>The following documents have been modified. Do you want to save them "
+"before closing?</qt>"
+msgstr ""
+"<qt>အောက်ပါမှတ်တမ်းပုံနှိပ်မူများကို မွမ်းမံခဲ့ပြီးဖြစ်သည်။ မပိတ်ခင် ၎င်းတို့ကို သိမ်းဆည်းချင်ပါသလား။</qt>"
+
+#: katesavemodifieddialog.cpp:142
+#, kde-format
+msgid "Documents"
+msgstr "မှတ်တမ်းပုံနှိပ်မူများ"
+
+#: katesavemodifieddialog.cpp:142
+#, kde-format
+msgid "Location"
+msgstr "တည်နေရာ"
+
+#: katesavemodifieddialog.cpp:152
+#, kde-format
+msgid "Se&lect All"
+msgstr "&lအားလုံးရွေးချယ်မည်"
+
+#: katesavemodifieddialog.cpp:225
+#, kde-format
+msgid ""
+"Data you requested to be saved could not be written. Please choose how you "
+"want to proceed."
+msgstr ""
+
+#: kateviewmanager.cpp:113
+#, kde-format
+msgid "Split Ve&rtical"
+msgstr "&rအပေါ်အောက်ခွဲမည်"
+
+#: kateviewmanager.cpp:117
+#, kde-format
+msgid "Split the currently active view vertically into two views."
+msgstr "လက်ရှိ ကြည့်နေသော မြင်ကွင်းကို အထက်အောက် မြင်ကွင်းနှစ်ခုအဖြစ်ခွဲမည်။"
+
+#: kateviewmanager.cpp:121
+#, kde-format
+msgid "Split &Horizontal"
+msgstr "&Hဘယ်ညာခွဲမည်"
+
+#: kateviewmanager.cpp:125
+#, kde-format
+msgid "Split the currently active view horizontally into two views."
+msgstr "လက်ရှိ ကြည့်နေသော မြင်ကွင်းကို ဘယ်ညာမြင်ကွင်းနှစ်ခုအဖြစ်ခွဲမည်။"
+
+#: kateviewmanager.cpp:129
+#, kde-format
+msgid "Cl&ose Current View"
+msgstr "&oလက်ရှိမြင်ကွင်းပိတ်မည်"
+
+#: kateviewmanager.cpp:133
+#, kde-format
+msgid "Close the currently active split view"
+msgstr "လက်ရှိကြည့်နေသော ကန့်ထားသည့်မြင်ကွင်းပိတ်မည်"
+
+#: kateviewmanager.cpp:137
+#, kde-format
+msgid "Close Inactive Views"
+msgstr "မကြည့်နေသော မြင်ကွင်းများ ပိတ်မည်"
+
+#: kateviewmanager.cpp:140
+#, kde-format
+msgid "Close every view but the active one"
+msgstr "လက်ရှိကြည့်နေသော မြင်ကွင်းမှလွဲ၍ အကုန်ပိတ်မည်"
+
+#: kateviewmanager.cpp:144
+#, kde-format
+msgid "Hide Inactive Views"
+msgstr "မကြည့်နေသော မြင်ကွင်းများ ဖွက်ထားမည်"
+
+#: kateviewmanager.cpp:148
+#, kde-format
+msgid "Hide every view but the active one"
+msgstr "လက်ရှိကြည့်နေသော မြင်ကွင်းမှလွဲ၍ အကုန်ဖွက်ထားမည်"
+
+#: kateviewmanager.cpp:151
+#, kde-format
+msgid "Toggle Orientation"
+msgstr "တည်နေရာအခင်းအကျင်း ဖွင့်/ပိတ်"
+
+#: kateviewmanager.cpp:154
+#, kde-format
+msgid "Toggles the orientation of the current split view"
+msgstr ""
+
+#: kateviewmanager.cpp:157
+#, kde-format
+msgid "Next Split View"
+msgstr ""
+
+#: kateviewmanager.cpp:161
+#, kde-format
+msgid "Make the next split view the active one."
+msgstr "နောက် အခွဲ-မြင်ကွင်းကို သက်ဝင်စေမည်။"
+
+#: kateviewmanager.cpp:164
+#, kde-format
+msgid "Previous Split View"
+msgstr ""
+
+#: kateviewmanager.cpp:168
+#, kde-format
+msgid "Make the previous split view the active one."
+msgstr "ရှေ့ အခွဲ-မြင်ကွင်းကို သက်ဝင်စေမည်။"
+
+#: kateviewmanager.cpp:171
+#, kde-format
+msgid "Move Splitter Right"
+msgstr ""
+
+#: kateviewmanager.cpp:174
+#, kde-format
+msgid "Move the splitter of the current view to the right"
+msgstr ""
+
+#: kateviewmanager.cpp:177
+#, kde-format
+msgid "Move Splitter Left"
+msgstr ""
+
+#: kateviewmanager.cpp:180
+#, kde-format
+msgid "Move the splitter of the current view to the left"
+msgstr ""
+
+#: kateviewmanager.cpp:183
+#, kde-format
+msgid "Move Splitter Up"
+msgstr ""
+
+#: kateviewmanager.cpp:186
+#, kde-format
+msgid "Move the splitter of the current view up"
+msgstr ""
+
+#: kateviewmanager.cpp:189
+#, kde-format
+msgid "Move Splitter Down"
+msgstr ""
+
+#: kateviewmanager.cpp:192
+#, kde-format
+msgid "Move the splitter of the current view down"
+msgstr ""
+
+#: kateviewmanager.cpp:222 kateviewmanager.cpp:224
+#, kde-format
+msgid "Open File"
+msgstr "ဖိုင်လ်ဖွင့်မည်"
+
+#: kateviewmanager.cpp:243
+#, kde-format
+msgid ""
+"<p>You are attempting to open one or more large files:</p><ul>%1</ul><p>Do "
+"you want to proceed?</p><p><strong>Beware that kate may stop responding for "
+"some time when opening large files.</strong></p>"
+msgstr ""
+"<p>အလွန်ကြီးမားသော ဖိုင်လ်တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသည်ကို ဖွင့်ရန် သင်လုပ်ဆောင်နေသည် -</p><ul>%1</"
+"ul><p>သင် ဆက်လုပ်ချင်ပါသလား။</p><p><strong>သတိထားရမည်က ဖိုင်လ်အကြီးများဖွင့်သောအခါ ကိတ်သည် "
+"ကာလတစ်ခုတိုင်အောင် တုံ့ပြန်မှုမရှိဘဲနေမည်။</strong></p>"
+
+#: kateviewmanager.cpp:246
+#, kde-format
+msgid "Opening Large File"
+msgstr "ကြီးမားသောဖိုင်လ်ဖွင့်နေသည်"
+
+#: kateviewmanager.cpp:919
+#, kde-format
+msgid "This view may have unsaved work. Do you really want to close it?"
+msgstr ""
+
+#: kateviewspace.cpp:54
+#, kde-format
+msgid "Go Back"
+msgstr "ပြန်လှည့်မည်"
+
+#: kateviewspace.cpp:67
+#, kde-format
+msgid "Go Forward"
+msgstr "ရှေ့ဆက်သွားမည်"
+
+#: kateviewspace.cpp:94
+#, kde-format
+msgctxt "indicator for more documents"
+msgid "+%1"
+msgstr "+%1"
+
+#: kateviewspace.cpp:99 kateviewspace.cpp:153
+#, kde-format
+msgid "Click here to switch to the Quick Open view."
+msgstr ""
+
+#: kateviewspace.cpp:112
+#, kde-format
+msgid "Control view space splitting"
+msgstr ""
+
+#: kateviewspace.cpp:154
+#, kde-format
+msgid ""
+"Currently, there is one more document open. To see all open documents, "
+"switch to the Quick Open view by clicking here."
+msgid_plural ""
+"Currently, there are %1 more documents open. To see all open documents, "
+"switch to the Quick Open view by clicking here."
+msgstr[0] ""
+
+#: kateviewspace.cpp:630
+#, fuzzy, kde-format
+#| msgid "Close"
+msgid "Close Tab"
+msgstr "ပိတ်မည်"
+
+#: kateviewspace.cpp:644
+#, kde-format
+msgid "&Close Document"
+msgstr "&Cမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
+
+#: kateviewspace.cpp:645
+#, kde-format
+msgid "Close Other &Documents"
+msgstr "&Dအခြားမှတ်တမ်းပုံနှိပ်မူများ ပိတ်မည်"
+
+#: kateviewspace.cpp:654
+#, kde-format
+msgid "Compare with active document"
+msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူနှင့် နှိုင်းယှဥ်မည်"
+
+#: kateviewspace.cpp:710
+#, kde-format
+msgid "Could not start program"
+msgstr "ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ"
+
+#: kateviewspace.cpp:711
+#, kde-format
+msgid "The selected program could not be started. Maybe it is not installed."
+msgstr "ရွေးထားသော ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ။ တပ်ဆင်မထားရသေးခြင်းဖြစ်နိုင်သည်။"
+
+#: main.cpp:128
+#, kde-format
+msgid "Kate"
+msgstr "ကိတ်"
+
+#: main.cpp:130
+#, kde-format
+msgid "Kate - Advanced Text Editor"
+msgstr "ကိတ် - အဆင့်မြင့်စာသားတည်းဖြတ်ကိရိယာ"
+
+#: main.cpp:132
+#, kde-format
+msgid "(c) 2000-2021 The Kate Authors"
+msgstr "(c) ၂၀၀၀-၂၀၂၁ ကိတ် ရေးသားသူများ"
+
+#: main.cpp:150
+#, kde-format
+msgid "Christoph Cullmann"
+msgstr "ခရစ်စ်တိုကူးလ်မန်း"
+
+#: main.cpp:150
+#, kde-format
+msgid "Maintainer"
+msgstr "ထိန်းသိမ်းသူ"
+
+#: main.cpp:151
+#, kde-format
+msgid "Dominik Haumann"
+msgstr "ဒိုမင်နစ်ဟူမန်"
+
+#: main.cpp:151 main.cpp:154 main.cpp:156 main.cpp:159 main.cpp:165
+#, kde-format
+msgid "Core Developer"
+msgstr "ပင်မအူတိုင် ပရိုဂရမ်မာ"
+
+#: main.cpp:152
+#, kde-format
+msgid "Sven Brauch"
+msgstr "ဆဗန်ဘရက်ချ်"
+
+#: main.cpp:152 main.cpp:153 main.cpp:160
+#, kde-format
+msgid "Developer"
+msgstr "ပရိုဂရမ်မာ"
+
+#: main.cpp:153
+#, kde-format
+msgid "Kåre Särs"
+msgstr "ကာရဲဆာ့စ်"
+
+#: main.cpp:154
+#, kde-format
+msgid "Anders Lund"
+msgstr "အန်ဒရီလွန်"
+
+#: main.cpp:155
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "ဂျိုးဆက်ဝမ်နင်ဂျာ"
+
+#: main.cpp:159
+#, kde-format
+msgid "Hamish Rodda"
+msgstr "ဟာမစ်ရှ်ရိုဒါ"
+
+#: main.cpp:160
+#, kde-format
+msgid "Alexander Neundorf"
+msgstr "အလက်ဇန်းဒါးနျူဒေါ့ဖ်"
+
+#: main.cpp:161
+#, kde-format
+msgid "Waldo Bastian"
+msgstr "ဝါဒိုဘက်စတီရှန်"
+
+#: main.cpp:161
+#, kde-format
+msgid "The cool buffersystem"
+msgstr "စွန်းမိုက်သော ဘက်ဖာစနစ်"
+
+#: main.cpp:162
+#, kde-format
+msgid "Charles Samuels"
+msgstr "ချားလ်စ်ဆန်မြူရယ်"
+
+#: main.cpp:162
+#, kde-format
+msgid "The Editing Commands"
+msgstr "တည်းဖြတ်မှုဆိုင်ရာအမိန့်များ"
+
+#: main.cpp:163
+#, kde-format
+msgid "Matt Newell"
+msgstr "မတ်နီဝယ်"
+
+#: main.cpp:163
+#, kde-format
+msgid "Testing, ..."
+msgstr "စမ်းသပ်နေသည်၊ ..."
+
+#: main.cpp:164
+#, kde-format
+msgid "Michael Bartl"
+msgstr "မစ်ချယ်ဘာတယ်"
+
+#: main.cpp:164
+#, kde-format
+msgid "Former Core Developer"
+msgstr "ယခင်က ပင်မအူတိုင် ပရိုဂရမ်မာ"
+
+#: main.cpp:165
+#, kde-format
+msgid "Michael McCallum"
+msgstr "မစ်ချယ်မက်ကလွန်"
+
+#: main.cpp:166
+#, kde-format
+msgid "Jochen Wilhemly"
+msgstr "ဂျိုချန်ဝီဟမ်လီ"
+
+#: main.cpp:166
+#, kde-format
+msgid "KWrite Author"
+msgstr "ကေရိုက် ရေးသားသူ"
+
+#: main.cpp:167
+#, kde-format
+msgid "Michael Koch"
+msgstr "မစ်ချယ်ကော့ချ်"
+
+#: main.cpp:167
+#, kde-format
+msgid "KWrite port to KParts"
+msgstr "ကေရိုက်ကို ကေပါ့စ်သို့တင်သွင်း"
+
+#: main.cpp:168
+#, kde-format
+msgid "Christian Gebauer"
+msgstr "ခရစ်ရှန် ဂဘောင်"
+
+#: main.cpp:169
+#, kde-format
+msgid "Simon Hausmann"
+msgstr "ဆိုင်မွန်ဟူမန်"
+
+#: main.cpp:170
+#, kde-format
+msgid "Glen Parker"
+msgstr "ဂလန်ပါကာ"
+
+#: main.cpp:170
+#, kde-format
+msgid "KWrite Undo History, Kspell integration"
+msgstr "ကေရိုက် ပြန်ဆုတ် မှတ်တမ်း၊ ကေဆပဲလ် ပေါင်းစည်းမှု"
+
+#: main.cpp:171
+#, kde-format
+msgid "Scott Manson"
+msgstr "စကော့မန်ဆန်"
+
+#: main.cpp:171
+#, kde-format
+msgid "KWrite XML Syntax highlighting support"
+msgstr "ကေရိုက် အိပ်စ်အမ်အယ် အထားအသို အရောင်တင်ပြနိုင်မှု"
+
+#: main.cpp:172
+#, kde-format
+msgid "John Firebaugh"
+msgstr "ဂျွန်ဖိုင်ယားဘာ့ချ်"
+
+#: main.cpp:172
+#, kde-format
+msgid "Patches and more"
+msgstr ""
+
+#: main.cpp:173
+#, kde-format
+msgid "Pablo Martín"
+msgstr "ပါဘလိုမာတင်"
+
+#: main.cpp:174
+#, kde-format
+msgid "Python Plugin Developer"
+msgstr "ပိုက်သွန် ပလပ်ဂင် ပရိုဂရမ်မာ"
+
+#: main.cpp:177
+#, kde-format
+msgid "Gerald Senarclens de Grancy"
+msgstr "ဂျရယဆီညာကလန်ဒီဂရမ်စီ"
+
+#: main.cpp:178
+#, kde-format
+msgid "QA and Scripting"
+msgstr "ကျူအေ နှင့် ညွှန်ကြားကုတ်ရေးသားမှု"
+
+#: main.cpp:182
+#, kde-format
+msgid "Tyson Tan"
+msgstr "တိုင်ဆွန်တန်"
+
+#: main.cpp:183
+#, kde-format
+msgid "Designer of Kate's mascot 'Kate the Cyber Woodpecker'"
+msgstr ""
+
+#: main.cpp:186
+#, kde-format
+msgid "Matteo Merli"
+msgstr "မတ်သျူမာလီ"
+
+#: main.cpp:186
+#, kde-format
+msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
+msgstr "အာပီအမ် ဆက်စပ်ဖိုင်လ်၊ ပါလ်၊ Diff နှင့် နောက်ထပ်ဖိုင်လ်များ အရောင်တင်ပြခြင်း"
+
+#: main.cpp:187
+#, kde-format
+msgid "Rocky Scaletta"
+msgstr "ရော့ကီစကယ်လက်တာ"
+
+#: main.cpp:187
+#, kde-format
+msgid "Highlighting for VHDL"
+msgstr "ဗွီအိပ်ချ်ဒီအယ် အရောင်တင်ပြခြင်း"
+
+#: main.cpp:188
+#, kde-format
+msgid "Yury Lebedev"
+msgstr "ယူရီလက်ဗဒက်"
+
+#: main.cpp:188
+#, kde-format
+msgid "Highlighting for SQL"
+msgstr "အက်စ်ကျူအယ် အရောင်တင်ပြခြင်း"
+
+#: main.cpp:189
+#, kde-format
+msgid "Chris Ross"
+msgstr "ခရစ်ရော့စ်"
+
+#: main.cpp:189
+#, kde-format
+msgid "Highlighting for Ferite"
+msgstr "ပိုက်သွန် အရောင်တင်ပြခြင်း"
+
+#: main.cpp:190
+#, kde-format
+msgid "Nick Roux"
+msgstr "နစ်ခ်ရို့စ်"
+
+#: main.cpp:190
+#, kde-format
+msgid "Highlighting for ILERPG"
+msgstr "အိုင်အယ်အီးအာပီဂျီ အရောင်တင်ပြခြင်း"
+
+#: main.cpp:191
+#, kde-format
+msgid "Carsten Niehaus"
+msgstr "ကာစတန်နီးဟိုက်"
+
+#: main.cpp:191
+#, kde-format
+msgid "Highlighting for LaTeX"
+msgstr "အယ်အေတီအီးအိပ်စ် အရောင်တင်ပြခြင်း"
+
+#: main.cpp:192
+#, kde-format
+msgid "Per Wigren"
+msgstr "ပါဝစ်ဂရမ်"
+
+#: main.cpp:192
+#, kde-format
+msgid "Highlighting for Makefiles, Python"
+msgstr "မိတ်ခ်ဖိုင်လ်၊ ပိုက်သွန် အရောင်တင်ပြခြင်း"
+
+#: main.cpp:193
+#, kde-format
+msgid "Jan Fritz"
+msgstr "ဂျန်ဖရစ်"
+
+#: main.cpp:193
+#, kde-format
+msgid "Highlighting for Python"
+msgstr "ပိုက်သွန် အရောင်တင်ပြခြင်း"
+
+#: main.cpp:194
+#, kde-format
+msgid "Daniel Naber"
+msgstr "ဒန်နီရယ်နဘာ"
+
+#: main.cpp:195
+#, kde-format
+msgid "Roland Pabel"
+msgstr "ရိုလန်ပါဘယ်"
+
+#: main.cpp:195
+#, kde-format
+msgid "Highlighting for Scheme"
+msgstr "စကင်း အရောင်တင်ပြခြင်း"
+
+#: main.cpp:196
+#, kde-format
+msgid "Cristi Dumitrescu"
+msgstr "ခရစ်တီဒူမီထရက်ကျူ"
+
+#: main.cpp:196
+#, kde-format
+msgid "PHP Keyword/Datatype list"
+msgstr ""
+
+#: main.cpp:197
+#, kde-format
+msgid "Carsten Pfeiffer"
+msgstr "ကာစတန်ဖိုင်ဖာ"
+
+#: main.cpp:197
+#, kde-format
+msgid "Very nice help"
+msgstr "အလွန်ကောင်းတဲ့အကူအညီ"
+
+#: main.cpp:198
+#, kde-format
+msgid "All people who have contributed and I have forgotten to mention"
+msgstr "ပါဝင်ကူညီပေးသော လူများအားလုံး နှင့် ကျွန်ုပ်ဖော်ပြဖို့ကျန်ခဲ့သော လူများ"
+
+#: main.cpp:223
+#, kde-format
+msgid "Start Kate with a given session."
+msgstr "ကိတ်ကို ပေးထားသော ဆက်ရှင်ဖြင့် စတင်မည်"
+
+#: main.cpp:224
+#, kde-format
+msgid "session"
+msgstr "ဆက်ရှင်"
+
+#: main.cpp:229
+#, kde-format
+msgid "Start Kate with a new anonymous session, implies '-n'."
+msgstr "ကိတ်ကို အမည်မသိသော ဆက်ရှင်ဖြင့် စတင်မည်။( '-n' သုံးသကဲ့သို့)"
+
+#: main.cpp:234
+#, kde-format
+msgid ""
+"Force start of a new kate instance (is ignored if start is used and another "
+"kate instance already has the given session opened), forced if no parameters "
+"and no URLs are given at all."
+msgstr ""
+
+#: main.cpp:240
+#, kde-format
+msgid ""
+"If using an already running kate instance, block until it exits, if URLs "
+"given to open."
+msgstr ""
+
+#: main.cpp:246
+#, kde-format
+msgid ""
+"Only try to reuse kate instance with this pid (is ignored if start is used "
+"and another kate instance already has the given session opened)."
+msgstr ""
+
+#: main.cpp:247
+#, kde-format
+msgid "pid"
+msgstr "ပီအိုင်ဒီ"
+
+#: main.cpp:252
+#, kde-format
+msgid "Set encoding for the file to open."
+msgstr "ဖွင့်မည့် ဖိုင်လ်၏ ကုတ်ဝှက်စနစ်သတ်မှတ်မည်။"
+
+#: main.cpp:253
+#, kde-format
+msgid "encoding"
+msgstr "ကုတ်ဝှက်စနစ်"
+
+#: main.cpp:257
+#, kde-format
+msgid "Navigate to this line."
+msgstr ""
+
+#: main.cpp:257
+#, kde-format
+msgid "line"
+msgstr "စာကြောင်း"
+
+#: main.cpp:262
+#, kde-format
+msgid "Navigate to this column."
+msgstr ""
+
+#: main.cpp:263
+#, kde-format
+msgid "column"
+msgstr "တိုင်"
+
+#: main.cpp:267
+#, kde-format
+msgid "Read the contents of stdin."
+msgstr ""
+
+#: main.cpp:272
+#, kde-format
+msgid "The files/URLs opened by the application will be deleted after use"
+msgstr ""
+
+#: main.cpp:276
+#, kde-format
+msgid "Documents to open."
+msgstr "ဖွင့်ရမည့် မှတ်တမ်းပုံနှိပ်မူများ။"
+
+#: main.cpp:276
+#, kde-format
+msgid "[urls...]"
+msgstr "[ယူအာအယ်...]"
+
+#: quickopen/katequickopenlineedit.cpp:21
+#, kde-format
+msgid "Quick Open Search (configure via context menu)"
+msgstr ""
+
+#: quickopen/katequickopenlineedit.cpp:57
+#, kde-format
+msgid "All Projects"
+msgstr "ပရောဂျက် အားလုံး"
+
+#: quickopen/katequickopenlineedit.cpp:69
+#, kde-format
+msgid "Current Project"
+msgstr "လက်ရှိ ပရောဂျက်"
+
+#: session/katesessionmanagedialog.cpp:29
+#, kde-format
+msgid "Manage Sessions"
+msgstr "ဆက်ရှင်များ စီမံမည်"
+
+#: session/katesessionmanagedialog.cpp:65
+#, kde-format
+msgid "Session Chooser"
+msgstr "ဆက်ရှင် ရွေးချယ်ကိရိယာ"
+
+#: session/katesessionmanagedialog.cpp:149
+#, kde-format
+msgid "Restore"
+msgstr "ပြန်လည်ထားသိုမည်"
+
+#: session/katesessionmanagedialog.cpp:306
+#, kde-format
+msgid "Session will be deleted on dialog close"
+msgstr "ဒိုင်ယာလော့ ပိတ်သည်နှင့် ဆက်ရှင်ကို ဖျက်ပစ်မည်"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, m_filterBox)
+#: session/katesessionmanagedialog.ui:30
+#, kde-format
+msgid "Filter Sessions"
+msgstr "လုပ်ငန်းဆောင်ရွက်မှုခန်းများ စစ်ထုတ်မည်"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_sessionList)
+#: session/katesessionmanagedialog.ui:55
+#, kde-format
+msgid "Session Name"
+msgstr "ဆက်ရှင် အမည်"
+
+#. i18n: The number of open documents
+#. i18n: ectx: property (text), widget (QTreeWidget, m_sessionList)
+#: session/katesessionmanagedialog.ui:60
+#, kde-format
+msgid "Files"
+msgstr "ဖိုင်လ်များ"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_sessionList)
+#: session/katesessionmanagedialog.ui:68
+#, kde-format
+msgid "Last opened"
+msgstr "နောက်ဆုံးဖွင့်ခဲ့သော"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_openButton)
+#: session/katesessionmanagedialog.ui:87
+#, kde-format
+msgid "&Open"
+msgstr "&Oဖွင့်မည်"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_newButton)
+#: session/katesessionmanagedialog.ui:98
+#, kde-format
+msgid "New Session"
+msgstr "လုပ်ငန်းဆောင်ရွက်မှုခန်းအသစ်"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_templateButton)
+#: session/katesessionmanagedialog.ui:108
+#, kde-format
+msgid "Open as Template"
+msgstr "ပုံစံမူအဖြစ် ဖွင့်မည်"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_dontAskCheckBox)
+#: session/katesessionmanagedialog.ui:115
+#, kde-format
+msgid "Don't ask again"
+msgstr "ထပ်မမေးပါနှင့်"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_copyButton)
+#: session/katesessionmanagedialog.ui:135
+#, kde-format
+msgid "Duplicate..."
+msgstr "ပုံတူပွားမည်..."
+
+#. i18n: ectx: property (text), widget (QPushButton, m_renameButton)
+#: session/katesessionmanagedialog.ui:142
+#, kde-format
+msgid "&Rename..."
+msgstr "&Rအမည်ပြောင်းမည်..."
+
+#. i18n: ectx: property (text), widget (QPushButton, m_deleteButton)
+#: session/katesessionmanagedialog.ui:162
+#, kde-format
+msgid "Delete"
+msgstr "ဖျက်မည်"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_closeButton)
+#: session/katesessionmanagedialog.ui:184
+#, kde-format
+msgid "Close"
+msgstr "ပိတ်မည်"
+
+#: session/katesessionmanager.cpp:108
+#, kde-format
+msgid ""
+"Internal error: there is more than one instance open for a given session."
+msgstr "စနစ်အတွင်းပိုင်းဆိုင်ရာ အမှား - ပေးထားသော ဆက်ရှင်တစ်ခုအတွက် ဆောင်ရွက်မှုများ တစ်ခုမကရှိနေသည်။"
+
+#: session/katesessionmanager.cpp:114
+#, kde-format
+msgid ""
+"Session '%1' is already opened in another kate instance, change there "
+"instead of reopening?"
+msgstr ""
+
+#: session/katesessionmanager.cpp:307
+#, kde-format
+msgid "The session could not be renamed to \"%1\". Failed to write to \"%2\""
+msgstr ""
+
+#: session/katesessionmanager.cpp:308
+#, kde-format
+msgid "Session Renaming"
+msgstr "ဆက်ရှင် အမည်ပြောင်းခြင်း"
+
+#: session/katesessionmanager.cpp:452
+#, kde-format
+msgid "Session name:"
+msgstr "ဆက်ရှင် အမည် -"
+
+#: session/katesessionmanager.cpp:454
+#, kde-format
+msgid ""
+"There is already an existing session with your chosen name: %1\n"
+"Please choose a different one."
+msgstr ""
+
+#: session/katesessionmanager.cpp:456
+#, kde-format
+msgid "To save a session, you must specify a name."
+msgstr "ဆက်ရှင်ကိုသိမ်းဆည်းရန် အမည်ပေးရမည်။"
+
+#: session/katesessionmanager.cpp:483
+#, kde-format
+msgid "Specify a name for this session"
+msgstr "ဤဆက်ရှင်အတွက် အမည်သတ်မှတ်ပါ"
+
+#: session/katesessionmanager.cpp:485
+#, kde-format
+msgid "Specify a new name for session: %1"
+msgstr "ဆက်ရှင် - %1 အတွက် အမည်အသစ်သတ်မှတ်ပါ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbAppStartup)
+#: ui/sessionconfigwidget.ui:17
+#, kde-format
+msgid "Application Startup Behavior"
+msgstr "အပ္ပလီကေးရှင်းစတင်မှုဆိုင်ရာအမူအကျင့်"
+
+#. i18n: ectx: property (text), widget (QRadioButton, startNewSessionRadioButton)
+#: ui/sessionconfigwidget.ui:23
+#, kde-format
+msgid "&Start new session"
+msgstr "&Sဆက်ရှင်အသစ်စတင်မည်"
+
+#. i18n: ectx: property (text), widget (QRadioButton, loadLastUserSessionRadioButton)
+#: ui/sessionconfigwidget.ui:30
+#, kde-format
+msgid "&Load last used session"
+msgstr "&Lနောက်ဆုံးသုံးခဲ့သော ဆက်ရှင် တွန်းတင်မည်"
+
+#. i18n: ectx: property (text), widget (QRadioButton, manuallyChooseSessionRadioButton)
+#: ui/sessionconfigwidget.ui:37
+#, kde-format
+msgid "&Manually choose a session"
+msgstr "&Mကိုယ်တိုင်ဆက်ရှင်ရွေးချယ်မည်"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: ui/sessionconfigwidget.ui:47
+#, kde-format
+msgid "Application Shutdown Behavior"
+msgstr "အပ္ပလီကေးရှင်းပိတ်ချမှုဆိုင်ရာအမူအကျင့်"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: ui/sessionconfigwidget.ui:55
+#, kde-format
+msgid "Automatically save and restore:"
+msgstr "အလိုအလျောက် သိမ်းဆည်း၍ ပြန်လည်ထားသိုမည် -"
+
+#. i18n: ectx: property (text), widget (QCheckBox, stashNewUnsavedFiles)
+#: ui/sessionconfigwidget.ui:67
+#, kde-format
+msgid "Newly-created unsaved files"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, stashUnsavedFilesChanges)
+#: ui/sessionconfigwidget.ui:77
+#, kde-format
+msgid "Files with unsaved changes"
+msgstr "ပြောင်းလဲမှုများ မသိမ်းဆည်းရသေးသောဖိုင်လ်များ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, modCloseAfterLast)
+#: ui/sessionconfigwidget.ui:88
+#, kde-format
+msgid ""
+"If enabled, Kate will shutdown when the last file being edited is closed, "
+"otherwise a blank page will open so that you can start a new file."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, modCloseAfterLast)
+#: ui/sessionconfigwidget.ui:91
+#, kde-format
+msgid "Close Kate entirely when the last file is closed"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbElements)
+#: ui/sessionconfigwidget.ui:101
+#, kde-format
+msgid "Session Elements"
+msgstr "ဆက်ရှင် အစိတ်အပိုင်းများ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: ui/sessionconfigwidget.ui:107
+#, kde-format
+msgid ""
+"The session contains the list of open documents, recently opened files list, "
+"bookmarks, cursor position etc. When the session is loaded all elements are "
+"restored."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: ui/sessionconfigwidget.ui:119
+#, kde-format
+msgid "Maximum number of entries in recent file list:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, restoreVC)
+#: ui/sessionconfigwidget.ui:147
+#, kde-format
+msgid ""
+"Check this if you want all your views and frames restored each time you open "
+"Kate."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, restoreVC)
+#: ui/sessionconfigwidget.ui:150
+#, kde-format
+msgid "Include &window configuration"
+msgstr "&wဝင်းဒိုးပြင်ဆင်ချက်ပါဝင်သည်"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, saveMetaInfos)
+#: ui/sessionconfigwidget.ui:160
+#, kde-format
+msgid ""
+"Check this if you want document configuration like for example bookmarks to "
+"be saved past editor sessions. The configuration will be restored if the "
+"document has not changed when reopened."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, saveMetaInfos)
+#: ui/sessionconfigwidget.ui:163
+#, kde-format
+msgid "Keep &meta-information past sessions"
+msgstr "&mအဓိပ္ပါယ်ဖွင့်ဆိုမှု-အချက်အလက်များကို သိမ်းထားမည်"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: ui/sessionconfigwidget.ui:174
+#, kde-format
+msgid "Delete unused meta-information after:"
+msgstr "အသုံးမပြုသော အဓိပ္ပါယ်ဖွင့်ဆိုမှု-အချက်အလက်များကို ဖျက်မည် (အချိန်တစ်ခုကြာပြီးလျှင်) -"
