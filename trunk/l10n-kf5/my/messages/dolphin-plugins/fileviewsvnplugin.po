@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin-plugins\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-16 00:22+0000\n"
+"POT-Creation-Date: 2021-11-11 00:19+0000\n"
 "PO-Revision-Date: 2021-09-17 17:52+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -218,7 +218,7 @@ msgctxt "@info:status"
 msgid "Commit of SVN changes failed."
 msgstr "အက်စ်ဗွီအန်ပြောင်းလဲမှုများပေးပို့ခြင်း မအောင်မြင်ခဲ့ပါ။"
 
-#: fileviewsvnplugin.cpp:659 svncommitdialog.cpp:157
+#: fileviewsvnplugin.cpp:659 svncommitdialog.cpp:154
 #, kde-format
 msgctxt "@title:window"
 msgid "SVN Commit"
@@ -353,91 +353,91 @@ msgstr ""
 msgid "Include externals"
 msgstr ""
 
-#: svncommitdialog.cpp:75
-#, kde-format
-msgctxt "@title:column"
-msgid "Path"
-msgstr "လမ်းကြောင်း"
-
-#: svncommitdialog.cpp:76
-#, kde-format
-msgctxt "@title:column"
-msgid "Status"
-msgstr "အခြေအနေ"
-
-#: svncommitdialog.cpp:91
+#: svncommitdialog.cpp:88
 #, kde-format
 msgctxt "@label"
 msgid "Description:"
 msgstr "ဖော်ပြချက် -"
 
-#: svncommitdialog.cpp:106
+#: svncommitdialog.cpp:103
 #, kde-format
 msgctxt "@action:button"
 msgid "Refresh"
 msgstr "အသစ်တင်မည်"
 
-#: svncommitdialog.cpp:111
+#: svncommitdialog.cpp:108
 #, kde-format
 msgctxt "@action:button"
 msgid "Commit"
 msgstr "ပေးပို့မည်"
 
-#: svncommitdialog.cpp:117
+#: svncommitdialog.cpp:114
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Revert"
 msgstr "ပြန်ပြောင်းမည်"
 
-#: svncommitdialog.cpp:124
+#: svncommitdialog.cpp:121
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Show changes"
 msgstr "ပြောင်းလဲမှုများ ပြမည်"
 
-#: svncommitdialog.cpp:131
+#: svncommitdialog.cpp:128
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Add file"
 msgstr "ဖိုင်လ်ထည့်မည်"
 
-#: svncommitdialog.cpp:211
+#: svncommitdialog.cpp:156
+#, kde-format
+msgctxt "@title:column"
+msgid "Path"
+msgstr "လမ်းကြောင်း"
+
+#: svncommitdialog.cpp:157
+#, kde-format
+msgctxt "@title:column"
+msgid "Status"
+msgstr "အခြေအနေ"
+
+#: svncommitdialog.cpp:210
 #, kde-format
 msgctxt "@item:intable"
 msgid "Unversioned"
 msgstr ""
 
-#: svncommitdialog.cpp:214
+#: svncommitdialog.cpp:213
 #, kde-format
 msgctxt "@item:intable"
 msgid "Modified"
 msgstr "မွမ်းမံခဲ့သည်"
 
-#: svncommitdialog.cpp:217
+#: svncommitdialog.cpp:216
 #, kde-format
 msgctxt "@item:intable"
 msgid "Added"
 msgstr "ထည့်ခဲ့သည်"
 
-#: svncommitdialog.cpp:220
+#: svncommitdialog.cpp:219
 #, kde-format
 msgctxt "@item:intable"
 msgid "Deleted"
 msgstr "ဖျက်ခဲ့သည်"
 
-#: svncommitdialog.cpp:223
+#: svncommitdialog.cpp:222
 #, kde-format
 msgctxt "@item:intable"
 msgid "Conflict"
 msgstr "အငြင်းပွားဖွယ်"
 
-#: svncommitdialog.cpp:226
+#: svncommitdialog.cpp:225
 #, kde-format
 msgctxt "@item:intable"
 msgid "Missing"
 msgstr "ပျောက်နေသည်"
 
-#: svncommitdialog.cpp:229
+#: svncommitdialog.cpp:228
 #, kde-format
 msgctxt "@item:intable"
 msgid "Update required"

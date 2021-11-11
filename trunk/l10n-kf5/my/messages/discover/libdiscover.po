@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-10 00:19+0000\n"
+"POT-Creation-Date: 2021-11-11 00:18+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -481,7 +481,7 @@ msgstr "စစ်စတမ်သတ်မှတ်ချက်များ"
 msgid "Local bundle"
 msgstr "စက်တွင်းအထုပ်"
 
-#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1375
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1367
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:582
 #, kde-format
 msgid "Malformed appstream url '%1'"
@@ -599,27 +599,27 @@ msgstr "အီးယူအယ်အေ ကိုသုံးသပ်မည်"
 msgid "Backend %1 took too long to initialize"
 msgstr "အုတ်မြစ်ပရိုဂရမ် %1 သည် စတင်ရန် အချိန်အရမ်းကြာနေသည်။"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:166
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:168
 #, kde-format
 msgid "Applications"
 msgstr "အပ္ပလီကေးရှင်းများ"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:211
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:213
 #, kde-format
 msgid "Plasma Addons"
 msgstr "ပလက်စမာ အက်အွန်များ"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:211
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:213
 #, kde-format
 msgid "Application Addons"
 msgstr "အပ္ပလီကေးရှင်း အက်အွန်များ"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:412
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:414
 #, kde-format
 msgid "Network error in backend %1: %2"
 msgstr "%1 အုတ်မြစ်ပရိုဂရမ်တွင် ဆ.သ.ရ-ကွန်ရက်ဆိုင်ရာအမှား %2 ဖြစ်ပေါ်ခဲ့သည်"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:419
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:421
 #, kde-format
 msgid ""
 "Too many requests sent to the server for backend %1. Please try again in a "
@@ -628,14 +628,14 @@ msgstr ""
 "အုတ်မြစ်ပရိုဂရမ် %1 အတွက် ဆာဗာသို့ တောင်းခံမှု အများအပြားပို့ခဲ့ပြီးဖြစ်သည်။ ကျေးဇူးပြု၍ "
 "ခေတ္တခဏစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားပါ။"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:422
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:428
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:433
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:424
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:430
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:435
 #, kde-format
 msgid "Invalid %1 backend, contact your distributor."
 msgstr "မမှန်ကန်သော %1 အုတ်မြစ်ပရိုဂရမ်ဖြစ်သည်။ ဖြန့်ဝေသူထံ ဆက်သွယ်ပါ။"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:452
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:454
 #, kde-format
 msgid ""
 "Unable to complete the update of %1. You can try and perform this action "
@@ -644,22 +644,22 @@ msgid ""
 "%2"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:462
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:464
 #, kde-format
 msgid "Could not fetch screenshot for the entry %1 in backend %2"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:466
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:468
 #, kde-format
 msgid "Unhandled error in %1 backend. Contact your distributor."
 msgstr "%1 အုတ်မြစ်ပရိုဂရမ်တွင် မကိုင်တွယ်ခဲ့သော အမှားဖြစ်ပေါ်ခဲ့သည်။ ဖြန့်ဝေသူထံ ဆက်သွယ်ပါ။"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:474
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:476
 #, kde-format
 msgid "%1: %2"
 msgstr "%1: %2"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:691
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:693
 #, kde-format
 msgid "Wrong KNewStuff URI: %1"
 msgstr "မှားနေသော ကေနယူးစတပ်ဖ် ယူအာအိုင်- %1"
