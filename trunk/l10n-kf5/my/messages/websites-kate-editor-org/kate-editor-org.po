@@ -67,7 +67,7 @@ msgstr "အဖွဲ့"
 msgid "Merge Requests"
 msgstr "စုပေါင်းရန်တောင်းဆိုမှုများ"
 
-#: config.yaml:0 content/about-kate.en.md:34
+#: config.yaml:0 content/about-kate.en.md:40
 msgid "Syntax Highlighting"
 msgstr "အထားအသို အရောင်တင်ပြနိုင်မှု"
 
@@ -87,11 +87,11 @@ msgstr "တည်းဖြတ်မှုစွမ်းဆောင်ရည်
 msgid "Christoph Cullmann"
 msgstr "ခရစ်စ်တိုကူမန်း"
 
-#: content/about-kate.en.md:5
+#: content/about-kate.en.md:11
 msgid "Application Features"
 msgstr "အပ္ပလီကေးရှင်းစွမ်းဆောင်ရည်များ"
 
-#: content/about-kate.en.md:7
+#: content/about-kate.en.md:13
 msgid ""
 "![Screenshot showing Kate window splitting feature and terminal plugin](/"
 "images/kate-window.png)"
@@ -99,13 +99,13 @@ msgstr ""
 "![Screenshot showing Kate window splitting feature and terminal plugin](/"
 "images/kate-window.png)"
 
-#: content/about-kate.en.md:9
+#: content/about-kate.en.md:15
 msgid ""
 "View and edit multiple documents at the same time, by splitting horizontally "
 "and vertically the window"
 msgstr "အထက်၊အောက် သို့မဟုတ် ဘယ်၊ညာ ဝင်းဒိုးခွဲပြီး မှတ်တမ်းပုံနှိပ်မူများကို တစ်ချိန်တည်း တည်းဖြတ်၍ ကြည့်ပါ"
 
-#: content/about-kate.en.md:10
+#: content/about-kate.en.md:16
 msgid ""
 "Lot of plugins: [Embedded terminal](https://konsole.kde.org), SQL plugin, "
 "build plugin, GDB plugin, Replace in Files, and more"
@@ -113,19 +113,19 @@ msgstr ""
 "ပလပ်ဂင်အများကြီး - [Embedded terminal](https://konsole.kde.org)၊ အက်စ်ကျူအယ်ပလပ်ဂင်၊ "
 "တည်ဆောက်မှုပလပ်ဂင်၊ ဂျီဒီဘီပလပ်ဂင်၊ ဖိုင်လ်များတွင် အစားထိုးမှု နှင့် နောက်ထပ်ပလပ်ဂင်များ"
 
-#: content/about-kate.en.md:11
+#: content/about-kate.en.md:17
 msgid "Multi-document interface (MDI)"
 msgstr "မှတ်တမ်းပုံနှိပ်မူအစုံ အင်တာဖေ့စ် (အမ်ဒီအိုင်)"
 
-#: content/about-kate.en.md:12
+#: content/about-kate.en.md:18
 msgid "Session support"
 msgstr "ဆက်ရှင် ထောက်ပံ့မှု"
 
-#: content/about-kate.en.md:14
+#: content/about-kate.en.md:20
 msgid "General Features"
 msgstr "အထွေထွေစွမ်းဆောင်ရည်များ"
 
-#: content/about-kate.en.md:16
+#: content/about-kate.en.md:22
 msgid ""
 "![Screenshot showing Kate search and replace feature](/images/kate-search-"
 "replace.png)"
@@ -133,31 +133,31 @@ msgstr ""
 "![Screenshot showing Kate search and replace feature](/images/kate-search-"
 "replace.png)"
 
-#: content/about-kate.en.md:18
+#: content/about-kate.en.md:24
 msgid "Encoding support (Unicode and lots of others)"
 msgstr "ကုတ်ဝှက်စနစ်ထောက်ပံ့မှု (ကူနီကုတ်နှင့် အခြားစနစ်များ)"
 
-#: content/about-kate.en.md:19
+#: content/about-kate.en.md:25
 msgid "Bi-directional text rendering support"
 msgstr "လားရာနှစ်ခု စာသား ရေးဆွဲဖော်ပြခြင်းထောက်ပံ့မှု"
 
-#: content/about-kate.en.md:20
+#: content/about-kate.en.md:26
 msgid "Line ending support (Windows, Unix, Mac), including auto detection"
 msgstr "အလိုအလျောက်သိရှိမှုအပါအဝင် စာကြောင်းအဆုံးသတ်သင်္ကေတထောက်ပံ့မှု (ဝင်းဒိုးစ်၊ ယူနစ်စ်၊ မက်စ်)"
 
-#: content/about-kate.en.md:21
+#: content/about-kate.en.md:27
 msgid "Network transparency (open remote files)"
 msgstr "ဆ.သ.ရ-ကွန်ရက် ထင်သာမြင်သာရှိမှု (အဝေးဖိုင်လ်များဖွင့်)"
 
-#: content/about-kate.en.md:22
+#: content/about-kate.en.md:28
 msgid "Extensible through scripting"
 msgstr "ညွှန်ကြားကုတ်ရေး၍ တိုးချဲ့နိုင်သည်"
 
-#: content/about-kate.en.md:24
+#: content/about-kate.en.md:30
 msgid "Advanced Editor Features"
 msgstr "အဆင့်မြင့်စာသားတည်းဖြတ်ကိရိယာ စွမ်းဆောင်ရည်များ"
 
-#: content/about-kate.en.md:26
+#: content/about-kate.en.md:32
 msgid ""
 "![Screenshot of Kate border with line number and bookmark](/images/kate-"
 "border.png)"
@@ -165,123 +165,123 @@ msgstr ""
 "![Screenshot of Kate border with line number and bookmark](/images/kate-"
 "border.png)"
 
-#: content/about-kate.en.md:28
+#: content/about-kate.en.md:34
 msgid "Bookmarking system (also supported: break points etc.)"
 msgstr "စာမျက်နှာအမှတ်အသားစနစ် ( စာခွဲအမှတ်များ စသည်တို့ကိုလည်းထောက်ပံ့ပါသည်)"
 
-#: content/about-kate.en.md:29
+#: content/about-kate.en.md:35
 msgid "Scroll bar marks"
 msgstr "လှိမ့်တင်တန်း အမှတ်များ"
 
-#: content/about-kate.en.md:30
+#: content/about-kate.en.md:36
 msgid "Line modification indicators"
 msgstr "စာကြောင်းမွမ်းမံမှုညွှန်ပြချက်များ"
 
-#: content/about-kate.en.md:31
+#: content/about-kate.en.md:37
 msgid "Line numbers"
 msgstr "စာကြောင်းနံပါတ်များ"
 
-#: content/about-kate.en.md:32
+#: content/about-kate.en.md:38
 msgid "Code folding"
 msgstr "ကုတ် ခေါက်ခြင်း"
 
-#: content/about-kate.en.md:36
+#: content/about-kate.en.md:42
 msgid ""
 "![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
 msgstr ""
 "![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
 
-#: content/about-kate.en.md:38
+#: content/about-kate.en.md:44
 msgid "Highlighting support for over 300 languages"
 msgstr "ဘာသာစကား ၃၀၀ ကျော်အတွက် အလင်းတင်ပြခြင်းထောက်ပံ့မှု"
 
-#: content/about-kate.en.md:39
+#: content/about-kate.en.md:45
 msgid "Bracket matching"
 msgstr "ကွင်းစကွင်းပိတ်"
 
-#: content/about-kate.en.md:40
+#: content/about-kate.en.md:46
 msgid "Smart on-the-fly spell checking"
 msgstr "အလိုက်တသိ စာရေးစဥ်တန်း၍စာလုံးပေါင်းစစ်ဆေးခြင်း"
 
-#: content/about-kate.en.md:41
+#: content/about-kate.en.md:47
 msgid "Highlighting of selected words"
 msgstr "ရွေးချယ်ထားသောစာလုံးများကို အရောင်တင်ပြမည်"
 
-#: content/about-kate.en.md:43
+#: content/about-kate.en.md:49
 msgid "Programming Features"
 msgstr "ပရိုဂရမ်မင်းဆိုင်ရာစွမ်းဆောင်ရည်များ"
 
-#: content/about-kate.en.md:45
+#: content/about-kate.en.md:51
 msgid ""
 "![Screenshot of Kate programming features](/images/kate-programming.png)"
 msgstr ""
 "![Screenshot of Kate programming features](/images/kate-programming.png)"
 
-#: content/about-kate.en.md:47
+#: content/about-kate.en.md:53
 msgid "Scriptable auto indentation"
 msgstr "ညွှန်ကြားကုတ်ရေး၍ရသော အလိုအလျောက်အင်တင်းခြင်း"
 
-#: content/about-kate.en.md:48
+#: content/about-kate.en.md:54
 msgid "Smart comment and uncomment handling"
 msgstr "အလိုက်တသိ မှတ်ချက်ရေးခြင်း၊ဖျက်ခြင်း ကိုင်တွယ်မှု"
 
-#: content/about-kate.en.md:49
+#: content/about-kate.en.md:55
 msgid "Auto completion with argument hints"
 msgstr "ပေးချက်သဲလွန်စများနှင့် စာလုံး အလိုအလျောက်ပြီးမြောက်မှု"
 
-#: content/about-kate.en.md:50
+#: content/about-kate.en.md:56
 msgid "Vi input mode"
 msgstr "ဗွီအိုင်ပေးချက်ထုံးနည်း"
 
-#: content/about-kate.en.md:51
+#: content/about-kate.en.md:57
 msgid "Rectangular block selection mode"
 msgstr "ထောင့်မှန်စတုဂံအကွက်ရွေးချယ်ထုံးနည်း"
 
-#: content/about-kate.en.md:53
+#: content/about-kate.en.md:59
 msgid "Search & Replace"
 msgstr "ရှာဖွေ၊အစားထိုး"
 
-#: content/about-kate.en.md:55
+#: content/about-kate.en.md:61
 msgid ""
 "![Screenshot of Kate incremental search feature](/images/kate-search.png)"
 msgstr ""
 "![Screenshot of Kate incremental search feature](/images/kate-search.png)"
 
-#: content/about-kate.en.md:57
+#: content/about-kate.en.md:63
 msgid "Incremental search, also known as &#8220;find as you type&#8221;"
 msgstr "&#8220; အဖြစ်အသိများသော တစ်ခုချင်းတိုးတိုးရှာဖွေမှုသည် သင်ရေးသည်&#8221; နှင့် ရှာသည်"
 
-#: content/about-kate.en.md:58
+#: content/about-kate.en.md:64
 msgid "Support for multiline search & replace"
 msgstr "စာကြောင်းအစုံ ရှာဖွေ၊အစားထိုးမှု ပြုနိုင်သည်"
 
-#: content/about-kate.en.md:59
+#: content/about-kate.en.md:65
 msgid "Regular expression support"
 msgstr "ပုံမှန်အသုံးအနှုန်းများ ထောက်ပံ့မှု"
 
-#: content/about-kate.en.md:60
+#: content/about-kate.en.md:66
 msgid "Search & replace in multiple opened files or files on disk"
 msgstr "ဖွင့်ထားသော ဖိုင်လ် သို့ ဒစ်စ်ပေါ်က ဖိုင်လ် အများအပြားတွင် ရှာဖွေ၊ အစားထိုးမည်"
 
-#: content/about-kate.en.md:62
+#: content/about-kate.en.md:68
 msgid "Backup and Restore"
 msgstr "ဘက်ခ်အပ် နှင့် ရီစတိုး"
 
-#: content/about-kate.en.md:64
+#: content/about-kate.en.md:70
 msgid ""
 "![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
 msgstr ""
 "![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
 
-#: content/about-kate.en.md:66
+#: content/about-kate.en.md:72
 msgid "Backups on save"
 msgstr "သိမ်းဆည်းသည်နှင့် ဘက်ခ်အပ်လုပ်မည်"
 
-#: content/about-kate.en.md:67
+#: content/about-kate.en.md:73
 msgid "Swap files to recover data on system crash"
 msgstr "စစ်စတမ်ပျက်ရာတွင် ဒေတာပြန်ရရန် ဖိုင်လ်များ လဲမည်"
 
-#: content/about-kate.en.md:68
+#: content/about-kate.en.md:74
 msgid "Undo / redo system"
 msgstr "ပြန်ဆုတ် / ပြန်လုပ် စနစ်"
 
@@ -309,11 +309,11 @@ msgstr "ကေရိုက်တပ်ဆင်မည်"
 msgid "Install KWrite via Discover or other AppStream application stores"
 msgstr "ဒစ်(စ)ကာဗာ သို့မဟုတ် အခြားအပ်စထရင်း အပ္ပလီကေးရှင်းစတိုးများသုံး၍ ကေရိုက်တပ်ဆင်မည်"
 
-#: content/get-it.en.md:7
+#: content/get-it.en.md:24
 msgid "Linux & Unices"
 msgstr "လင်းနက်စ် နှင့် ယူနစ်စ်များ"
 
-#: content/get-it.en.md:9
+#: content/get-it.en.md:26
 msgid ""
 "Install [Kate](https://apps.kde.org/en/kate) or [KWrite](https://apps.kde."
 "org/en/kwrite) from [your distribution](https://kde.org/distributions/)"
@@ -321,7 +321,7 @@ msgstr ""
 "[သင်၏ဒစ်စထရီဗျူးရှင်း](https://kde.org/distributions/) မှ [ကိတ်](https://apps.kde.org/"
 "en/kate) သို့မဟုတ် [ကေရိုက်](https://apps.kde.org/en/kwrite) တပ်ဆင်မည်"
 
-#: content/get-it.en.md:13
+#: content/get-it.en.md:30
 msgid ""
 "These buttons only works with [Discover](https://apps.kde.org/en/discover) "
 "and other AppStream application stores, such as [GNOME Software](https://"
@@ -334,15 +334,15 @@ msgstr ""
 "အလုပ်လုပ်သည်။ [မျူအန်](https://apps.kde.org/en/muon) သို့မဟုတ် [ဆင်နက်တစ်](https://wiki."
 "debian.org/Synaptic) ကဲ့သို့ သင့်ဒစ်စထရီဗျူးရှင်း၏ပတ်ကေ့ချ်မန်နေဂျာကိုလည်း သုံးနိုင်ပါသည်။"
 
-#: content/get-it.en.md:17
+#: content/get-it.en.md:34
 msgid "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
 msgstr "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
 
-#: content/get-it.en.md:19
+#: content/get-it.en.md:36
 msgid "Get Kate on the Snap store"
 msgstr "စနပ်စတိုးမှ ကိတ်ကို ရယူပါ"
 
-#: content/get-it.en.md:21
+#: content/get-it.en.md:38
 msgid ""
 "[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/"
 "Kate_Release_appimage/) *"
@@ -350,7 +350,7 @@ msgstr ""
 "[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/"
 "Kate_Release_appimage/) *"
 
-#: content/get-it.en.md:22
+#: content/get-it.en.md:39
 msgid ""
 "[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/"
 "Kate_Nightly_appimage/) **"
@@ -358,29 +358,29 @@ msgstr ""
 "[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/"
 "Kate_Nightly_appimage/) **"
 
-#: content/get-it.en.md:23
+#: content/get-it.en.md:40
 msgid "[Build it](/build-it/#linux) from source."
 msgstr "[Build it](/build-it/#linux) မူရင်းမှ။"
 
-#: content/get-it.en.md:29
+#: content/get-it.en.md:46
 msgid "Windows"
 msgstr "ဝင်းဒိုးများ"
 
-#: content/get-it.en.md:31
+#: content/get-it.en.md:48
 msgid ""
 "[Kate in the Microsoft Store](https://www.microsoft.com/store/"
 "apps/9NWMW7BB59HW)"
 msgstr "[မိုက်ခရိုဆော့ဖ်စတိုးရှိ ကိတ်](https://www.microsoft.com/store/apps/9NWMW7BB59HW)"
 
-#: content/get-it.en.md:33
+#: content/get-it.en.md:50
 msgid "Get Kate from the Microsoft store"
 msgstr "မိုက်ခရိုဆော့ဖ်စတိုးမှ ကိတ်ကို ရယူပါ"
 
-#: content/get-it.en.md:35
+#: content/get-it.en.md:52
 msgid "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 msgstr "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 
-#: content/get-it.en.md:36
+#: content/get-it.en.md:53
 msgid ""
 "[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
 "%2064-bit/job/Kate_Release_win64/) *"
@@ -388,7 +388,7 @@ msgstr ""
 "[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
 "%2064-bit/job/Kate_Release_win64/) *"
 
-#: content/get-it.en.md:37
+#: content/get-it.en.md:54
 msgid ""
 "[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/Windows"
 "%2064-bit/job/Kate_Nightly_win64/) **"
@@ -396,15 +396,15 @@ msgstr ""
 "[ကိတ်ညစဥ် (၆၄ဘစ်) တပ်ဆင်ဖိုင်လ်](https://binary-factory.kde.org/view/Windows%2064-bit/"
 "job/Kate_Nightly_win64/) **"
 
-#: content/get-it.en.md:38
+#: content/get-it.en.md:55
 msgid "[Build it](/build-it/#windows) from source."
 msgstr "[Build it](/build-it/#windows) မူရင်းမှ။"
 
-#: content/get-it.en.md:44
+#: content/get-it.en.md:61
 msgid "macOS"
 msgstr "မက်စ်အိုအက်စ်"
 
-#: content/get-it.en.md:46
+#: content/get-it.en.md:63
 msgid ""
 "[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Release_macos/) *"
@@ -412,7 +412,7 @@ msgstr ""
 "[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Release_macos/) *"
 
-#: content/get-it.en.md:47
+#: content/get-it.en.md:64
 msgid ""
 "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Nightly_macos/) **"
@@ -420,11 +420,11 @@ msgstr ""
 "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Nightly_macos/) **"
 
-#: content/get-it.en.md:48
+#: content/get-it.en.md:65
 msgid "[Build it](/build-it/#mac) from source."
 msgstr "[Build it](/build-it/#mac) မူရင်းမှ။"
 
-#: content/get-it.en.md:56
+#: content/get-it.en.md:72
 msgid ""
 "**About the releases:** <br> [Kate](https://apps.kde.org/en/kate) and "
 "[KWrite](https://apps.kde.org/en/kwrite) are part of [KDE Applications]"
@@ -446,13 +446,13 @@ msgstr ""
 "kde-frameworks-5.0/) မှထုတ်ပေးသည်။ ထုတ်ဝေမှုအသစ်များကို [ဤနေရာ](https://kde.org/"
 "announcements/) တွင် ကြေညာသည်။"
 
-#: content/get-it.en.md:58
+#: content/get-it.en.md:75
 msgid ""
 "\\* The **release** packages contain the latest version of Kate and KDE "
 "Frameworks."
 msgstr "\\* ကေဒီအီးမူဘောင်များနှင့် ကိတ်၏နောက်ဆုံးပေါ်ဗာရှင်းတို့သည် **ထုတ်ဝေမှု** ပတ်ကေ့ချ်တွင် ပါဝင်သည်။"
 
-#: content/get-it.en.md:60
+#: content/get-it.en.md:77
 msgid ""
 "\\*\\* The **nightly** packages are automatically compiled daily from source "
 "code, therefore they may be unstable and contain bugs or incomplete "
@@ -466,7 +466,7 @@ msgstr ""
 msgid "Kate's Mascot"
 msgstr "ကိတ်၏လာဘ်ကောင်"
 
-#: content/mascot.md:5
+#: content/mascot.md:12
 msgid ""
 "Kate's mascot, Kate the Cyber Woodpecker, was designed by [Tyson Tan]"
 "(https://www.tysontan.com/)."
@@ -474,7 +474,7 @@ msgstr ""
 "ကိတ်၏လာဘ်ကောင်၊ ဆိုက်ဘာသစ်တောက်ငှက်လေးကိတ်ကို [တိုင်ဆွန်တန်](https://www.tysontan.com/) မှ "
 "ဒီဇိုင်းဆွဲခဲ့သည်။"
 
-#: content/mascot.md:7
+#: content/mascot.md:14
 msgid ""
 "The current evolution of our mascot was first unveiled [in April 2021](/"
 "post/2021/2021-04-28-lets-welcome-kate-the-cyber-woodpecker/)."
@@ -482,11 +482,11 @@ msgstr ""
 "ကျွန်ုပ်တို့လာဘ်ကောင်၏ လက်ရှိပြောင်းလဲမှုကို [ဧပြီ ၂၀၂၁](/post/2021/2021-04-28-lets-welcome-"
 "kate-the-cyber-woodpecker/)တွင် ပထမဆုံးအဖြစ် ဖွင့်ဟခဲ့သည်။"
 
-#: content/mascot.md:9
+#: content/mascot.md:16
 msgid "Kate the Cyber Woodpecker"
 msgstr "ဆိုက်ဘာသစ်တောက်ငှက်လေးကိတ်"
 
-#: content/mascot.md:11
+#: content/mascot.md:18
 msgid ""
 "![Kate the Cyber Woodpecker](/images/mascot/"
 "electrichearts_20210103_kate_normal.png)"
@@ -494,11 +494,11 @@ msgstr ""
 "![Kate the Cyber Woodpecker](/images/mascot/"
 "electrichearts_20210103_kate_normal.png)"
 
-#: content/mascot.md:13
+#: content/mascot.md:20
 msgid "Version without footer text"
 msgstr "စာမျက်နှာအောက်ခြေစာသားမပါသော ဗားရှင်း"
 
-#: content/mascot.md:15
+#: content/mascot.md:22
 msgid ""
 "![Kate the Cyber Woodpecker - Without Text](/images/mascot/"
 "electrichearts_20210103_kate_notext.png)"
@@ -506,11 +506,11 @@ msgstr ""
 "![Kate the Cyber Woodpecker - Without Text](/images/mascot/"
 "electrichearts_20210103_kate_notext.png)"
 
-#: content/mascot.md:17
+#: content/mascot.md:24
 msgid "Version without background"
 msgstr "နောက်ခံပုံမပါသော ဗားရှင်း"
 
-#: content/mascot.md:19
+#: content/mascot.md:26
 msgid ""
 "![Kate the Cyber Woodpecker - Without Background](/images/mascot/"
 "electrichearts_20210103_kate_transparent.png)"
@@ -518,15 +518,15 @@ msgstr ""
 "![Kate the Cyber Woodpecker - Without Background](/images/mascot/"
 "electrichearts_20210103_kate_transparent.png)"
 
-#: content/mascot.md:21
+#: content/mascot.md:28
 msgid "Licensing"
 msgstr "လိုင်စင်"
 
-#: content/mascot.md:23
+#: content/mascot.md:30
 msgid "For the licensing, to quote Tyson:"
 msgstr "လိုင်စင်အတွက်၊ တိုင်ဆွန်ကို အကိုးအကားပြုရလျှင် -"
 
-#: content/mascot.md:27
+#: content/mascot.md:32
 msgid ""
 "I hereby donate the new Kate the Cyber Woodpecker to Kate Editor project. "
 "The artworks are dual licensed under LGPL (or whatever the same as Kate "
@@ -538,11 +538,11 @@ msgstr ""
 "လိုင်စင်နှစ်ခုခံထားသည်။ ထိုသို့လုပ်ခြင်းအားဖြင့် သင်လည်း လာဘ်ကောင်ကို သုံးချင်သည့်အခါ၊ မွမ်းမံချင်သည့်အခါ ကျွန်ုပ်ထံ "
 "ခွင့်ပြုချက်တောင်းစရာမလိုတော့ပါ။"
 
-#: content/mascot.md:29
+#: content/mascot.md:36
 msgid "Kate the Cyber Woodpecker's design history"
 msgstr "ဆိုက်ဘာသစ်တောက်ငှက်လေးကိတ်၏ဒီဇိုင်းရေးဆွဲမှုမှတ်တမ်း"
 
-#: content/mascot.md:33
+#: content/mascot.md:38
 msgid ""
 "I asked Tyson if I can share the intermediate versions we exchanged to show "
 "the evolution and he agreed and even wrote some short summaries about the "
@@ -555,11 +555,11 @@ msgstr ""
 "သင့်တော်သော ကနဦးလာဘ်ကောင်နှင့် အိုင်ကွန် ပါဝင်သည်။ ထို့ကြောင့် အောက်တွင် ကျွန်ုပ် သူရေးပေးလိုက်သည်များကိုသာ "
 "ပြန်ကိုးကားလိုက်သည်။"
 
-#: content/mascot.md:35
+#: content/mascot.md:42
 msgid "2014 - Kate the Woodpecker"
 msgstr "၂၀၁၄ - သစ်တောက်ငှက်လေး ကိတ်"
 
-#: content/mascot.md:37
+#: content/mascot.md:44
 msgid ""
 "![2014 version - Kate the Woodpecker](/images/mascot/history/"
 "Kate_editor_mascot_woodpecker.png)"
@@ -567,7 +567,7 @@ msgstr ""
 "![2014 version - Kate the Woodpecker](/images/mascot/history/"
 "Kate_editor_mascot_woodpecker.png)"
 
-#: content/mascot.md:44
+#: content/mascot.md:46
 msgid ""
 "The 2014 version was done perhaps during my lowest point as an artist. I had "
 "not been drawing much in years, and was on the verge of giving up "
@@ -589,15 +589,15 @@ msgstr ""
 "နှစ်ပေါင်းမြောက်များစွာ သူတို့၏ဝက်ဘ်ဆိုက်တွင် ဤဗားရှင်းကို ထားထားပေးသော ကိတ်အသင်းကို "
 "ကျွန်ုပ်အလွန်ကေျးဇူးတင်ပါသည်။"
 
-#: content/mascot.md:46
+#: content/mascot.md:53
 msgid "2020 - The new Kate icon"
 msgstr "၂၀၂၀ - ကိတ်အိုင်ကွန်အသစ်"
 
-#: content/mascot.md:48
+#: content/mascot.md:55
 msgid "![2020 - The new Kate icon](/images/mascot/history/kate-3000px.png)"
 msgstr "![2020 - The new Kate icon](/images/mascot/history/kate-3000px.png)"
 
-#: content/mascot.md:55
+#: content/mascot.md:57
 msgid ""
 "The new Kate icon was the only time I attempted real vector art. It was at "
 "that time I began to develop some faint artistic sense. I had no previous "
@@ -614,11 +614,11 @@ msgstr ""
 "မြင်ကွင်းထဲ ထင်းနေရမည်။ ခရစ်တို မညွှန်ပြခင်တုန်းက ငှက်သည် ဝနေခဲ့သည်။ နောက်ကျ ယင်းကို ပိုမိုပိန်ပါးသော ပုံစံ "
 "ပြောင်းခဲ့သည်။"
 
-#: content/mascot.md:57
+#: content/mascot.md:64
 msgid "2021 - Mascot sketch"
 msgstr "၂၀၂၁ - လာဘ်ကောင်ပုံကြမ်း"
 
-#: content/mascot.md:59
+#: content/mascot.md:66
 msgid ""
 "![2021 version - Sketch of the new mascot](/images/mascot/history/"
 "electrichearts_20210103_kate_sketch.png)"
@@ -626,18 +626,18 @@ msgstr ""
 "![2021 version - Sketch of the new mascot](/images/mascot/history/"
 "electrichearts_20210103_kate_sketch.png)"
 
-#: content/mascot.md:61
+#: content/mascot.md:68
 msgid ""
 "In this initial sketch, I was tempted to ditch the robotic concept and just "
 "draw a cute good looking bird instead."
 msgstr ""
 "ကနဦးပုံကြမ်းတွင် စက်ရုပ်ဆန်ဆန်သဘောတရားကို စွန့်ပစ်၍ ချစ်စရာကောင်းသော ငှက်လေးဆွဲရန် အာရုံရခဲ့သေးသည်။"
 
-#: content/mascot.md:63
+#: content/mascot.md:70
 msgid "2021 - Mascot design"
 msgstr "၂၀၂၁ - လာဘ်ကောင်ဒီဇိုင်း"
 
-#: content/mascot.md:65
+#: content/mascot.md:72
 msgid ""
 "![2021 version - Redesign of the new mascot](/images/mascot/history/"
 "electrichearts_20210103_kate_design.png)"
@@ -645,7 +645,7 @@ msgstr ""
 "![2021 version - Redesign of the new mascot](/images/mascot/history/"
 "electrichearts_20210103_kate_design.png)"
 
-#: content/mascot.md:69
+#: content/mascot.md:74
 msgid ""
 "Kate's mascot re-design resumed after I finished drawing the new splash "
 "picture for the upcoming Krita 5.0. I was able to push myself to do more "
@@ -658,11 +658,11 @@ msgstr ""
 "စက်ရုပ်သဘောတရားဖြင့် ဆက်ဆွဲရန် ဆုံးဖြတ်ခဲ့သည်။ အချိုးအစားမညီသော်လည်း စက်ဒီဇိုင်းအစိတ်အပိုင်းများကို "
 "ဤတစ်ခုမှာတော့ အဆင်ပြေပြေပေါင်းစည်းဖန်တီးနိုင်ခဲ့သည်။"
 
-#: content/mascot.md:71
+#: content/mascot.md:78
 msgid "2021 - Final Mascot"
 msgstr "၂၀၂၁ - နောက်ဆုံးလာဘ်ကောင်"
 
-#: content/mascot.md:73
+#: content/mascot.md:80
 msgid ""
 "![2021 version - Final Kate the Cyber Woodpecker](/images/mascot/"
 "electrichearts_20210103_kate_normal.png)"
@@ -670,7 +670,7 @@ msgstr ""
 "![2021 version - Final Kate the Cyber Woodpecker](/images/mascot/"
 "electrichearts_20210103_kate_normal.png)"
 
-#: content/mascot.md:79
+#: content/mascot.md:82
 msgid ""
 "The proportion was adjusted after Christoph pointed it out. The pose was "
 "adjusted to feel more comfortable. The wings were re-drawn after studying on "
