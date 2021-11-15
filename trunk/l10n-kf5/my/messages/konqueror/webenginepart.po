@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-02 00:17+0000\n"
+"POT-Creation-Date: 2021-11-15 00:28+0000\n"
 "PO-Revision-Date: 2021-09-15 20:37+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -690,12 +690,12 @@ msgstr ""
 msgid "&Immediately memorize form data"
 msgstr ""
 
-#: src/webenginepage.cpp:131
+#: src/webenginepage.cpp:132
 #, kde-format
 msgid "The download manager (%1) could not be found in your installation."
 msgstr ""
 
-#: src/webenginepage.cpp:132
+#: src/webenginepage.cpp:133
 #, kde-format
 msgid ""
 "Try to reinstall it and make sure that it is available in $PATH. \n"
@@ -703,7 +703,12 @@ msgid ""
 "The integration will be disabled."
 msgstr ""
 
-#: src/webenginepage.cpp:258
+#: src/webenginepage.cpp:174
+#, fuzzy, kde-format
+msgid "Save As"
+msgstr "_S ပုံရိပ် သိမ်းရန်…"
+
+#: src/webenginepage.cpp:303
 #, kde-format
 msgid ""
 "<qt><p>To display the requested web page again, the browser needs to resend "
@@ -712,58 +717,58 @@ msgid ""
 "Otherwise, click the Continue button to display the webpage again.</p>"
 msgstr ""
 
-#: src/webenginepage.cpp:265
+#: src/webenginepage.cpp:310
 #, fuzzy, kde-format
 msgid "Resubmit Information"
 msgstr "သတင်းအချက်အလက်"
 
-#: src/webenginepage.cpp:533
+#: src/webenginepage.cpp:578
 #, kde-format
 msgid ""
 "This site is attempting to access information about your physical location.\n"
 "Do you want to allow it access?"
 msgstr ""
 
-#: src/webenginepage.cpp:537 src/webenginepage.cpp:654
-#: src/webenginepage.cpp:665
+#: src/webenginepage.cpp:582 src/webenginepage.cpp:699
+#: src/webenginepage.cpp:710
 #, fuzzy, kde-format
 msgid "Network Transmission"
 msgstr "ဆ.သ.ရ-ကွန်ရက်"
 
-#: src/webenginepage.cpp:538
+#: src/webenginepage.cpp:583
 #, fuzzy, kde-format
 msgid "Allow access"
 msgstr "အသုံးပြုခွင့်မရှိ"
 
-#: src/webenginepage.cpp:613
+#: src/webenginepage.cpp:658
 #, kde-format
 msgid ""
 "<qt>This untrusted page links to<br/><b>%1</b>.<br/>Do you want to follow "
 "the link?</qt>"
 msgstr ""
 
-#: src/webenginepage.cpp:615
+#: src/webenginepage.cpp:660
 #, fuzzy, kde-format
 msgid "Security Warning"
 msgstr "လုံခြုံရေး -"
 
-#: src/webenginepage.cpp:616
+#: src/webenginepage.cpp:661
 #, fuzzy, kde-format
 msgctxt "follow link despite of security warning"
 msgid "Follow"
 msgstr "အထိမ်းအမှတ်လင့်ခ်များနောက်လိုက်မည်"
 
-#: src/webenginepage.cpp:618
+#: src/webenginepage.cpp:663
 #, fuzzy, kde-format
 msgid "Security Alert"
 msgstr "လုံခြုံရေးသတိပေးချက် - ဤမှတ်တမ်းစာအုပ် \"%s\"ဖိုင်လ်ဖွင့်ရန်ကြိုးစားမှုကို ကာကွယ်တားဆီးခဲ့သည်"
 
-#: src/webenginepage.cpp:619
+#: src/webenginepage.cpp:664
 #, kde-format
 msgid "<qt>Access by untrusted page to<br/><b>%1</b><br/> denied.</qt>"
 msgstr ""
 
-#: src/webenginepage.cpp:647
+#: src/webenginepage.cpp:692
 #, kde-format
 msgid ""
 "Warning: This is a secure form but it is attempting to send your data back "
@@ -772,82 +777,82 @@ msgid ""
 "Are you sure you want to send the data unencrypted?"
 msgstr ""
 
-#: src/webenginepage.cpp:655
+#: src/webenginepage.cpp:700
 #, fuzzy, kde-format
 msgid "&Send Unencrypted"
 msgstr "ပို့ရန်..."
 
-#: src/webenginepage.cpp:662
+#: src/webenginepage.cpp:707
 #, kde-format
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
 msgstr ""
 
-#: src/webenginepage.cpp:666
+#: src/webenginepage.cpp:711
 #, fuzzy, kde-format
 msgid "&Send Email"
 msgstr "ပို့ရန်..."
 
-#: src/webenginepage.cpp:715
+#: src/webenginepage.cpp:760
 #, kde-format
 msgid ""
 "<qt>Do you want to allow this site to attach the following files to the "
 "email message?</qt>"
 msgstr ""
 
-#: src/webenginepage.cpp:717
+#: src/webenginepage.cpp:762
 #, fuzzy, kde-format
 msgid "Email Attachment Confirmation"
 msgstr "အတည်ပြုချက်"
 
-#: src/webenginepage.cpp:718
+#: src/webenginepage.cpp:763
 #, fuzzy, kde-format
 msgid "&Allow attachments"
 msgstr "တွဲထားချက်"
 
-#: src/webenginepage.cpp:719
+#: src/webenginepage.cpp:764
 #, fuzzy, kde-format
 msgid "&Ignore attachments"
 msgstr "တွဲထားချက်"
 
-#: src/webenginepage.cpp:733
+#: src/webenginepage.cpp:778
 #, kde-format
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: src/webenginepage.cpp:736
+#: src/webenginepage.cpp:781
 #, fuzzy, kde-format
 msgid "Attachment Removed"
 msgstr "_S တွဲထားချက်သိမ်း"
 
-#: src/webenginepage.cpp:866
+#: src/webenginepage.cpp:911
 #, kde-format
 msgid ""
 "This site is requesting to open a new popup window.\n"
 "Do you want to allow this?"
 msgstr ""
 
-#: src/webenginepage.cpp:868
+#: src/webenginepage.cpp:913
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open a popup window to<p>%1</p><br/>Do you "
 "want to allow this?</qt>"
 msgstr ""
 
-#: src/webenginepage.cpp:872
+#: src/webenginepage.cpp:917
 #, fuzzy, kde-format
 msgid "Javascript Popup Confirmation"
 msgstr "ဂျာဗားစခရစ်"
 
-#: src/webenginepage.cpp:873
+#: src/webenginepage.cpp:918
 #, kde-format
 msgid "Allow"
 msgstr "ခွင့်ပြုမည်"
 
-#: src/webenginepage.cpp:874
+#: src/webenginepage.cpp:919
 #, fuzzy, kde-format
 msgid "Do Not Allow"
 msgstr "ခွင့်ပြုမည်"
