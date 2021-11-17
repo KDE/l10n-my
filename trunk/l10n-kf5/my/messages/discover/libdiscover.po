@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-11 00:18+0000\n"
+"POT-Creation-Date: 2021-11-17 00:29+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1572,17 +1572,13 @@ msgstr ""
 "အောက်ပါပတ်ကေ့ချ်များကို အပ်ဒိတ် <ul><li>%2</li></ul> တင်ရန် ဖယ်ရှားမည်-<ul><li>%1</li></"
 "ul><br/>"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:508
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:507
 #, kde-kuit-format
 msgctxt "@info"
-msgid ""
-"%1:<nl/><nl/>%2<nl/><nl/>Please report this issue to the packagers of your "
-"distribution."
+msgid "%1:<nl/><nl/>%2"
 msgstr ""
-"%1:<nl/><nl/>%2<nl/><nl/>ကျေးဇူးပြု၍ ဤအမှားကို သင်၏ဒစ်စထရီဗျူးရှင်းမှ ပရိုဂရမ်ထုတ်ပိုးသူများထံ "
-"တင်ပြပါ။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:518
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:515
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:298
 #, kde-format
 msgid ""
@@ -1592,13 +1588,13 @@ msgstr ""
 "မီဒီယာပြောင်းလဲမှုအမျိုးအစား '%1' ကိုတောင်းဆိုထားသည်။\n"
 "%2"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:551
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:548
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:277
 #, kde-format
 msgid "Accept EULA"
 msgstr "အီးယူအယ်အေ လက်ခံမည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:552
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:549
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:278
 #, kde-format
 msgid ""
@@ -1608,13 +1604,13 @@ msgstr ""
 "ပတ်ကေ့ချ် %1 နှင့် ၎င်း၏ရောင်းချသူ %2 က သင်ကိုလိုင်စင်အားလက်ခံရန် လိုအပ်သည်။\n"
 "%3"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:669
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:666
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:315
 #, kde-format
 msgid "Missing signature for %1 in %2"
 msgstr "%2 တွင် %1 အတွက် လက်မှတ်ပျောက်နေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:670
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:667
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:316
 #, kde-format
 msgid ""
@@ -1837,6 +1833,14 @@ msgstr "စစ်စတမ် အပ်ဒိတ်များ"
 msgctxt "@item:inlistbox"
 msgid "Addons"
 msgstr "အက်အွန်များ"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "%1:<nl/><nl/>%2<nl/><nl/>Please report this issue to the packagers of "
+#~ "your distribution."
+#~ msgstr ""
+#~ "%1:<nl/><nl/>%2<nl/><nl/>ကျေးဇူးပြု၍ ဤအမှားကို သင်၏ဒစ်စထရီဗျူးရှင်းမှ ပရိုဂရမ်ထုတ်ပိုးသူများထံ "
+#~ "တင်ပြပါ။"
 
 #~ msgid "Version: "
 #~ msgstr "ဗားရှင်း - "
