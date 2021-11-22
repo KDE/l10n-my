@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-21 00:40+0000\n"
+"POT-Creation-Date: 2021-11-22 00:40+0000\n"
 "PO-Revision-Date: 2021-09-15 04:53+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -239,9 +239,12 @@ msgid "Integration with Git and other source control systems"
 msgstr ""
 
 #: addons/rainbow-parens/rainbowparens_plugin.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Color Picker"
 msgctxt "Description"
-msgid "Colored brackets for readibility"
-msgstr ""
+msgid "Colored brackets for readability"
+msgstr "အရောင်ရွေးကိရိယာ"
 
 #: addons/replicode/katereplicodeplugin.json
 msgctxt "Description"
