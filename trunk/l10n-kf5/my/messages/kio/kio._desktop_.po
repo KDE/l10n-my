@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-21 00:36+0000\n"
+"POT-Creation-Date: 2021-11-23 00:37+0000\n"
 "PO-Revision-Date: 2021-11-21 13:15+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -941,7 +941,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr "ကေဒီအီး အင်ဗန့်"
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:23
+#: src/urifilters/ikws/searchproviders/invent.desktop:24
 msgctxt "Query"
 msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgstr "https://invent.kde.org/search?search=\\\\{@}"
@@ -951,7 +951,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr "ကေဒီအီး အင်ဗန့် ရီပိုစစ်တိုရီများ"
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:23
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:24
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
