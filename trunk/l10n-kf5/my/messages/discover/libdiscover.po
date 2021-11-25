@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-24 00:29+0000\n"
+"POT-Creation-Date: 2021-11-25 00:29+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1765,9 +1765,8 @@ msgstr ""
 
 #: libdiscover/resources/ResourcesModel.cpp:100
 #, kde-format
-msgctxt "@action Checks the Internet for updates"
-msgid "Check for Updates"
-msgstr "အပ်ဒိတ်ရှိ၊မရှိ စစ်ဆေးမည်"
+msgid "Refresh"
+msgstr ""
 
 #: libdiscover/resources/ResourcesUpdatesModel.cpp:109
 #, kde-format
@@ -1835,22 +1834,36 @@ msgid "Cancelled"
 msgstr "ပယ်ဖျက်ခဲ့သည်"
 
 #: libdiscover/UpdateModel/UpdateModel.cpp:126
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Applications"
 msgctxt "@item:inlistbox"
-msgid "Application Updates"
-msgstr "အပ္ပလီကေးရှင်း အပ်ဒိတ်များ"
+msgid "Applications"
+msgstr "အပ္ပလီကေးရှင်းများ"
 
 #: libdiscover/UpdateModel/UpdateModel.cpp:127
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "System upgrade"
 msgctxt "@item:inlistbox"
-msgid "System Updates"
-msgstr "စစ်စတမ် အပ်ဒိတ်များ"
+msgid "System Software"
+msgstr "စစ်စတမ် အပ်ဂရိတ်"
 
 #: libdiscover/UpdateModel/UpdateModel.cpp:128
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Addons"
 msgstr "အက်အွန်များ"
+
+#~ msgctxt "@action Checks the Internet for updates"
+#~ msgid "Check for Updates"
+#~ msgstr "အပ်ဒိတ်ရှိ၊မရှိ စစ်ဆေးမည်"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Application Updates"
+#~ msgstr "အပ္ပလီကေးရှင်း အပ်ဒိတ်များ"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "System Updates"
+#~ msgstr "စစ်စတမ် အပ်ဒိတ်များ"
 
 #~ msgctxt "@info"
 #~ msgid ""
