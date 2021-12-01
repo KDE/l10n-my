@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-30 00:53+0000\n"
+"POT-Creation-Date: 2021-12-01 00:54+0000\n"
 "PO-Revision-Date: 2021-09-13 03:11+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -53,6 +53,11 @@ msgstr "ဆော့ဖ်ဝဲလ်အပ်ဒိတ်"
 msgctxt "Comment"
 msgid "Configure software update behavior"
 msgstr "ဆော့ဖ်ဝဲလ်အပ်ဒိတ်တင်သော အမူအကျင့်ကို ပြင်ဆင်မည်"
+
+#: kcm/kcm_updates.desktop:83
+msgctxt "X-KDE-Keywords"
+msgid "updates"
+msgstr ""
 
 #: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:2
 msgctxt "Name"
