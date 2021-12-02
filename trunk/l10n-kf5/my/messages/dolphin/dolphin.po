@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-30 00:46+0000\n"
+"POT-Creation-Date: 2021-12-02 00:46+0000\n"
 "PO-Revision-Date: 2021-09-24 16:56+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2291,14 +2291,14 @@ msgctxt "@item:inmenu"
 msgid "Hide Section '%1'"
 msgstr "အပိုင်း '%1' ဖွက်မည်"
 
-#: panels/terminal/terminalpanel.cpp:146
+#: panels/terminal/terminalpanel.cpp:144
 #, kde-format
 msgid ""
 "Terminal cannot be shown because Konsole is not installed. Please install it "
 "and then reopen the panel."
 msgstr ""
 
-#: panels/terminal/terminalpanel.cpp:152
+#: panels/terminal/terminalpanel.cpp:150
 #, kde-format
 msgid "Install Konsole"
 msgstr "ကွန်ဆိုး တပ်ဆင်မည်"
@@ -4549,7 +4549,7 @@ msgid "Actions for One Selected Item"
 msgid_plural "Actions for %1 Selected Items"
 msgstr[0] "ရွေးချယ်ထားသော အိုင်တမ် %1ခု အတွက် လုပ်ဆောင်ချက်များ"
 
-#: views/versioncontrol/versioncontrolobserver.cpp:229
+#: views/versioncontrol/versioncontrolobserver.cpp:228
 #, kde-format
 msgctxt "@info:status"
 msgid "Updating version information..."
