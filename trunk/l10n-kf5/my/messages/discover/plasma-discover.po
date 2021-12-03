@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-23 00:29+0000\n"
+"POT-Creation-Date: 2021-12-03 00:45+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -211,7 +211,7 @@ msgstr "ထည့်သွင်းမည်"
 
 #: discover/qml/AddSourceDialog.qml:67 discover/qml/DiscoverWindow.qml:246
 #: discover/qml/InstallApplicationButton.qml:41
-#: discover/qml/ProgressView.qml:104 discover/qml/SourcesPage.qml:134
+#: discover/qml/ProgressView.qml:104 discover/qml/SourcesPage.qml:128
 #: discover/qml/UpdatesPage.qml:200
 #, kde-format
 msgid "Cancel"
@@ -421,17 +421,12 @@ msgstr "တင်သွင်းနေသည်…"
 msgid "Unable to load applications"
 msgstr "အပ္ပလီကေးရှင်းများ မတင်သွင်းနိုင်ပါ"
 
-#: discover/qml/BrowsingPage.qml:58
-#, kde-format
-msgid "Please verify Internet connectivity"
-msgstr "အင်တာနက်ရှိ၊ မရှိ စစ်ဆေးပါ"
-
-#: discover/qml/BrowsingPage.qml:79
+#: discover/qml/BrowsingPage.qml:90
 #, kde-format
 msgid "Updates are available"
 msgstr "အပ်ဒိတ်များ ရရှိနေပါပြီ"
 
-#: discover/qml/BrowsingPage.qml:83
+#: discover/qml/BrowsingPage.qml:94
 #, kde-format
 msgctxt "Short for 'show updates'"
 msgid "Show"
@@ -514,7 +509,7 @@ msgstr "ရင်းမြစ်ကိုမရှာနိုင်ခဲ့ပ
 msgid "Report this issue"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:233 discover/qml/SourcesPage.qml:124
+#: discover/qml/DiscoverWindow.qml:233 discover/qml/SourcesPage.qml:118
 #, kde-format
 msgid "Proceed"
 msgstr "ဆက်လုပ်မည်"
@@ -773,37 +768,37 @@ msgstr "ပရိုဂရမ်ဇစ်မြစ် ထည့်သွင်�
 msgid "Make default"
 msgstr "မူလသတ်မှတ်ချက်အဖြစ်မှတ်မည်"
 
-#: discover/qml/SourcesPage.qml:165
+#: discover/qml/SourcesPage.qml:159
 #, kde-format
 msgid "Increase priority"
 msgstr "ဦးစားပေး-အဆင့် တိုးမည်"
 
-#: discover/qml/SourcesPage.qml:171
+#: discover/qml/SourcesPage.qml:165
 #, kde-format
 msgid "Failed to increase '%1' preference"
 msgstr "'%1' နှစ်သက်-သတ်မှတ်ချက်ကို မတိုးနိုင်ခဲ့ပါ"
 
-#: discover/qml/SourcesPage.qml:176
+#: discover/qml/SourcesPage.qml:170
 #, kde-format
 msgid "Decrease priority"
 msgstr "ဦးစားပေး-အဆင့် လျော့မည်"
 
-#: discover/qml/SourcesPage.qml:182
+#: discover/qml/SourcesPage.qml:176
 #, kde-format
 msgid "Failed to decrease '%1' preference"
 msgstr "'%1' နှစ်သက်-သတ်မှတ်ချက်ကို မလျော့နိုင်ခဲ့ပါ"
 
-#: discover/qml/SourcesPage.qml:187
+#: discover/qml/SourcesPage.qml:181
 #, kde-format
 msgid "Remove repository"
 msgstr "ရီပိုစစ်တိုရီကို ဖယ်ရှားမည်"
 
-#: discover/qml/SourcesPage.qml:198
+#: discover/qml/SourcesPage.qml:192
 #, kde-format
 msgid "Show contents"
 msgstr "ပါဝင်အကြောင်းအရာများ ပြမည်"
 
-#: discover/qml/SourcesPage.qml:237
+#: discover/qml/SourcesPage.qml:231
 #, kde-format
 msgid "Missing Backends"
 msgstr "အုတ်မြစ်ပရိုဂရမ်များ မရှိပါ"
@@ -931,6 +926,9 @@ msgstr "အပ်ဒိတ်ရှိ၊မရှိ စစ်ဆေးသင�
 msgctxt "@info"
 msgid "Time of last update unknown"
 msgstr "နောက်ဆုံးအကြိမ်အပ်ဒိတ်တင်ခဲ့သောအချိန်မသိ"
+
+#~ msgid "Please verify Internet connectivity"
+#~ msgstr "အင်တာနက်ရှိ၊ မရှိ စစ်ဆေးပါ"
 
 #~ msgid "All updates selected (%1)"
 #~ msgstr "အပ်ဒိတ်အားလုံးရွေးချယ်ထားသည် (%1)"
