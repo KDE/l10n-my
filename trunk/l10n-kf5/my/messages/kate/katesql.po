@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-02 00:21+0000\n"
+"POT-Creation-Date: 2021-12-04 00:46+0000\n"
 "PO-Revision-Date: 2021-09-15 02:07+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -517,20 +517,20 @@ msgstr "ထည့်သွင်"
 msgid "DELETE"
 msgstr "ဖျက်"
 
-#: sqlmanager.cpp:346
+#: sqlmanager.cpp:350
 #, kde-format
 msgctxt "@info"
 msgid "Query completed successfully"
 msgstr "ဒေတာတောင်းဆိုထားမှု အောင်မြင်စွာရရှိခဲ့သည်"
 
-#: sqlmanager.cpp:349
+#: sqlmanager.cpp:353
 #, kde-format
 msgctxt "@info"
 msgid "%1 record selected"
 msgid_plural "%1 records selected"
 msgstr[0] "ဆက်စပ်ဒေတာများအုပ်စု %1စု ရွေးချယ်ထားသည် "
 
-#: sqlmanager.cpp:353
+#: sqlmanager.cpp:357
 #, kde-format
 msgctxt "@info"
 msgid "%1 row affected"
