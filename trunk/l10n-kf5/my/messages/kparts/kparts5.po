@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kparts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-25 00:25+0000\n"
+"POT-Creation-Date: 2021-12-05 00:40+0000\n"
 "PO-Revision-Date: 2021-09-15 21:00+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -103,27 +103,27 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr "ယင်းသည် ဆာဗာမှ ဖိုင်လ်အတွက် အကြံပြုထားသည့် အမည် ဖြစ်သည်"
 
-#: browserrun.cpp:334
+#: browserrun.cpp:333
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "'%1' ကို သင်တကယ်ဆောင်ရွက်တော့မည်လား။"
 
-#: browserrun.cpp:335
+#: browserrun.cpp:334
 #, kde-format
 msgid "Execute File?"
 msgstr "ဖိုင်လ်ကို ဆောင်ရွက်မှာလား။"
 
-#: browserrun.cpp:336
+#: browserrun.cpp:335
 #, kde-format
 msgid "Execute"
 msgstr "ဆောင်ရွက်မည်"
 
-#: browserrun.cpp:398
+#: browserrun.cpp:397
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "ဒေါင်းလုတ်မန်နေဂျာ (%1) ကို သင်၏ $PATH တွင် ရှာမတွေ့ခဲ့ပါ "
 
-#: browserrun.cpp:399
+#: browserrun.cpp:398
 #, kde-format
 msgid ""
 "Try to reinstall it  \n"
@@ -134,7 +134,7 @@ msgstr ""
 "\n"
 "ကွန်ကွာရာနှင့် ပေါင်းစည်းမှု ပိတ်သွားလိမ့်မည်။"
 
-#: browserrun.cpp:426
+#: browserrun.cpp:423
 #, kde-format
 msgid "Save As"
 msgstr "အဖြစ်သိမ်းဆည်းမည်"
