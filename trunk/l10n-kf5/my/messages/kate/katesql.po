@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-04 00:46+0000\n"
+"POT-Creation-Date: 2021-12-06 00:46+0000\n"
 "PO-Revision-Date: 2021-09-15 02:07+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -485,11 +485,11 @@ msgctxt "@title Folder name"
 msgid "System Tables"
 msgstr "စစ်စတမ် တေဘယ်များ"
 
-#: schemawidget.cpp:267
+#: schemawidget.cpp:272
 #, kde-format
 msgctxt "@action:inmenu Context menu"
-msgid "Refresh"
-msgstr "အသစ်တင်မည်"
+msgid "Select Data"
+msgstr ""
 
 #: schemawidget.cpp:275
 #, kde-format
@@ -517,20 +517,26 @@ msgstr "ထည့်သွင်"
 msgid "DELETE"
 msgstr "ဖျက်"
 
-#: sqlmanager.cpp:350
+#: schemawidget.cpp:284
+#, kde-format
+msgctxt "@action:inmenu Context menu"
+msgid "Refresh"
+msgstr "အသစ်တင်မည်"
+
+#: sqlmanager.cpp:348
 #, kde-format
 msgctxt "@info"
 msgid "Query completed successfully"
 msgstr "ဒေတာတောင်းဆိုထားမှု အောင်မြင်စွာရရှိခဲ့သည်"
 
-#: sqlmanager.cpp:353
+#: sqlmanager.cpp:351
 #, kde-format
 msgctxt "@info"
 msgid "%1 record selected"
 msgid_plural "%1 records selected"
 msgstr[0] "ဆက်စပ်ဒေတာများအုပ်စု %1စု ရွေးချယ်ထားသည် "
 
-#: sqlmanager.cpp:357
+#: sqlmanager.cpp:355
 #, kde-format
 msgctxt "@info"
 msgid "%1 row affected"
