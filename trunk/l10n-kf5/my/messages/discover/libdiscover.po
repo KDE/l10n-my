@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-03 00:45+0000\n"
+"POT-Creation-Date: 2021-12-09 00:44+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1569,7 +1569,7 @@ msgstr "လက်ရှိ"
 msgid "Future"
 msgstr "အနာဂတ်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:428
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:451
 #, kde-format
 msgid ""
 "This update cannot be completed as it would remove the following software "
@@ -1578,12 +1578,12 @@ msgid ""
 "your distribution."
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:435
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:458
 #, kde-format
 msgid "Packages to remove"
 msgstr "ဖယ်ရှားမည့် ပတ်ကေ့ချ်များ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:436
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:459
 #, kde-format
 msgid ""
 "The following packages will be removed by the update:<ul><li>%1</li></ul><br/"
@@ -1592,13 +1592,13 @@ msgstr ""
 "အောက်ပါပတ်ကေ့ချ်များကို အပ်ဒိတ် <ul><li>%2</li></ul> တင်ရန် ဖယ်ရှားမည်-<ul><li>%1</li></"
 "ul><br/>"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:531
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:554
 #, kde-kuit-format
 msgctxt "@info"
 msgid "%1:<nl/><nl/>%2"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:539
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:562
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:308
 #, kde-format
 msgid ""
@@ -1608,13 +1608,13 @@ msgstr ""
 "မီဒီယာပြောင်းလဲမှုအမျိုးအစား '%1' ကိုတောင်းဆိုထားသည်။\n"
 "%2"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:572
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:595
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:287
 #, kde-format
 msgid "Accept EULA"
 msgstr "အီးယူအယ်အေ လက်ခံမည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:573
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:596
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:288
 #, kde-format
 msgid ""
@@ -1624,13 +1624,13 @@ msgstr ""
 "ပတ်ကေ့ချ် %1 နှင့် ၎င်း၏ရောင်းချသူ %2 က သင်ကိုလိုင်စင်အားလက်ခံရန် လိုအပ်သည်။\n"
 "%3"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:690
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:713
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:325
 #, kde-format
 msgid "Missing signature for %1 in %2"
 msgstr "%2 တွင် %1 အတွက် လက်မှတ်ပျောက်နေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:691
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:714
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:326
 #, kde-format
 msgid ""
