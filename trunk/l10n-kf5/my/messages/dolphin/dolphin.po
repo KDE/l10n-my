@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-03 00:46+0000\n"
+"POT-Creation-Date: 2021-12-10 00:47+0000\n"
 "PO-Revision-Date: 2021-09-24 16:56+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1324,20 +1324,20 @@ msgctxt "@info:status"
 msgid "No items found."
 msgstr "အိုင်တမ်များ မတွေ့ပါ။"
 
-#: dolphinviewcontainer.cpp:725
+#: dolphinviewcontainer.cpp:726
 #, kde-format
 msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:729
+#: dolphinviewcontainer.cpp:730
 #, kde-format
 msgctxt "@info:status"
 msgid ""
 "Protocol not supported by Dolphin, default application has been launched"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:736
+#: dolphinviewcontainer.cpp:737
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol"
