@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-11 00:40+0000\n"
+"POT-Creation-Date: 2021-12-12 00:40+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2301,22 +2301,22 @@ msgstr ""
 msgid "Unable to determine the type of file for %1"
 msgstr "%1၏ ဖိုင်လ်အမျိုးအစားကို မဆုံးဖြတ်နိုင်ပါ"
 
-#: core/slave.cpp:407
+#: core/slave.cpp:408
 #, kde-format
 msgid "Can not create socket for launching io-slave for protocol '%1'."
 msgstr "လုပ်ရိုးလုပ်ထုံး'%1'အတွက် အိုင်အို-ကျွန် စတင်ရန် ဆော့ကတ် မဖန်တီးနိုင်ပါ။"
 
-#: core/slave.cpp:415
+#: core/slave.cpp:416
 #, kde-format
 msgid "Unknown protocol '%1'."
 msgstr "မသိသောလုပ်ရိုးလုပ်ထုံး '%1'။"
 
-#: core/slave.cpp:426
+#: core/slave.cpp:427
 #, kde-format
 msgid "Can not find io-slave for protocol '%1'."
 msgstr "'%1' လုပ်ရိုးလုပ်ထုံးအတွက် အိုင်အို-ကျွန် ရှာမတွေ့ပါ။"
 
-#: core/slave.cpp:452
+#: core/slave.cpp:453
 #, kde-format
 msgid "Can not find 'kioslave5' executable at '%1'"
 msgstr "'%1'၌ 'ကေအိုင်အိုကျွန်၅' ဆောင်ရွက်ဖိုင်လ်ကို ရှာမတွေ့ပါ"
