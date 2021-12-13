@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-15 00:28+0000\n"
+"POT-Creation-Date: 2021-12-13 00:43+0000\n"
 "PO-Revision-Date: 2021-09-17 17:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -34,19 +34,18 @@ msgstr "lw1nzayar@yandex.com"
 msgid "no name"
 msgstr "အမည်မရှိ"
 
-#: src/konqextensionmanager.cpp:56
+#: src/konqextensionmanager.cpp:53
 #, kde-format
 msgctxt "@title:window"
 msgid "Configure Extensions"
 msgstr "တိုးချဲ့ပရိုဂရမ်ငယ်များ ပြင်ဆင်မည်"
 
-#: src/konqextensionmanager.cpp:73 src/konqextensionmanager.cpp:80
 #: src/konqextensionmanager.cpp:81
 #, kde-format
 msgid "Extensions"
 msgstr "တိုးချဲ့ပရိုဂရမ်ငယ်များ"
 
-#: src/konqfactory.cpp:69
+#: src/konqfactory.cpp:73
 #, kde-format
 msgid ""
 "There was an error loading the module %1.\n"
