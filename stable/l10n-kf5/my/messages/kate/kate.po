@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-26 00:20+0000\n"
+"POT-Creation-Date: 2021-12-13 02:18+0000\n"
 "PO-Revision-Date: 2021-09-15 00:53+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1695,52 +1695,52 @@ msgstr "ဖျက်မည်"
 msgid "Close"
 msgstr "ပိတ်မည်"
 
-#: session/katesessionmanager.cpp:108
+#: session/katesessionmanager.cpp:110
 #, kde-format
 msgid ""
 "Internal error: there is more than one instance open for a given session."
 msgstr "စနစ်အတွင်းပိုင်းဆိုင်ရာ အမှား - ပေးထားသော ဆက်ရှင်တစ်ခုအတွက် ဆောင်ရွက်မှုများ တစ်ခုမကရှိနေသည်။"
 
-#: session/katesessionmanager.cpp:114
+#: session/katesessionmanager.cpp:116
 #, kde-format
 msgid ""
 "Session '%1' is already opened in another kate instance, change there "
 "instead of reopening?"
 msgstr ""
 
-#: session/katesessionmanager.cpp:307
+#: session/katesessionmanager.cpp:309
 #, kde-format
 msgid "The session could not be renamed to \"%1\". Failed to write to \"%2\""
 msgstr ""
 
-#: session/katesessionmanager.cpp:308
+#: session/katesessionmanager.cpp:310
 #, kde-format
 msgid "Session Renaming"
 msgstr "ဆက်ရှင် အမည်ပြောင်းခြင်း"
 
-#: session/katesessionmanager.cpp:452
+#: session/katesessionmanager.cpp:454
 #, kde-format
 msgid "Session name:"
 msgstr "ဆက်ရှင် အမည် -"
 
-#: session/katesessionmanager.cpp:454
+#: session/katesessionmanager.cpp:456
 #, kde-format
 msgid ""
 "There is already an existing session with your chosen name: %1\n"
 "Please choose a different one."
 msgstr ""
 
-#: session/katesessionmanager.cpp:456
+#: session/katesessionmanager.cpp:458
 #, kde-format
 msgid "To save a session, you must specify a name."
 msgstr "ဆက်ရှင်ကိုသိမ်းဆည်းရန် အမည်ပေးရမည်။"
 
-#: session/katesessionmanager.cpp:483
+#: session/katesessionmanager.cpp:485
 #, kde-format
 msgid "Specify a name for this session"
 msgstr "ဤဆက်ရှင်အတွက် အမည်သတ်မှတ်ပါ"
 
-#: session/katesessionmanager.cpp:485
+#: session/katesessionmanager.cpp:487
 #, kde-format
 msgid "Specify a new name for session: %1"
 msgstr "ဆက်ရှင် - %1 အတွက် အမည်အသစ်သတ်မှတ်ပါ"
