@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-20 00:29+0000\n"
+"POT-Creation-Date: 2021-12-14 00:46+0000\n"
 "PO-Revision-Date: 2021-09-21 20:20+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -38,7 +38,7 @@ msgstr "အချက်အလက်စင်တာ"
 msgid "Centralized and convenient overview of system information."
 msgstr "စစ်စတမ်ဆိုင်ရာအချက်အလက်များ ခြုံငုံမြင်ကွင်း။"
 
-#: app/main.cpp:60 app/main.cpp:71 icons/IconMode.cpp:60
+#: app/main.cpp:60 app/main.cpp:71 icons/IconMode.cpp:57
 #, kde-format
 msgid "(c) 2009, Ben Cooksley"
 msgstr "(c) ၂၀၁၉၊ ဘန်ကွတ်စလေ"
@@ -54,7 +54,7 @@ msgstr "စစ်စတမ် ဆက်တင်"
 msgid "Central configuration center by KDE."
 msgstr "ကေဒီအီးမှ ပေးသော ဗဟိုပြင်ဆင်မှုစင်တာ။"
 
-#: app/main.cpp:82 icons/IconMode.cpp:61 sidebar/SidebarMode.cpp:290
+#: app/main.cpp:82 icons/IconMode.cpp:58 sidebar/SidebarMode.cpp:290
 #, kde-format
 msgid "Ben Cooksley"
 msgstr "ဘန်ကွတ်စလေ"
@@ -64,12 +64,12 @@ msgstr "ဘန်ကွတ်စလေ"
 msgid "Maintainer"
 msgstr "ထိန်းသိမ်းသူ"
 
-#: app/main.cpp:83 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:291
+#: app/main.cpp:83 icons/IconMode.cpp:59 sidebar/SidebarMode.cpp:291
 #, kde-format
 msgid "Mathias Soeken"
 msgstr "မတ်သီရက်ဆိုကန်"
 
-#: app/main.cpp:83 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:291
+#: app/main.cpp:83 icons/IconMode.cpp:59 sidebar/SidebarMode.cpp:291
 #, kde-format
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
@@ -205,28 +205,28 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "ဆက်တင်များသက်ရောက်စေမည်"
 
-#: icons/IconMode.cpp:56
+#: icons/IconMode.cpp:53
 #, kde-format
 msgid "Icon View"
 msgstr "အိုင်ကွန်ပြမြင်ကွင်း"
 
-#: icons/IconMode.cpp:58
+#: icons/IconMode.cpp:55
 #, kde-format
 msgid "Provides a categorized icons view of control modules."
 msgstr "ထိန်းချုပ်မော်ဂျူးများ၏ အမျိုးခွဲထားသော အိုင်ကွန်ပြမြင်ကွင်း ပေးသည်။"
 
-#: icons/IconMode.cpp:61 sidebar/SidebarMode.cpp:289
+#: icons/IconMode.cpp:58 sidebar/SidebarMode.cpp:289
 #: sidebar/SidebarMode.cpp:290
 #, kde-format
 msgid "Author"
 msgstr "ရေးသားသူ"
 
-#: icons/IconMode.cpp:65
+#: icons/IconMode.cpp:62
 #, kde-format
 msgid "All Settings"
 msgstr "ဆက်တင်များအားလုံး"
 
-#: icons/IconMode.cpp:66
+#: icons/IconMode.cpp:63
 #, kde-format
 msgid "Keyboard Shortcut: %1"
 msgstr "ကီးဘုတ်ဖြတ်လမ်း - %1"
