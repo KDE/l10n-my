@@ -289,31 +289,11 @@ msgstr "ပြန်ဆုတ် / ပြန်လုပ် စနစ်"
 msgid "Get Kate"
 msgstr "ကိတ်ကို ယူပါ"
 
-#: content/get-it.en.md:0
-msgid "Install Kate"
-msgstr "ကိတ်တပ်ဆင်မည်"
-
-#: content/get-it.en.md:0
-msgid "via Discover"
-msgstr "ဒစ်(စ)ကာဗာဖြင့်"
-
-#: content/get-it.en.md:0
-msgid "Install Kate via Discover or other AppStream application stores"
-msgstr "ဒစ်(စ)ကာဗာ သို့မဟုတ် အခြားအပ်စထရင်း အပ္ပလီကေးရှင်းစတိုးများသုံး၍ ကိတ်တပ်ဆင်မည်"
-
-#: content/get-it.en.md:0
-msgid "Install KWrite"
-msgstr "ကေရိုက်တပ်ဆင်မည်"
-
-#: content/get-it.en.md:0
-msgid "Install KWrite via Discover or other AppStream application stores"
-msgstr "ဒစ်(စ)ကာဗာ သို့မဟုတ် အခြားအပ်စထရင်း အပ္ပလီကေးရှင်းစတိုးများသုံး၍ ကေရိုက်တပ်ဆင်မည်"
-
-#: content/get-it.en.md:24
+#: content/get-it.en.md:15
 msgid "Linux & Unices"
 msgstr "လင်းနက်စ် နှင့် ယူနစ်စ်များ"
 
-#: content/get-it.en.md:26
+#: content/get-it.en.md:17
 msgid ""
 "Install [Kate](https://apps.kde.org/en/kate) or [KWrite](https://apps.kde."
 "org/en/kwrite) from [your distribution](https://kde.org/distributions/)"
@@ -321,28 +301,11 @@ msgstr ""
 "[သင်၏ဒစ်စထရီဗျူးရှင်း](https://kde.org/distributions/) မှ [ကိတ်](https://apps.kde.org/"
 "en/kate) သို့မဟုတ် [ကေရိုက်](https://apps.kde.org/en/kwrite) တပ်ဆင်မည်"
 
-#: content/get-it.en.md:30
-msgid ""
-"These buttons only works with [Discover](https://apps.kde.org/en/discover) "
-"and other AppStream application stores, such as [GNOME Software](https://"
-"wiki.gnome.org/Apps/Software). You can also use your distribution's package "
-"manager, such as [Muon](https://apps.kde.org/en/muon) or [Synaptic](https://"
-"wiki.debian.org/Synaptic)."
-msgstr ""
-"ဤခလုတ်များသည် [ဒစ်(စ)ကာဗာ](https://apps.kde.org/en/discover) နှင့် [နုန်ဆော့ဖ်ဝဲ]"
-"(https://wiki.gnome.org/Apps/Software)ကဲ့သို့အခြားအပ်စထရင်းအပ္ပလီကေးရှင်းစတိုးများတွင်သာ "
-"အလုပ်လုပ်သည်။ [မျူအန်](https://apps.kde.org/en/muon) သို့မဟုတ် [ဆင်နက်တစ်](https://wiki."
-"debian.org/Synaptic) ကဲ့သို့ သင့်ဒစ်စထရီဗျူးရှင်း၏ပတ်ကေ့ချ်မန်နေဂျာကိုလည်း သုံးနိုင်ပါသည်။"
-
-#: content/get-it.en.md:34
+#: content/get-it.en.md:21
 msgid "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
 msgstr "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
 
-#: content/get-it.en.md:36
-msgid "Get Kate on the Snap store"
-msgstr "စနပ်စတိုးမှ ကိတ်ကို ရယူပါ"
-
-#: content/get-it.en.md:38
+#: content/get-it.en.md:25
 msgid ""
 "[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/"
 "Kate_Release_appimage/) *"
@@ -350,7 +313,7 @@ msgstr ""
 "[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/"
 "Kate_Release_appimage/) *"
 
-#: content/get-it.en.md:39
+#: content/get-it.en.md:26
 msgid ""
 "[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/"
 "Kate_Nightly_appimage/) **"
@@ -358,29 +321,25 @@ msgstr ""
 "[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/"
 "Kate_Nightly_appimage/) **"
 
-#: content/get-it.en.md:40
+#: content/get-it.en.md:27
 msgid "[Build it](/build-it/#linux) from source."
 msgstr "[Build it](/build-it/#linux) မူရင်းမှ။"
 
-#: content/get-it.en.md:46
+#: content/get-it.en.md:33
 msgid "Windows"
 msgstr "ဝင်းဒိုးများ"
 
-#: content/get-it.en.md:48
+#: content/get-it.en.md:35
 msgid ""
 "[Kate in the Microsoft Store](https://www.microsoft.com/store/"
 "apps/9NWMW7BB59HW)"
 msgstr "[မိုက်ခရိုဆော့ဖ်စတိုးရှိ ကိတ်](https://www.microsoft.com/store/apps/9NWMW7BB59HW)"
 
-#: content/get-it.en.md:50
-msgid "Get Kate from the Microsoft store"
-msgstr "မိုက်ခရိုဆော့ဖ်စတိုးမှ ကိတ်ကို ရယူပါ"
-
-#: content/get-it.en.md:52
+#: content/get-it.en.md:39
 msgid "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 msgstr "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 
-#: content/get-it.en.md:53
+#: content/get-it.en.md:40
 msgid ""
 "[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
 "%2064-bit/job/Kate_Release_win64/) *"
@@ -388,7 +347,7 @@ msgstr ""
 "[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
 "%2064-bit/job/Kate_Release_win64/) *"
 
-#: content/get-it.en.md:54
+#: content/get-it.en.md:41
 msgid ""
 "[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/Windows"
 "%2064-bit/job/Kate_Nightly_win64/) **"
@@ -396,15 +355,15 @@ msgstr ""
 "[ကိတ်ညစဥ် (၆၄ဘစ်) တပ်ဆင်ဖိုင်လ်](https://binary-factory.kde.org/view/Windows%2064-bit/"
 "job/Kate_Nightly_win64/) **"
 
-#: content/get-it.en.md:55
+#: content/get-it.en.md:42
 msgid "[Build it](/build-it/#windows) from source."
 msgstr "[Build it](/build-it/#windows) မူရင်းမှ။"
 
-#: content/get-it.en.md:61
+#: content/get-it.en.md:48
 msgid "macOS"
 msgstr "မက်စ်အိုအက်စ်"
 
-#: content/get-it.en.md:63
+#: content/get-it.en.md:50
 msgid ""
 "[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Release_macos/) *"
@@ -412,7 +371,7 @@ msgstr ""
 "[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Release_macos/) *"
 
-#: content/get-it.en.md:64
+#: content/get-it.en.md:51
 msgid ""
 "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Nightly_macos/) **"
@@ -420,11 +379,11 @@ msgstr ""
 "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Nightly_macos/) **"
 
-#: content/get-it.en.md:65
+#: content/get-it.en.md:52
 msgid "[Build it](/build-it/#mac) from source."
 msgstr "[Build it](/build-it/#mac) မူရင်းမှ။"
 
-#: content/get-it.en.md:72
+#: content/get-it.en.md:59
 msgid ""
 "**About the releases:** <br> [Kate](https://apps.kde.org/en/kate) and "
 "[KWrite](https://apps.kde.org/en/kwrite) are part of [KDE Applications]"
@@ -446,13 +405,13 @@ msgstr ""
 "kde-frameworks-5.0/) မှထုတ်ပေးသည်။ ထုတ်ဝေမှုအသစ်များကို [ဤနေရာ](https://kde.org/"
 "announcements/) တွင် ကြေညာသည်။"
 
-#: content/get-it.en.md:75
+#: content/get-it.en.md:62
 msgid ""
 "\\* The **release** packages contain the latest version of Kate and KDE "
 "Frameworks."
 msgstr "\\* ကေဒီအီးမူဘောင်များနှင့် ကိတ်၏နောက်ဆုံးပေါ်ဗာရှင်းတို့သည် **ထုတ်ဝေမှု** ပတ်ကေ့ချ်တွင် ပါဝင်သည်။"
 
-#: content/get-it.en.md:77
+#: content/get-it.en.md:64
 msgid ""
 "\\*\\* The **nightly** packages are automatically compiled daily from source "
 "code, therefore they may be unstable and contain bugs or incomplete "
@@ -823,3 +782,54 @@ msgstr "အသစ်အဆန်းအားလုံးကြည့်မည်
 #: i18n/en.yaml:0
 msgid "Available for Linux, Windows and macOS"
 msgstr "လင်းနက်စ်၊ ဝင်းဒိုးစ် နှင့် မက်စ်အိုအက်စ်တွင် ရရှိပါသည်"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid ""
+#| "These buttons only works with [Discover](https://apps.kde.org/en/"
+#| "discover) and other AppStream application stores, such as [GNOME Software]"
+#| "(https://wiki.gnome.org/Apps/Software). You can also use your "
+#| "distribution's package manager, such as [Muon](https://apps.kde.org/en/"
+#| "muon) or [Synaptic](https://wiki.debian.org/Synaptic)."
+msgid ""
+"These buttons only work with [Discover]({{ .Get \"discoverLink\" }}) and "
+"other AppStream application stores, such as [GNOME Software](https://wiki."
+"gnome.org/Apps/Software). You can also use your distribution's package "
+"manager, such as [Muon]({{ .Get \"muonLink\" }}) or [Synaptic](https://wiki."
+"debian.org/Synaptic)."
+msgstr ""
+"ဤခလုတ်များသည် [ဒစ်(စ)ကာဗာ](https://apps.kde.org/en/discover) နှင့် [နုန်ဆော့ဖ်ဝဲ]"
+"(https://wiki.gnome.org/Apps/Software)ကဲ့သို့အခြားအပ်စထရင်းအပ္ပလီကေးရှင်းစတိုးများတွင်သာ "
+"အလုပ်လုပ်သည်။ [မျူအန်](https://apps.kde.org/en/muon) သို့မဟုတ် [ဆင်နက်တစ်](https://wiki."
+"debian.org/Synaptic) ကဲ့သို့ သင့်ဒစ်စထရီဗျူးရှင်း၏ပတ်ကေ့ချ်မန်နေဂျာကိုလည်း သုံးနိုင်ပါသည်။"
+
+#. Used in the download badge on https://kate-editor.org/get-it/. Please make
+#. it as short as possible.
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Install Kate"
+msgid "Install Kate on"
+msgstr "ကိတ်တပ်ဆင်မည်"
+
+#. Used in the download badge on https://kate-editor.org/get-it/. Please make
+#. it as short as possible.
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Install KWrite"
+msgid "Install KWrite on"
+msgstr "ကေရိုက်တပ်ဆင်မည်"
+
+#~ msgid "via Discover"
+#~ msgstr "ဒစ်(စ)ကာဗာဖြင့်"
+
+#~ msgid "Install Kate via Discover or other AppStream application stores"
+#~ msgstr "ဒစ်(စ)ကာဗာ သို့မဟုတ် အခြားအပ်စထရင်း အပ္ပလီကေးရှင်းစတိုးများသုံး၍ ကိတ်တပ်ဆင်မည်"
+
+#~ msgid "Install KWrite via Discover or other AppStream application stores"
+#~ msgstr "ဒစ်(စ)ကာဗာ သို့မဟုတ် အခြားအပ်စထရင်း အပ္ပလီကေးရှင်းစတိုးများသုံး၍ ကေရိုက်တပ်ဆင်မည်"
+
+#~ msgid "Get Kate on the Snap store"
+#~ msgstr "စနပ်စတိုးမှ ကိတ်ကို ရယူပါ"
+
+#~ msgid "Get Kate from the Microsoft store"
+#~ msgstr "မိုက်ခရိုဆော့ဖ်စတိုးမှ ကိတ်ကို ရယူပါ"
