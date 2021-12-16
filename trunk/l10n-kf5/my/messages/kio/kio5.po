@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-15 00:41+0000\n"
+"POT-Creation-Date: 2021-12-16 00:41+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -347,7 +347,7 @@ msgid ""
 "Root privileges are required to complete renaming. Do you want to continue?"
 msgstr "အမည်ပြောင်းလဲခြင်းလုပ်ဆောင်ချက် ပြီးရန် root၏အခွင့်အာဏာ လိုအပ်သည်။ သင်ဆက်လုပ်ချင်ပါသလား။"
 
-#: core/job.cpp:305 filewidgets/knewfilemenu.cpp:597
+#: core/job.cpp:305 filewidgets/knewfilemenu.cpp:591
 #: ioslaves/file/file_unix.cpp:127
 #, kde-format
 msgid "Create Symlink"
@@ -3111,14 +3111,17 @@ msgid "Mount"
 msgstr "တပ်ဆင်"
 
 #: filewidgets/kfileplacesview.cpp:894
-#, kde-format
-msgid "&Edit Entry '%1'..."
-msgstr "&Eစာရင်းမှတ်ချက် '%1'ကို တည်းဖြတ်မည်..."
+#, fuzzy, kde-format
+#| msgid "Edit"
+msgctxt "@action:inmenu"
+msgid "&Edit…"
+msgstr "တည်းဖြတ်"
 
 #: filewidgets/kfileplacesview.cpp:897
 #, kde-format
-msgid "&Hide Entry '%1'"
-msgstr "&Hစာရင်းမှတ်ချက်'%1'ကို ဖွက်မည်"
+msgctxt "@action:inmenu"
+msgid "&Hide"
+msgstr ""
 
 #: filewidgets/kfileplacesview.cpp:909
 #, kde-format
@@ -3126,9 +3129,11 @@ msgid "&Show All Entries"
 msgstr "&Sစာရင်းမှတ်ချက်များအားလုံးပြမည်"
 
 #: filewidgets/kfileplacesview.cpp:920
-#, kde-format
-msgid "&Remove Entry '%1'"
-msgstr "&Rစာရင်းမှတ်ချက် '%1'ကို ဖယ်ရှားမည်"
+#, fuzzy, kde-format
+#| msgid "Remove"
+msgctxt "@action:inmenu"
+msgid "Remove"
+msgstr "ဖယ်ရှား"
 
 #: filewidgets/kfileplacesview.cpp:923
 #, kde-format
@@ -3494,54 +3499,33 @@ msgstr ""
 "စာရေးသာရန်နေရာထဲသို့ ကိုယ်ပိုင်ဓလေ့စစ်ထုတ်ချက် ရေးသွင်းပါ။</p><p>* နှင့် ? ကဲ့သို့ ဖြစ်ချင်သလိုဖြစ်ရ-"
 "ကတ်များကို ခွင့်ပြုသည်။</p></qt>"
 
-#: filewidgets/knewfilemenu.cpp:466
+#: filewidgets/knewfilemenu.cpp:460
 #, kde-format
 msgid "Sorry"
 msgstr "စိတ်မကောင်းပါဘူး"
 
-#: filewidgets/knewfilemenu.cpp:477
+#: filewidgets/knewfilemenu.cpp:471
 #, kde-format
 msgid "<qt>The template file <b>%1</b> does not exist.</qt>"
 msgstr "<qt>မူကြမ်းဖိုင်လ် <b>%1</b> မရှိပါ။</qt>"
 
-#: filewidgets/knewfilemenu.cpp:594 filewidgets/knewfilemenu.cpp:676
+#: filewidgets/knewfilemenu.cpp:588 filewidgets/knewfilemenu.cpp:670
 #, kde-format
 msgid "Name for new link:"
 msgstr "လင့်ခ်အသစ်တွက် အမည် -"
 
-#: filewidgets/knewfilemenu.cpp:680
+#: filewidgets/knewfilemenu.cpp:674
 #, kde-format
 msgid "Create link to URL"
 msgstr "ယူအာအယ်လ် သို့ လင့်ခ် ဖန်တီးရန်"
 
-#: filewidgets/knewfilemenu.cpp:722 filewidgets/knewfilemenu.cpp:778
+#: filewidgets/knewfilemenu.cpp:716 filewidgets/knewfilemenu.cpp:772
 #, kde-format
 msgctxt "@item:inmenu Create New"
 msgid "%1"
 msgstr "%1"
 
-#: filewidgets/knewfilemenu.cpp:909
-#, kde-format
-msgctxt "@action:button"
-msgid "Enter a Different Name"
-msgstr "ကွဲပြားသောအမည်ရေးပါ"
-
-#: filewidgets/knewfilemenu.cpp:913
-#, kde-format
-msgid "Invalid Directory Name"
-msgstr "မမှန်ကန်သော ဒါရိုက်ထရီအမည်။"
-
-#: filewidgets/knewfilemenu.cpp:926
-#, kde-kuit-format
-msgctxt "@info"
-msgid ""
-"Could not create a folder with the name <filename>%1</filename><nl/>because "
-"it is reserved for use by the operating system."
-msgstr ""
-"<filename>%1</filename>အမည်ဖြင့် ဖိုလ်ဒါတည်ဆောက်မရပါ။<nl/>အဘယ့်ကြောင့်ဆိုသော် "
-"စီမံစနစ်မှအသုံးပြုရန်သိမ်းထားသောကြောင့်ဖြစ်သည်။"
-
-#: filewidgets/knewfilemenu.cpp:1165
+#: filewidgets/knewfilemenu.cpp:1120
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -3551,7 +3535,7 @@ msgstr ""
 "<filename>%1</filename>အမည်သုံးမရပါ။ အဘယ့်ကြောင့်ဆိုသော် "
 "စီမံစနစ်မှအသုံးပြုရန်သိမ်းထားသောကြောင့်ဖြစ်သည်။"
 
-#: filewidgets/knewfilemenu.cpp:1173
+#: filewidgets/knewfilemenu.cpp:1128
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -3559,7 +3543,7 @@ msgid ""
 "default."
 msgstr "'<filename>%1</filename>'အမည်သည် အစက်နှင့်စတင်သောကြောင့် မူလသတ်မှတ်ချက်အရ ဖွက်ထားပါမည်။"
 
-#: filewidgets/knewfilemenu.cpp:1181
+#: filewidgets/knewfilemenu.cpp:1136
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -3570,27 +3554,27 @@ msgstr ""
 "'<filename>%1</filename>'အမည်သည် နေရာလွတ်အက္ခရာနှင့် စတင်သောကြောင့် အက္ခရာစဥ်ဖြင့် ပြသရာတွင် "
 "၎င်းကို အခြားထူးဆန်းအမည်များနှင့်အတူ ရှေ့ဆုံးတွင်ပြသမည်။"
 
-#: filewidgets/knewfilemenu.cpp:1199
+#: filewidgets/knewfilemenu.cpp:1154
 #, kde-format
 msgid "Using slashes in folder names will create sub-folders, like so:"
 msgstr "ဖိုလ်ဒါအမည်များတွင် '/'သုံးခြင်းသည် လက်အောက်ခံဖိုလ်ဒါများကို တည်ဆောက်လိမ့်မည်၊ နောက်ပါကဲ့သို့ -"
 
-#: filewidgets/knewfilemenu.cpp:1209
+#: filewidgets/knewfilemenu.cpp:1164
 #, kde-format
 msgid "Using slashes in folder names will create sub-folders."
 msgstr "ဖိုလ်ဒါအမည်များတွင် '/'သုံးခြင်းသည် လက်အောက်ခံဖိုလ်ဒါများကို တည်ဆောက်လိမ့်မည်။"
 
-#: filewidgets/knewfilemenu.cpp:1221
+#: filewidgets/knewfilemenu.cpp:1176
 #, kde-format
 msgid "Slashes cannot be used in file and folder names."
 msgstr "မျဥ်းစောင်း('/')ကို ဖိုင်လ်၊ ဖိုလ်ဒါအမည်များတွင် သုံးမရပါ။"
 
-#: filewidgets/knewfilemenu.cpp:1226
+#: filewidgets/knewfilemenu.cpp:1181
 #, kde-format
 msgid "Backslashes cannot be used in file and folder names."
 msgstr "ပြောင်းပြန်မျဥ်းစောင်း('\\')ကို ဖိုင်လ်၊ ဖိုလ်ဒါအမည်များတွင် သုံးမရပါ။"
 
-#: filewidgets/knewfilemenu.cpp:1236
+#: filewidgets/knewfilemenu.cpp:1191
 #, kde-format
 msgid ""
 "Starting a file or folder name with a tilde is not recommended because it "
@@ -3599,41 +3583,41 @@ msgstr ""
 "ဖိုင်လ်၊ ဖိုလ်ဒါ အမည်ပေးရာတွင် တယ်ဒါး('~') နှင့်စတင်ခြင်းကို အားမပေးပါ။ အဘယ်ကြောင့်ဆိုသော် တာမီနယ်တွင် "
 "ဖိုင်လ်၊ဖိုလ်ဒါများ ဖျက်ရာတွင် အငြင်းပွားဖွယ် သို့ အန္တရာယ်များဖွယ် ဖြစ်လိမ့်မည်။"
 
-#: filewidgets/knewfilemenu.cpp:1304
+#: filewidgets/knewfilemenu.cpp:1259
 #, kde-kuit-format
 msgctxt "@info"
 msgid "A directory with name <filename>%1</filename> already exists."
 msgstr "<filename>%1</filename>အမည်ရ ဒါရိုက်ထရီ ရှိနှင့်ပြီးဖြစ်သည်။"
 
-#: filewidgets/knewfilemenu.cpp:1306
+#: filewidgets/knewfilemenu.cpp:1261
 #, kde-kuit-format
 msgctxt "@info"
 msgid "A file with name <filename>%1</filename> already exists."
 msgstr "<filename>%1</filename>အမည်ရ ဖိုင်လ်တစ်ခု ရှိနှင့်ပြီးဖြစ်သည်။"
 
-#: filewidgets/knewfilemenu.cpp:1387
+#: filewidgets/knewfilemenu.cpp:1342
 #, kde-format
 msgid "Create New"
 msgstr "အသစ်ဖန်တီးရန်"
 
-#: filewidgets/knewfilemenu.cpp:1403
+#: filewidgets/knewfilemenu.cpp:1358
 #, kde-format
 msgid "Link to Device"
 msgstr "စက်သို့လင့်ခ်ချိတ်ရန်"
 
-#: filewidgets/knewfilemenu.cpp:1443
+#: filewidgets/knewfilemenu.cpp:1398
 #, kde-format
 msgctxt "Default name for a new folder"
 msgid "New Folder"
 msgstr "ဖိုလ်ဒါအသစ်"
 
-#: filewidgets/knewfilemenu.cpp:1462
+#: filewidgets/knewfilemenu.cpp:1417
 #, kde-format
 msgctxt "@title:window"
 msgid "New Folder"
 msgstr "ဖိုလ်ဒါအသစ်"
 
-#: filewidgets/knewfilemenu.cpp:1464
+#: filewidgets/knewfilemenu.cpp:1419
 #, kde-format
 msgid "Create new folder in %1:"
 msgstr "%1တွင် ဖိုလ်ဒါအသစ်တည်ဆောက်မည် -"
@@ -8995,6 +8979,30 @@ msgstr "ဤအရာသည် ပရိုဂရမ်ကို စတင်လ�
 #, kde-format
 msgid "If you do not trust this program, click Cancel"
 msgstr "သင် ဤပရိုဂရမ်ကို မယုံကြည်လျှင် 'ပယ်ဖျက်ရန်' ခလုတ်ကိုနှိပ်ပါ"
+
+#~ msgid "&Edit Entry '%1'..."
+#~ msgstr "&Eစာရင်းမှတ်ချက် '%1'ကို တည်းဖြတ်မည်..."
+
+#~ msgid "&Hide Entry '%1'"
+#~ msgstr "&Hစာရင်းမှတ်ချက်'%1'ကို ဖွက်မည်"
+
+#~ msgid "&Remove Entry '%1'"
+#~ msgstr "&Rစာရင်းမှတ်ချက် '%1'ကို ဖယ်ရှားမည်"
+
+#~ msgctxt "@action:button"
+#~ msgid "Enter a Different Name"
+#~ msgstr "ကွဲပြားသောအမည်ရေးပါ"
+
+#~ msgid "Invalid Directory Name"
+#~ msgstr "မမှန်ကန်သော ဒါရိုက်ထရီအမည်။"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "Could not create a folder with the name <filename>%1</filename><nl/"
+#~ ">because it is reserved for use by the operating system."
+#~ msgstr ""
+#~ "<filename>%1</filename>အမည်ဖြင့် ဖိုလ်ဒါတည်ဆောက်မရပါ။<nl/>အဘယ့်ကြောင့်ဆိုသော် "
+#~ "စီမံစနစ်မှအသုံးပြုရန်သိမ်းထားသောကြောင့်ဖြစ်သည်။"
 
 #~ msgid "Create New File Type"
 #~ msgstr "ဖိုင်လ်အမျိုးအစားသစ်ဖန်တီးမည်"

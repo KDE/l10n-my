@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-15 00:57+0000\n"
+"POT-Creation-Date: 2021-12-16 00:55+0000\n"
 "PO-Revision-Date: 2021-12-04 03:31+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -138,12 +138,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:50
+#: src/kcms/webshortcuts/webshortcuts.desktop:51
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ ပြင်ဆင်မည်"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:86
+#: src/kcms/webshortcuts/webshortcuts.desktop:88
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -212,7 +212,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီသို့ လင့်ခ်ချိတ်ရန်..."
 
-#: src/new_file_templates/linkPath.desktop:34
+#: src/new_file_templates/linkPath.desktop:35
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr "လင့်ခ်ချိတ်ရမည် ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီ -"
@@ -327,7 +327,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "ArchWiki"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:39
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:40
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
 msgstr "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -387,7 +387,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "ခေဒီအီးဆိုင်ရာ ဆော့ဖ်လ်ဝဲလ်ပြစ်ချက်များ"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:38
+#: src/urifilters/ikws/searchproviders/bug.desktop:39
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -513,7 +513,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr "DeepL"
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:39
+#: src/urifilters/ikws/searchproviders/deepl.desktop:40
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr "https://www.deepl.com/translator#any/any/\\\\{@}"
@@ -941,7 +941,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr "ကေဒီအီး အင်ဗန့်"
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:26
+#: src/urifilters/ikws/searchproviders/invent.desktop:27
 msgctxt "Query"
 msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgstr "https://invent.kde.org/search?search=\\\\{@}"
@@ -951,7 +951,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr "ကေဒီအီး အင်ဗန့် ရီပိုစစ်တိုရီများ"
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:26
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:27
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
