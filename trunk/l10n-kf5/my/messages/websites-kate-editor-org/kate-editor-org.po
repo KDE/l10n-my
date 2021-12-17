@@ -20,7 +20,8 @@ msgstr "ကိတ်"
 
 #: config.yaml:0
 msgid "Kate is a modern text editor built on the KDE Frameworks and Qt."
-msgstr "ကိတ်သည် ကေဒီအီးမူဘောင်များနှင့် ကျူတီကို သုံး၍ တည်ဆောက်ထားသည့် ခေတ်မီသောစာသားတည်းဖြတ်ကိရိယာတစ်ခုဖြစ်သည်။"
+msgstr ""
+"ကိတ်သည် ကေဒီအီးမူဘောင်များနှင့် ကျူတီကို သုံး၍ တည်ဆောက်ထားသည့် ခေတ်မီသောစာသားတည်းဖြတ်ကိရိယာတစ်ခုဖြစ်သည်။"
 
 #: config.yaml:0
 msgid "Build It"
@@ -91,20 +92,26 @@ msgid "Application Features"
 msgstr "အပ္ပလီကေးရှင်းစွမ်းဆောင်ရည်များ"
 
 #: content/about-kate.en.md:13
-msgid "![Screenshot showing Kate window splitting feature and terminal plugin](/images/kate-window.png)"
-msgstr "![Screenshot showing Kate window splitting feature and terminal plugin](/images/kate-window.png)"
+msgid ""
+"![Screenshot showing Kate window splitting feature and terminal plugin](/"
+"images/kate-window.png)"
+msgstr ""
+"![Screenshot showing Kate window splitting feature and terminal plugin](/"
+"images/kate-window.png)"
 
 #: content/about-kate.en.md:15
-msgid "View and edit multiple documents at the same time, by splitting horizontally and vertically the window"
+msgid ""
+"View and edit multiple documents at the same time, by splitting horizontally "
+"and vertically the window"
 msgstr "အထက်၊အောက် သို့မဟုတ် ဘယ်၊ညာ ဝင်းဒိုးခွဲပြီး မှတ်တမ်းပုံနှိပ်မူများကို တစ်ချိန်တည်း တည်းဖြတ်၍ ကြည့်ပါ"
 
 #: content/about-kate.en.md:16
 msgid ""
-"Lot of plugins: [Embedded terminal](https://konsole.kde.org), SQL plugin, build plugin, GDB plugin, Replace in "
-"Files, and more"
+"Lot of plugins: [Embedded terminal](https://konsole.kde.org), SQL plugin, "
+"build plugin, GDB plugin, Replace in Files, and more"
 msgstr ""
-"ပလပ်ဂင်အများကြီး - [Embedded terminal](https://konsole.kde.org)၊ အက်စ်ကျူအယ်ပလပ်ဂင်၊ တည်ဆောက်မှုပလပ်ဂင်၊ ဂျီဒီဘီပလပ်ဂင်၊ ဖိုင်လ်များတွင် "
-"အစားထိုးမှု နှင့် နောက်ထပ်ပလပ်ဂင်များ"
+"ပလပ်ဂင်အများကြီး - [Embedded terminal](https://konsole.kde.org)၊ အက်စ်ကျူအယ်ပလပ်ဂင်၊ "
+"တည်ဆောက်မှုပလပ်ဂင်၊ ဂျီဒီဘီပလပ်ဂင်၊ ဖိုင်လ်များတွင် အစားထိုးမှု နှင့် နောက်ထပ်ပလပ်ဂင်များ"
 
 #: content/about-kate.en.md:17
 msgid "Multi-document interface (MDI)"
@@ -119,8 +126,12 @@ msgid "General Features"
 msgstr "အထွေထွေစွမ်းဆောင်ရည်များ"
 
 #: content/about-kate.en.md:22
-msgid "![Screenshot showing Kate search and replace feature](/images/kate-search-replace.png)"
-msgstr "![Screenshot showing Kate search and replace feature](/images/kate-search-replace.png)"
+msgid ""
+"![Screenshot showing Kate search and replace feature](/images/kate-search-"
+"replace.png)"
+msgstr ""
+"![Screenshot showing Kate search and replace feature](/images/kate-search-"
+"replace.png)"
 
 #: content/about-kate.en.md:24
 msgid "Encoding support (Unicode and lots of others)"
@@ -147,8 +158,12 @@ msgid "Advanced Editor Features"
 msgstr "အဆင့်မြင့်စာသားတည်းဖြတ်ကိရိယာ စွမ်းဆောင်ရည်များ"
 
 #: content/about-kate.en.md:32
-msgid "![Screenshot of Kate border with line number and bookmark](/images/kate-border.png)"
-msgstr "![Screenshot of Kate border with line number and bookmark](/images/kate-border.png)"
+msgid ""
+"![Screenshot of Kate border with line number and bookmark](/images/kate-"
+"border.png)"
+msgstr ""
+"![Screenshot of Kate border with line number and bookmark](/images/kate-"
+"border.png)"
 
 #: content/about-kate.en.md:34
 msgid "Bookmarking system (also supported: break points etc.)"
@@ -171,8 +186,10 @@ msgid "Code folding"
 msgstr "ကုတ် ခေါက်ခြင်း"
 
 #: content/about-kate.en.md:42
-msgid "![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
-msgstr "![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
+msgid ""
+"![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
+msgstr ""
+"![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
 
 #: content/about-kate.en.md:44
 msgid "Highlighting support for over 300 languages"
@@ -195,8 +212,10 @@ msgid "Programming Features"
 msgstr "ပရိုဂရမ်မင်းဆိုင်ရာစွမ်းဆောင်ရည်များ"
 
 #: content/about-kate.en.md:51
-msgid "![Screenshot of Kate programming features](/images/kate-programming.png)"
-msgstr "![Screenshot of Kate programming features](/images/kate-programming.png)"
+msgid ""
+"![Screenshot of Kate programming features](/images/kate-programming.png)"
+msgstr ""
+"![Screenshot of Kate programming features](/images/kate-programming.png)"
 
 #: content/about-kate.en.md:53
 msgid "Scriptable auto indentation"
@@ -223,8 +242,10 @@ msgid "Search & Replace"
 msgstr "ရှာဖွေ၊အစားထိုး"
 
 #: content/about-kate.en.md:61
-msgid "![Screenshot of Kate incremental search feature](/images/kate-search.png)"
-msgstr "![Screenshot of Kate incremental search feature](/images/kate-search.png)"
+msgid ""
+"![Screenshot of Kate incremental search feature](/images/kate-search.png)"
+msgstr ""
+"![Screenshot of Kate incremental search feature](/images/kate-search.png)"
 
 #: content/about-kate.en.md:63
 msgid "Incremental search, also known as &#8220;find as you type&#8221;"
@@ -247,8 +268,10 @@ msgid "Backup and Restore"
 msgstr "ဘက်ခ်အပ် နှင့် ရီစတိုး"
 
 #: content/about-kate.en.md:70
-msgid "![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
-msgstr "![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
+msgid ""
+"![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
+msgstr ""
+"![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
 
 #: content/about-kate.en.md:72
 msgid "Backups on save"
@@ -272,23 +295,31 @@ msgstr "လင်းနပ်စ် နှင့် ယူနစ်စ်မျ�
 
 #: content/get-it.en.md:17
 msgid ""
-"Install [Kate](https://apps.kde.org/en/kate) or [KWrite](https://apps.kde.org/en/kwrite) from [your distribution]"
-"(https://kde.org/distributions/)"
+"Install [Kate](https://apps.kde.org/en/kate) or [KWrite](https://apps.kde."
+"org/en/kwrite) from [your distribution](https://kde.org/distributions/)"
 msgstr ""
-"[သင်၏ဒစ်စထရီဗျူးရှင်း](https://kde.org/distributions/) မှ [ကိတ်](https://apps.kde.org/en/kate) သို့မဟုတ် [ကေရိုက်](https://apps.kde."
-"org/en/kwrite) တပ်ဆင်မည်"
+"[သင်၏ဒစ်စထရီဗျူးရှင်း](https://kde.org/distributions/) မှ [ကိတ်](https://apps.kde.org/"
+"en/kate) သို့မဟုတ် [ကေရိုက်](https://apps.kde.org/en/kwrite) တပ်ဆင်မည်"
 
 #: content/get-it.en.md:21
 msgid "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
 msgstr "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
 
 #: content/get-it.en.md:25
-msgid "[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/Kate_Release_appimage/) *"
-msgstr "[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/Kate_Release_appimage/) *"
+msgid ""
+"[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/"
+"Kate_Release_appimage/) *"
+msgstr ""
+"[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/"
+"Kate_Release_appimage/) *"
 
 #: content/get-it.en.md:26
-msgid "[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/Kate_Nightly_appimage/) **"
-msgstr "[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/Kate_Nightly_appimage/) **"
+msgid ""
+"[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/"
+"Kate_Nightly_appimage/) **"
+msgstr ""
+"[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/"
+"Kate_Nightly_appimage/) **"
 
 #: content/get-it.en.md:27
 msgid "[Build it](/build-it/#linux) from source."
@@ -299,7 +330,9 @@ msgid "Windows"
 msgstr "ဝင်းဒိုးများ"
 
 #: content/get-it.en.md:35
-msgid "[Kate in the Microsoft Store](https://www.microsoft.com/store/apps/9NWMW7BB59HW)"
+msgid ""
+"[Kate in the Microsoft Store](https://www.microsoft.com/store/"
+"apps/9NWMW7BB59HW)"
 msgstr "[မိုက်ခရိုဆော့ဖ်စတိုးရှိ ကိတ်](https://www.microsoft.com/store/apps/9NWMW7BB59HW)"
 
 #: content/get-it.en.md:39
@@ -308,14 +341,19 @@ msgstr "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 
 #: content/get-it.en.md:40
 msgid ""
-"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows%2064-bit/job/Kate_Release_win64/) *"
+"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
+"%2064-bit/job/Kate_Release_win64/) *"
 msgstr ""
-"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows%2064-bit/job/Kate_Release_win64/) *"
+"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
+"%2064-bit/job/Kate_Release_win64/) *"
 
 #: content/get-it.en.md:41
 msgid ""
-"[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/Windows%2064-bit/job/Kate_Nightly_win64/) **"
-msgstr "[ကိတ်ညစဥ် (၆၄ဘစ်) တပ်ဆင်ဖိုင်လ်](https://binary-factory.kde.org/view/Windows%2064-bit/job/Kate_Nightly_win64/) **"
+"[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/Windows"
+"%2064-bit/job/Kate_Nightly_win64/) **"
+msgstr ""
+"[ကိတ်ညစဥ် (၆၄ဘစ်) တပ်ဆင်ဖိုင်လ်](https://binary-factory.kde.org/view/Windows%2064-bit/"
+"job/Kate_Nightly_win64/) **"
 
 #: content/get-it.en.md:42
 msgid "[Build it](/build-it/#windows) from source."
@@ -326,12 +364,20 @@ msgid "macOS"
 msgstr "macOS"
 
 #: content/get-it.en.md:50
-msgid "[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/Kate_Release_macos/) *"
-msgstr "[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/Kate_Release_macos/) *"
+msgid ""
+"[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/"
+"Kate_Release_macos/) *"
+msgstr ""
+"[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/"
+"Kate_Release_macos/) *"
 
 #: content/get-it.en.md:51
-msgid "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/Kate_Nightly_macos/) **"
-msgstr "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/Kate_Nightly_macos/) **"
+msgid ""
+"[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
+"Kate_Nightly_macos/) **"
+msgstr ""
+"[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
+"Kate_Nightly_macos/) **"
 
 #: content/get-it.en.md:52
 msgid "[Build it](/build-it/#mac) from source."
@@ -339,71 +385,97 @@ msgstr "[Build it](/build-it/#mac) မူရင်းမှ။"
 
 #: content/get-it.en.md:59
 msgid ""
-"**About the releases:** <br> [Kate](https://apps.kde.org/en/kate) and [KWrite](https://apps.kde.org/en/kwrite) are "
-"part of [KDE Applications](https://apps.kde.org), which are [released typically 3 times a year en-masse](https://"
-"community.kde.org/Schedules). The [text editing](https://api.kde.org/frameworks/ktexteditor/html/) and the [syntax "
-"highlighting](https://api.kde.org/frameworks/syntax-highlighting/html/) engines are provided by [KDE Frameworks]"
-"(https://kde.org/announcements/kde-frameworks-5.0/), which is [updated monthly](https://community.kde.org/Schedules/"
-"Frameworks). New releases are announced [here](https://kde.org/announcements/)."
+"**About the releases:** <br> [Kate](https://apps.kde.org/en/kate) and "
+"[KWrite](https://apps.kde.org/en/kwrite) are part of [KDE Applications]"
+"(https://apps.kde.org), which are [released typically 3 times a year en-"
+"masse](https://community.kde.org/Schedules). The [text editing](https://api."
+"kde.org/frameworks/ktexteditor/html/) and the [syntax highlighting](https://"
+"api.kde.org/frameworks/syntax-highlighting/html/) engines are provided by "
+"[KDE Frameworks](https://kde.org/announcements/kde-frameworks-5.0/), which "
+"is [updated monthly](https://community.kde.org/Schedules/Frameworks). New "
+"releases are announced [here](https://kde.org/announcements/)."
 msgstr ""
-"**ထုတ်ဝေမှုများအကြောင်း -** <br> [ကိတ်](https://apps.kde.org/en/kate) နှင့် [ကေရိုက်](https://apps.kde.org/en/kwrite) သည် "
-"[ကေဒီအီးအပ္ပလီကေးရှင်းများ](https://apps.kde.org)တွင် ပါဝင်သည်။ ယင်းတို့ကို [တစ်နှစ်သုံးကြိမ်အစုလိုက်အပြုံလိုက်ထုတ်ဝေသည်](https://community.kde.org/"
-"Schedules)။ [စာသားတည်းဖြတ်ခြင်း](https://api.kde.org/frameworks/ktexteditor/html/) နှင့် [စာအထားအသိုအလင်းတင်ပြခြင်း](https://"
-"api.kde.org/frameworks/syntax-highlighting/html/) ဆိုင်ရာအင်ဂျင်များကို [လစဥ်အပ်ဒိတ်တင်သည်](https://community.kde.org/Schedules/"
-"Frameworks)ဖြစ်သော [ကေဒီအီးမူဘောင်များ](https://kde.org/announcements/kde-frameworks-5.0/) မှထုတ်ပေးသည်။ ထုတ်ဝေမှုအသစ်များကို [ဤနေရာ]"
-"(https://kde.org/announcements/) တွင် ကြေညာသည်။"
+"**ထုတ်ဝေမှုများအကြောင်း -** <br> [ကိတ်](https://apps.kde.org/en/kate) နှင့် [ကေရိုက်]"
+"(https://apps.kde.org/en/kwrite) သည် [ကေဒီအီးအပ္ပလီကေးရှင်းများ](https://apps.kde."
+"org)တွင် ပါဝင်သည်။ ယင်းတို့ကို [တစ်နှစ်သုံးကြိမ်အစုလိုက်အပြုံလိုက်ထုတ်ဝေသည်](https://community.kde.org/"
+"Schedules)။ [စာသားတည်းဖြတ်ခြင်း](https://api.kde.org/frameworks/ktexteditor/"
+"html/) နှင့် [စာအထားအသိုအလင်းတင်ပြခြင်း](https://api.kde.org/frameworks/syntax-"
+"highlighting/html/) ဆိုင်ရာအင်ဂျင်များကို [လစဥ်အပ်ဒိတ်တင်သည်](https://community.kde.org/"
+"Schedules/Frameworks)ဖြစ်သော [ကေဒီအီးမူဘောင်များ](https://kde.org/announcements/"
+"kde-frameworks-5.0/) မှထုတ်ပေးသည်။ ထုတ်ဝေမှုအသစ်များကို [ဤနေရာ](https://kde.org/"
+"announcements/) တွင် ကြေညာသည်။"
 
 #: content/get-it.en.md:62
-msgid "\\* The **release** packages contain the latest version of Kate and KDE Frameworks."
+msgid ""
+"\\* The **release** packages contain the latest version of Kate and KDE "
+"Frameworks."
 msgstr "\\* ကေဒီအီးမူဘောင်များနှင့် ကိတ်၏နောက်ဆုံးပေါ်ဗာရှင်းတို့သည် **ထုတ်ဝေမှု** ပတ်ကေ့ချ်တွင် ပါဝင်သည်။"
 
 #: content/get-it.en.md:64
 msgid ""
-"\\*\\* The **nightly** packages are automatically compiled daily from source code, therefore they may be unstable "
-"and contain bugs or incomplete features. These are only recommended for testing purposes."
+"\\*\\* The **nightly** packages are automatically compiled daily from source "
+"code, therefore they may be unstable and contain bugs or incomplete "
+"features. These are only recommended for testing purposes."
 msgstr ""
-"\\*\\* The **ညစဥ်** ပတ်ကေ့ချ်များကို ဇစ်မြစ်ကုတ်မှ နေ့စဥ်ကွန်ပိုင်းလုပ်ထားသည်။ ထို့ကြောင့် ယင်းတို့သည် တည်ငြိမ်မှုမရှိဘဲ ဆော့ဖ်ဝဲလ်ပြစ်ချက်များ သို့မဟုတ် တစ်ဝက်တစ်ပျက် "
-"စွမ်းဆောင်ရည်များ ပါဝင်သည်။ ယင်းတို့ကို စမ်းသပ်ရန်အတွက်သာ သုံးရန် အကြုံပြုသည်။"
+"\\*\\* The **ညစဥ်** ပတ်ကေ့ချ်များကို ဇစ်မြစ်ကုတ်မှ နေ့စဥ်ကွန်ပိုင်းလုပ်ထားသည်။ ထို့ကြောင့် ယင်းတို့သည် "
+"တည်ငြိမ်မှုမရှိဘဲ ဆော့ဖ်ဝဲလ်ပြစ်ချက်များ သို့မဟုတ် တစ်ဝက်တစ်ပျက် စွမ်းဆောင်ရည်များ ပါဝင်သည်။ ယင်းတို့ကို "
+"စမ်းသပ်ရန်အတွက်သာ သုံးရန် အကြုံပြုသည်။"
 
 #: content/mascot.md:0
 msgid "Kate's Mascot"
 msgstr "ကိတ်၏လာဘ်ကောင်"
 
 #: content/mascot.md:12
-msgid "Kate's mascot, Kate the Cyber Woodpecker, was designed by [Tyson Tan](https://www.tysontan.com/)."
-msgstr "ကိတ်၏လာဘ်ကောင်၊ ဆိုက်ဘာသစ်တောက်ငှက်လေးကိတ်ကို [တိုင်ဆွန်တန်](https://www.tysontan.com/) မှ ဒီဇိုင်းဆွဲခဲ့သည်။"
+msgid ""
+"Kate's mascot, Kate the Cyber Woodpecker, was designed by [Tyson Tan]"
+"(https://www.tysontan.com/)."
+msgstr ""
+"ကိတ်၏လာဘ်ကောင်၊ ဆိုက်ဘာသစ်တောက်ငှက်လေးကိတ်ကို [တိုင်ဆွန်တန်](https://www.tysontan.com/) မှ "
+"ဒီဇိုင်းဆွဲခဲ့သည်။"
 
 #: content/mascot.md:14
 msgid ""
-"The current evolution of our mascot was first unveiled [in April 2021](/post/2021/2021-04-28-lets-welcome-kate-the-"
-"cyber-woodpecker/)."
+"The current evolution of our mascot was first unveiled [in April 2021](/"
+"post/2021/2021-04-28-lets-welcome-kate-the-cyber-woodpecker/)."
 msgstr ""
-"ကျွန်ုပ်တို့လာဘ်ကောင်၏ လက်ရှိပြောင်းလဲမှုကို [ဧပြီ ၂၀၂၁](/post/2021/2021-04-28-lets-welcome-kate-the-cyber-woodpecker/)တွင် ပထမဆုံးအဖြစ် "
-"ဖွင့်ဟခဲ့သည်။"
+"ကျွန်ုပ်တို့လာဘ်ကောင်၏ လက်ရှိပြောင်းလဲမှုကို [ဧပြီ ၂၀၂၁](/post/2021/2021-04-28-lets-welcome-"
+"kate-the-cyber-woodpecker/)တွင် ပထမဆုံးအဖြစ် ဖွင့်ဟခဲ့သည်။"
 
 #: content/mascot.md:16
 msgid "Kate the Cyber Woodpecker"
 msgstr "ဆိုက်ဘာသစ်တောက်ငှက်လေးကိတ်"
 
 #: content/mascot.md:18
-msgid "![Kate the Cyber Woodpecker](/images/mascot/electrichearts_20210103_kate_normal.png)"
-msgstr "![Kate the Cyber Woodpecker](/images/mascot/electrichearts_20210103_kate_normal.png)"
+msgid ""
+"![Kate the Cyber Woodpecker](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
+msgstr ""
+"![Kate the Cyber Woodpecker](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
 
 #: content/mascot.md:20
 msgid "Version without footer text"
 msgstr "စာမျက်နှာအောက်ခြေစာသားမပါသော ဗားရှင်း"
 
 #: content/mascot.md:22
-msgid "![Kate the Cyber Woodpecker - Without Text](/images/mascot/electrichearts_20210103_kate_notext.png)"
-msgstr "![Kate the Cyber Woodpecker - Without Text](/images/mascot/electrichearts_20210103_kate_notext.png)"
+msgid ""
+"![Kate the Cyber Woodpecker - Without Text](/images/mascot/"
+"electrichearts_20210103_kate_notext.png)"
+msgstr ""
+"![Kate the Cyber Woodpecker - Without Text](/images/mascot/"
+"electrichearts_20210103_kate_notext.png)"
 
 #: content/mascot.md:24
 msgid "Version without background"
 msgstr "နောက်ခံပုံမပါသော ဗားရှင်း"
 
 #: content/mascot.md:26
-msgid "![Kate the Cyber Woodpecker - Without Background](/images/mascot/electrichearts_20210103_kate_transparent.png)"
-msgstr "![Kate the Cyber Woodpecker - Without Background](/images/mascot/electrichearts_20210103_kate_transparent.png)"
+msgid ""
+"![Kate the Cyber Woodpecker - Without Background](/images/mascot/"
+"electrichearts_20210103_kate_transparent.png)"
+msgstr ""
+"![Kate the Cyber Woodpecker - Without Background](/images/mascot/"
+"electrichearts_20210103_kate_transparent.png)"
 
 #: content/mascot.md:28
 msgid "Licensing"
@@ -415,13 +487,15 @@ msgstr "လိုင်စင်အတွက်၊ တိုင်ဆွန်�
 
 #: content/mascot.md:32
 msgid ""
-"I hereby donate the new Kate the Cyber Woodpecker to Kate Editor project. The artworks are dual licensed under LGPL "
-"(or whatever the same as Kate Editor) and Creative Commons BY-SA. In this way you don't need to ask me for "
+"I hereby donate the new Kate the Cyber Woodpecker to Kate Editor project. "
+"The artworks are dual licensed under LGPL (or whatever the same as Kate "
+"Editor) and Creative Commons BY-SA. In this way you don't need to ask me for "
 "permission before using/modifying the mascot."
 msgstr ""
-"ဤနေ့မှစ၍ ကျွန်ုပ် ဆိုက်ဘာသစ်တောက်ငှက်လေးကိတ်အသစ်ကို ကိတ်စာသားတည်းဖြတ်ကိရိယာပရောဂျက်သို့ လှူဒါန်းလိုက်သည်။ အနုပညာလက်ရာများကို အယ်ဂျီပီအယ် (သို့မဟုတ် "
-"ကိတ်ပရောဂျက်သုံးသောလိုင်စင်) နှင့် အများပြည်သူပိုင်ဖန်တီးမှု BY-SA လိုင်စင်နှစ်ခုခံထားသည်။ ထိုသို့လုပ်ခြင်းအားဖြင့် သင်လည်း လာဘ်ကောင်ကို သုံးချင်သည့်အခါ၊ မွမ်းမံချင်သည့်အခါ "
-"ကျွန်ုပ်ထံ ခွင့်ပြုချက်တောင်းစရာမလိုတော့ပါ။"
+"ဤနေ့မှစ၍ ကျွန်ုပ် ဆိုက်ဘာသစ်တောက်ငှက်လေးကိတ်အသစ်ကို ကိတ်စာသားတည်းဖြတ်ကိရိယာပရောဂျက်သို့ လှူဒါန်းလိုက်သည်။ "
+"အနုပညာလက်ရာများကို အယ်ဂျီပီအယ် (သို့မဟုတ် ကိတ်ပရောဂျက်သုံးသောလိုင်စင်) နှင့် အများပြည်သူပိုင်ဖန်တီးမှု BY-SA "
+"လိုင်စင်နှစ်ခုခံထားသည်။ ထိုသို့လုပ်ခြင်းအားဖြင့် သင်လည်း လာဘ်ကောင်ကို သုံးချင်သည့်အခါ၊ မွမ်းမံချင်သည့်အခါ ကျွန်ုပ်ထံ "
+"ခွင့်ပြုချက်တောင်းစရာမလိုတော့ပါ။"
 
 #: content/mascot.md:36
 msgid "Kate the Cyber Woodpecker's design history"
@@ -429,36 +503,50 @@ msgstr "ဆိုက်ဘာသစ်တောက်ငှက်လေးကိ
 
 #: content/mascot.md:38
 msgid ""
-"I asked Tyson if I can share the intermediate versions we exchanged to show the evolution and he agreed and even "
-"wrote some short summaries about the individual steps. This includes the initial mascot and the icon that fit into "
-"this design evolution. I therefore just quote what he wrote about the different steps below."
+"I asked Tyson if I can share the intermediate versions we exchanged to show "
+"the evolution and he agreed and even wrote some short summaries about the "
+"individual steps. This includes the initial mascot and the icon that fit "
+"into this design evolution. I therefore just quote what he wrote about the "
+"different steps below."
 msgstr ""
-"ကျွန်ုပ်တို့လဲလှယ်ခဲ့ကြသော ကြားဗားရှင်းများကို တိုးတက်ပြောင်းလဲလာမှုအား ပြရန် ဝေမှျနိုင်မလားဟု တိုင်ဆွန်ကို မေးခဲ့သည်။ သူသဘောတူခဲ့သည့်အပြင် "
-"ခြေလမ်းတစ်ခုစီ၏အကျဥ်းချုပ်များပါ ရေးပေးလိုက်သည်။ ဤဒီဇိုင်းပြောင်းလဲမှုနှင့် သင့်တော်သော ကနဦးလာဘ်ကောင်နှင့် အိုင်ကွန် ပါဝင်သည်။ ထို့ကြောင့် အောက်တွင် ကျွန်ုပ် "
-"သူရေးပေးလိုက်သည်များကိုသာ ပြန်ကိုးကားလိုက်သည်။"
+"ကျွန်ုပ်တို့လဲလှယ်ခဲ့ကြသော ကြားဗားရှင်းများကို တိုးတက်ပြောင်းလဲလာမှုအား ပြရန် ဝေမှျနိုင်မလားဟု တိုင်ဆွန်ကို "
+"မေးခဲ့သည်။ သူသဘောတူခဲ့သည့်အပြင် ခြေလမ်းတစ်ခုစီ၏အကျဥ်းချုပ်များပါ ရေးပေးလိုက်သည်။ ဤဒီဇိုင်းပြောင်းလဲမှုနှင့် "
+"သင့်တော်သော ကနဦးလာဘ်ကောင်နှင့် အိုင်ကွန် ပါဝင်သည်။ ထို့ကြောင့် အောက်တွင် ကျွန်ုပ် သူရေးပေးလိုက်သည်များကိုသာ "
+"ပြန်ကိုးကားလိုက်သည်။"
 
 #: content/mascot.md:42
 msgid "2014 - Kate the Woodpecker"
 msgstr "၂၀၁၄ - သစ်တောက်ငှက်လေး ကိတ်"
 
 #: content/mascot.md:44
-msgid "![2014 version - Kate the Woodpecker](/images/mascot/history/Kate_editor_mascot_woodpecker.png)"
-msgstr "![2014 version - Kate the Woodpecker](/images/mascot/history/Kate_editor_mascot_woodpecker.png)"
+msgid ""
+"![2014 version - Kate the Woodpecker](/images/mascot/history/"
+"Kate_editor_mascot_woodpecker.png)"
+msgstr ""
+"![2014 version - Kate the Woodpecker](/images/mascot/history/"
+"Kate_editor_mascot_woodpecker.png)"
 
 #: content/mascot.md:46
 msgid ""
-"The 2014 version was done perhaps during my lowest point as an artist. I had not been drawing much in years, and was "
-"on the verge of giving up completely. There were some interesting ideas in this version, namely the {} brackets on "
-"her chest, and the color scheme inspired by doxygen code highlighting. However, the execution was very simplistic -- "
-"at that time, I deliberately stop using any fancy techniques to expose my inadequate base skills. In the followed "
-"years, I would be going through an arduous process to rebuild my broken, self-taught art foundation from the ground "
-"up. I'm grateful that the Kate team still kept this one on their website for many years."
+"The 2014 version was done perhaps during my lowest point as an artist. I had "
+"not been drawing much in years, and was on the verge of giving up "
+"completely. There were some interesting ideas in this version, namely the {} "
+"brackets on her chest, and the color scheme inspired by doxygen code "
+"highlighting. However, the execution was very simplistic -- at that time, I "
+"deliberately stop using any fancy techniques to expose my inadequate base "
+"skills. In the followed years, I would be going through an arduous process "
+"to rebuild my broken, self-taught art foundation from the ground up. I'm "
+"grateful that the Kate team still kept this one on their website for many "
+"years."
 msgstr ""
-"၂၀၁၄ ဗားရှင်းကို ကျွန်ုပ် အနုပညာသည်အဖြစ် အနိမ့်ဆုံးနေ့ရက်များတွင် ရေးဆွဲခဲ့သည်။ ကျွန်ုပ် မရေးဆွဲတော့သည်မှာ နှစ်အတော်ကြာပြီဖြစ်၍ လက်လျော့လိုက်ဖို့ လုပ်နေပြီဖြစ်သည်။ "
-"ဤဗားရှင်းမှာ စိတ်ဝင်စားစရာကောင်းသော အချို့အကြံဉာဏ်များ ပါရှိသည်။ ပြောရလျှင် ယင်း၏ရင်ဘက်ပေါ်က {} တွန့်ကွင်းများ၊ ဒီအောက်စီဂျင်ကုတ်အလင်းတင်ပြခြင်းမှ "
-"စိတ်ကူးပေါ်လာသော အရောင်အစီအစဥ်ပြပုံ တို့ဖြစ်သည်။ သို့သော် ရေးဆွဲမှုကတော့ အလွန်ရိုးရှင်းသည်။ အဲ့အချိန်တုန်းက ကျွန်ုပ်အရည်အချင်းမပြည့်ဝမှု မပေါ်စေရန် ဖန်စီဖြစ်သော "
-"နည်းလမ်းများကို တမင်တကာရှောင်ခဲ့သည်။ နောက်ပိုင်းနှစ်များမှာတော့ အခြေခံကစ၍ ကျွန်ုပ်ကို ကျွန်ုပ် ပြန်လည်သင်ကြားပြုပြင်ခဲ့သည်။ နှစ်ပေါင်းမြောက်များစွာ သူတို့၏ဝက်ဘ်ဆိုက်တွင် "
-"ဤဗားရှင်းကို ထားထားပေးသော ကိတ်အသင်းကို ကျွန်ုပ်အလွန်ကေျးဇူးတင်ပါသည်။"
+"၂၀၁၄ ဗားရှင်းကို ကျွန်ုပ် အနုပညာသည်အဖြစ် အနိမ့်ဆုံးနေ့ရက်များတွင် ရေးဆွဲခဲ့သည်။ ကျွန်ုပ် မရေးဆွဲတော့သည်မှာ "
+"နှစ်အတော်ကြာပြီဖြစ်၍ လက်လျော့လိုက်ဖို့ လုပ်နေပြီဖြစ်သည်။ ဤဗားရှင်းမှာ စိတ်ဝင်စားစရာကောင်းသော "
+"အချို့အကြံဉာဏ်များ ပါရှိသည်။ ပြောရလျှင် ယင်း၏ရင်ဘက်ပေါ်က {} တွန့်ကွင်းများ၊ "
+"ဒီအောက်စီဂျင်ကုတ်အလင်းတင်ပြခြင်းမှ စိတ်ကူးပေါ်လာသော အရောင်အစီအစဥ်ပြပုံ တို့ဖြစ်သည်။ သို့သော် ရေးဆွဲမှုကတော့ "
+"အလွန်ရိုးရှင်းသည်။ အဲ့အချိန်တုန်းက ကျွန်ုပ်အရည်အချင်းမပြည့်ဝမှု မပေါ်စေရန် ဖန်စီဖြစ်သော နည်းလမ်းများကို "
+"တမင်တကာရှောင်ခဲ့သည်။ နောက်ပိုင်းနှစ်များမှာတော့ အခြေခံကစ၍ ကျွန်ုပ်ကို ကျွန်ုပ် ပြန်လည်သင်ကြားပြုပြင်ခဲ့သည်။ "
+"နှစ်ပေါင်းမြောက်များစွာ သူတို့၏ဝက်ဘ်ဆိုက်တွင် ဤဗားရှင်းကို ထားထားပေးသော ကိတ်အသင်းကို "
+"ကျွန်ုပ်အလွန်ကေျးဇူးတင်ပါသည်။"
 
 #: content/mascot.md:53
 msgid "2020 - The new Kate icon"
@@ -470,66 +558,91 @@ msgstr "![2020 - The new Kate icon](/images/mascot/history/kate-3000px.png)"
 
 #: content/mascot.md:57
 msgid ""
-"The new Kate icon was the only time I attempted real vector art. It was at that time I began to develop some faint "
-"artistic sense. I had no previous experience of icon design, there was zero discipline like math-guided proportion. "
-"Every shape and curve was tweaked using my instinct as an artist. The concept was very simple: it's a bird shaped "
-"like the letter \"K\", and it has to be sharp. The bird was chunkier until Christoph pointed it out, I later turned "
-"it into a more sleek shape."
+"The new Kate icon was the only time I attempted real vector art. It was at "
+"that time I began to develop some faint artistic sense. I had no previous "
+"experience of icon design, there was zero discipline like math-guided "
+"proportion. Every shape and curve was tweaked using my instinct as an "
+"artist. The concept was very simple: it's a bird shaped like the letter \"K"
+"\", and it has to be sharp. The bird was chunkier until Christoph pointed it "
+"out, I later turned it into a more sleek shape."
 msgstr ""
-"ကိတ်အိုင်ကွန်အသစ်ရေးဆွဲရာတွင် ကျွန်ုပ် တကယ်အစစ်အမှန်ဗက်တာအနုပညာကို စသုံးကြည့်ခဲ့သည်။ အဲ့အချိန်ကစပြီး ကျွန်ုပ် ရေးတေးတေးအနုပညာမြောက်အာရုံလေးရလာသည်။ ကျွန်ုပ်မှာ "
-"အိုင်ကွန်ဒီဇိုင်းနှင့် ပတ်သတ်၍ အတွေ့အကြုံမရှိပါ။ သင်္ချာနည်းညွှန်အချိုးအစားဆိုတာ ဘာမှန်းကို မသိခဲ့ပါ။ ပုံစံတိုင်း၊ မျဥ်းကွေးတိုင်းကို အနုပညာသည်တစ်ယောက်အဖြစ် ကျွန်ုပ်၏အာရုံဖြင့် "
-"ရေးဆွဲခဲ့သည်။ သဘောတရားကတော့ အလွန်ရှင်းသည် - စာလုံး 'K' ကဲ့သို့ ငှက်ပုံစံဖြစ်ရမည်၊ နောက်ပြီး မြင်ကွင်းထဲ ထင်းနေရမည်။ ခရစ်တို မညွှန်ပြခင်တုန်းက ငှက်သည် ဝနေခဲ့သည်။ "
-"နောက်ကျ ယင်းကို ပိုမိုပိန်ပါးသော ပုံစံ ပြောင်းခဲ့သည်။"
+"ကိတ်အိုင်ကွန်အသစ်ရေးဆွဲရာတွင် ကျွန်ုပ် တကယ်အစစ်အမှန်ဗက်တာအနုပညာကို စသုံးကြည့်ခဲ့သည်။ အဲ့အချိန်ကစပြီး ကျွန်ုပ် "
+"ရေးတေးတေးအနုပညာမြောက်အာရုံလေးရလာသည်။ ကျွန်ုပ်မှာ အိုင်ကွန်ဒီဇိုင်းနှင့် ပတ်သတ်၍ အတွေ့အကြုံမရှိပါ။ "
+"သင်္ချာနည်းညွှန်အချိုးအစားဆိုတာ ဘာမှန်းကို မသိခဲ့ပါ။ ပုံစံတိုင်း၊ မျဥ်းကွေးတိုင်းကို အနုပညာသည်တစ်ယောက်အဖြစ် "
+"ကျွန်ုပ်၏အာရုံဖြင့် ရေးဆွဲခဲ့သည်။ သဘောတရားကတော့ အလွန်ရှင်းသည် - စာလုံး 'K' ကဲ့သို့ ငှက်ပုံစံဖြစ်ရမည်၊ နောက်ပြီး "
+"မြင်ကွင်းထဲ ထင်းနေရမည်။ ခရစ်တို မညွှန်ပြခင်တုန်းက ငှက်သည် ဝနေခဲ့သည်။ နောက်ကျ ယင်းကို ပိုမိုပိန်ပါးသော ပုံစံ "
+"ပြောင်းခဲ့သည်။"
 
 #: content/mascot.md:64
 msgid "2021 - Mascot sketch"
 msgstr "၂၀၂၁ - လာဘ်ကောင်ပုံကြမ်း"
 
 #: content/mascot.md:66
-msgid "![2021 version - Sketch of the new mascot](/images/mascot/history/electrichearts_20210103_kate_sketch.png)"
-msgstr "![2021 version - Sketch of the new mascot](/images/mascot/history/electrichearts_20210103_kate_sketch.png)"
+msgid ""
+"![2021 version - Sketch of the new mascot](/images/mascot/history/"
+"electrichearts_20210103_kate_sketch.png)"
+msgstr ""
+"![2021 version - Sketch of the new mascot](/images/mascot/history/"
+"electrichearts_20210103_kate_sketch.png)"
 
 #: content/mascot.md:68
 msgid ""
-"In this initial sketch, I was tempted to ditch the robotic concept and just draw a cute good looking bird instead."
-msgstr "ကနဦးပုံကြမ်းတွင် စက်ရုပ်ဆန်ဆန်သဘောတရားကို စွန့်ပစ်၍ ချစ်စရာကောင်းသော ငှက်လေးဆွဲရန် အာရုံရခဲ့သေးသည်။"
+"In this initial sketch, I was tempted to ditch the robotic concept and just "
+"draw a cute good looking bird instead."
+msgstr ""
+"ကနဦးပုံကြမ်းတွင် စက်ရုပ်ဆန်ဆန်သဘောတရားကို စွန့်ပစ်၍ ချစ်စရာကောင်းသော ငှက်လေးဆွဲရန် အာရုံရခဲ့သေးသည်။"
 
 #: content/mascot.md:70
 msgid "2021 - Mascot design"
 msgstr "၂၀၂၁ - လာဘ်ကောင်ဒီဇိုင်း"
 
 #: content/mascot.md:72
-msgid "![2021 version - Redesign of the new mascot](/images/mascot/history/electrichearts_20210103_kate_design.png)"
-msgstr "![2021 version - Redesign of the new mascot](/images/mascot/history/electrichearts_20210103_kate_design.png)"
+msgid ""
+"![2021 version - Redesign of the new mascot](/images/mascot/history/"
+"electrichearts_20210103_kate_design.png)"
+msgstr ""
+"![2021 version - Redesign of the new mascot](/images/mascot/history/"
+"electrichearts_20210103_kate_design.png)"
 
 #: content/mascot.md:74
 msgid ""
-"Kate's mascot re-design resumed after I finished drawing the new splash picture for the upcoming Krita 5.0. I was "
-"able to push myself to do more each time I attempted a new picture at that time, so I was determined to keep the "
-"robotic concept. Although the proportion was off, the mech design elements was more or less coined in this one."
+"Kate's mascot re-design resumed after I finished drawing the new splash "
+"picture for the upcoming Krita 5.0. I was able to push myself to do more "
+"each time I attempted a new picture at that time, so I was determined to "
+"keep the robotic concept. Although the proportion was off, the mech design "
+"elements was more or less coined in this one."
 msgstr ""
-"လာမည့် ကရီတာ ၅.၀အတွက် စဖွင့်သည်နှင့်ပေါ်သောပုံအသစ်ကို ရေးဆွဲပြီးနောက်မှာ ကိတ်၏လာဘ်ကောင်ဒီဇိုင်းပြန်ဆွဲမှုကို ပြန်စတင်ခဲ့သည်။ အဲ့အချိန်တုန်းက ကျွန်ပ် ပုံတစ်ပုံဆွဲတိုင်း ယခင်ကထက် "
-"ပိုလုပ်လာနိုင်သောကြောင့် ကျွန်ုပ် စက်ရုပ်သဘောတရားဖြင့် ဆက်ဆွဲရန် ဆုံးဖြတ်ခဲ့သည်။ အချိုးအစားမညီသော်လည်း စက်ဒီဇိုင်းအစိတ်အပိုင်းများကို ဤတစ်ခုမှာတော့ "
-"အဆင်ပြေပြေပေါင်းစည်းဖန်တီးနိုင်ခဲ့သည်။"
+"လာမည့် ကရီတာ ၅.၀အတွက် စဖွင့်သည်နှင့်ပေါ်သောပုံအသစ်ကို ရေးဆွဲပြီးနောက်မှာ ကိတ်၏လာဘ်ကောင်ဒီဇိုင်းပြန်ဆွဲမှုကို "
+"ပြန်စတင်ခဲ့သည်။ အဲ့အချိန်တုန်းက ကျွန်ပ် ပုံတစ်ပုံဆွဲတိုင်း ယခင်ကထက် ပိုလုပ်လာနိုင်သောကြောင့် ကျွန်ုပ် "
+"စက်ရုပ်သဘောတရားဖြင့် ဆက်ဆွဲရန် ဆုံးဖြတ်ခဲ့သည်။ အချိုးအစားမညီသော်လည်း စက်ဒီဇိုင်းအစိတ်အပိုင်းများကို "
+"ဤတစ်ခုမှာတော့ အဆင်ပြေပြေပေါင်းစည်းဖန်တီးနိုင်ခဲ့သည်။"
 
 #: content/mascot.md:78
 msgid "2021 - Final Mascot"
 msgstr "၂၀၂၁ - နောက်ဆုံးလာဘ်ကောင်"
 
 #: content/mascot.md:80
-msgid "![2021 version - Final Kate the Cyber Woodpecker](/images/mascot/electrichearts_20210103_kate_normal.png)"
-msgstr "![2021 version - Final Kate the Cyber Woodpecker](/images/mascot/electrichearts_20210103_kate_normal.png)"
+msgid ""
+"![2021 version - Final Kate the Cyber Woodpecker](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
+msgstr ""
+"![2021 version - Final Kate the Cyber Woodpecker](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
 
 #: content/mascot.md:82
 msgid ""
-"The proportion was adjusted after Christoph pointed it out. The pose was adjusted to feel more comfortable. The "
-"wings were re-drawn after studying on real bird wings. A cool-looking, detailed keyboard was hand-drawn to emphasize "
-"the main usage of the application. An abstract background was added with a proper 2D typography design. The general "
-"idea is: unmistakably cutting edge and artificial, but also unmistakably full of life and humanity."
+"The proportion was adjusted after Christoph pointed it out. The pose was "
+"adjusted to feel more comfortable. The wings were re-drawn after studying on "
+"real bird wings. A cool-looking, detailed keyboard was hand-drawn to "
+"emphasize the main usage of the application. An abstract background was "
+"added with a proper 2D typography design. The general idea is: unmistakably "
+"cutting edge and artificial, but also unmistakably full of life and humanity."
 msgstr ""
-"ခရစ်တို ညွှန်ပြပြီးတဲ့နောက် အချိုးအစားကို ချိန်ညိှလိုက်သည်။ ဟန်ကို ကြည့်ရတာပိုသက်တောင့်သက်သာဖြစ်စေရန်် ပြင်လိုက်သည်။ ငှက်အစစ်၏တောင်ပံများကို လေ့လာပြီးနောက် တောင်ပံများကို "
-"ပြန်ဆွဲလိုက်သည်။ အပ္ပလီကေးရှင်း၏အဓိကအသုံးပြုပုံကို ပေါ်လွင်စေရန် စွန်းကြည့်ကောင်းသော အသေးစိတ်ကျသည့် ကီးဘုတ်ကို လက်နှင့်ရေးဆွဲခဲ့သည်။ နောက်ခံပုံကို သင့်တော်သော ၂ဒီ တိုက်ပိုဂရပ်ဖီ "
-"သုံး၍ ဆွဲထားသည်။ ယေဘုယျအမြင်ကတော့ - အမြင်မမှားနိုင်အောင် နောက်ဆုံးပေါ်လူလုပ်စက်ပစ္စည်း၊ သို့သော် လူသားဆန်သော ပုံရိပ်လေး ဖြစ်သည်။"
+"ခရစ်တို ညွှန်ပြပြီးတဲ့နောက် အချိုးအစားကို ချိန်ညိှလိုက်သည်။ ဟန်ကို ကြည့်ရတာပိုသက်တောင့်သက်သာဖြစ်စေရန်် ပြင်လိုက်သည်။ "
+"ငှက်အစစ်၏တောင်ပံများကို လေ့လာပြီးနောက် တောင်ပံများကို ပြန်ဆွဲလိုက်သည်။ အပ္ပလီကေးရှင်း၏အဓိကအသုံးပြုပုံကို "
+"ပေါ်လွင်စေရန် စွန်းကြည့်ကောင်းသော အသေးစိတ်ကျသည့် ကီးဘုတ်ကို လက်နှင့်ရေးဆွဲခဲ့သည်။ နောက်ခံပုံကို သင့်တော်သော ၂ဒီ "
+"တိုက်ပိုဂရပ်ဖီ သုံး၍ ဆွဲထားသည်။ ယေဘုယျအမြင်ကတော့ - အမြင်မမှားနိုင်အောင် နောက်ဆုံးပေါ်လူလုပ်စက်ပစ္စည်း၊ သို့သော် "
+"လူသားဆန်သော ပုံရိပ်လေး ဖြစ်သည်။"
 
 #: i18n/en.yaml:0
 msgid "Also available in:"
@@ -549,14 +662,19 @@ msgstr "ကိတ်သည် စွမ်းဆောင်ရည်ပြည�
 
 #: i18n/en.yaml:0
 msgid ""
-"Kate is packed with features that will make it easier for you to view and edit all your text files. Kate lets you to "
-"edit and view many files at the same time, both in tabs and split views, and comes with a wide variety of plugins, "
-"including an embedded terminal that lets you launch console commands directly from Kate, powerful search and replace "
-"plugins, and a preview plugin that can show you what your MD, HTML and even SVG will look like."
+"Kate is packed with features that will make it easier for you to view and "
+"edit all your text files. Kate lets you to edit and view many files at the "
+"same time, both in tabs and split views, and comes with a wide variety of "
+"plugins, including an embedded terminal that lets you launch console "
+"commands directly from Kate, powerful search and replace plugins, and a "
+"preview plugin that can show you what your MD, HTML and even SVG will look "
+"like."
 msgstr ""
-"ကိတ်ကို စွမ်းဆောင်ရည်အများအပြားထည့်သွင်းထားသောကြောင့် သင်အတွက် စာဖိုင်လ်များ ကြည့်ရန်၊ တည်းဖြတ်ရန်လွယ်ကူစေမည်။ ကိတ်သည် တစ်ချိန်တည်းတွင် ဖိုင်လ်များကို တပ်ဘ်များနှင့် "
-"မြင်ကွင်းအခွဲများတွင် တည်းဖြတ်နိုင်ပေသည်။ ပြီးနောက် ပလပ်ဂင်များလည်းပါဝင်သည်။ ၎င်းတို့တွင် ကိတ်တွင်တိုက်ရိုက်သုံးနိုင်သော မြုပ်သွင်းတာမီနယ်၊ ရှာဖွေ၊အစားထိုးပလပ်ဂင်များနှင့် "
-"သင်၏အမ်ဒီ၊ အိပ်ချ်တီအမ်အယ် အပြင် အက်စ်ဗွီဂျီဘာ ဘယ်လိုပေါ်မည်ဆိုသည်ကို ပြသော အကြိုမြင်ကွင်းပြပလပ်ဂင် စသည်တို့ ပါဝင်သည်။"
+"ကိတ်ကို စွမ်းဆောင်ရည်အများအပြားထည့်သွင်းထားသောကြောင့် သင်အတွက် စာဖိုင်လ်များ ကြည့်ရန်၊ "
+"တည်းဖြတ်ရန်လွယ်ကူစေမည်။ ကိတ်သည် တစ်ချိန်တည်းတွင် ဖိုင်လ်များကို တပ်ဘ်များနှင့် မြင်ကွင်းအခွဲများတွင် "
+"တည်းဖြတ်နိုင်ပေသည်။ ပြီးနောက် ပလပ်ဂင်များလည်းပါဝင်သည်။ ၎င်းတို့တွင် ကိတ်တွင်တိုက်ရိုက်သုံးနိုင်သော "
+"မြုပ်သွင်းတာမီနယ်၊ ရှာဖွေ၊အစားထိုးပလပ်ဂင်များနှင့် သင်၏အမ်ဒီ၊ အိပ်ချ်တီအမ်အယ် အပြင် အက်စ်ဗွီဂျီဘာ "
+"ဘယ်လိုပေါ်မည်ဆိုသည်ကို ပြသော အကြိုမြင်ကွင်းပြပလပ်ဂင် စသည်တို့ ပါဝင်သည်။"
 
 #: i18n/en.yaml:0
 msgid "All Features"
@@ -568,13 +686,16 @@ msgstr "[Syntax Highlighting](/syntax) ဖြင့် သင်၏ကုတ်�
 
 #: i18n/en.yaml:0
 msgid ""
-"Kate supports highlighting for over 300 languages making it easier to read code in almost all programming languages. "
-"Kate also understands how brackets works and will help you navigate inside complex code blocks hierarchies. On-the-"
-"fly spellchecking is also included and will help you check your text before publishing."
+"Kate supports highlighting for over 300 languages making it easier to read "
+"code in almost all programming languages. Kate also understands how brackets "
+"works and will help you navigate inside complex code blocks hierarchies. On-"
+"the-fly spellchecking is also included and will help you check your text "
+"before publishing."
 msgstr ""
-"ကိတ်သည် ဘာသာစကားသုံးရာကျော်ကို အလင်းတင်ပြပေးနိုင်သည်။ ထို့ကြောင့် ပရိုဂရမ်မင်းဘာသာစကားအားလုံး၌ ကုတ်ဖတ်ရှုရာတွင် လွယ်ကူစေသည်။ ကွင်းများ ဘယ်လိုပြုမူသည်ကို "
-"ကိတ်နားလည်သောကြောင့် ရှုပ်ထွေးလှသော ကုတ်အတုံးအဆင့်အစီအစည်များတွင် သွားလာရ၌ ကူညီပေးနိုင်သည်။ စာရေးစဥ်တန်း၍စာလုံးပေါင်းစစ်ဆေးခြင်းပါဝင်သောကြောင့် မထုတ်ဝေမီ "
-"စာများကို စစ်ဆေးရာတွင် ကူညီနိုင်ပေသည်။"
+"ကိတ်သည် ဘာသာစကားသုံးရာကျော်ကို အလင်းတင်ပြပေးနိုင်သည်။ ထို့ကြောင့် ပရိုဂရမ်မင်းဘာသာစကားအားလုံး၌ "
+"ကုတ်ဖတ်ရှုရာတွင် လွယ်ကူစေသည်။ ကွင်းများ ဘယ်လိုပြုမူသည်ကို ကိတ်နားလည်သောကြောင့် ရှုပ်ထွေးလှသော "
+"ကုတ်အတုံးအဆင့်အစီအစည်များတွင် သွားလာရ၌ ကူညီပေးနိုင်သည်။ "
+"စာရေးစဥ်တန်း၍စာလုံးပေါင်းစစ်ဆေးခြင်းပါဝင်သောကြောင့် မထုတ်ဝေမီ စာများကို စစ်ဆေးရာတွင် ကူညီနိုင်ပေသည်။"
 
 #: i18n/en.yaml:0
 msgid "Screenshot of Kate with syntax highlighting"
@@ -590,13 +711,15 @@ msgstr "ရှုပ်ထွေးလှသော ပရောဂျက်မ�
 
 #: i18n/en.yaml:0
 msgid ""
-"Work on multiple files at the same time with split views. Use the project sidebar to navigate your project directory "
-"structures and use Kate's smart tabs to quickly access your recently opened documents. The powerful search and "
-"replace tool lets you quickly search inside your entire projects."
+"Work on multiple files at the same time with split views. Use the project "
+"sidebar to navigate your project directory structures and use Kate's smart "
+"tabs to quickly access your recently opened documents. The powerful search "
+"and replace tool lets you quickly search inside your entire projects."
 msgstr ""
-"ဖိုင်လ်အများအပြားကို ခွဲထားသော မြင်ကွင်းများနှင့် တစ်ပြိုင်တည်း အလုပ်လုပ်လိုက်ပါ။ ပရောဂျက်ဘေးတန်းကို သုံး၍ သင်၏ပရောဂျက်ဒါရိုက်ထရီဖွဲ့စည်းပုံများအတွင်း သွားလာလိုက်ပါ။ "
-"ကိတ်၏အလိုက်သိတပ်ဘ်များကို သုံး၍ မကြားသေးမီက ဖွင့်ထားခဲ့သော မှတ်တမ်းပုံနှိပ်မူများ ဖွင့်လိုက်ပါ။ ကောင်းမွန်လှသော ရှာဖွေ၊ အစားထိုး ကိရိယာဖြင့် သင်၏ပရောဂျက်များအတွင်း "
-"လျင်လျင်မြန်မြန်ရှာဖွေနိုင်ပေသည်။"
+"ဖိုင်လ်အများအပြားကို ခွဲထားသော မြင်ကွင်းများနှင့် တစ်ပြိုင်တည်း အလုပ်လုပ်လိုက်ပါ။ ပရောဂျက်ဘေးတန်းကို သုံး၍ "
+"သင်၏ပရောဂျက်ဒါရိုက်ထရီဖွဲ့စည်းပုံများအတွင်း သွားလာလိုက်ပါ။ ကိတ်၏အလိုက်သိတပ်ဘ်များကို သုံး၍ မကြားသေးမီက "
+"ဖွင့်ထားခဲ့သော မှတ်တမ်းပုံနှိပ်မူများ ဖွင့်လိုက်ပါ။ ကောင်းမွန်လှသော ရှာဖွေ၊ အစားထိုး ကိရိယာဖြင့် "
+"သင်၏ပရောဂျက်များအတွင်း လျင်လျင်မြန်မြန်ရှာဖွေနိုင်ပေသည်။"
 
 #: i18n/en.yaml:0
 msgid "Screenshot of Kate search and replace tool"
@@ -612,15 +735,19 @@ msgstr "သင်၏နောက်အပ္ပလီကေးရှင်းက
 
 #: i18n/en.yaml:0
 msgid ""
-"Kate is the perfect tool for programming as it includes autocompletion for many languages with the help of the "
-"[Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/). The editor has been "
-"optimized for editing code and provide scriptable auto indentation, VI input mode, rectangular block selection mode, "
-"smart comment and uncomment handling and much more."
+"Kate is the perfect tool for programming as it includes autocompletion for "
+"many languages with the help of the [Language Server Protocol (LSP)](https://"
+"microsoft.github.io/language-server-protocol/). The editor has been "
+"optimized for editing code and provide scriptable auto indentation, VI input "
+"mode, rectangular block selection mode, smart comment and uncomment handling "
+"and much more."
 msgstr ""
-"[ဘာသာစကားဆာဗာလုပ်ရိုးလုပ်ထုံး (အယ်လ်အက်စ်ပီ)](https://microsoft.github.io/language-server-protocol/) ၏အကူအညီဖြင့် "
-"ဘာသာစကားအများအပြားအတွက် အလိုအလျောက်စာပြီးမြောက်စေမှု ပါဝင်သည်။ ထို့ကြောင့် ၎င်းသည် ပရိုဂရမ်မင်းအတွက် အလွန်ကောင်းမွန်လှသော ကိရိယာတစ်ခုဖြစ်ပေသည်။ ၎င်းကို "
-"ကုတ်တည်းဖြတ်ရန်အတွက် သေချာရေးသားပေးထားသည်။ ညွှန်ကြားကုတ်ရေး၍ရသော အလိုအလျောက်အင်တင်းခြင်း၊ ဗွီအိုင် ပေးချက်ထုံးနည်း၊ ထောင့်မှန်စတုဂံတုံးရွေးချယ်ထုံးနည်း၊ "
-"အလိုက်တသိ မှတ်ချက်ရေးခြင်း၊ဖျက်ခြင်း ကိုင်တွယ်မှု နှင့် အခြားလုပ်ဆောင်ချက်အများအပြားပါဝင်ပေသည်။"
+"[ဘာသာစကားဆာဗာလုပ်ရိုးလုပ်ထုံး (အယ်လ်အက်စ်ပီ)](https://microsoft.github.io/language-server-"
+"protocol/) ၏အကူအညီဖြင့် ဘာသာစကားအများအပြားအတွက် အလိုအလျောက်စာပြီးမြောက်စေမှု ပါဝင်သည်။ "
+"ထို့ကြောင့် ၎င်းသည် ပရိုဂရမ်မင်းအတွက် အလွန်ကောင်းမွန်လှသော ကိရိယာတစ်ခုဖြစ်ပေသည်။ ၎င်းကို ကုတ်တည်းဖြတ်ရန်အတွက် "
+"သေချာရေးသားပေးထားသည်။ ညွှန်ကြားကုတ်ရေး၍ရသော အလိုအလျောက်အင်တင်းခြင်း၊ ဗွီအိုင် ပေးချက်ထုံးနည်း၊ "
+"ထောင့်မှန်စတုဂံတုံးရွေးချယ်ထုံးနည်း၊ အလိုက်တသိ မှတ်ချက်ရေးခြင်း၊ဖျက်ခြင်း ကိုင်တွယ်မှု နှင့် "
+"အခြားလုပ်ဆောင်ချက်အများအပြားပါဝင်ပေသည်။"
 
 #: i18n/en.yaml:0
 msgid "Plugins"
@@ -628,13 +755,17 @@ msgstr "ပလပ်ဂင်များ"
 
 #: i18n/en.yaml:0
 msgid ""
-"Kate contains many plugins installed by defaults, making it more powerful than any other text editor. Use the "
-"integrated terminal emulator to run commands directly from Kate, execute SQL queries with the SQL extension, use GDB "
-"to debug your program, build projects with just one click, and much, much more."
+"Kate contains many plugins installed by defaults, making it more powerful "
+"than any other text editor. Use the integrated terminal emulator to run "
+"commands directly from Kate, execute SQL queries with the SQL extension, use "
+"GDB to debug your program, build projects with just one click, and much, "
+"much more."
 msgstr ""
-"ကိတ်တွင် ဒီဖော့အားဖြင့် ပလပ်ဂင်အများအပြားပါဝင်သည်။ ထို့ကြောင့် ၎င်းသည် အခြားမည်သည်စာသားတည်းဖြတ်ကိရိယာထက်မဆို စွမ်းဆောင်ရည်ပြည့်ဝလှပေသည်။ ပေါင်းစည်းထားသော "
-"တာမီနယ်အီမြူလေတာကို ကိတ်တွင် တိုက်ရိုက်သုံး၍ အက်စ်ကျူအယ်စုံစမ်းမှုများဆောင်ရွက်ခြင်း၊ ဂျီဒီဘီသုံး၍ သင့်ပရိုဂရမ်ကိုပြစ်ချက်ရှာဖွေခြင်း၊ ပရောဂျက်များကို တစ်ချက်တည်းနှိပ်၍ "
-"တည်ဆေက်ခြင်းအပြင် အခြားလုပ်ဆောင်မှုအများအပြားအဝင်သည်။"
+"ကိတ်တွင် ဒီဖော့အားဖြင့် ပလပ်ဂင်အများအပြားပါဝင်သည်။ ထို့ကြောင့် ၎င်းသည် "
+"အခြားမည်သည်စာသားတည်းဖြတ်ကိရိယာထက်မဆို စွမ်းဆောင်ရည်ပြည့်ဝလှပေသည်။ ပေါင်းစည်းထားသော "
+"တာမီနယ်အီမြူလေတာကို ကိတ်တွင် တိုက်ရိုက်သုံး၍ အက်စ်ကျူအယ်စုံစမ်းမှုများဆောင်ရွက်ခြင်း၊ ဂျီဒီဘီသုံး၍ "
+"သင့်ပရိုဂရမ်ကိုပြစ်ချက်ရှာဖွေခြင်း၊ ပရောဂျက်များကို တစ်ချက်တည်းနှိပ်၍ တည်ဆေက်ခြင်းအပြင် "
+"အခြားလုပ်ဆောင်မှုအများအပြားအဝင်သည်။"
 
 #: i18n/en.yaml:0
 msgid "Konsole inside Kate"
@@ -654,13 +785,16 @@ msgstr "လင်းနက်စ်၊ ဝင်းဒိုးစ် နှင�
 
 #: i18n/en.yaml:0
 msgid ""
-"These buttons only work with [Discover]({{ .Get \"discoverLink\" }}) and other AppStream application stores, such as "
-"[GNOME Software](https://wiki.gnome.org/Apps/Software). You can also use your distribution's package manager, such "
-"as [Muon]({{ .Get \"muonLink\" }}) or [Synaptic](https://wiki.debian.org/Synaptic)."
+"These buttons only work with [Discover]({{ .Get \"discoverLink\" }}) and "
+"other AppStream application stores, such as [GNOME Software](https://wiki."
+"gnome.org/Apps/Software). You can also use your distribution's package "
+"manager, such as [Muon]({{ .Get \"muonLink\" }}) or [Synaptic](https://wiki."
+"debian.org/Synaptic)."
 msgstr ""
-"ဤခလုတ်များသည် [ဒစ်(စ)ကာဗာ]({{ .Get \"discoverLink\" }}) နှင့် [နုန်ဆော့ဖ်ဝဲ](https://wiki.gnome.org/Apps/"
-"Software)ကဲ့သို့အခြားအပ်စထရင်းအပ္ပလီကေးရှင်းစတိုးများတွင်သာ အလုပ်လုပ်သည်။ [မျူအွန်]({{ .Get \"muonLink\" }}) သို့မဟုတ် [ဆင်နက်တစ်](https://wiki."
-"debian.org/Synaptic) ကဲ့သို့ သင့်ဒစ်စထရီဗျူးရှင်း၏ပတ်ကေ့မန်နေဂျာကိုလည်း သုံးနိုင်ပါသည်။"
+"ဤခလုတ်များသည် [ဒစ်(စ)ကာဗာ]({{ .Get \"discoverLink\" }}) နှင့် [နုန်ဆော့ဖ်ဝဲ](https://"
+"wiki.gnome.org/Apps/Software)ကဲ့သို့အခြားအပ်စထရင်းအပ္ပလီကေးရှင်းစတိုးများတွင်သာ အလုပ်လုပ်သည်။ "
+"[မျူအွန်]({{ .Get \"muonLink\" }}) သို့မဟုတ် [ဆင်နက်တစ်](https://wiki.debian.org/"
+"Synaptic) ကဲ့သို့ သင့်ဒစ်စထရီဗျူးရှင်း၏ပတ်ကေ့မန်နေဂျာကိုလည်း သုံးနိုင်ပါသည်။"
 
 #. Used in the download badge on https://kate-editor.org/get-it/. Please make
 #. it as short as possible.
