@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-18 00:40+0000\n"
+"POT-Creation-Date: 2021-12-19 00:40+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -7048,7 +7048,7 @@ msgstr "ပိုင်ရှင်"
 msgid "Owning Group"
 msgstr "ပိုင်ဆိုင်သောအုပ်စု"
 
-#: widgets/kacleditwidget.cpp:410 widgets/kpropertiesdialog.cpp:2103
+#: widgets/kacleditwidget.cpp:410 widgets/kpropertiesdialog.cpp:2095
 #, kde-format
 msgid "Others"
 msgstr "အခြား"
@@ -7902,35 +7902,35 @@ msgctxt "@title:tab File properties"
 msgid "&General"
 msgstr "&Gယေဘုယျ"
 
-#: widgets/kpropertiesdialog.cpp:1102
+#: widgets/kpropertiesdialog.cpp:1094
 #, kde-format
 msgctxt "@action:button"
 msgid "Explore in %1"
 msgstr "%1 တွင်ရှာဖွေမည်"
 
-#: widgets/kpropertiesdialog.cpp:1113 widgets/kpropertiesdialog.cpp:1373
+#: widgets/kpropertiesdialog.cpp:1105 widgets/kpropertiesdialog.cpp:1365
 #, kde-format
 msgid "Refresh"
 msgstr "အသစ်တင်မည်"
 
-#: widgets/kpropertiesdialog.cpp:1225
+#: widgets/kpropertiesdialog.cpp:1217
 #, kde-format
 msgid "%1:"
 msgstr "%1 -"
 
-#: widgets/kpropertiesdialog.cpp:1333
+#: widgets/kpropertiesdialog.cpp:1325
 #, kde-format
 msgctxt "Available space out of total partition size (percent used)"
 msgid "%1 free of %2 (%3% used)"
 msgstr "%2 ၏ %1 လွတ် (%3% အသုံးပြု)"
 
-#: widgets/kpropertiesdialog.cpp:1340
+#: widgets/kpropertiesdialog.cpp:1332
 #, kde-format
 msgctxt "@info:status"
 msgid "Unknown size"
 msgstr "အရွယ်အစားမသိ"
 
-#: widgets/kpropertiesdialog.cpp:1350
+#: widgets/kpropertiesdialog.cpp:1342
 #, kde-format
 msgid ""
 "Calculating... %1 (%2)\n"
@@ -7939,114 +7939,114 @@ msgstr ""
 "တွက်နေသည်...%1 (%2)\n"
 "%3၊ %4"
 
-#: widgets/kpropertiesdialog.cpp:1353 widgets/kpropertiesdialog.cpp:1368
+#: widgets/kpropertiesdialog.cpp:1345 widgets/kpropertiesdialog.cpp:1360
 #, kde-format
 msgid "1 file"
 msgid_plural "%1 files"
 msgstr[0] "ဖိုင်လ် %1ခု"
 
-#: widgets/kpropertiesdialog.cpp:1354 widgets/kpropertiesdialog.cpp:1369
+#: widgets/kpropertiesdialog.cpp:1346 widgets/kpropertiesdialog.cpp:1361
 #, kde-format
 msgid "1 sub-folder"
 msgid_plural "%1 sub-folders"
 msgstr[0] "လက်အောက်ခံ-ဖိုလ်ဒါ %1ခု"
 
-#: widgets/kpropertiesdialog.cpp:1382
+#: widgets/kpropertiesdialog.cpp:1374
 #, kde-format
 msgid "Calculating...\n"
 msgstr "တွက်နေသည်...\n"
 
-#: widgets/kpropertiesdialog.cpp:1405
+#: widgets/kpropertiesdialog.cpp:1397
 #, kde-format
 msgid "At least %1"
 msgstr "အနည်းဆုံး %1"
 
-#: widgets/kpropertiesdialog.cpp:1451
+#: widgets/kpropertiesdialog.cpp:1443
 #, kde-format
 msgid "The new file name is empty."
 msgstr "ဖိုင်လ်အသစ်၏အမည်သည် ဗလာဖြစ်နေသည်။"
 
-#: widgets/kpropertiesdialog.cpp:1646
+#: widgets/kpropertiesdialog.cpp:1638
 #, kde-format
 msgid "No associated application"
 msgstr "သက်ဆိုင်သောအပ္ပလီကေးရှင်းမရှိ"
 
-#: widgets/kpropertiesdialog.cpp:1722 widgets/kpropertiesdialog.cpp:1723
-#: widgets/kpropertiesdialog.cpp:1725
+#: widgets/kpropertiesdialog.cpp:1714 widgets/kpropertiesdialog.cpp:1715
+#: widgets/kpropertiesdialog.cpp:1717
 msgid "No Access"
 msgstr "အသုံးပြုခွင့်မရှိ"
 
-#: widgets/kpropertiesdialog.cpp:1722
+#: widgets/kpropertiesdialog.cpp:1714
 msgid "Can Only View"
 msgstr "ကြည့်၍သာရသည်"
 
-#: widgets/kpropertiesdialog.cpp:1722
+#: widgets/kpropertiesdialog.cpp:1714
 msgid "Can View & Modify"
 msgstr "ကြည့်၍ မွမ်းမံနိုင်သည်"
 
-#: widgets/kpropertiesdialog.cpp:1723
+#: widgets/kpropertiesdialog.cpp:1715
 msgid "Can Only View Content"
 msgstr "ပါဝင်သောအကြောင်းအရာ ကြည့်၍သာရသည်"
 
-#: widgets/kpropertiesdialog.cpp:1723
+#: widgets/kpropertiesdialog.cpp:1715
 msgid "Can View & Modify Content"
 msgstr "ပါဝင်သောအကြောင်းအရာ ကြည့်၍မွမ်းမံနိုင်သည်"
 
-#: widgets/kpropertiesdialog.cpp:1725
+#: widgets/kpropertiesdialog.cpp:1717
 msgid "Can Only View/Read Content"
 msgstr "ပါဝင်သောအကြောင်းအရာ ကြည့်/ဖတ်၍သာရသည်"
 
-#: widgets/kpropertiesdialog.cpp:1725
+#: widgets/kpropertiesdialog.cpp:1717
 msgid "Can View/Read & Modify/Write"
 msgstr "ကြည့်/ဖတ် ၍ မွမ်းမံ/ရေး နိုင်သည်"
 
-#: widgets/kpropertiesdialog.cpp:1824
+#: widgets/kpropertiesdialog.cpp:1816
 #, kde-format
 msgid "&Permissions"
 msgstr "&Pခွင့်ပြုချက်များ"
 
-#: widgets/kpropertiesdialog.cpp:1836 widgets/kpropertiesdialog.cpp:2032
+#: widgets/kpropertiesdialog.cpp:1828 widgets/kpropertiesdialog.cpp:2024
 #, kde-format
 msgid "Access Permissions"
 msgstr "အသုံးပြုခွင့်ပေးချက်များ"
 
-#: widgets/kpropertiesdialog.cpp:1845
+#: widgets/kpropertiesdialog.cpp:1837
 #, kde-format
 msgid "This file is a link and does not have permissions."
 msgid_plural "All files are links and do not have permissions."
 msgstr[0] "ဖိုင်လ်သည် လင့်ခ်ဖြစ်ပြီး ခွင့်ပြုချက်များ မရှိပါ။"
 
-#: widgets/kpropertiesdialog.cpp:1847
+#: widgets/kpropertiesdialog.cpp:1839
 #, kde-format
 msgid "Only the owner can change permissions."
 msgstr "ပိုင်ရှင်သာ ခွင့်ပြုချက်များ ပြောင်းလဲနိုင်သည်။"
 
-#: widgets/kpropertiesdialog.cpp:1851
+#: widgets/kpropertiesdialog.cpp:1843
 #, kde-format
 msgid "O&wner:"
 msgstr "&wပိုင်ရှင် -"
 
-#: widgets/kpropertiesdialog.cpp:1857
+#: widgets/kpropertiesdialog.cpp:1849
 #, kde-format
 msgid "Specifies the actions that the owner is allowed to do."
 msgstr "ခွင့်ပြုထားသော ပိုင်ရှင်၏ လုပ်ဆောင်မှုများ သတ်မှတ်မည်။"
 
-#: widgets/kpropertiesdialog.cpp:1859
+#: widgets/kpropertiesdialog.cpp:1851
 #, kde-format
 msgid "Gro&up:"
 msgstr "&uအုပ်စု -"
 
-#: widgets/kpropertiesdialog.cpp:1865
+#: widgets/kpropertiesdialog.cpp:1857
 #, kde-format
 msgid "Specifies the actions that the members of the group are allowed to do."
 msgstr "ခွင့်ပြုထားသော အုပ်စုဝင်များ၏ လုပ်ဆောင်မှုများ သတ်မှတ်မည်။"
 
-#: widgets/kpropertiesdialog.cpp:1867
+#: widgets/kpropertiesdialog.cpp:1859
 #, kde-format
 msgid "O&thers:"
 msgstr "&tအခြားလူများ -"
 
-#: widgets/kpropertiesdialog.cpp:1874
+#: widgets/kpropertiesdialog.cpp:1866
 #, kde-format
 msgid ""
 "Specifies the actions that all users, who are neither owner nor in the "
@@ -8054,17 +8054,17 @@ msgid ""
 msgstr ""
 "ခွင့်ပြုထားသော (ပိုင်ရှင် မဟုတ်သည့်၊ အုပ်စုထဲတွင် မပါဝင်သည့်) အခြားအသုံးပြုသူများ၏ လုပ်ဆောင်မှုများ သတ်မှတ်မည်။"
 
-#: widgets/kpropertiesdialog.cpp:1878
+#: widgets/kpropertiesdialog.cpp:1870
 #, kde-format
 msgid "Only own&er can rename and delete folder content"
 msgstr "ဖိုလ်ဒါ၏ပါဝင်ဒေတာကို ပိုင်ရှင်သာ အမည်ပြောင်း၊ ဖျက်နိုင်သည်။"
 
-#: widgets/kpropertiesdialog.cpp:1878
+#: widgets/kpropertiesdialog.cpp:1870
 #, kde-format
 msgid "Is &executable"
 msgstr "&e လုပ်ဆောင်-ဖိုင်လ် ဖြစ်ပါသလား"
 
-#: widgets/kpropertiesdialog.cpp:1881
+#: widgets/kpropertiesdialog.cpp:1873
 #, kde-format
 msgid ""
 "Enable this option to allow only the folder's owner to delete or rename the "
@@ -8074,7 +8074,7 @@ msgstr ""
 "ဤအချက်ကို အသုံးပြုပါက ဖိုလ်ဒါပိုင်ရှင်ကိုသာ ပါဝင်ဖိုင်လ်၊ ဖိုလ်ဒါများ ဖျက်ခြင်း၊ အမည်ပြောင်းခြင်းတို့ကို "
 "ခွင့်ပြုမည်။ အခြားအသုံးပြုသူများအနေဖြင့် 'ပါဝင်ဒေတာမွမ်းမံမည်' ခွင့်ပြုချက်ရှိလျှင် ဖိုင်လ်အသစ်များ ထည့်နိုင်သည်။"
 
-#: widgets/kpropertiesdialog.cpp:1885
+#: widgets/kpropertiesdialog.cpp:1877
 #, kde-format
 msgid ""
 "Enable this option to mark the file as executable. This only makes sense for "
@@ -8083,42 +8083,42 @@ msgstr ""
 "ဖိုင်လ်ကို လုပ်ဆောင်-ဖိုင်လ် အဖြစ် မှတ်သားရန် ဤအချက်ကို အသုံးပြုပါ။ ယင်းအချက်သည် ပရိုဂရမ်နှင့် "
 "ညွှန်ကြားစာဖိုင်လ်များ အတွက်သာ အသုံးဝင်သည်။ ထိုအရာများကို လုပ်ဆောင်ချင်သောအခါ ယင်းအချက်ကို လိုအပ်သည်။"
 
-#: widgets/kpropertiesdialog.cpp:1892
+#: widgets/kpropertiesdialog.cpp:1884
 #, kde-format
 msgid "A&dvanced Permissions"
 msgstr "&dအဆင့်မြင့်ခွင့်ပြုချက်များ"
 
-#: widgets/kpropertiesdialog.cpp:1900
+#: widgets/kpropertiesdialog.cpp:1892
 #, kde-format
 msgid "Ownership"
 msgstr "ပိုင်ဆိုင်မှု"
 
-#: widgets/kpropertiesdialog.cpp:1907
+#: widgets/kpropertiesdialog.cpp:1899
 #, kde-format
 msgid "User:"
 msgstr "အသုံးပြုသူ -"
 
-#: widgets/kpropertiesdialog.cpp:1946
+#: widgets/kpropertiesdialog.cpp:1938
 #, kde-format
 msgid "Group:"
 msgstr "အုပ်စု -"
 
-#: widgets/kpropertiesdialog.cpp:1981
+#: widgets/kpropertiesdialog.cpp:1973
 #, kde-format
 msgid "Apply changes to all subfolders and their contents"
 msgstr "ပြောင်းလဲမှုများကို လက်အောက်ခံဖိုလ်ဒါများနှင့် ယင်းတို့၏အကြောင်းအရာများအား သက်ရောက်စေမည်"
 
-#: widgets/kpropertiesdialog.cpp:2023
+#: widgets/kpropertiesdialog.cpp:2015
 #, kde-format
 msgid "Advanced Permissions"
 msgstr "အဆင့်မြင့်ခွင့်ပြုချက်များ"
 
-#: widgets/kpropertiesdialog.cpp:2040
+#: widgets/kpropertiesdialog.cpp:2032
 #, kde-format
 msgid "Class"
 msgstr "အတန်း"
 
-#: widgets/kpropertiesdialog.cpp:2047
+#: widgets/kpropertiesdialog.cpp:2039
 #, kde-format
 msgid ""
 "Show\n"
@@ -8127,22 +8127,22 @@ msgstr ""
 "ပြမည်\n"
 "စာရင်းမှတ်ချက်များ"
 
-#: widgets/kpropertiesdialog.cpp:2048
+#: widgets/kpropertiesdialog.cpp:2040
 #, kde-format
 msgid "This flag allows viewing the content of the folder."
 msgstr "ဤအလံသည် ဖိုင်လ်၏ပါဝင်ဒေတာများကို ကြည့်ခွင့်ပြုသည်။"
 
-#: widgets/kpropertiesdialog.cpp:2050
+#: widgets/kpropertiesdialog.cpp:2042
 #, kde-format
 msgid "Read"
 msgstr "ဖတ်"
 
-#: widgets/kpropertiesdialog.cpp:2051
+#: widgets/kpropertiesdialog.cpp:2043
 #, kde-format
 msgid "The Read flag allows viewing the content of the file."
 msgstr "'ဖတ်' အလံသည် ဖိုင်လ်၏ပါဝင်ဒေတာများကို ကြည့်ခွင့်ပြုသည်။"
 
-#: widgets/kpropertiesdialog.cpp:2057
+#: widgets/kpropertiesdialog.cpp:2049
 #, kde-format
 msgid ""
 "Write\n"
@@ -8151,7 +8151,7 @@ msgstr ""
 "ရေး\n"
 "စာရင်းမှတ်ချက်များ"
 
-#: widgets/kpropertiesdialog.cpp:2059
+#: widgets/kpropertiesdialog.cpp:2051
 #, kde-format
 msgid ""
 "This flag allows adding, renaming and deleting of files. Note that deleting "
@@ -8160,94 +8160,94 @@ msgstr ""
 "ဤအလံသည် ဖိုင်လ်များ အသစ်ဖြည့်ခြင်း၊ အမည်ပြောင်းခြင်းနှင့် ဖျက်ခြင်းစသည်တို့ကို ခွင့်ပြုသည်။ ဖျက်ခြင်းနှင့် "
 "အမည်ပြောင်းခြင်းကိုတော့ စေးကပ်အလံ သုံး၍ ကန့်သတ်နိုင်သည်။"
 
-#: widgets/kpropertiesdialog.cpp:2062
+#: widgets/kpropertiesdialog.cpp:2054
 #, kde-format
 msgid "Write"
 msgstr "ရေး"
 
-#: widgets/kpropertiesdialog.cpp:2063
+#: widgets/kpropertiesdialog.cpp:2055
 #, kde-format
 msgid "The Write flag allows modifying the content of the file."
 msgstr "'ရေး' အလံသည် ဖိုင်လ်၏ပါဝင်ဒေတာများကို မွမ်းမံခွင့်ပြုသည်။"
 
-#: widgets/kpropertiesdialog.cpp:2069
+#: widgets/kpropertiesdialog.cpp:2061
 #, kde-format
 msgctxt "Enter folder"
 msgid "Enter"
 msgstr "ဝင်ရန်"
 
-#: widgets/kpropertiesdialog.cpp:2070
+#: widgets/kpropertiesdialog.cpp:2062
 #, kde-format
 msgid "Enable this flag to allow entering the folder."
 msgstr "ဖိုလ်ဒါအတွင်းဝင်ရောက်ခွင့်ပြုရန် ဤအလံကို ဖွင့်ပါ။"
 
-#: widgets/kpropertiesdialog.cpp:2072
+#: widgets/kpropertiesdialog.cpp:2064
 #, kde-format
 msgid "Exec"
 msgstr "ဆောင်ရွက်"
 
-#: widgets/kpropertiesdialog.cpp:2073
+#: widgets/kpropertiesdialog.cpp:2065
 #, kde-format
 msgid "Enable this flag to allow executing the file as a program."
 msgstr "ဖိုင်လ်ကို ပရိုဂရမ်အဖြစ်ဆောင်ရွက်ခွင့်ပြုရန် ဤအလံကို ဖွင့်ပါ။"
 
-#: widgets/kpropertiesdialog.cpp:2081
+#: widgets/kpropertiesdialog.cpp:2073
 #, kde-format
 msgid "Special"
 msgstr "အထူး"
 
-#: widgets/kpropertiesdialog.cpp:2086
+#: widgets/kpropertiesdialog.cpp:2078
 #, kde-format
 msgid ""
 "Special flag. Valid for the whole folder, the exact meaning of the flag can "
 "be seen in the right hand column."
 msgstr "အထူးအလံ။ ဖိုလ်ဒါတစ်ခုလုံးအတွက် အကျုံးဝင်သည်။ ယင်းအလံ၏ အဓိပ္ပါယ်အတိအကျကို ညာဘက်တိုင်တွင် တွေ့နိုင်သည်။"
 
-#: widgets/kpropertiesdialog.cpp:2090
+#: widgets/kpropertiesdialog.cpp:2082
 #, kde-format
 msgid ""
 "Special flag. The exact meaning of the flag can be seen in the right hand "
 "column."
 msgstr "အထူးအလံ။ ယင်းအလံ၏ အဓိပ္ပါယ်အတိအကျကို ညာဘက်တိုင်တွင် တွေ့နိုင်သည်။"
 
-#: widgets/kpropertiesdialog.cpp:2095
+#: widgets/kpropertiesdialog.cpp:2087
 #, kde-format
 msgid "User"
 msgstr "အသုံးပြုသူ"
 
-#: widgets/kpropertiesdialog.cpp:2099
+#: widgets/kpropertiesdialog.cpp:2091
 #, kde-format
 msgid "Group"
 msgstr "အုပ်စု"
 
-#: widgets/kpropertiesdialog.cpp:2110
+#: widgets/kpropertiesdialog.cpp:2102
 #, kde-format
 msgid ""
 "If this flag is set, the owner of this folder will be the owner of all new "
 "files."
 msgstr "ဤအလံသတ်မှတ်ထားပါက ဤဖိုလ်ဒါ၏ပိုင်ရှင်သည် ဖိုင်လ်အသစ်အားလုံး၏ ပိုင်ရှင်ဖြစ်လာမည်။"
 
-#: widgets/kpropertiesdialog.cpp:2114
+#: widgets/kpropertiesdialog.cpp:2106
 #, kde-format
 msgid ""
 "If this file is an executable and the flag is set, it will be executed with "
 "the permissions of the owner."
 msgstr "ဤဖိုင်လ်သည် လုပ်ဆောင်-ဖိုင်လ်ဖြစ်၍ အလံသတ်မှတ်ထားလျှင် ပိုင်ရှင်၏ခွင့်ပြုချက်များနှင့် အညီ လုပ်ဆောင်သွားမည်။"
 
-#: widgets/kpropertiesdialog.cpp:2121
+#: widgets/kpropertiesdialog.cpp:2113
 #, kde-format
 msgid ""
 "If this flag is set, the group of this folder will be set for all new files."
 msgstr "ဤအလံသတ်မှတ်ထားပါက ဤဖိုလ်ဒါ၏အုပ်စုထဲသို့ ဖိုင်လ်အသစ်အားလုံး ပို့မည်။"
 
-#: widgets/kpropertiesdialog.cpp:2125
+#: widgets/kpropertiesdialog.cpp:2117
 #, kde-format
 msgid ""
 "If this file is an executable and the flag is set, it will be executed with "
 "the permissions of the group."
 msgstr "ဤဖိုင်လ်သည် လုပ်ဆောင်-ဖိုင်လ်ဖြစ်၍ အလံသတ်မှတ်ထားလျှင် အုပ်စု၏ခွင့်ပြုချက်များနှင့် အညီ လုပ်ဆောင်သွားမည်။"
 
-#: widgets/kpropertiesdialog.cpp:2132
+#: widgets/kpropertiesdialog.cpp:2124
 #, kde-format
 msgid ""
 "If the Sticky flag is set on a folder, only the owner and root can delete or "
@@ -8256,7 +8256,7 @@ msgstr ""
 "ဖိုလ်ဒါတစ်ခုအပေါ် စေးကပ်-အလံ သတ်မှတ်ထားလျှင် ပိုင်ရှင်နှင့် rootသာ ၎င်း၏ဖိုင်လ်များကို ဖျက်နိုင်သည်၊ "
 "အမည်ပြောင်းနိုင်သည်။ မသတ်မှတ်ထားလျှင် ရေးခွင့် ရထားသော လူတိုင်း ထိုကဲ့သို့ လုပ်နိုင်သည်။"
 
-#: widgets/kpropertiesdialog.cpp:2137
+#: widgets/kpropertiesdialog.cpp:2129
 #, kde-format
 msgid ""
 "The Sticky flag on a file is ignored on Linux, but may be used on some "
@@ -8264,85 +8264,85 @@ msgid ""
 msgstr ""
 "ဖိုင်ပေါ်တွင်သတ်မှတ်ထားသော စေးကပ်အလံကို လင်းနပ်စ်တွင် လျစ်လျူရှုသည်။ သို့သော် အခြား စီမံစနစ်များတွင် အသုံးပြုသည်။"
 
-#: widgets/kpropertiesdialog.cpp:2198
+#: widgets/kpropertiesdialog.cpp:2190
 #, kde-format
 msgid "Set UID"
 msgstr "ယူအိုင်ဒီ သတ်မှတ်"
 
-#: widgets/kpropertiesdialog.cpp:2202
+#: widgets/kpropertiesdialog.cpp:2194
 #, kde-format
 msgid "Set GID"
 msgstr "ဂျီအိုင်ဒီ သတ်မှတ်"
 
-#: widgets/kpropertiesdialog.cpp:2206
+#: widgets/kpropertiesdialog.cpp:2198
 #, kde-format
 msgctxt "File permission"
 msgid "Sticky"
 msgstr "စေးကပ်"
 
-#: widgets/kpropertiesdialog.cpp:2311
+#: widgets/kpropertiesdialog.cpp:2303
 #, kde-format
 msgid "Link"
 msgstr "လင့်ခ်"
 
-#: widgets/kpropertiesdialog.cpp:2331
+#: widgets/kpropertiesdialog.cpp:2323
 #, kde-format
 msgid "Varying (No Change)"
 msgstr "လှုပ်နေသည်(ပြောင်းလဲချက်မရှိ)"
 
-#: widgets/kpropertiesdialog.cpp:2442
+#: widgets/kpropertiesdialog.cpp:2434
 #, kde-format
 msgid "This file uses advanced permissions"
 msgid_plural "These files use advanced permissions."
 msgstr[0] "ဖိုင်လ်သည် အဆင့်မြင့်ခွင့်ပြုချက်များ အသုံးပြုသည်။"
 
-#: widgets/kpropertiesdialog.cpp:2464
+#: widgets/kpropertiesdialog.cpp:2456
 #, kde-format
 msgid "This folder uses advanced permissions."
 msgid_plural "These folders use advanced permissions."
 msgstr[0] "ဖိုလ်ဒါသည် အဆင့်မြင့်ခွင့်ပြုချက်များ အသုံးပြုသည်။"
 
-#: widgets/kpropertiesdialog.cpp:2478
+#: widgets/kpropertiesdialog.cpp:2470
 #, kde-format
 msgid "These files use advanced permissions."
 msgstr "ဤဖိုင်လ်များသည် အဆင့်မြင့်ခွင့်ပြုချက်များ အသုံးပြုသည်။"
 
-#: widgets/kpropertiesdialog.cpp:2724
+#: widgets/kpropertiesdialog.cpp:2716
 #, kde-format
 msgctxt "@title:tab"
 msgid "C&hecksums"
 msgstr "&hပေါင်းလဒ်စစ်တမ်းများ"
 
-#: widgets/kpropertiesdialog.cpp:2789 widgets/kpropertiesdialog.cpp:2800
-#: widgets/kpropertiesdialog.cpp:2811 widgets/kpropertiesdialog.cpp:2822
+#: widgets/kpropertiesdialog.cpp:2781 widgets/kpropertiesdialog.cpp:2792
+#: widgets/kpropertiesdialog.cpp:2803 widgets/kpropertiesdialog.cpp:2814
 #, kde-format
 msgctxt "@action:button"
 msgid "Calculating..."
 msgstr "တွက်နေသည်..."
 
-#: widgets/kpropertiesdialog.cpp:2978
+#: widgets/kpropertiesdialog.cpp:2970
 #, kde-format
 msgid "Invalid checksum."
 msgstr "မမှန်ကန်သော ပေါင်းလဒ်စစ်တမ်း။"
 
-#: widgets/kpropertiesdialog.cpp:2981
+#: widgets/kpropertiesdialog.cpp:2973
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "The given input is not a valid MD5, SHA1 or SHA256 checksum."
 msgstr "ပေးချက်သည် မှန်ကန်သော အမ်ဒီ၅၊ အက်စ်အိပ်ချ်အေ၁ သို့ အက်စ်အိပ်ချ်အေ၂၅၆ ပေါင်းလဒ်စစ်တမ်း မဟုတ်ပါ။"
 
-#: widgets/kpropertiesdialog.cpp:2992
+#: widgets/kpropertiesdialog.cpp:2984
 #, kde-format
 msgid "Checksums match."
 msgstr "ပေါင်းလဒ်စစ်တမ်းများ ကိုက်ညီသည်။"
 
-#: widgets/kpropertiesdialog.cpp:2995
+#: widgets/kpropertiesdialog.cpp:2987
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "The computed checksum and the expected checksum match."
 msgstr "တွက်ချက်ထားသည့် ပေါင်းလဒ်စစ်တမ်းနှင့် မျှော်လင့်ထားသော ပေါင်းလဒ်စစ်တမ်း ကိုက်ညီသည်။"
 
-#: widgets/kpropertiesdialog.cpp:3007
+#: widgets/kpropertiesdialog.cpp:2999
 #, kde-format
 msgid ""
 "<p>Checksums do not match.</p>This may be due to a faulty download. Try re-"
@@ -8352,56 +8352,56 @@ msgstr ""
 "<p>ပေါင်းလဒ်စစ်တမ်းများ မကိုက်ပါ။</p>အမှားပါသောဒေါင်းလုတ်တစ်ခုကြောင့်ဖြစ်နိုင်သည်။ ဖိုင်ကို "
 "နောက်တစ်ကြိမ်ဒေါင်းလုတ်ဆွဲကြည့်ပါ။<br/>အကယ်၍ စစ်ဆေးခြင်း မအောင်မြင်လျှင် ဖိုင်လ်ဇစ်မြစ်ကို ဆက်သွယ်ပါ။"
 
-#: widgets/kpropertiesdialog.cpp:3012
+#: widgets/kpropertiesdialog.cpp:3004
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "The computed checksum and the expected checksum differ."
 msgstr "တွက်ချက်ထားသည့် ပေါင်းလဒ်စစ်တမ်းနှင့် မျှော်လင့်ထားသော ပေါင်းလဒ်စစ်တမ်း ကွဲပြားသည်။"
 
-#: widgets/kpropertiesdialog.cpp:3020
+#: widgets/kpropertiesdialog.cpp:3012
 #, kde-format
 msgctxt "notify the user about a computation in the background"
 msgid "Verifying checksum..."
 msgstr "ပေါင်းလဒ်စစ်တမ်းများ စစ်ဆေးနေသည်..."
 
-#: widgets/kpropertiesdialog.cpp:3109
+#: widgets/kpropertiesdialog.cpp:3101
 #, kde-format
 msgid "U&RL"
 msgstr "&Rယူအာအယ်လ်"
 
-#: widgets/kpropertiesdialog.cpp:3116
+#: widgets/kpropertiesdialog.cpp:3108
 #, kde-format
 msgid "URL:"
 msgstr "ယူအာအယ်လ် -"
 
-#: widgets/kpropertiesdialog.cpp:3186 widgets/kpropertiesdialog.cpp:3464
+#: widgets/kpropertiesdialog.cpp:3178 widgets/kpropertiesdialog.cpp:3447
 #, kde-format
 msgid ""
 "Could not save properties. Only entries on local file systems are supported."
 msgstr ""
 "ကိုယ်ပိုင်လက္ခဏာများ သိမ်းဆည်း၍မရပါ။ စက်တွင်းဖိုင်လ်စနစ်များရှိ စာရင်းမှတ်ချက်များကိုသာ လုပ်ဆောင်နိုင်သည်။"
 
-#: widgets/kpropertiesdialog.cpp:3260
+#: widgets/kpropertiesdialog.cpp:3252
 #, kde-format
 msgid "&Application"
 msgstr "&Aအပ္ပလီကေးရှင်း"
 
-#: widgets/kpropertiesdialog.cpp:3402
+#: widgets/kpropertiesdialog.cpp:3385
 #, kde-format
 msgid "Add File Type for %1"
 msgstr "%1 အတွက်ဖိုင်လ်အမျိုးအစားထည့်မည်"
 
-#: widgets/kpropertiesdialog.cpp:3403
+#: widgets/kpropertiesdialog.cpp:3386
 #, kde-format
 msgid "Select one or more file types to add:"
 msgstr "တစ်ခု၊ တစ်ခုထက်ပိုသော ဖိုင်လ်အမျိုးအစားများ ထည့်သွင်းရန် ရွေးချယ်မည် -"
 
-#: widgets/kpropertiesdialog.cpp:3549
+#: widgets/kpropertiesdialog.cpp:3532
 #, kde-format
 msgid "Only executables on local file systems are supported."
 msgstr "စက်တွင်းဖိုင်စနစ်ပေါ်ရှိ လုပ်ဆောင်-ဖိုင်လ်များသာ ဆောင်ရွက်ခွင့်ပြုသည်။"
 
-#: widgets/kpropertiesdialog.cpp:3564
+#: widgets/kpropertiesdialog.cpp:3547
 #, kde-format
 msgid "Advanced Options for %1"
 msgstr "%1 အတွက် အဆင့်မြင့်ရွေးချယ်စရာများ"
