@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-20 00:40+0000\n"
+"POT-Creation-Date: 2021-12-23 00:40+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -7214,23 +7214,45 @@ msgid "&Actions"
 msgstr "&Aလုပ်ဆောင်ချက်များ"
 
 #: widgets/kfileitemactions.cpp:860
+#, fuzzy, kde-format
+#| msgid "&Open with %1"
+msgid "&Open folder with %1"
+msgstr "&O %1 ဖြင့်ဖွင့်ရန်"
+
+#: widgets/kfileitemactions.cpp:860
 #, kde-format
 msgid "&Open with %1"
 msgstr "&O %1 ဖြင့်ဖွင့်ရန်"
 
-#: widgets/kfileitemactions.cpp:882
+#: widgets/kfileitemactions.cpp:884
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Open With..."
+msgctxt "@title:menu"
+msgid "&Open Folder With..."
+msgstr "&Oဖြင့်ဖွင့်ရန်..."
+
+#: widgets/kfileitemactions.cpp:885
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open With..."
 msgstr "&Oဖြင့်ဖွင့်ရန်..."
 
-#: widgets/kfileitemactions.cpp:895
+#: widgets/kfileitemactions.cpp:898
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "&Open With"
+msgctxt "@title:menu"
+msgid "&Open Folder With"
+msgstr "&Oဖြင့်ဖွင့်ရန်"
+
+#: widgets/kfileitemactions.cpp:898
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open With"
 msgstr "&Oဖြင့်ဖွင့်ရန်"
 
-#: widgets/kfileitemactions.cpp:906
+#: widgets/kfileitemactions.cpp:909
 #, kde-format
 msgctxt "@action:inmenu Open With"
 msgid "&Other Application..."
