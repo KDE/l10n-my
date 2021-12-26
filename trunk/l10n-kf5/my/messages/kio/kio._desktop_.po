@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-16 00:55+0000\n"
+"POT-Creation-Date: 2021-12-26 00:51+0000\n"
 "PO-Revision-Date: 2021-12-04 03:31+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr "Rootအဖြစ်ဆောင်ရွက်သည်။"
 
-#: src/ioslaves/file/kauth/file.actions:44
+#: src/ioslaves/file/kauth/file.actions:45
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr "လုပ်ဆောင်ချက်ပြီးမြောက်ရန် rootအခွင့်အာဏာလိုအပ်သည်။"
@@ -28,7 +28,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "HTTPကေ့ချ်(ယာယီသိမ်းဆည်းနေရာ)ရှင်းလင်းရေး"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:62
+#: src/ioslaves/http/http_cache_cleaner.desktop:63
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "HTTP ကတ်မှ မှတ်တမ်းဟောင်းများ ရှင်းမည်"
@@ -74,12 +74,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "ကွတ်ကီးများ"
 
-#: src/kcms/cookies/cookies.desktop:64
+#: src/kcms/cookies/cookies.desktop:65
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "ကွတ်ကီးအလုပ်လုပ်ပုံပြင်ဆင်မည်"
 
-#: src/kcms/cookies/cookies.desktop:152
+#: src/kcms/cookies/cookies.desktop:154
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr "Cookies,Browsing,Internet,WWW,Network,Policy,Domains,ကွတ်ကီး"
@@ -89,12 +89,12 @@ msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "ချိတ်ဆက်မှုဆိုင်ရာ နှစ်သက်-သတ်မှတ်ချက်များ"
 
-#: src/kcms/netpref/netpref.desktop:99
+#: src/kcms/netpref/netpref.desktop:100
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr "အချိန်ကုန်ပမာဏစသော ဆ.သ.ရ-ကွန်ရက်ဆိုင်ရာယေဘုယျနှစ်သက်-သတ်မှတ်ချက်များပြင်ဆင်မည်"
 
-#: src/kcms/netpref/netpref.desktop:186
+#: src/kcms/netpref/netpref.desktop:188
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr "timeout,iopref,netpref,network preferences,ftp"
@@ -104,12 +104,12 @@ msgctxt "Name"
 msgid "Proxy"
 msgstr "ကြားခံ"
 
-#: src/kcms/proxy/proxy.desktop:102
+#: src/kcms/proxy/proxy.desktop:103
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "အသုံးပြုသော ကြားခံဆာဗာများပြင်ဆင်မည်"
 
-#: src/kcms/proxy/proxy.desktop:191
+#: src/kcms/proxy/proxy.desktop:193
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr "Proxy,Proxy server,Firewall,Squid,ကြားခံ"
@@ -119,12 +119,12 @@ msgctxt "Name"
 msgid "Windows Shares"
 msgstr "ဝင်းဒိုးစ် ဝေမျှမှုများ"
 
-#: src/kcms/smb/smb.desktop:98
+#: src/kcms/smb/smb.desktop:99
 msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr "SMBဝေမျှမှုများကို အသုံးပြုခွင့်ရရန်သုံးရသော ထောက်ခံလက်မှတ်"
 
-#: src/kcms/smb/smb.desktop:145
+#: src/kcms/smb/smb.desktop:147
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -138,12 +138,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:51
+#: src/kcms/webshortcuts/webshortcuts.desktop:52
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ ပြင်ဆင်မည်"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:88
+#: src/kcms/webshortcuts/webshortcuts.desktop:90
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -157,32 +157,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင်ချက်"
 
-#: src/kpac/proxyscout.notifyrc:58
+#: src/kpac/proxyscout.notifyrc:59
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "မမှန်ကန်သော ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်"
 
-#: src/kpac/proxyscout.notifyrc:112
+#: src/kpac/proxyscout.notifyrc:114
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "ဒေါင်းလုတ်ဆွဲထားသောကြားခံပြင်ဆင်မှုညွှန်ကြားချက်သည် မမှန်ကန်ပါ"
 
-#: src/kpac/proxyscout.notifyrc:170
+#: src/kpac/proxyscout.notifyrc:173
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "ညွှန်ကြားချက်ဒေါင်းလုတ်ရယူမှုဆိုင်ရာအမှား"
 
-#: src/kpac/proxyscout.notifyrc:224
+#: src/kpac/proxyscout.notifyrc:228
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်အား ဒေါင်းလုတ်ဆွဲမရပါ"
 
-#: src/kpac/proxyscout.notifyrc:283
+#: src/kpac/proxyscout.notifyrc:288
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "ညွှန်ကြားချက်ဆောင်ရွက်ခြင်းဆိုင်ရာအမှား"
 
-#: src/kpac/proxyscout.notifyrc:336
+#: src/kpac/proxyscout.notifyrc:342
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်အား ဆောင်ရွက်ရာတွင် အမှားဖြစ်ပေါ်ခဲ့သည်"
@@ -192,7 +192,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "ဖိုလ်ဒါ..."
 
-#: src/new_file_templates/Directory.desktop:89
+#: src/new_file_templates/Directory.desktop:90
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "ဖိုလ်ဒါအမည်ရေးပါ -"
@@ -202,7 +202,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr "HTML ဖိုင်လ်..."
 
-#: src/new_file_templates/HTMLFile.desktop:89
+#: src/new_file_templates/HTMLFile.desktop:90
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "အိပ်ချ်တီအမ်အယ် ဖိုင်လ်အမည်ရေးပါ -"
@@ -212,7 +212,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီသို့ လင့်ခ်ချိတ်ရန်..."
 
-#: src/new_file_templates/linkPath.desktop:35
+#: src/new_file_templates/linkPath.desktop:36
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr "လင့်ခ်ချိတ်ရမည် ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီ -"
@@ -222,7 +222,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "အပ္ပလီကေးရှင်းသို့ လင့်ခ်ချိတ်ရန်"
 
-#: src/new_file_templates/linkProgram.desktop:85
+#: src/new_file_templates/linkProgram.desktop:86
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "အပ္ပလီကေးရှင်းသို့ ချိတ်ထားသော လင့်ခ်အသစ်"
@@ -232,7 +232,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr "တည်နေရာ (URL)သို့ လင့်ခ်ချိတ်ရန်..."
 
-#: src/new_file_templates/linkURL.desktop:88
+#: src/new_file_templates/linkURL.desktop:89
 msgctxt "Comment"
 msgid "URL location to link to:"
 msgstr "လင့်ခ်ချိတ်ရမည့် URLတည်နေရာ -"
@@ -242,7 +242,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "စာသားဖိုင်လ်..."
 
-#: src/new_file_templates/TextFile.desktop:88
+#: src/new_file_templates/TextFile.desktop:89
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "စာသားဖိုင်လ်အမည်ရေးပါ -"
@@ -317,7 +317,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Archလင်းနပ်စ်ပတ်ကေ့ရှာဖွေမှု"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:50
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:51
 msgctxt "Query"
 msgid "https://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr "https://www.archlinux.org/packages/?q=\\\\{@}"
@@ -327,7 +327,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "ArchWiki"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:40
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:41
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
 msgstr "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -387,7 +387,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "ခေဒီအီးဆိုင်ရာ ဆော့ဖ်လ်ဝဲလ်ပြစ်ချက်များ"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:39
+#: src/urifilters/ikws/searchproviders/bug.desktop:40
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -513,7 +513,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr "DeepL"
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:40
+#: src/urifilters/ikws/searchproviders/deepl.desktop:41
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr "https://www.deepl.com/translator#any/any/\\\\{@}"
@@ -745,7 +745,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr "ဂစ်လပ်ဘ်"
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:46
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:47
 msgctxt "Query"
 msgid "https://gitlab.com/search?search=\\\\{@}"
 msgstr "https://gitlab.com/search?search=\\\\{@}"
@@ -871,7 +871,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "ကတ်တလန်ဘာသာစကား၏ ဒစ်ရှင်နရီကြီး (GRan Enciclopèdia Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:51
+#: src/urifilters/ikws/searchproviders/grec.desktop:52
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
@@ -941,7 +941,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr "ကေဒီအီး အင်ဗန့်"
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:27
+#: src/urifilters/ikws/searchproviders/invent.desktop:28
 msgctxt "Query"
 msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgstr "https://invent.kde.org/search?search=\\\\{@}"
@@ -951,7 +951,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr "ကေဒီအီး အင်ဗန့် ရီပိုစစ်တိုရီများ"
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:27
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:28
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
@@ -1260,7 +1260,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr "ကွမ့်"
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:53
+#: src/urifilters/ikws/searchproviders/qwant.desktop:54
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
@@ -1270,7 +1270,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "ကွမ့် ပုံများ"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:50
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:51
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
@@ -1280,7 +1280,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr "ကွမ့် သတင်းများ"
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:51
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:52
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
@@ -1290,7 +1290,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "ကွမ့် စျေးဝယ်ထွက်"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:50
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:51
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
@@ -1300,7 +1300,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr "ကွမ့် ဆိုရှယ်"
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:51
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:52
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
@@ -1310,7 +1310,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "ကွမ့်ဗီဒီယိုများ"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:51
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:52
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
@@ -1370,7 +1370,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr "ဆောင်းကလောက်"
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:48
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:49
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"
 msgstr "https://soundcloud.com/search?q=\\\\{@}"
