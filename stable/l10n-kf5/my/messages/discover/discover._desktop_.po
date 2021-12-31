@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-16 02:33+0000\n"
+"POT-Creation-Date: 2021-12-31 02:14+0000\n"
 "PO-Revision-Date: 2021-09-13 03:11+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -43,7 +43,7 @@ msgctxt "Name"
 msgid "Software Update"
 msgstr "ဆော့ဖ်ဝဲလ်အပ်ဒိတ်"
 
-#: kcm/kcm_updates.desktop:47
+#: kcm/kcm_updates.desktop:48
 msgctxt "Comment"
 msgid "Configure software update behavior"
 msgstr "ဆော့ဖ်ဝဲလ်အပ်ဒိတ်တင်သော အမူအကျင့်ကို ပြင်ဆင်မည်"
@@ -78,32 +78,32 @@ msgctxt "Name"
 msgid "Successful Offline Update"
 msgstr "အောင်မြင်သော အော့ဖ်လိုင်း အပ်ဒိတ်တင်မှု"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:198
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:199
 msgctxt "Comment"
 msgid "System updated successfully"
 msgstr "စစ်စတမ်ကို အောင်မြင်စွာ အပ်ဒိတ်တင်ခဲ့သည်"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:239
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:241
 msgctxt "Name"
 msgid "Failed Offline Update"
 msgstr "မအောင်မြင်သော အော့ဖ်လိုင်း အပ်ဒိတ်တင်မှု"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:276
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:279
 msgctxt "Comment"
 msgid "System update failed"
 msgstr "စစ်စတမ်အပ်ဒိတ်တင်မှုမအောင်မြင်ပါ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:317
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:321
 msgctxt "Name"
 msgid "Repair Failed"
 msgstr "ပြန်ပြင်ခြင်း မအောင်မြင်ပါ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:354
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:359
 msgctxt "Comment"
 msgid "Repair failure after offline update"
 msgstr "မအောင်မြင်သော အော့ဖ်လိုင်း အပ်ဒိတ်တင်မှုကို ပြန်ပြင်မည်"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:395
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:401
 msgctxt "Name"
 msgid "Restart is Required"
 msgstr "စစ်စတမ်ပြန်စတင်ရန်လိုအပ်သည်"
