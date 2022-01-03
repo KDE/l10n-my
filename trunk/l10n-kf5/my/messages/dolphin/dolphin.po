@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-02 00:50+0000\n"
+"POT-Creation-Date: 2022-01-03 00:45+0000\n"
 "PO-Revision-Date: 2021-09-24 16:56+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2517,25 +2517,25 @@ msgctxt ""
 msgid "Query Results from '%1'"
 msgstr "'%1' မှ စုံးစမ်းမှုရလဒ်များ"
 
-#: settings/contextmenu/contextmenusettingspage.cpp:61
+#: settings/contextmenu/contextmenusettingspage.cpp:62
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Select which services should be shown in the context menu:"
 msgstr ""
 
-#: settings/contextmenu/contextmenusettingspage.cpp:65
+#: settings/contextmenu/contextmenusettingspage.cpp:66
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Search..."
 msgstr "ရှာရန်..."
 
-#: settings/contextmenu/contextmenusettingspage.cpp:87
+#: settings/contextmenu/contextmenusettingspage.cpp:88
 #, kde-format
 msgctxt "@action:button"
 msgid "Download New Services..."
 msgstr "ဝန်ဆောင်မှုအသစ်များဒေါင်းလုတ်ဆွဲမည်..."
 
-#: settings/contextmenu/contextmenusettingspage.cpp:201
+#: settings/contextmenu/contextmenusettingspage.cpp:202
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -2543,25 +2543,25 @@ msgid ""
 "settings."
 msgstr ""
 
-#: settings/contextmenu/contextmenusettingspage.cpp:203
+#: settings/contextmenu/contextmenusettingspage.cpp:204
 #, kde-format
 msgctxt "@info"
 msgid "Restart now?"
 msgstr ""
 
-#: settings/contextmenu/contextmenusettingspage.cpp:242
+#: settings/contextmenu/contextmenusettingspage.cpp:243
 #, kde-format
 msgctxt "@option:check"
 msgid "Delete"
 msgstr "ဖျက်မည်"
 
-#: settings/contextmenu/contextmenusettingspage.cpp:248
+#: settings/contextmenu/contextmenusettingspage.cpp:249
 #, kde-format
 msgctxt "@option:check"
 msgid "'Copy To' and 'Move To' commands"
 msgstr "'သို့ကူးယူမည်' နှင့် 'သို့ရွေ့ပြောင်းမည်' အမိန့်များ"
 
-#: settings/contextmenu/contextmenusettingspage.cpp:290
+#: settings/contextmenu/contextmenusettingspage.cpp:295
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "%1: %2"

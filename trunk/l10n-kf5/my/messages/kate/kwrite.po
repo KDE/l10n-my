@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-30 00:19+0000\n"
+"POT-Creation-Date: 2022-01-03 00:46+0000\n"
 "PO-Revision-Date: 2021-09-15 03:51+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -169,8 +169,9 @@ msgid "KWrite - Text Editor"
 msgstr "ကေရိုက် - စာသားတည်းဖြတ်ကိရိယာ"
 
 #: main.cpp:113
-#, kde-format
-msgid "(c) 2000-2021 The Kate Authors"
+#, fuzzy, kde-format
+#| msgid "(c) 2000-2021 The Kate Authors"
+msgid "(c) 2000-2022 The Kate Authors"
 msgstr "(c) ၂၀၀၀-၂၀၂၁ ကိတ် ရေးသားသူများ"
 
 #: main.cpp:130
