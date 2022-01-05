@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-29 00:49+0000\n"
+"POT-Creation-Date: 2022-01-05 00:47+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -128,8 +128,9 @@ msgid "An application explorer"
 msgstr "အပ္ပလီကေးရှင်း-ရှာဖွေကိရိယာ"
 
 #: discover/main.cpp:118
-#, kde-format
-msgid "© 2010-2021 Plasma Development Team"
+#, fuzzy, kde-format
+#| msgid "© 2010-2021 Plasma Development Team"
+msgid "© 2010-2022 Plasma Development Team"
 msgstr "© ၂၀၁၀-၂၀၂၁ ပလက်စမာ တိုးတက်မှု ဆောင်ရွက်သော အဖွဲ့"
 
 #: discover/main.cpp:119
