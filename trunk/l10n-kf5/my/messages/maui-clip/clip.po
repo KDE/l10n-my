@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-08 00:17+0000\n"
+"POT-Creation-Date: 2022-01-08 00:43+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -123,7 +123,7 @@ msgstr "ဆက်တင်"
 msgid "About"
 msgstr "အကြောင်း"
 
-#: src/main.qml:260 src/main.qml:381 src/views/settings/SettingsDialog.qml:39
+#: src/main.qml:260 src/main.qml:380 src/views/settings/SettingsDialog.qml:39
 #, kde-format
 msgid "Collection"
 msgstr "စုစည်းမှု"
@@ -133,23 +133,23 @@ msgstr "စုစည်းမှု"
 msgid "Tags"
 msgstr "တပ်ဂ်များ"
 
-#: src/main.qml:298
+#: src/main.qml:297
 #, kde-format
 msgid "Player"
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
 
-#: src/main.qml:359 src/views/youtube/YouTubeView.qml:26
+#: src/main.qml:358 src/views/youtube/YouTubeView.qml:26
 #, kde-format
 msgid "Nothing Here!"
 msgstr "ဘာမှမရှိ။"
 
-#: src/main.qml:360
+#: src/main.qml:359
 #, fuzzy, kde-format
 #| msgid "Open a new video to start playing or add it to the playlist."
 msgid "Open a new video from your collection or file system."
 msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
 
-#: src/main.qml:500
+#: src/main.qml:499
 #, fuzzy, kde-format
 #| msgid "Toogle SideBar"
 msgid "Toggle SideBar"
@@ -195,12 +195,12 @@ msgstr "မနှစ်သက်"
 msgid "Info"
 msgstr "အချက်"
 
-#: src/views/ItemMenu.qml:54 src/views/SelectionBar.qml:78
+#: src/views/ItemMenu.qml:54 src/views/SelectionBar.qml:77
 #, kde-format
 msgid "Share"
 msgstr "ဝေမျှရန်"
 
-#: src/views/ItemMenu.qml:65 src/views/SelectionBar.qml:48
+#: src/views/ItemMenu.qml:65 src/views/SelectionBar.qml:47
 #, kde-format
 msgid "Queue"
 msgstr "ကြည့်ရှုစာရင်း"
@@ -215,7 +215,7 @@ msgstr "ရွေးချယ်မည်"
 msgid "Show in folder"
 msgstr "ဖိုလ်ဒါထဲတွင် ပြမည်"
 
-#: src/views/ItemMenu.qml:104 src/views/SelectionBar.qml:106
+#: src/views/ItemMenu.qml:104 src/views/SelectionBar.qml:105
 #, kde-format
 msgid "Remove"
 msgstr "ဖယ်ရှားမည်"
@@ -254,22 +254,22 @@ msgstr ""
 msgid "Add videos to the playlist."
 msgstr "ဗီဒီယိုများကို ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
 
-#: src/views/SelectionBar.qml:37
+#: src/views/SelectionBar.qml:36
 #, kde-format
 msgid "Play"
 msgstr "ဖွင့်ပြမည်"
 
-#: src/views/SelectionBar.qml:59
+#: src/views/SelectionBar.qml:58
 #, kde-format
 msgid "Un/Fav"
 msgstr "မနှစ်သက်/နှစ်သက်"
 
-#: src/views/SelectionBar.qml:66
+#: src/views/SelectionBar.qml:65
 #, kde-format
 msgid "Tag"
 msgstr "တပ်"
 
-#: src/views/SelectionBar.qml:90
+#: src/views/SelectionBar.qml:89
 #, kde-format
 msgid "Export"
 msgstr "ထုတ်ပို့မည်"
