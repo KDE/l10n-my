@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-08 00:43+0000\n"
+"POT-Creation-Date: 2022-01-09 00:43+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -69,12 +69,12 @@ msgstr "ခမီလိုဟီဂီတာ"
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:101 src/main.qml:233
+#: src/main.qml:103 src/main.qml:235
 #, kde-format
 msgid "Open URL"
 msgstr "ယူအာအယ်လ် ဖွင့်မည်"
 
-#: src/main.qml:103
+#: src/main.qml:105
 #, kde-format
 msgid ""
 "Enter any remote location, like YouTube video URLs, or from other services "
@@ -83,79 +83,79 @@ msgstr ""
 "ယူကျူ့ဗီဒီယို ယူအာအယ်များ သို့မဟုတ် အမ်ပီဗီမှ ထောက်ပံ့ပေးထားသော အခြားဝန်ဆောင်မှုများမှ အဝေးနေရာများသို့ "
 "ဝင်ရောက်နိုင်သည်။"
 
-#: src/main.qml:135
+#: src/main.qml:137
 #, kde-format
 msgid "Delete files?"
 msgstr "ဖိုင်လ်များဖျက်မည်လား။"
 
-#: src/main.qml:136 src/views/ItemMenu.qml:121
+#: src/main.qml:138 src/views/ItemMenu.qml:121
 #, kde-format
 msgid "Accept"
 msgstr "လက်ခံမည်"
 
-#: src/main.qml:137 src/views/ItemMenu.qml:122
+#: src/main.qml:139 src/views/ItemMenu.qml:122
 #, kde-format
 msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
 
-#: src/main.qml:138
+#: src/main.qml:140
 #, kde-format
 msgid "Are sure you want to delete %1 files"
 msgstr "ဖိုင်လ် %1ခု ကို သင်တကယ်ဖျက်တော့မည်လား"
 
-#: src/main.qml:164
+#: src/main.qml:166
 #, kde-format
 msgid "Now playing"
 msgstr "ယခုဖွင့်ပြနေသည်"
 
-#: src/main.qml:220
+#: src/main.qml:222
 #, kde-format
 msgid "Open"
 msgstr "ဖွင့်"
 
-#: src/main.qml:244
+#: src/main.qml:246
 #, kde-format
 msgid "Settings"
 msgstr "ဆက်တင်"
 
-#: src/main.qml:252
+#: src/main.qml:254
 #, kde-format
 msgid "About"
 msgstr "အကြောင်း"
 
-#: src/main.qml:260 src/main.qml:380 src/views/settings/SettingsDialog.qml:39
+#: src/main.qml:262 src/main.qml:382 src/views/settings/SettingsDialog.qml:56
 #, kde-format
 msgid "Collection"
 msgstr "စုစည်းမှု"
 
-#: src/main.qml:267 src/views/ItemMenu.qml:31
+#: src/main.qml:269 src/views/ItemMenu.qml:31
 #, kde-format
 msgid "Tags"
 msgstr "တပ်ဂ်များ"
 
-#: src/main.qml:297
+#: src/main.qml:299
 #, kde-format
 msgid "Player"
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
 
-#: src/main.qml:358 src/views/youtube/YouTubeView.qml:26
+#: src/main.qml:360 src/views/youtube/YouTubeView.qml:26
 #, kde-format
 msgid "Nothing Here!"
 msgstr "ဘာမှမရှိ။"
 
-#: src/main.qml:359
+#: src/main.qml:361
 #, fuzzy, kde-format
 #| msgid "Open a new video to start playing or add it to the playlist."
 msgid "Open a new video from your collection or file system."
 msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
 
-#: src/main.qml:499
+#: src/main.qml:501
 #, fuzzy, kde-format
 #| msgid "Toogle SideBar"
 msgid "Toggle SideBar"
 msgstr "ဘေးတန်း ဖွင့်/ပိတ်"
 
-#: src/views/BrowserLayout.qml:67
+#: src/views/BrowserLayout.qml:69
 #, kde-format
 msgid "Search %1 video"
 msgid_plural "Search %1 videos"
@@ -289,122 +289,132 @@ msgstr "အပ် အမူအကျင့်များ ပြင်ဆင်�
 msgid "Volume Step"
 msgstr "အသံထုပမာဏတိုးနှုန်း"
 
-#: src/views/settings/SettingsDialog.qml:40
+#: src/views/settings/SettingsDialog.qml:37
+#, kde-format
+msgid "Dark Mode"
+msgstr ""
+
+#: src/views/settings/SettingsDialog.qml:38
+#, kde-format
+msgid "Switch between light and dark colorscheme"
+msgstr ""
+
+#: src/views/settings/SettingsDialog.qml:57
 #, kde-format
 msgid "Sorting order and behavior."
 msgstr "စီမည့်အစဥ် နှင့် အမူအကျင့်။"
 
-#: src/views/settings/SettingsDialog.qml:44
+#: src/views/settings/SettingsDialog.qml:61
 #, kde-format
 msgid "Sorting by"
 msgstr "ဖြင့်စီသည်"
 
-#: src/views/settings/SettingsDialog.qml:45
+#: src/views/settings/SettingsDialog.qml:62
 #, kde-format
 msgid "Change the sorting key."
 msgstr "စီသည့်ကီးပြောင်းပါ။"
 
-#: src/views/settings/SettingsDialog.qml:68
+#: src/views/settings/SettingsDialog.qml:85
 #, kde-format
 msgid "Title"
 msgstr "ခေါင်းစဉ်"
 
-#: src/views/settings/SettingsDialog.qml:74
+#: src/views/settings/SettingsDialog.qml:91
 #, kde-format
 msgid "Date"
 msgstr "ရက်စွဲ"
 
-#: src/views/settings/SettingsDialog.qml:80
+#: src/views/settings/SettingsDialog.qml:97
 #, kde-format
 msgid "Size"
 msgstr "အရွယ်အစား"
 
-#: src/views/settings/SettingsDialog.qml:86
+#: src/views/settings/SettingsDialog.qml:103
 #, kde-format
 msgid "Type"
 msgstr "ရိုက်သွင်းမည်"
 
-#: src/views/settings/SettingsDialog.qml:94
+#: src/views/settings/SettingsDialog.qml:111
 #, kde-format
 msgid "Sort order"
 msgstr "စီမည့်အစဥ်"
 
-#: src/views/settings/SettingsDialog.qml:95
+#: src/views/settings/SettingsDialog.qml:112
 #, kde-format
 msgid "Change the sorting order."
 msgstr "စီသည့်အစဥ် ပြောင်းပါ။"
 
-#: src/views/settings/SettingsDialog.qml:116
+#: src/views/settings/SettingsDialog.qml:133
 #, kde-format
 msgid "Ascending"
 msgstr "တက်နေသည်"
 
-#: src/views/settings/SettingsDialog.qml:123
+#: src/views/settings/SettingsDialog.qml:140
 #, kde-format
 msgid "Descending"
 msgstr "ဆင်းနေသည်"
 
-#: src/views/settings/SettingsDialog.qml:133
+#: src/views/settings/SettingsDialog.qml:150
 #, kde-format
 msgid "Playback"
 msgstr "ဖွင့်ပြမည်"
 
-#: src/views/settings/SettingsDialog.qml:134
+#: src/views/settings/SettingsDialog.qml:151
 #, kde-format
 msgid "Configure the player settings."
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ ဆက်တင်ကို ပြင်ဆင်ပါ။"
 
-#: src/views/settings/SettingsDialog.qml:138
+#: src/views/settings/SettingsDialog.qml:155
 #, kde-format
 msgid "Hardware Decoding"
 msgstr "ဟာ့ဒ်ဝဲ ကုတ်ဖေါ်စနစ်"
 
-#: src/views/settings/SettingsDialog.qml:139
+#: src/views/settings/SettingsDialog.qml:156
 #, kde-format
 msgid "Use the sorting preferences globally for all the tabs and splits."
 msgstr "အကုန်လုံးအတွက် နှစ်သက်သော စီသည့်အစဥ် သုံးမည်။"
 
-#: src/views/settings/SettingsDialog.qml:152
+#: src/views/settings/SettingsDialog.qml:169
 #, kde-format
 msgid "Audio"
 msgstr "အသံ"
 
-#: src/views/settings/SettingsDialog.qml:153
+#: src/views/settings/SettingsDialog.qml:170
 #, kde-format
 msgid "Configure the player audio behaviour."
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ၏ အော်ဒီယိုအမူအကျင့် ပြင်ဆင်ပါ။"
 
-#: src/views/settings/SettingsDialog.qml:158
+#: src/views/settings/SettingsDialog.qml:175
 #, kde-format
 msgid "Preferred Language"
 msgstr "နှစ်သက်သော ဘာသာစကား"
 
-#: src/views/settings/SettingsDialog.qml:159
+#: src/views/settings/SettingsDialog.qml:176
 #, kde-format
 msgid "Preferred language if available."
 msgstr "ရရှိနိုင်လျှင် နှစ်သက်သော ဘာသာစကား။"
 
-#: src/views/settings/SettingsDialog.qml:264
+#: src/views/settings/SettingsDialog.qml:281
 #, kde-format
 msgid "Sources"
 msgstr "ဇစ်မြစ်များ"
 
-#: src/views/settings/SettingsDialog.qml:265
+#: src/views/settings/SettingsDialog.qml:282
 #, kde-format
 msgid "Add new sources to manage and browse your video collection"
 msgstr "သင်၏ဗီဒီယိုစုစည်းမှုကို စီမံရန် နှင့် ရှောက်ကြည့်ရန် ဇစ်မြစ်အသစ်များ ထည့်ပါ"
 
-#: src/views/settings/SettingsDialog.qml:308
+#: src/views/settings/SettingsDialog.qml:325
 #, kde-format
 msgid "Add"
 msgstr "ထည့်သွင်းမည်"
 
-#: src/views/settings/SettingsDialog.qml:330
+#: src/views/settings/SettingsDialog.qml:347
 #, kde-format
 msgid "Remove source"
 msgstr "ဇစ်မြစ် ဖယ်ရှားမည်"
 
-#: src/views/settings/SettingsDialog.qml:331
+#: src/views/settings/SettingsDialog.qml:348
 #, kde-format
 msgid ""
 "Are you sure you want to remove the source: \n"
