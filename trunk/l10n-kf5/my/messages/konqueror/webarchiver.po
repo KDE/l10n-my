@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-01 00:18+0000\n"
+"POT-Creation-Date: 2022-01-12 00:45+0000\n"
 "PO-Revision-Date: 2021-09-19 13:48+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -381,12 +381,12 @@ msgstr ""
 msgid "The type of web archive to save"
 msgstr ""
 
-#: plugin_webarchiver.cpp:33
+#: plugin_webarchiver.cpp:31
 #, kde-format
 msgid "Archive Web Page..."
 msgstr ""
 
-#: plugin_webarchiver.cpp:51
+#: plugin_webarchiver.cpp:49
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -394,19 +394,19 @@ msgid ""
 "the plugin and helper installation."
 msgstr ""
 
-#: plugin_webarchiver.cpp:52
+#: plugin_webarchiver.cpp:50
 #, kde-format
 msgid "Cannot Create Web Archive"
 msgstr ""
 
 #. i18n: ectx: Menu (tools)
-#: plugin_webarchiver.rc:4
+#: webarchiverplugin.rc:4
 #, kde-format
 msgid "&Tools"
 msgstr "&Tကိရိယာများ"
 
 #. i18n: ectx: ToolBar (extraToolBar)
-#: plugin_webarchiver.rc:8
+#: webarchiverplugin.rc:8
 #, kde-format
 msgid "Extra Toolbar"
 msgstr "ကိရိယာတန်းအပို"

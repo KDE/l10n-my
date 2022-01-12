@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-13 00:43+0000\n"
+"POT-Creation-Date: 2022-01-12 00:45+0000\n"
 "PO-Revision-Date: 2021-09-17 17:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -34,13 +34,13 @@ msgstr "lw1nzayar@yandex.com"
 msgid "no name"
 msgstr "အမည်မရှိ"
 
-#: src/konqextensionmanager.cpp:53
+#: src/konqextensionmanager.cpp:50
 #, kde-format
 msgctxt "@title:window"
 msgid "Configure Extensions"
 msgstr "တိုးချဲ့ပရိုဂရမ်ငယ်များ ပြင်ဆင်မည်"
 
-#: src/konqextensionmanager.cpp:81
+#: src/konqextensionmanager.cpp:71
 #, kde-format
 msgid "Extensions"
 msgstr "တိုးချဲ့ပရိုဂရမ်ငယ်များ"
