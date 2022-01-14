@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-10 00:46+0000\n"
+"POT-Creation-Date: 2022-01-14 00:47+0000\n"
 "PO-Revision-Date: 2021-09-19 13:41+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -215,13 +215,13 @@ msgid "More options"
 msgstr "ပိုမို"
 
 #: lspclientpluginview.cpp:934 lspclientpluginview.cpp:2315
-#: lspclientsymbolview.cpp:266
+#: lspclientsymbolview.cpp:267
 #, fuzzy, kde-format
 msgid "Expand All"
 msgstr "&Eတပ်ဘ်များဖြန့်မည်"
 
 #: lspclientpluginview.cpp:935 lspclientpluginview.cpp:2316
-#: lspclientsymbolview.cpp:267
+#: lspclientsymbolview.cpp:268
 #, fuzzy, kde-format
 msgid "Collapse All"
 msgstr "ပရောဂျက် အားလုံး"
@@ -447,42 +447,42 @@ msgstr ""
 "ဆာဗာအား ယုံကြည်ရမှုစစ်ဆေးရာ ကျရှုံးခဲ့သည်(%1).\n"
 "\n"
 
-#: lspclientsymbolview.cpp:221
+#: lspclientsymbolview.cpp:222
 #, kde-format
 msgid "LSP Client Symbol Outline"
 msgstr ""
 
-#: lspclientsymbolview.cpp:233
+#: lspclientsymbolview.cpp:234
 #, fuzzy, kde-format
 msgid "Filter..."
 msgstr "စစ်ထုတ်မည်..."
 
-#: lspclientsymbolview.cpp:257
+#: lspclientsymbolview.cpp:258
 #, fuzzy, kde-format
 msgid "Tree Mode"
 msgstr "သစ်ပင်ပုံစံမြင်ကွင်း"
 
-#: lspclientsymbolview.cpp:259
+#: lspclientsymbolview.cpp:260
 #, fuzzy, kde-format
 msgid "Automatically Expand Tree"
 msgstr "သစ်ပင်ပုံစံမြင်ကွင်း"
 
-#: lspclientsymbolview.cpp:261
+#: lspclientsymbolview.cpp:262
 #, kde-format
 msgid "Sort Alphabetically"
 msgstr "အက္ခရာစဥ်ဖြင့်စီမည်"
 
-#: lspclientsymbolview.cpp:263
+#: lspclientsymbolview.cpp:264
 #, fuzzy, kde-format
 msgid "Show Details"
 msgstr "နောက်ကွတ်ကီး၏အသေးစိတ်ပြမည်"
 
-#: lspclientsymbolview.cpp:416
+#: lspclientsymbolview.cpp:417
 #, kde-format
 msgid "Symbols"
 msgstr "သင်္ကေတများ"
 
-#: lspclientsymbolview.cpp:543
+#: lspclientsymbolview.cpp:546
 #, fuzzy, kde-format
 msgid "No LSP server for this document."
 msgstr "ဆာဗာ ယုံကြည်မှုရယူခြင်း"
