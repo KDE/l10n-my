@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-05 00:49+0000\n"
+"POT-Creation-Date: 2022-01-16 00:46+0000\n"
 "PO-Revision-Date: 2021-09-15 03:45+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -186,17 +186,17 @@ msgstr "&Eတည်းဖြတ်..."
 msgid "&Remove"
 msgstr "&Rဖယ်ရှားမည်"
 
-#: externaltoolsplugin.cpp:312
+#: externaltoolsplugin.cpp:274
 #, kde-format
 msgid "Running %1: %2 %3"
 msgstr "မောင်းနှင်နေသည် %1 - %2 %3"
 
-#: externaltoolsplugin.cpp:313
+#: externaltoolsplugin.cpp:275
 #, kde-format
 msgid "Running %1: %2 %3 with input %4"
 msgstr "%4 ပေးချက်နှင့် မောင်းနှင်နေသည် %1 - %2 %3"
 
-#: externaltoolsplugin.cpp:318 externaltoolsplugin.cpp:422
+#: externaltoolsplugin.cpp:280 externaltoolsplugin.cpp:384
 #: kateexternaltoolsconfigwidget.cpp:260 kateexternaltoolsconfigwidget.cpp:265
 #: kateexternaltoolsview.cpp:157 kateexternaltoolsview.cpp:161
 #: kateexternaltoolsview.cpp:207
@@ -204,17 +204,17 @@ msgstr "%4 ပေးချက်နှင့် မောင်းနှင်�
 msgid "External Tools"
 msgstr "ပြင်ပကိရိယာများ"
 
-#: externaltoolsplugin.cpp:403
+#: externaltoolsplugin.cpp:365
 #, kde-format
 msgid "Data written to stderr:\n"
 msgstr "\"stderr\" သို့ရေးခဲ့သော ဒေတာ -\n"
 
-#: externaltoolsplugin.cpp:414
+#: externaltoolsplugin.cpp:376
 #, kde-format
 msgid "%1 crashed"
 msgstr "%1 ပျက်သွားခဲ့သည်"
 
-#: externaltoolsplugin.cpp:416
+#: externaltoolsplugin.cpp:378
 #, kde-format
 msgid "%1 finished with exit code %2"
 msgstr "%1 သည် အထွက်ကုတ် %2 နှင့် ပြီးသွားခဲ့သည်"
