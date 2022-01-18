@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-16 00:46+0000\n"
+"POT-Creation-Date: 2022-01-18 00:46+0000\n"
 "PO-Revision-Date: 2021-09-15 03:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -381,83 +381,83 @@ msgstr ""
 msgid "Click to filter through results"
 msgstr ""
 
-#: plugin_search.cpp:454
+#: plugin_search.cpp:449
 #, kde-format
 msgid "Find"
 msgstr "ရှာဖွေမည်"
 
 #. i18n: ectx: property (text), widget (QPushButton, replaceButton)
-#: plugin_search.cpp:474 search.ui:180
+#: plugin_search.cpp:469 search.ui:180
 #, kde-format
 msgid "Replace"
 msgstr "အစားထိုးမည်"
 
-#: plugin_search.cpp:1193
+#: plugin_search.cpp:1196
 #, kde-format
 msgid "Searching while you type was interrupted. It would have taken too long."
 msgstr ""
 
-#: plugin_search.cpp:1527
+#: plugin_search.cpp:1530
 #, fuzzy, kde-format
 msgid "Search Match"
 msgstr "ပေါင်းလဒ်စစ်တမ်းများ ကိုက်ညီသည်။"
 
-#: plugin_search.cpp:1710 plugin_search.cpp:1787
+#: plugin_search.cpp:1713 plugin_search.cpp:1790
 #, fuzzy, kde-format
 msgid "Next from cursor"
 msgstr "&Nကျော် >>"
 
-#: plugin_search.cpp:1727
+#: plugin_search.cpp:1730
 #, kde-format
 msgid "Starting from first match"
 msgstr ""
 
-#: plugin_search.cpp:1747
+#: plugin_search.cpp:1750
 #, kde-format
 msgid "Continuing from first match"
 msgstr ""
 
-#: plugin_search.cpp:1804
+#: plugin_search.cpp:1807
 #, kde-format
 msgid "Starting from last match"
 msgstr ""
 
-#: plugin_search.cpp:1824
+#: plugin_search.cpp:1827
 #, kde-format
 msgid "Continuing from last match"
 msgstr ""
 
-#: plugin_search.cpp:2073
+#: plugin_search.cpp:2076
 #, kde-format
 msgid "Copy all"
 msgstr "အားလုံးကူးယူမည်"
 
-#: plugin_search.cpp:2078
+#: plugin_search.cpp:2081
 #, fuzzy, kde-format
 msgid "Copy expanded"
 msgstr "သို့ကူးယူရန်"
 
-#: plugin_search.cpp:2081
+#: plugin_search.cpp:2084
 #, fuzzy, kde-format
 msgid "Export matches"
 msgstr "ထုတ်ပို့မည်..."
 
-#: plugin_search.cpp:2086
+#: plugin_search.cpp:2089
 #, kde-format
 msgid "Clear"
 msgstr ""
 
-#: plugin_search.cpp:2194 plugin_search.cpp:2216
+#: plugin_search.cpp:2197 plugin_search.cpp:2219
 #, kde-format
 msgid "Add..."
 msgstr "ထည့်သွင်းမည်..."
 
-#: plugin_search.cpp:2265
+#: plugin_search.cpp:2268
 #, fuzzy, kde-format
 msgid "In Current Project"
 msgstr "လက်ရှိ ပရောဂျက်"
 
-#: plugin_search.cpp:2267
+#: plugin_search.cpp:2270
 #, fuzzy, kde-format
 msgid "In All Open Projects"
 msgstr "ပရောဂျက် အားလုံး"
