@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-16 00:54+0000\n"
+"POT-Creation-Date: 2022-01-19 00:56+0000\n"
 "PO-Revision-Date: 2021-09-20 02:05+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -33,7 +33,7 @@ msgctxt "Description"
 msgid "Automatic proxy configuration"
 msgstr "ဆ.သ.ရ-ကွန်ရက်ကြားခံအလိုအလျောက်ပြင်ဆင်ချက်"
 
-#: src/ioslaves/trash/trash.json
+#: src/ioslaves/trash/trash.json.cmake
 msgctxt "trash ExtraNames"
 msgid "Original Path;Deletion Date"
 msgstr "နဂိုလမ်းကြောင်း;ဖျက်ရန်သတ်မှတ်ထားသောရက်စွဲ;Original Path;Deletion Data"

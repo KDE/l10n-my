@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-05 00:47+0000\n"
+"POT-Creation-Date: 2022-01-19 00:46+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -170,12 +170,12 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "lw1nzayar@yandex.com"
 
-#: discover/main.cpp:145
+#: discover/main.cpp:146
 #, kde-format
 msgid "Available backends:\n"
 msgstr "ရရှိနိုင်သော အုတ်မြစ်ပရိုဂရမ်များ-\n"
 
-#: discover/main.cpp:190
+#: discover/main.cpp:201
 #, kde-format
 msgid "Available modes:\n"
 msgstr "ရရှိနိုင်သော ထုံးနည်းများ-\n"

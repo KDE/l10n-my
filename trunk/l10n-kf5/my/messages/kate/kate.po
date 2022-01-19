@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-18 00:46+0000\n"
+"POT-Creation-Date: 2022-01-19 00:47+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1098,7 +1098,7 @@ msgstr ""
 msgid "Opening Large File"
 msgstr "ကြီးမားသောဖိုင်လ်ဖွင့်နေသည်"
 
-#: kateviewmanager.cpp:929
+#: kateviewmanager.cpp:928
 #, kde-format
 msgid "This view may have unsaved work. Do you really want to close it?"
 msgstr ""
