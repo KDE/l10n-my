@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-20 02:09+0000\n"
+"POT-Creation-Date: 2022-01-21 02:11+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -487,12 +487,12 @@ msgstr "စက်တွင်းအထုပ်"
 msgid "Malformed appstream url '%1'"
 msgstr "ပုံပျက်-အပ်စထရင်း-ယူအာအယ်လ် '%1'"
 
-#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1607
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1606
 #, kde-format
 msgid "There are no Flatpak sources."
 msgstr ""
 
-#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1611
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1610
 #, fuzzy, kde-format
 #| msgid "Failed to start '%1'"
 msgid "Failed to load \"%1\" source"
@@ -595,7 +595,7 @@ msgstr "%1 (အသုံးပြုသူ)"
 msgid "Enter a Flatpak repository URI (*.flatpakrepo):"
 msgstr "ဖလက်ပတ်ခ် ရီပိုစစ်တိုရီ ယူအာအိုင် (*.flatpakrepo) ရေးသွင်းပါ-"
 
-#: libdiscover/backends/FlatpakBackend/FlatpakTransactionThread.cpp:21
+#: libdiscover/backends/FlatpakBackend/FlatpakTransactionThread.cpp:27
 #, kde-format
 msgid "Adding remote '%1' in %2 from %3"
 msgstr "%3 မှ %2 တွင် အဝေး '%1' ထည့်သွင်းနေသည်"
