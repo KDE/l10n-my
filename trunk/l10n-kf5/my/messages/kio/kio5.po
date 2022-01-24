@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-22 00:40+0000\n"
+"POT-Creation-Date: 2022-01-24 00:40+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -7240,43 +7240,43 @@ msgstr "တပ်ဆင်"
 msgid "Unmount"
 msgstr "ဖြုတ်ရန်"
 
-#: widgets/kdirmodel.cpp:1176
+#: widgets/kdirmodel.cpp:1189
 #, kde-format
 msgctxt "@title:column"
 msgid "Name"
 msgstr "အမည်"
 
-#: widgets/kdirmodel.cpp:1178
+#: widgets/kdirmodel.cpp:1191
 #, kde-format
 msgctxt "@title:column"
 msgid "Size"
 msgstr "အရွယ်အစား"
 
-#: widgets/kdirmodel.cpp:1180
+#: widgets/kdirmodel.cpp:1193
 #, kde-format
 msgctxt "@title:column"
 msgid "Date"
 msgstr "ရက်စွဲ"
 
-#: widgets/kdirmodel.cpp:1182
+#: widgets/kdirmodel.cpp:1195
 #, kde-format
 msgctxt "@title:column"
 msgid "Permissions"
 msgstr "ခွင့်ပြုချက်များ"
 
-#: widgets/kdirmodel.cpp:1184
+#: widgets/kdirmodel.cpp:1197
 #, kde-format
 msgctxt "@title:column"
 msgid "Owner"
 msgstr "ပိုင်ရှင်"
 
-#: widgets/kdirmodel.cpp:1186
+#: widgets/kdirmodel.cpp:1199
 #, kde-format
 msgctxt "@title:column"
 msgid "Group"
 msgstr "အုပ်စု"
 
-#: widgets/kdirmodel.cpp:1188
+#: widgets/kdirmodel.cpp:1201
 #, kde-format
 msgctxt "@title:column"
 msgid "Type"
