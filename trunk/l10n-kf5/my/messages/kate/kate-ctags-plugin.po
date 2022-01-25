@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-03 00:19+0000\n"
+"POT-Creation-Date: 2022-01-25 00:47+0000\n"
 "PO-Revision-Date: 2021-09-15 01:40+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -297,12 +297,18 @@ msgctxt "Tag Type"
 msgid "set"
 msgstr "set"
 
-#: gotosymbolmodel.cpp:70
+#: gotosymbolmodel.cpp:66
 #, kde-format
 msgid "CTags executable not found."
 msgstr "စီတပ် လုပ်ဆောင်-ဖိုင်လ် မတွေ့ပါ"
 
-#: gotosymbolmodel.cpp:138
+#: gotosymbolmodel.cpp:79
+#, fuzzy, kde-format
+#| msgid "CTags executable not found."
+msgid "CTags executable failed to execute."
+msgstr "စီတပ် လုပ်ဆောင်-ဖိုင်လ် မတွေ့ပါ"
+
+#: gotosymbolmodel.cpp:147
 #, kde-format
 msgid "CTags was unable to parse this file."
 msgstr "စီတပ်သည် ဤဖိုင်လ်ကို မဖတ်နိုင်(အဓိပ္ပါယ်ရှိအောင်)ပါ။"
