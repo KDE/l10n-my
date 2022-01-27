@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-20 00:48+0000\n"
+"POT-Creation-Date: 2022-01-27 00:48+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -70,7 +70,7 @@ msgid "Donate regularly"
 msgstr "ပုံမှန်လှူဒါန်းမည်"
 
 #: content/community/donations/_index.md:0
-msgid "Previous donations page"
+msgid "PayPal statistics"
 msgstr ""
 
 #: content/community/donations/_index.md:0
