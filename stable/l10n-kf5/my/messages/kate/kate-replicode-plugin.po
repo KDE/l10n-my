@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-30 03:20+0100\n"
+"POT-Creation-Date: 2022-01-29 02:10+0000\n"
 "PO-Revision-Date: 2021-09-15 01:19+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -307,103 +307,103 @@ msgstr "ရီပလီကုတ်"
 msgid "Replicode configuration"
 msgstr "ရီပလီကုတ် ပြင်ဆင်မှု"
 
-#: replicodeview.cpp:40
+#: replicodeview.cpp:42
 #, kde-format
 msgid "Run replicode"
 msgstr "ရီပလီကုတ် မောင်းနှင်မည်"
 
-#: replicodeview.cpp:44
+#: replicodeview.cpp:46
 #, kde-format
 msgid "Stop replicode"
 msgstr "ရီပလီကုတ် ရပ်မည်"
 
-#: replicodeview.cpp:53
+#: replicodeview.cpp:55
 #, kde-format
 msgid "Replicode Output"
 msgstr "ရီပလီကုတ် အထုတ်"
 
-#: replicodeview.cpp:63
+#: replicodeview.cpp:65
 #, kde-format
 msgid "Replicode Config"
 msgstr "ရီပလီကုတ် ကွန်ဖစ်"
 
-#: replicodeview.cpp:66
+#: replicodeview.cpp:68
 #, kde-format
 msgctxt "shortcut for action"
 msgid "Run (%1)"
 msgstr "မောင်းနှင်မည် (%1)"
 
-#: replicodeview.cpp:67
+#: replicodeview.cpp:69
 #, kde-format
 msgctxt "shortcut for action"
 msgid "Stop (%1)"
 msgstr "ရပ်မည် (%1)"
 
-#: replicodeview.cpp:102
+#: replicodeview.cpp:104
 #, kde-format
 msgctxt "@title:window"
 msgid "Active Document Not Found"
 msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူ မတွေ့ပါ"
 
-#: replicodeview.cpp:102
+#: replicodeview.cpp:104
 #, kde-format
 msgid "Could not find an active document to run."
 msgstr ""
 
-#: replicodeview.cpp:107
+#: replicodeview.cpp:109
 #, kde-format
 msgctxt "@title:window"
 msgid "Empty Document"
 msgstr "ဗလာ မှတ်တမ်းပုံနှိပ်မူ"
 
-#: replicodeview.cpp:107
+#: replicodeview.cpp:109
 #, kde-format
 msgid "Cannot execute an empty document."
 msgstr "ဗလာ မှတ်တမ်းပုံနှိပ်မူ ကို မလုပ်ဆောင်နိုင်ပါ။"
 
-#: replicodeview.cpp:114
+#: replicodeview.cpp:116
 #, kde-format
 msgctxt "@title:window"
 msgid "File Not Found"
 msgstr "ဖိုင်လ်မတွေ့ပါ"
 
-#: replicodeview.cpp:114
+#: replicodeview.cpp:116
 #, kde-format
 msgid "Unable to open source file for reading."
 msgstr ""
 
-#: replicodeview.cpp:122
+#: replicodeview.cpp:131
 #, kde-format
 msgctxt "@title:window"
 msgid "Replicode Executable Not Found"
 msgstr "ရီပလီကုတ် လုပ်ဆောင်-ဖိုင်လ် မတွေ့ပါ"
 
-#: replicodeview.cpp:123
+#: replicodeview.cpp:132
 #, kde-format
 msgid ""
 "Unable to find replicode executor.\n"
 "Please go to settings and set the path to the Replicode executable."
 msgstr ""
 
-#: replicodeview.cpp:130
+#: replicodeview.cpp:139
 #, kde-format
 msgctxt "@title:window"
 msgid "User Operator Library Not Found"
 msgstr ""
 
-#: replicodeview.cpp:131
+#: replicodeview.cpp:140
 #, kde-format
 msgid ""
 "Unable to find user operator library.\n"
 "Please go to settings and set the path to the library."
 msgstr ""
 
-#: replicodeview.cpp:196
+#: replicodeview.cpp:205
 #, kde-format
 msgid "Replicode execution failed: %1"
 msgstr "ရီပလီကုတ် ဆောင်ရွက်မှု ကျရှုံးခဲ့သည် - %1"
 
-#: replicodeview.cpp:206
+#: replicodeview.cpp:215
 #, kde-format
 msgid "Replicode execution finished."
 msgstr "ရီပလီကုတ် ဆောင်ရွက်မှု ပြီးပါပြီ။"

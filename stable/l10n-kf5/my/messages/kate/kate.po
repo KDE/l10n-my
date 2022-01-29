@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-13 02:18+0000\n"
+"POT-Creation-Date: 2022-01-29 02:10+0000\n"
 "PO-Revision-Date: 2021-09-15 00:53+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -330,32 +330,32 @@ msgstr "စတင်နေသည်"
 msgid "Reopening files from the last session..."
 msgstr ""
 
-#: katefileactions.cpp:64
+#: katefileactions.cpp:65
 #, kde-format
 msgid "Rename file"
 msgstr "ဖိုင်လ် အမည်ပြောင်းမည်"
 
-#: katefileactions.cpp:65
+#: katefileactions.cpp:66
 #, kde-format
 msgid "New file name"
 msgstr "ဖိုင်လ်အမည်အသစ်"
 
-#: katefileactions.cpp:96
+#: katefileactions.cpp:97
 #, kde-format
 msgid "File \"%1\" could not be moved to \"%2\""
 msgstr "ဖိုင်လ် \"%1\" ကို \"%2\" သို့မရွေ့နိုင်ခဲ့ပါ"
 
-#: katefileactions.cpp:117
+#: katefileactions.cpp:118
 #, kde-format
 msgid "Do you really want to delete file \"%1\"?"
 msgstr "ဖိုင်လ် \"%1\" ကို သင်တကယ်ဖျက်တော့မည်လား။"
 
-#: katefileactions.cpp:118
+#: katefileactions.cpp:119
 #, kde-format
 msgid "Delete file"
 msgstr "ဖိုင်လ် ဖျက်မည်"
 
-#: katefileactions.cpp:135
+#: katefileactions.cpp:136
 #, kde-format
 msgid "File \"%1\" could not be deleted."
 msgstr "ဖိုင်လ် \"%1\" ကိုမဖျက်နိုင်ခဲ့ပါ"
@@ -765,12 +765,12 @@ msgid ""
 "with the assigned shortcuts.</qt>"
 msgstr ""
 
-#: katemwmodonhddialog.cpp:59
+#: katemwmodonhddialog.cpp:61
 #, kde-format
 msgid "Documents Modified on Disk"
 msgstr "ဒစ်စ်ပေါ်တွင် ပြောင်းလဲသွားသော မှတ်တမ်းပုံနှိပ်မူများ"
 
-#: katemwmodonhddialog.cpp:75
+#: katemwmodonhddialog.cpp:77
 #, kde-format
 msgid ""
 "<qt>The documents listed below have changed on disk.<p>Select one or more at "
@@ -779,37 +779,37 @@ msgstr ""
 "<qt>အောက်တွင်စာရင်းပြထားသော မှတ်တမ်းပုံနှိပ်မူများ ဒစ်စ်တွင် ပြောင်းလဲသွားခဲ့သည်။<p>တစ်ပြိုင်တည်း တစ်ခု "
 "သို့မဟုတ် တစ်ခုထက်ပို၍ ရွေးချယ်ပြီး စာရင်းမရှင်းမချင်း အက်ရှင်ခလုတ်နှိပ်ပါ။</p></qt>"
 
-#: katemwmodonhddialog.cpp:85
+#: katemwmodonhddialog.cpp:87
 #, kde-format
 msgid "Filename"
 msgstr "ဖိုင်လ်အမည်"
 
-#: katemwmodonhddialog.cpp:85
+#: katemwmodonhddialog.cpp:87
 #, kde-format
 msgid "Status on Disk"
 msgstr "ဒစ်စ်ပေါ်အခြေအနေ"
 
-#: katemwmodonhddialog.cpp:90
+#: katemwmodonhddialog.cpp:92
 #, kde-format
 msgid "Modified"
 msgstr "မွမ်းမံခဲ့သည်"
 
-#: katemwmodonhddialog.cpp:90
+#: katemwmodonhddialog.cpp:92
 #, kde-format
 msgid "Created"
 msgstr "ဖန်တီးခဲ့သည်"
 
-#: katemwmodonhddialog.cpp:90
+#: katemwmodonhddialog.cpp:92
 #, kde-format
 msgid "Deleted"
 msgstr "ဖျက်ခဲ့သည်"
 
-#: katemwmodonhddialog.cpp:105
+#: katemwmodonhddialog.cpp:107
 #, kde-format
 msgid "&View Difference"
 msgstr "&Vခြားနားချက်များကြည့်မည်"
 
-#: katemwmodonhddialog.cpp:107
+#: katemwmodonhddialog.cpp:109
 #, kde-format
 msgid ""
 "Calculates the difference between the editor contents and the disk file for "
@@ -819,32 +819,32 @@ msgstr ""
 "ရွေးထားသော မှတ်တမ်းပုံနှိပ်မူအတွက် တည်းဖြတ်ကိရိယာရှိ စာသားဒေတာများနှင့် ဒစ်စ်ဖိုင်လ်ရှိ စာသားဒေတာများ "
 "ခြားနားချက် ရှာဖွေ၍ မူလသတ်မှတ်ထားသော အပ္ပလီကေးရှင်းနှင့် ပြမည်။ diff(၁) လိုအပ်သည်။"
 
-#: katemwmodonhddialog.cpp:117
+#: katemwmodonhddialog.cpp:120
 #, kde-format
 msgid "&Ignore Changes"
 msgstr "&Iပြောင်းလဲမှုများ လစ်လျူရှုမည်"
 
-#: katemwmodonhddialog.cpp:118
+#: katemwmodonhddialog.cpp:121
 #, kde-format
 msgid "Remove modified flag from selected documents"
 msgstr ""
 
-#: katemwmodonhddialog.cpp:124
+#: katemwmodonhddialog.cpp:127
 #, kde-format
 msgid "Overwrite selected documents, discarding disk changes"
 msgstr ""
 
-#: katemwmodonhddialog.cpp:128
+#: katemwmodonhddialog.cpp:131
 #, kde-format
 msgid "&Reload"
 msgstr "&Rပြန်တွန်းတင်မည်"
 
-#: katemwmodonhddialog.cpp:130
+#: katemwmodonhddialog.cpp:133
 #, kde-format
 msgid "Reload selected documents from disk"
 msgstr ""
 
-#: katemwmodonhddialog.cpp:196
+#: katemwmodonhddialog.cpp:199
 #, kde-format
 msgid ""
 "Could not save the document \n"
@@ -853,7 +853,7 @@ msgstr ""
 "မှတ်တမ်းပုံနှိပ်မူကို မသိမ်းဆည်းနိုင်ခဲ့ပါ\n"
 "'%1'"
 
-#: katemwmodonhddialog.cpp:328
+#: katemwmodonhddialog.cpp:332
 #, kde-format
 msgid ""
 "The diff command failed. Please make sure that diff(1) is installed and in "
@@ -862,17 +862,17 @@ msgstr ""
 "အမိန့် diff မအောင်မြင်ခဲ့ပါ။ ကျေးဇူးပြု၍ diff(1) တပ်ဆင်ထားခြင်းရှိ၊ မရှိ နှင့် PATH ထဲတွင် ရှိ၊မရှိ "
 "စစ်ဆေးပါ။"
 
-#: katemwmodonhddialog.cpp:330
+#: katemwmodonhddialog.cpp:334
 #, kde-format
 msgid "Error Creating Diff"
 msgstr "Diffဖန်တီးရာတွင် အမှားဖြစ်ပေါ်ခဲ့သည်"
 
-#: katemwmodonhddialog.cpp:337
+#: katemwmodonhddialog.cpp:341
 #, kde-format
 msgid "Ignoring amount of white space changed, the files are identical."
 msgstr "အဖြူနေရာလွတ်အက္ခရာများပြောင်းလဲမှုပမာဏကို လစ်လျူရှုလျှင် ဖိုင်လ်များ တစ်ထပ်တည်းကျပါသည်။"
 
-#: katemwmodonhddialog.cpp:337
+#: katemwmodonhddialog.cpp:341
 #, kde-format
 msgid "Diff Output"
 msgstr "Diff အထုတ်"
@@ -1160,12 +1160,12 @@ msgstr "&Dအခြားမှတ်တမ်းပုံနှိပ်မူ�
 msgid "Compare with active document"
 msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူနှင့် နှိုင်းယှဥ်မည်"
 
-#: kateviewspace.cpp:710
+#: kateviewspace.cpp:713
 #, kde-format
 msgid "Could not start program"
 msgstr "ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ"
 
-#: kateviewspace.cpp:711
+#: kateviewspace.cpp:714
 #, kde-format
 msgid "The selected program could not be started. Maybe it is not installed."
 msgstr "ရွေးထားသော ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ။ တပ်ဆင်မထားရသေးခြင်းဖြစ်နိုင်သည်။"
