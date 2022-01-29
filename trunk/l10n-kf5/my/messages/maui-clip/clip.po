@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-09 00:43+0000\n"
+"POT-Creation-Date: 2022-01-29 00:42+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -149,7 +149,7 @@ msgstr "ဘာမှမရှိ။"
 msgid "Open a new video from your collection or file system."
 msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
 
-#: src/main.qml:501
+#: src/main.qml:547
 #, fuzzy, kde-format
 #| msgid "Toogle SideBar"
 msgid "Toggle SideBar"
@@ -244,7 +244,7 @@ msgstr "ဗီဒီယိုစာတန်းထိုး"
 msgid "Audio Tracks"
 msgstr "အော်ဒီယိုသံစဥ်များ"
 
-#: src/views/player/PlayerView.qml:44
+#: src/views/player/PlayerView.qml:46
 #, kde-format
 msgid "Playing mode"
 msgstr ""
@@ -433,7 +433,7 @@ msgstr "တပ်ဂ်များမရှိ။"
 msgid "Add a new tag to start organizing your video collection."
 msgstr "သင်၏ဗီဒီယိုစုစည်းမှုကို စီစဥ်ရန် တပ်ဂ်အသစ် ထည့်ပါ။"
 
-#: src/views/tags/TagsGrid.qml:37
+#: src/views/tags/TagsGrid.qml:38
 #, kde-format
 msgid "Filter"
 msgstr "စစ်ထုတ်မည်"
