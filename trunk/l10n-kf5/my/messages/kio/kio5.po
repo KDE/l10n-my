@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-28 00:41+0000\n"
+"POT-Creation-Date: 2022-01-31 00:40+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -134,12 +134,12 @@ msgstr "ပရိုဂရမ် '%1' တွင် မောင်းနှင�
 msgid "Syntax error in command %1 coming from %2"
 msgstr "%2 မှလာသော အမိန့် %1 တွင် သဒ္ဒါဆိုင်ရာအမှား"
 
-#: core/desktopexecparser.cpp:481
+#: core/desktopexecparser.cpp:491
 #, kde-format
 msgid "Terminal %1 not found while trying to run %2"
 msgstr "%2 လုပ်ဆောင်ရန်ကြိုးစားနေစဥ် တာမီနယ် %1 မတွေ့ပါ"
 
-#: core/desktopexecparser.cpp:497
+#: core/desktopexecparser.cpp:507
 #, kde-format
 msgid "Syntax error in command %1 while trying to run %2"
 msgstr "%2 လုပ်ဆောင်ရန် ကြိုးစားနေစဥ် အမိန့် %1 တွင် သဒ္ဒါဆိုင်ရာအမှား"
@@ -2015,7 +2015,7 @@ msgstr ""
 msgid "The server was too busy responding to other requests to respond."
 msgstr "ဆာဗာသည် အခြားတောင်းခံမှုကို တုံ့ပြန်ရာ၌ မအားမလပ်ဖြစ်နေသဖြင့် မတုံ့ပြန်နိုင်သေးပါ။"
 
-#: core/job_error.cpp:1109 core/slavebase.cpp:1574
+#: core/job_error.cpp:1109 core/slavebase.cpp:1570
 #, kde-format
 msgid "Unknown Error"
 msgstr "မသိသောအမှား"
@@ -2321,107 +2321,107 @@ msgstr "'%1' လုပ်ရိုးလုပ်ထုံးအတွက် အ
 msgid "Can not find 'kioslave5' executable at '%1'"
 msgstr "'%1'၌ 'ကေအိုင်အိုကျွန်၅' ဆောင်ရွက်ဖိုင်လ်ကို ရှာမတွေ့ပါ"
 
-#: core/slavebase.cpp:857
+#: core/slavebase.cpp:853
 #, kde-format
 msgid "Opening connections is not supported with the protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ချိတ်ဆက်မှုဖွင့်ခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:859
+#: core/slavebase.cpp:855
 #, kde-format
 msgid "Closing connections is not supported with the protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး '%1' တွင် ချိတ်ဆက်မှုပိတ်သောလုပ်ဆောင်ချက်မပါပါ။"
 
-#: core/slavebase.cpp:861
+#: core/slavebase.cpp:857
 #, kde-format
 msgid "Accessing files is not supported with the protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များရယူအသုံးပြုခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:863
+#: core/slavebase.cpp:859
 #, kde-format
 msgid "Writing to %1 is not supported."
 msgstr "%1 သို့ ရေးမရပါ။"
 
-#: core/slavebase.cpp:865
+#: core/slavebase.cpp:861
 #, kde-format
 msgid "There are no special actions available for protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 အတွက် အထူးပြုလုပ်ဆောင်ချက်များ မရှိပါ။"
 
-#: core/slavebase.cpp:867
+#: core/slavebase.cpp:863
 #, kde-format
 msgid "Listing folders is not supported for protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုလ်ဒါများစာရင်းပြခြင်းပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:869
+#: core/slavebase.cpp:865
 #, kde-format
 msgid "Retrieving data from %1 is not supported."
 msgstr "%1 မှ ဒေတာရယူခြင်း လုပ်ဆောင်၍မရပါ။"
 
-#: core/slavebase.cpp:871
+#: core/slavebase.cpp:867
 #, kde-format
 msgid "Retrieving mime type information from %1 is not supported."
 msgstr "%1 မှ အမ်အိုင်အမ်အီးတိုက် ဆိုင်ရာ အချက်အလက် ရယူခြင်း လုပ်ဆောင်၍မရပါ။"
 
-#: core/slavebase.cpp:873
+#: core/slavebase.cpp:869
 #, kde-format
 msgid "Renaming or moving files within %1 is not supported."
 msgstr "%1 အတွင်း ဖိုင်လ်များ အမည်ပြောင်းခြင်း၊ ကူးပြောင်းခြင်း မပြုလုပ်နိုင်ပါ။"
 
-#: core/slavebase.cpp:875
+#: core/slavebase.cpp:871
 #, kde-format
 msgid "Creating symlinks is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဆင်းလင့်ခ်များဖန်တီးခြင်းပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:877
+#: core/slavebase.cpp:873
 #, kde-format
 msgid "Copying files within %1 is not supported."
 msgstr "%1 အတွင်း ဖိုင်လ်များ ကူးယူခြင်း မပြုလုပ်နိုင်ပါ။"
 
-#: core/slavebase.cpp:879
+#: core/slavebase.cpp:875
 #, kde-format
 msgid "Deleting files from %1 is not supported."
 msgstr "%1မှဖိုင်လ်များဖျက်ခြင်းကို မလုပ်ဆောင်နိုင်ပါ။"
 
-#: core/slavebase.cpp:881
+#: core/slavebase.cpp:877
 #, kde-format
 msgid "Creating folders is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုလ်ဒါများတည်ဆောင်ခြင်းပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:883
+#: core/slavebase.cpp:879
 #, kde-format
 msgid "Changing the attributes of files is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များ၏သက်ဆိုင်ရာညွှန်ပြတန်ဖိုးများပြောင်းလဲခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:885
+#: core/slavebase.cpp:881
 #, kde-format
 msgid "Changing the ownership of files is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များ၏ပိုင်ဆိုင်မှု ပြောင်းလဲခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:887
+#: core/slavebase.cpp:883
 #, kde-format
 msgid "Using sub-URLs with %1 is not supported."
 msgstr "လက်အောက်ခံ-ယူအာအယ်လ်များကို %1 ဖြင့်အသုံးပြု၍မရပါ။"
 
-#: core/slavebase.cpp:889
+#: core/slavebase.cpp:885
 #, kde-format
 msgid "Multiple get is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် အများအပြားရယူခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:891
+#: core/slavebase.cpp:887
 #, kde-format
 msgid "Opening files is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များဖွင့်ခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:893
+#: core/slavebase.cpp:889
 #, kde-format
 msgid "Protocol %1 does not support action %2."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် လုပ်ဆောင်ချက် %2 ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:1055
+#: core/slavebase.cpp:1051
 #, kde-format
 msgid "&Yes"
 msgstr "&Yအွန်း"
 
-#: core/slavebase.cpp:1056
+#: core/slavebase.cpp:1052
 #, kde-format
 msgid "&No"
 msgstr "&Nဟင်အင့်"
@@ -7393,12 +7393,12 @@ msgstr "ဖြင့်ဖွင့်ရန် -"
 msgid "Known Applications"
 msgstr "သိသောအပ္ပလီကေးရှင်းများ"
 
-#: widgets/kopenwithdialog.cpp:556
+#: widgets/kopenwithdialog.cpp:561
 #, kde-format
 msgid "Open With"
 msgstr "ဖြင့်ဖွင့်ရန်"
 
-#: widgets/kopenwithdialog.cpp:561
+#: widgets/kopenwithdialog.cpp:566
 #, kde-format
 msgid ""
 "<qt>Select the program that should be used to open <b>%1</b>. If the program "
@@ -7407,34 +7407,34 @@ msgstr ""
 "<qt><b>%1</b> ဖွင့်ရန်သုံးသင့်သော ပရိုဂရမ်ရွေးချယ်မည်။ ပရိုဂရမ်မပြထားလျှင် အမည်ရိုက်ထည့်ပါ သို့ "
 "ရှောက်ကြည့်မည် ခလုတ်ကို နှိပ်ပါ။</qt>"
 
-#: widgets/kopenwithdialog.cpp:568
+#: widgets/kopenwithdialog.cpp:573
 #, kde-format
 msgid "Choose the name of the program with which to open the selected files."
 msgstr "ရွေးချယ်ထားသောဖိုင်လ်များကိုဖွင့်ရန် ပရိုဂရမ်အမည်ရွေးပါ။"
 
-#: widgets/kopenwithdialog.cpp:589
+#: widgets/kopenwithdialog.cpp:594
 #, kde-format
 msgid "<qt>Select the program you want to use to open the file<br/>%1</qt>"
 msgstr "<qt>ဖိုင်လ် %1<br/>ကို ဖွင့်ရာတွင် သင်သုံးချင်သော ပရိုဂရမ်ရွေးချယ်ပါ။</qt>"
 
-#: widgets/kopenwithdialog.cpp:591
+#: widgets/kopenwithdialog.cpp:596
 #, kde-format
 msgid "<qt>Select the program you want to use to open the file.</qt>"
 msgid_plural ""
 "<qt>Select the program you want to use to open the %1 files.</qt>"
 msgstr[0] "<qt>ဖိုင်လ် %1ခုကို ဖွင့်ရာတွင် သင်သုံးချင်သော ပရိုဂရမ်ရွေးချယ်ပါ။</qt>"
 
-#: widgets/kopenwithdialog.cpp:596 widgets/kopenwithdialog.cpp:627
+#: widgets/kopenwithdialog.cpp:601 widgets/kopenwithdialog.cpp:632
 #, kde-format
 msgid "Choose Application"
 msgstr "အပ္ပလီကေးရှင်းရွေးရန်"
 
-#: widgets/kopenwithdialog.cpp:611
+#: widgets/kopenwithdialog.cpp:616
 #, kde-format
 msgid "Choose Application for %1"
 msgstr "%1အတွက် အပ္ပလီကေးရှင်းရွေးရန်"
 
-#: widgets/kopenwithdialog.cpp:613
+#: widgets/kopenwithdialog.cpp:618
 #, kde-format
 msgid ""
 "<qt>Select the program for the file type: <b>%1</b>. If the program is not "
@@ -7443,7 +7443,7 @@ msgstr ""
 "<qt>ဖိုင်လ်အမျိုးအစား <b>%1</b> အတွက် ပရိုဂရမ်ရွေးချယ်မည်။ ပရိုဂရမ်မပြထားလျှင် အမည်ရိုက်ထည့်ပါ သို့ "
 "ရှောက်ကြည့်မည် ခလုတ်ကို နှိပ်ပါ။</qt>"
 
-#: widgets/kopenwithdialog.cpp:629
+#: widgets/kopenwithdialog.cpp:634
 #, kde-format
 msgid ""
 "<qt>Select a program. If the program is not listed, enter the name or click "
@@ -7451,7 +7451,7 @@ msgid ""
 msgstr ""
 "<qt>ပရိုဂရမ်ရွေးချယ်မည်။ ပရိုဂရမ်မပြထားလျှင် အမည်ရိုက်ထည့်ပါ သို့ ရှောက်ကြည့်မည် ခလုတ်ကို နှိပ်ပါ။</qt>"
 
-#: widgets/kopenwithdialog.cpp:675
+#: widgets/kopenwithdialog.cpp:680
 #, kde-format
 msgid ""
 "Type to filter the applications below, or specify the name of a command.\n"
@@ -7460,7 +7460,7 @@ msgstr ""
 "အောက်ပါအပ္ပလီကေးရှင်းများ စစ်ထုတ်ရန် ရိုက်သွင်းပါ၊ သို့မဟုတ် အမိန့်၏အမည် ဖော်ပြပါ။\n"
 "အောက်ညွှန်ပြမြားကို နှိပ်ပြီး ရလဒ်များအကြား သွားလာပါ။"
 
-#: widgets/kopenwithdialog.cpp:698
+#: widgets/kopenwithdialog.cpp:703
 #, kde-format
 msgid ""
 "Following the command, you can have several place holders which will be "
@@ -7487,7 +7487,7 @@ msgstr ""
 "%m - အိုင်ကွန်အငယ်\n"
 "%c - မှတ်ချက်"
 
-#: widgets/kopenwithdialog.cpp:741
+#: widgets/kopenwithdialog.cpp:746
 #, kde-format
 msgid ""
 "&Remember application association for all files of type\n"
@@ -7496,35 +7496,35 @@ msgstr ""
 "ဖိုင်လ်အမျိုးအစားအားလုံးနှင့် ပတ်သက်သော အပ္ပလီကေးရှင်း မှတ်ထားမည်\n"
 "\"%1\" (%2)"
 
-#: widgets/kopenwithdialog.cpp:750
+#: widgets/kopenwithdialog.cpp:755
 #, kde-format
 msgid "Terminal options"
 msgstr "တာမီနယ်ရွေးချယ်စရာများ"
 
-#: widgets/kopenwithdialog.cpp:755
+#: widgets/kopenwithdialog.cpp:760
 #, kde-format
 msgid "Run in &terminal"
 msgstr "&tတာမီနယ်တွင် လုပ်ဆောင်မည်"
 
-#: widgets/kopenwithdialog.cpp:773
+#: widgets/kopenwithdialog.cpp:778
 #, kde-format
 msgid "&Do not close when command exits"
 msgstr "&Dအမိန့်ပြီးသွားသည့်အခါ မပိတ်ပါနှင့်"
 
-#: widgets/kopenwithdialog.cpp:961
+#: widgets/kopenwithdialog.cpp:966
 #, kde-format
 msgid ""
 "Could not extract executable name from '%1', please type a valid program "
 "name."
 msgstr "'%1' မှ လုပ်ဆောင်-ဖိုင်လ်အမည် မရခဲ့ပါ။ ကျေးဇူးပြု၍ မှန်ကန်သော ပရိုဂရမ်အမည် ရိုက်သွင်းပါ။"
 
-#: widgets/kopenwithdialog.cpp:1015
+#: widgets/kopenwithdialog.cpp:1020
 #, kde-kuit-format
 msgctxt "@info"
 msgid "<filename>%1</filename> does not appear to be an executable program."
 msgstr "<filename>%1</filename> သည် ဆောင်ရွက်၍ရသော ပရိုဂရမ်မဟုတ်ပါ။"
 
-#: widgets/kopenwithdialog.cpp:1017
+#: widgets/kopenwithdialog.cpp:1022
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
