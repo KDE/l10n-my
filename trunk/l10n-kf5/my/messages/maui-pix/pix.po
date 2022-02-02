@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-pix\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-30 00:44+0000\n"
+"POT-Creation-Date: 2022-02-02 00:43+0000\n"
 "PO-Revision-Date: 2021-09-19 13:24+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -59,7 +59,7 @@ msgstr ""
 msgid "About"
 msgstr "အကြောင်း"
 
-#: src/main.qml:163 src/widgets/views/Viewer/PixViewer.qml:119
+#: src/main.qml:163 src/widgets/views/Viewer/PixViewer.qml:120
 #, kde-format
 msgid "Gallery"
 msgstr ""
@@ -133,7 +133,7 @@ msgstr ""
 msgid "Info"
 msgstr "အချက်"
 
-#: src/view_models/PixMenu.qml:75 src/widgets/SelectionBar.qml:67
+#: src/view_models/PixMenu.qml:75 src/widgets/SelectionBar.qml:75
 #, kde-format
 msgid "Share"
 msgstr ""
@@ -143,7 +143,7 @@ msgstr ""
 msgid "Select"
 msgstr ""
 
-#: src/view_models/PixMenu.qml:105 src/widgets/SelectionBar.qml:86
+#: src/view_models/PixMenu.qml:105 src/widgets/SelectionBar.qml:94
 #, kde-format
 msgid "Export"
 msgstr "တင်ပို့မည်"
@@ -158,22 +158,22 @@ msgstr ""
 msgid "Show in folder"
 msgstr ""
 
-#: src/view_models/PixMenu.qml:147 src/widgets/SelectionBar.qml:102
+#: src/view_models/PixMenu.qml:147 src/widgets/SelectionBar.qml:110
 #, kde-format
 msgid "Remove"
 msgstr ""
 
-#: src/widgets/SelectionBar.qml:47
+#: src/widgets/SelectionBar.qml:55
 #, kde-format
 msgid "View"
 msgstr ""
 
-#: src/widgets/SelectionBar.qml:55
+#: src/widgets/SelectionBar.qml:63
 #, kde-format
 msgid "Tag"
 msgstr ""
 
-#: src/widgets/SelectionBar.qml:79
+#: src/widgets/SelectionBar.qml:87
 #, kde-format
 msgid "Un/Fav"
 msgstr ""
@@ -405,7 +405,7 @@ msgid "There're no images in this folder"
 msgstr ""
 
 #: src/widgets/views/Gallery/GalleryView.qml:22
-#: src/widgets/views/Viewer/PixViewer.qml:195
+#: src/widgets/views/Viewer/PixViewer.qml:196
 #, kde-format
 msgid "No Pics!"
 msgstr ""
@@ -461,12 +461,12 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#: src/widgets/views/Viewer/PixViewer.qml:176
+#: src/widgets/views/Viewer/PixViewer.qml:177
 #, kde-format
 msgid "Previous"
 msgstr ""
 
-#: src/widgets/views/Viewer/PixViewer.qml:196
+#: src/widgets/views/Viewer/PixViewer.qml:197
 #, kde-format
 msgid "Open an image from your collection"
 msgstr ""

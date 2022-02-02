@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-29 00:42+0000\n"
+"POT-Creation-Date: 2022-02-02 00:43+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -149,7 +149,7 @@ msgstr "ဘာမှမရှိ။"
 msgid "Open a new video from your collection or file system."
 msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
 
-#: src/main.qml:547
+#: src/main.qml:548
 #, fuzzy, kde-format
 #| msgid "Toogle SideBar"
 msgid "Toggle SideBar"
