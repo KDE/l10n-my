@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-23 02:13+0000\n"
+"POT-Creation-Date: 2022-02-02 02:07+0000\n"
 "PO-Revision-Date: 2021-09-21 20:20+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -186,12 +186,12 @@ msgstr "%1 ပြန်လွှင့်တင်မည်"
 msgid "Dialog"
 msgstr "ဒိုင်ယာလော့"
 
-#: core/ModuleView.cpp:169
+#: core/ModuleView.cpp:170
 #, kde-format
 msgid "Reset all current changes to previous values"
 msgstr "လက်ရှိပြောင်းလဲမှုများအကုန်လုံးကို ယခင်တန်ဖိုးများကို ပြန်ပြောင်းမည်"
 
-#: core/ModuleView.cpp:310
+#: core/ModuleView.cpp:316
 #, kde-format
 msgid ""
 "The settings of the current module have changed.\n"
@@ -200,7 +200,7 @@ msgstr ""
 "လက်ရှိမော်ဂျူး၏ဆက်တင်များ ပြောင်းလဲသွားပြီ။\n"
 "ပြောင်းလဲမှုများကို သုံးမှာလား၊ စွန့်ပစ်မှာလား။"
 
-#: core/ModuleView.cpp:312
+#: core/ModuleView.cpp:318
 #, kde-format
 msgid "Apply Settings"
 msgstr "ဆက်တင်များသက်ရောက်စေမည်"
@@ -300,12 +300,12 @@ msgstr "(c) ၂၀၁၇၊ မာကိုမာတင်"
 msgid "Marco Martin"
 msgstr "မာကိုမာတင်"
 
-#: sidebar/SidebarMode.cpp:787
+#: sidebar/SidebarMode.cpp:785
 #, kde-format
 msgid "Sidebar"
 msgstr "ဘေးတန်း"
 
-#: sidebar/SidebarMode.cpp:829
+#: sidebar/SidebarMode.cpp:827
 #, kde-format
 msgid "Most Used"
 msgstr "အသုံးများဆုံး"
