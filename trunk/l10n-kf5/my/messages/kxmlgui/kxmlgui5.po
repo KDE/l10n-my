@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kxmlgui\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-03 00:41+0000\n"
+"POT-Creation-Date: 2022-02-04 00:41+0000\n"
 "PO-Revision-Date: 2021-09-20 02:06+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -317,77 +317,77 @@ msgctxt "@title:window"
 msgid "Ambiguous shortcut detected"
 msgstr "အငြင်းပွားဖွယ်ရှိသည့်အမြန်ခလုတ်များတွေ့ရှိသည်"
 
-#: kbugreport.cpp:101
+#: kbugreport.cpp:102
 #, kde-format
 msgctxt "@title:window"
 msgid "Submit Bug Report"
 msgstr "ဆော့လ်ဖ်ဝဲလ်ပြစ်ချက်အစီအရင်ခံစာတင်ရန်"
 
-#: kbugreport.cpp:129
+#: kbugreport.cpp:130
 #, kde-format
 msgid "Submit Bug Report"
 msgstr "ဆော့လ်ဖ်ဝဲလ်ပြစ်ချက်အစီအရင်ခံစာတင်ရန်"
 
-#: kbugreport.cpp:141
+#: kbugreport.cpp:142
 #, kde-format
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
 msgstr "သင်၏အီးမေးလိပ်စာ။ မမှန်ပါက 'အီးမေးလ်ပြင်ဆင်ရန်' ခလုတ်ကိုနှိပ်ပြီး ပြောင်းပါ"
 
-#: kbugreport.cpp:142
+#: kbugreport.cpp:143
 #, kde-format
 msgctxt "Email sender address"
 msgid "From:"
 msgstr "မှ -"
 
-#: kbugreport.cpp:150
+#: kbugreport.cpp:151
 #, kde-format
 msgctxt "@action:button"
 msgid "Configure Email..."
 msgstr "အီးမေးလ်ပြင်ဆင်ရန်..."
 
-#: kbugreport.cpp:157
+#: kbugreport.cpp:158
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr "ဤဆော့လ်ဖ်ဝဲလ်ပြစ်ချက်အစီအရင်ခံစာပို့ရမည့် အီးမေးလ်လိပ်စာ။"
 
-#: kbugreport.cpp:158
+#: kbugreport.cpp:159
 #, kde-format
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr "သို့ -"
 
-#: kbugreport.cpp:167
+#: kbugreport.cpp:168
 #, kde-format
 msgctxt "@action:button"
 msgid "&Send"
 msgstr "&Sပို့"
 
-#: kbugreport.cpp:169
+#: kbugreport.cpp:170
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Send bug report."
 msgstr "ဆော့လ်ဖ်ဝဲလ်ပြစ်ချက်အစီအရင်ခံစာပို့ရန်။"
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:171
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Send this bug report to %1."
 msgstr "%1 ထံ ဤဆော့လ်ဖ်ဝဲလ်ပြစ်ချက်အစီအရင်ခံစာပို့ရန်။"
 
-#: kbugreport.cpp:179
+#: kbugreport.cpp:180
 #, kde-format
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
 "please use the Report Bug menu item of the correct application"
 msgstr ""
 
-#: kbugreport.cpp:180
+#: kbugreport.cpp:181
 #, kde-format
 msgid "Application: "
 msgstr "အပ္ပလီကေးရှင်း - "
 
-#: kbugreport.cpp:190
+#: kbugreport.cpp:191
 #, kde-format
 msgid ""
 "The version of this application - please make sure that no newer version is "
@@ -395,63 +395,63 @@ msgid ""
 msgstr ""
 "ဤအပ္ပလီကေးရှင်း၏ဗားရှင် - ဆော့ဖ်လ်ဝဲလ်ပြစ်ချက်အစီရင်ခံစာမပို့ခင် မည်သည့်ဗားရှင်းအသစ်မှမရှိသည်ကို သေချာစစ်ဆေးပါ"
 
-#: kbugreport.cpp:191
+#: kbugreport.cpp:192
 #, kde-format
 msgid "Version:"
 msgstr "ဗားရှင် -"
 
-#: kbugreport.cpp:196
+#: kbugreport.cpp:197
 #, kde-format
 msgid "no version set (programmer error)"
 msgstr "ဗားရှင်းမသတ်မှတ်ထား (ပရိုဂရမ်မာပေါ့လျော့မှု)"
 
-#: kbugreport.cpp:208
+#: kbugreport.cpp:209
 #, kde-format
 msgid "OS:"
 msgstr "စီမံစနစ် -"
 
-#: kbugreport.cpp:218
+#: kbugreport.cpp:219
 #, kde-format
 msgctxt "@title:group"
 msgid "Se&verity"
 msgstr "&vသက်ရောက်မှု"
 
-#: kbugreport.cpp:225
+#: kbugreport.cpp:226
 #, kde-format
 msgctxt "bug severity"
 msgid "Critical"
 msgstr "အလွန်ပြင်းထန်"
 
-#: kbugreport.cpp:226
+#: kbugreport.cpp:227
 #, kde-format
 msgctxt "bug severity"
 msgid "Grave"
 msgstr "သိသိသာသာပြင်းထန်"
 
-#: kbugreport.cpp:227
+#: kbugreport.cpp:228
 #, kde-format
 msgctxt "bug severity"
 msgid "Normal"
 msgstr "အနည်းငယ်ပြင်းထန်"
 
-#: kbugreport.cpp:228
+#: kbugreport.cpp:229
 #, kde-format
 msgctxt "bug severity"
 msgid "Wishlist"
 msgstr "ဆန္ဒပြု"
 
-#: kbugreport.cpp:229
+#: kbugreport.cpp:230
 #, kde-format
 msgctxt "bug severity"
 msgid "Translation"
 msgstr "ဘာသာပြန်"
 
-#: kbugreport.cpp:247
+#: kbugreport.cpp:248
 #, kde-format
 msgid "S&ubject: "
 msgstr "&uအကြောင်းအရာ - "
 
-#: kbugreport.cpp:256
+#: kbugreport.cpp:257
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -462,7 +462,7 @@ msgstr ""
 "အစီရင်ခံစာတင်ရန် ရေးသားပါ(ဖြစ်နိုင်လျှင် အင်္ဂလိပ်ဘာသာဖြင့်)\n"
 "\"ပို့\"ခလုတ်ကိုနှိပ်ပါက ဤပရိုဂရမ်ထိန်းသိမ်းသူဆီ မေးလ်ပို့လိမ့်မည်။\n"
 
-#: kbugreport.cpp:279
+#: kbugreport.cpp:280
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -474,7 +474,7 @@ msgstr ""
 "bugs.kde.org\">https://bugs.kde.org</a> တွင် ပွင့်လာမည်။ အထက်တွင်ဖော်ပြထားသော "
 "အချက်အလက်များ ထိုဆာဗာသို့ လွှဲပြောင်းသွားမည်။</qt>"
 
-#: kbugreport.cpp:285
+#: kbugreport.cpp:286
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -483,26 +483,32 @@ msgstr ""
 "<qt>ဆော့ဖ်လ်ဝဲလ်ပြစ်ချက်အစီရင်ခံစာတင်ပြရန် ခလုတ်ကိုနှိပ်ပါ။ ဘရောက်ဇာဝင်းဒိုးသည် <a href=\"%1\">%2</"
 "a> တွင် ပွင့်လာမည်။</qt>"
 
-#: kbugreport.cpp:302
+#: kbugreport.cpp:303
 #, kde-format
 msgctxt "@action:button"
 msgid "&Launch Bug Report Wizard"
 msgstr "&Lဆော့လ်ဖ်ဝဲလ်ပြစ်ချက်အစီအရင်ခံစာ ဝစ်ဇ စတင်ရန်"
 
-#: kbugreport.cpp:304
+#: kbugreport.cpp:305
 #, kde-format
 msgctxt "@action:button"
 msgid "&Submit Bug Report"
 msgstr "&Sဆော့လ်ဖ်ဝဲလ်ပြစ်ချက်အစီအရင်ခံစာတင်ရန်"
 
-#: kbugreport.cpp:397
+#: kbugreport.cpp:360
+#, kde-format
+msgctxt "The arg is the command kcmshell5"
+msgid "Could not find '%1' executable in PATH."
+msgstr ""
+
+#: kbugreport.cpp:410
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr "အစီအရင်ခံစာ ပို့ရန် အကြောင်းအရာနှင့် ဖေါ်ပြချက် သေချာပေါက်ရေးသားထားရမည်။"
 
-#: kbugreport.cpp:406
+#: kbugreport.cpp:419
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -521,7 +527,7 @@ msgstr ""
 "<p>သင်တင်ပြသော ပြစ်ချက်သည် အထက်ပါထိခိုက်မှုများဖြစ်စေပါသလား။ မဖြစ်ဘူးဆိုလျှင် ပိုနိမ့်သော "
 "သက်ရောက်မှုရွေးချယ်ပါ။ ကျေးဇူးတင်ပါသည်။</p>"
 
-#: kbugreport.cpp:422
+#: kbugreport.cpp:435
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -539,7 +545,7 @@ msgstr ""
 "<p>သင်တင်ပြသော ပြစ်ချက်သည် အထက်ပါထိခိုက်မှုများဖြစ်စေပါသလား။ မဖြစ်ဘူးဆိုလျှင် ပိုနိမ့်သော "
 "သက်ရောက်မှုရွေးချယ်ပါ။ ကျေးဇူးတင်ပါသည်။</p>"
 
-#: kbugreport.cpp:441
+#: kbugreport.cpp:454
 #, kde-format
 msgid ""
 "Unable to send the bug report.\n"
@@ -550,12 +556,12 @@ msgstr ""
 "ကျေးဇူးပြု၍ ၎င်းအစီရင်ခံစာကို ကိုယ်တင်တင်ပြပါ...\n"
 "ညွှန်ကြားချက်များကို https://bugs.kde.org/ တွင်ရယူပါ။"
 
-#: kbugreport.cpp:448
+#: kbugreport.cpp:461
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "ဆော့ဖ်လ်ဝဲလ်အစီအရင်ခံစာပို့ပြီးပါပြီ၊ ပူးပေါင်းပါဝင်မှုအတွက် ကျေးဇူးတင်ပါသည်။"
 
-#: kbugreport.cpp:456
+#: kbugreport.cpp:469
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -564,45 +570,45 @@ msgstr ""
 "တည်းဖြတ်ထားသည့်အမှာစကား\n"
 "စွန့်ပစ်၍ ပိတ်မည်လား။"
 
-#: kbugreport.cpp:457
+#: kbugreport.cpp:470
 #, kde-format
 msgctxt "@title:window"
 msgid "Close Message"
 msgstr "အမှာစကားပိတ်မည်"
 
-#: kcheckaccelerators.cpp:258
+#: kcheckaccelerators.cpp:266
 #, kde-format
 msgctxt "@title:window"
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "ဒေါက်တာခလက်စ်၏အရှိန်တင်စက် စစ်ဆေးချက်"
 
-#: kcheckaccelerators.cpp:265
+#: kcheckaccelerators.cpp:273
 #, kde-format
 msgctxt "@option:check"
 msgid "Disable automatic checking"
 msgstr "အလိုအလျောက်စစ်ဆေးခြင်းပိတ်မည်"
 
-#: kcheckaccelerators.cpp:311
+#: kcheckaccelerators.cpp:319
 #, kde-format
 msgid "<h2>Accelerators changed</h2>"
 msgstr "<h2>အရှိန်တင်စက်များ ပြောင်းလဲလိုက်ပြီ</h2>"
 
-#: kcheckaccelerators.cpp:315 kcheckaccelerators.cpp:319
+#: kcheckaccelerators.cpp:323 kcheckaccelerators.cpp:327
 #, kde-format
 msgid "Old Text"
 msgstr "စာသားအဟောင်း"
 
-#: kcheckaccelerators.cpp:315 kcheckaccelerators.cpp:324
+#: kcheckaccelerators.cpp:323 kcheckaccelerators.cpp:332
 #, kde-format
 msgid "New Text"
 msgstr "စာသားအသစ်"
 
-#: kcheckaccelerators.cpp:319
+#: kcheckaccelerators.cpp:327
 #, kde-format
 msgid "<h2>Accelerators removed</h2>"
 msgstr "<h2>အရှိန်တင်စက်များ ဖယ်ရှားလိုက်ပြီ</h2>"
 
-#: kcheckaccelerators.cpp:323
+#: kcheckaccelerators.cpp:331
 #, kde-format
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>အရှိန်တင်စက်များ ထည့်ပြီးပါပြီ (သင်သိလိုပါကသိစေရန်)</h2>"
