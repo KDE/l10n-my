@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-30 00:46+0000\n"
+"POT-Creation-Date: 2022-02-05 00:45+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -220,123 +220,129 @@ msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
 
 #: discover/qml/ApplicationDelegate.qml:140
-#: discover/qml/ApplicationPage.qml:133
+#: discover/qml/ApplicationPage.qml:193
 #, kde-format
 msgid "%1 rating"
 msgid_plural "%1 ratings"
 msgstr[0] "အကဲဖြတ်ချက် %1ခု"
 
 #: discover/qml/ApplicationDelegate.qml:140
-#: discover/qml/ApplicationPage.qml:133
+#: discover/qml/ApplicationPage.qml:193
 #, kde-format
 msgid "No ratings yet"
 msgstr "အကဲဖြတ်ချက်မရှိသေးပါ"
 
-#: discover/qml/ApplicationPage.qml:54
+#: discover/qml/ApplicationPage.qml:58
 #, kde-format
 msgid "Sources"
 msgstr "ပရိုဂရမ်ဇစ်မြစ်များ"
 
-#: discover/qml/ApplicationPage.qml:65
+#: discover/qml/ApplicationPage.qml:69
 #, kde-format
 msgid "%1 - %2"
 msgstr "%1 - %2"
 
-#: discover/qml/ApplicationPage.qml:199
-#, kde-format
-msgid "What's New"
-msgstr "ဘာထူးသလဲ"
+#: discover/qml/ApplicationPage.qml:239
+#, fuzzy, kde-format
+#| msgid "Version:"
+msgid "Version"
+msgstr "ဗားရှင်း -"
 
-#: discover/qml/ApplicationPage.qml:221
+#: discover/qml/ApplicationPage.qml:266
+#: discover/qml/ApplicationsListPage.qml:108
+#, kde-format
+msgid "Size"
+msgstr "အရွယ်အစား"
+
+#: discover/qml/ApplicationPage.qml:293
+#, kde-format
+msgid "Distributed by"
+msgstr ""
+
+#: discover/qml/ApplicationPage.qml:320
+#, fuzzy, kde-format
+#| msgid "License:"
+msgid "License"
+msgid_plural "Licenses"
+msgstr[0] "လိုင်စင် -"
+
+#: discover/qml/ApplicationPage.qml:329
+#, kde-format
+msgctxt "The app does not provide any licenses"
+msgid "Unknown"
+msgstr ""
+
+#: discover/qml/ApplicationPage.qml:357
+#, fuzzy, kde-format
+#| msgid "More…"
+msgid "See more…"
+msgid_plural "See more…"
+msgstr[0] "နောက်ထပ်…"
+
+#: discover/qml/ApplicationPage.qml:451
+#, fuzzy, kde-format
+#| msgid "Documentation:"
+msgid "Documentation"
+msgstr "ဒိုကူမန်တေးရှင်း -"
+
+#: discover/qml/ApplicationPage.qml:465
+#, kde-format
+msgid "Website"
+msgstr ""
+
+#: discover/qml/ApplicationPage.qml:479
+#, kde-format
+msgid "Donate"
+msgstr ""
+
+#: discover/qml/ApplicationPage.qml:493
 #, kde-format
 msgid "Addons"
 msgstr "အက်အွန်များ"
 
-#: discover/qml/ApplicationPage.qml:234
+#: discover/qml/ApplicationPage.qml:502
+#, kde-format
+msgid "Install or remove add-ons for %1"
+msgstr ""
+
+#: discover/qml/ApplicationPage.qml:511
+#, kde-format
+msgid "Report Bug"
+msgstr ""
+
+#: discover/qml/ApplicationPage.qml:527
+#, kde-format
+msgid "What's New"
+msgstr "ဘာထူးသလဲ"
+
+#: discover/qml/ApplicationPage.qml:558
 #, kde-format
 msgid "Reviews"
 msgstr "သုံးသပ်ချက်များ"
 
-#: discover/qml/ApplicationPage.qml:262
-#, kde-format
-msgid "Show %1 Review…"
-msgid_plural "Show All %1 Reviews…"
+#: discover/qml/ApplicationPage.qml:585
+#, fuzzy, kde-format
+#| msgid "Show %1 Review…"
+#| msgid_plural "Show All %1 Reviews…"
+msgid "Show all %1 Reviews"
+msgid_plural "Show all %1 Reviews"
 msgstr[0] "သုံးသပ်ချက် %1ခု ပြမည်…"
 
-#: discover/qml/ApplicationPage.qml:274
+#: discover/qml/ApplicationPage.qml:597
 #, kde-format
 msgid "Write a Review"
 msgstr "သုံးသပ်ချက်ရေးမည်"
 
-#: discover/qml/ApplicationPage.qml:274
+#: discover/qml/ApplicationPage.qml:597
 #, kde-format
 msgid "Install to Write a Review"
 msgstr "သုံးသပ်ချက်ရေးရန် တပ်ဆင်ပါ"
 
-#: discover/qml/ApplicationPage.qml:303
-#, kde-format
-msgid "Category:"
-msgstr "အမျိုးအစား -"
-
-#: discover/qml/ApplicationPage.qml:312
-#, kde-format
-msgid "Version:"
-msgstr "ဗားရှင်း -"
-
-#: discover/qml/ApplicationPage.qml:321
-#, kde-format
-msgid "Author:"
-msgstr "ရေးသားသူ -"
-
-#: discover/qml/ApplicationPage.qml:330
-#, kde-format
-msgid "Size:"
-msgstr "အရွယ်အစား -"
-
-#: discover/qml/ApplicationPage.qml:339
-#, kde-format
-msgid "Source:"
-msgstr "ပရိုဂရမ်ဇစ်မြစ် -"
-
-#: discover/qml/ApplicationPage.qml:348
-#, kde-format
-msgid "License:"
+#: discover/qml/ApplicationPage.qml:625
+#, fuzzy, kde-format
+#| msgid "License:"
+msgid "All Licenses"
 msgstr "လိုင်စင် -"
-
-#: discover/qml/ApplicationPage.qml:356
-#, kde-format
-msgid "See full license terms"
-msgstr "လိုင်စင်ပါ လိုက်နာရမည့်အချက်များ အပြည့်အစုံ့ ကြည့်မည်"
-
-#: discover/qml/ApplicationPage.qml:368
-#, kde-format
-msgid "Documentation:"
-msgstr "ဒိုကူမန်တေးရှင်း -"
-
-#: discover/qml/ApplicationPage.qml:369
-#, kde-format
-msgid "Read the user guide"
-msgstr "အသုံးပြုလမ်းညွှန်စာအုပ်ဖတ်ပါ"
-
-#: discover/qml/ApplicationPage.qml:378
-#, kde-format
-msgid "Get involved:"
-msgstr "ပါဝင်မည် -"
-
-#: discover/qml/ApplicationPage.qml:379
-#, kde-format
-msgid "Visit the app's website"
-msgstr "အပ်၏ဝက်ဘ်ဆိုက်သို့ သွားမည်"
-
-#: discover/qml/ApplicationPage.qml:388
-#, kde-format
-msgid "Make a donation"
-msgstr "လှူဒါန်းမည်"
-
-#: discover/qml/ApplicationPage.qml:397
-#, kde-format
-msgid "Report a problem"
-msgstr "ပြဿနာကို တင်ပြမည်"
 
 #: discover/qml/ApplicationsListPage.qml:52
 #, fuzzy, kde-format
@@ -381,11 +387,6 @@ msgstr "အမည်"
 #, kde-format
 msgid "Rating"
 msgstr "အကဲဖြတ်ချက်"
-
-#: discover/qml/ApplicationsListPage.qml:108
-#, kde-format
-msgid "Size"
-msgstr "အရွယ်အစား"
 
 #: discover/qml/ApplicationsListPage.qml:117
 #, kde-format
@@ -457,7 +458,7 @@ msgctxt "Short for 'show updates'"
 msgid "Show"
 msgstr "ပြမည်"
 
-#: discover/qml/DiscoverDrawer.qml:73
+#: discover/qml/DiscoverDrawer.qml:74
 #, kde-format
 msgid "Return to the Featured page"
 msgstr "ကြော်ငြာစာမျက်နှာသို့ပြန်မည်"
@@ -971,6 +972,36 @@ msgstr "အပ်ဒိတ်ရှိ၊မရှိ စစ်ဆေးသင�
 msgctxt "@info"
 msgid "Time of last update unknown"
 msgstr "နောက်ဆုံးအကြိမ်အပ်ဒိတ်တင်ခဲ့သောအချိန်မသိ"
+
+#~ msgid "Category:"
+#~ msgstr "အမျိုးအစား -"
+
+#~ msgid "Author:"
+#~ msgstr "ရေးသားသူ -"
+
+#~ msgid "Size:"
+#~ msgstr "အရွယ်အစား -"
+
+#~ msgid "Source:"
+#~ msgstr "ပရိုဂရမ်ဇစ်မြစ် -"
+
+#~ msgid "See full license terms"
+#~ msgstr "လိုင်စင်ပါ လိုက်နာရမည့်အချက်များ အပြည့်အစုံ့ ကြည့်မည်"
+
+#~ msgid "Read the user guide"
+#~ msgstr "အသုံးပြုလမ်းညွှန်စာအုပ်ဖတ်ပါ"
+
+#~ msgid "Get involved:"
+#~ msgstr "ပါဝင်မည် -"
+
+#~ msgid "Visit the app's website"
+#~ msgstr "အပ်၏ဝက်ဘ်ဆိုက်သို့ သွားမည်"
+
+#~ msgid "Make a donation"
+#~ msgstr "လှူဒါန်းမည်"
+
+#~ msgid "Report a problem"
+#~ msgstr "ပြဿနာကို တင်ပြမည်"
 
 #~ msgid "%1 (Default)"
 #~ msgstr "%1 (မူလသတ်မှတ်ချက်)"
