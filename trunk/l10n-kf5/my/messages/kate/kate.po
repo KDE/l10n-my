@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-31 00:46+0000\n"
+"POT-Creation-Date: 2022-02-06 00:50+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -330,32 +330,32 @@ msgstr "စတင်နေသည်"
 msgid "Reopening files from the last session..."
 msgstr ""
 
-#: katefileactions.cpp:65
+#: katefileactions.cpp:66
 #, kde-format
 msgid "Rename file"
 msgstr "ဖိုင်လ် အမည်ပြောင်းမည်"
 
-#: katefileactions.cpp:66
+#: katefileactions.cpp:67
 #, kde-format
 msgid "New file name"
 msgstr "ဖိုင်လ်အမည်အသစ်"
 
-#: katefileactions.cpp:97
+#: katefileactions.cpp:104
 #, kde-format
 msgid "File \"%1\" could not be moved to \"%2\""
 msgstr "ဖိုင်လ် \"%1\" ကို \"%2\" သို့မရွေ့နိုင်ခဲ့ပါ"
 
-#: katefileactions.cpp:118
+#: katefileactions.cpp:128
 #, kde-format
 msgid "Do you really want to delete file \"%1\"?"
 msgstr "ဖိုင်လ် \"%1\" ကို သင်တကယ်ဖျက်တော့မည်လား။"
 
-#: katefileactions.cpp:119
+#: katefileactions.cpp:129
 #, kde-format
 msgid "Delete file"
 msgstr "ဖိုင်လ် ဖျက်မည်"
 
-#: katefileactions.cpp:136
+#: katefileactions.cpp:146
 #, kde-format
 msgid "File \"%1\" could not be deleted."
 msgstr "ဖိုင်လ် \"%1\" ကိုမဖျက်နိုင်ခဲ့ပါ"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-26 00:53+0000\n"
+"POT-Creation-Date: 2022-02-06 00:57+0000\n"
 "PO-Revision-Date: 2021-12-04 03:31+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -212,7 +212,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီသို့ လင့်ခ်ချိတ်ရန်..."
 
-#: src/new_file_templates/linkPath.desktop:37
+#: src/new_file_templates/linkPath.desktop:38
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr "လင့်ခ်ချိတ်ရမည် ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီ -"
@@ -941,7 +941,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr "ကေဒီအီး အင်ဗန့်"
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:31
+#: src/urifilters/ikws/searchproviders/invent.desktop:32
 msgctxt "Query"
 msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgstr "https://invent.kde.org/search?search=\\\\{@}"
@@ -951,7 +951,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr "ကေဒီအီး အင်ဗန့် ရီပိုစစ်တိုရီများ"
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:31
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:32
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
@@ -1270,7 +1270,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "ကွမ့် ပုံများ"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:51
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:52
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
@@ -1280,7 +1280,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr "ကွမ့် သတင်းများ"
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:52
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:53
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
@@ -1290,7 +1290,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "ကွမ့် စျေးဝယ်ထွက်"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:51
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:52
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
@@ -1300,7 +1300,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr "ကွမ့် ဆိုရှယ်"
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:52
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:53
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
@@ -1310,7 +1310,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "ကွမ့်ဗီဒီယိုများ"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:52
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:53
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
@@ -1370,7 +1370,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr "ဆောင်းကလောက်"
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:49
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:50
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"
 msgstr "https://soundcloud.com/search?q=\\\\{@}"
