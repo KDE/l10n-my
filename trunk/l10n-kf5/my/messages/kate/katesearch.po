@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-06 00:50+0000\n"
+"POT-Creation-Date: 2022-02-07 00:47+0000\n"
 "PO-Revision-Date: 2021-09-15 03:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -88,7 +88,7 @@ msgid "<b><i>One match found, searching: %2</i></b>"
 msgid_plural "<b><i>%1 matches found, searching: %2</i></b>"
 msgstr[0] ""
 
-#: MatchModel.cpp:513 MatchModel.cpp:649
+#: MatchModel.cpp:513 MatchModel.cpp:653
 #, kde-format
 msgid "One checked"
 msgid_plural "%1 checked"
@@ -126,48 +126,48 @@ msgid_plural ""
 "<b><i>%1 matches (%3) found in all open projects (common parent: %2)</i></b>"
 msgstr[0] ""
 
-#: MatchModel.cpp:633 MatchModel.cpp:635
+#: MatchModel.cpp:637 MatchModel.cpp:639
 #, kde-format
 msgid "Generating file list: ...%1"
 msgstr "ဖိုင်လ်စာရင်း ထုတ်လုပ်နေသည် - ...%1"
 
-#: MatchModel.cpp:643
+#: MatchModel.cpp:647
 #, kde-format
 msgid "One match found, searching: ...%2"
 msgid_plural "%1 matches found, searching: ...%2"
 msgstr[0] ""
 
-#: MatchModel.cpp:645
+#: MatchModel.cpp:649
 #, kde-format
 msgid "One match found, searching: %2"
 msgid_plural "%1 matches found, searching: %2"
 msgstr[0] ""
 
-#: MatchModel.cpp:653
+#: MatchModel.cpp:657
 #, kde-format
 msgid "One match (%2) found in file"
 msgid_plural "%1 matches (%2) found in current file"
 msgstr[0] ""
 
-#: MatchModel.cpp:655
+#: MatchModel.cpp:659
 #, kde-format
 msgid "One match (%2) found in open files"
 msgid_plural "%1 matches (%2) found in open files"
 msgstr[0] ""
 
-#: MatchModel.cpp:658
+#: MatchModel.cpp:662
 #, kde-format
 msgid "One match (%3) found in folder %2"
 msgid_plural "%1 matches (%3) found in folder %2"
 msgstr[0] ""
 
-#: MatchModel.cpp:661
+#: MatchModel.cpp:665
 #, kde-format
 msgid "One match (%4) found in project %2 (%3)"
 msgid_plural "%1 matches (%4) found in project %2 (%3)"
 msgstr[0] ""
 
-#: MatchModel.cpp:670
+#: MatchModel.cpp:674
 #, kde-format
 msgid "One match (%3) found in all open projects (common parent: %2)"
 msgid_plural "%1 matches (%3) found in all open projects (common parent: %2)"
