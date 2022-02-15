@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-02 00:20+0000\n"
+"POT-Creation-Date: 2022-02-15 00:47+0000\n"
 "PO-Revision-Date: 2021-09-15 05:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -23,27 +23,27 @@ msgstr ""
 msgid "Kate Sessions"
 msgstr "ကိတ် ဆက်ရှင်များ"
 
-#: applet/contents/ui/katesessions.qml:58
+#: applet/contents/ui/katesessions.qml:57
 #, kde-format
 msgid "Search…"
 msgstr "ရှာမည်…"
 
-#: applet/contents/ui/KateSessionsItemDelegate.qml:95
+#: applet/contents/ui/KateSessionsItemDelegate.qml:93
 #, kde-format
 msgid "Session name"
 msgstr "ဆက်ရှင် အမည်"
 
-#: applet/contents/ui/KateSessionsItemDelegate.qml:106
+#: applet/contents/ui/KateSessionsItemDelegate.qml:104
 #, kde-format
 msgid "Create new session and start Kate"
 msgstr "ဆက်ရှင် အသစ်ဖန်တီး၍ ကိတ်ကို စတင်မည်"
 
-#: applet/contents/ui/KateSessionsItemDelegate.qml:115
+#: applet/contents/ui/KateSessionsItemDelegate.qml:113
 #, kde-format
 msgid "Cancel session creation"
 msgstr "ဆက်ရှင် ဖန်တီးခြင်း ပယ်ဖျက်မည်"
 
-#: applet/contents/ui/KateSessionsItemDelegate.qml:132
+#: applet/contents/ui/KateSessionsItemDelegate.qml:130
 #, kde-format
 msgid "Delete session"
 msgstr "ဆက်ရှင် ဖျက်မည်"
