@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-15 00:47+0000\n"
+"POT-Creation-Date: 2022-02-17 00:48+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1165,7 +1165,7 @@ msgctxt "indicator for more documents"
 msgid "+%1"
 msgstr "+%1"
 
-#: kateviewspace.cpp:104 kateviewspace.cpp:189
+#: kateviewspace.cpp:104 kateviewspace.cpp:190
 #, kde-format
 msgid "Click here to switch to the Quick Open view."
 msgstr ""
@@ -1175,7 +1175,7 @@ msgstr ""
 msgid "Control view space splitting"
 msgstr ""
 
-#: kateviewspace.cpp:190
+#: kateviewspace.cpp:191
 #, kde-format
 msgid ""
 "Currently, there is one more document open. To see all open documents, "
@@ -1185,32 +1185,32 @@ msgid_plural ""
 "switch to the Quick Open view by clicking here."
 msgstr[0] ""
 
-#: kateviewspace.cpp:838
+#: kateviewspace.cpp:839
 #, kde-format
 msgid "Close Tab"
 msgstr "တပ်ဘ်ပိတ်မည်"
 
-#: kateviewspace.cpp:852
+#: kateviewspace.cpp:853
 #, kde-format
 msgid "&Close Document"
 msgstr "&Cမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
 
-#: kateviewspace.cpp:853
+#: kateviewspace.cpp:854
 #, kde-format
 msgid "Close Other &Documents"
 msgstr "&Dအခြားမှတ်တမ်းပုံနှိပ်မူများ ပိတ်မည်"
 
-#: kateviewspace.cpp:862
+#: kateviewspace.cpp:863
 #, kde-format
 msgid "Compare with active document"
 msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူနှင့် နှိုင်းယှဥ်မည်"
 
-#: kateviewspace.cpp:921
+#: kateviewspace.cpp:922
 #, kde-format
 msgid "Could not start program"
 msgstr "ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ"
 
-#: kateviewspace.cpp:922
+#: kateviewspace.cpp:923
 #, kde-format
 msgid "The selected program could not be started. Maybe it is not installed."
 msgstr "ရွေးထားသော ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ။ တပ်ဆင်မထားရသေးခြင်းဖြစ်နိုင်သည်။"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-11 00:47+0000\n"
+"POT-Creation-Date: 2022-02-17 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 03:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -54,19 +54,19 @@ msgid "Export Search Result Matches"
 msgstr "နောက်ထပ်ရှာဖွေမှုရလဒ်သို့ သွားရန်"
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, exportPatternText)
-#: MatchExportDialog.ui:19
+#: MatchExportDialog.ui:31
 #, fuzzy, kde-format
 msgid "Export Pattern"
 msgstr "ထုတ်ပို့မည်..."
 
 #. i18n: ectx: property (text), widget (QPushButton, pushButton)
-#: MatchExportDialog.ui:26
+#: MatchExportDialog.ui:38
 #, kde-format
 msgid "Generate"
 msgstr "ထုတ်လုပ်မည်"
 
 #. i18n: ectx: property (placeholderText), widget (QPlainTextEdit, exportResultText)
-#: MatchExportDialog.ui:38
+#: MatchExportDialog.ui:50
 #, kde-format
 msgid "Result"
 msgstr "ရှာဖွေမှုရလဒ်"
@@ -387,7 +387,7 @@ msgid "Find"
 msgstr "ရှာဖွေမည်"
 
 #. i18n: ectx: property (text), widget (QPushButton, replaceButton)
-#: plugin_search.cpp:493 search.ui:180
+#: plugin_search.cpp:493 search.ui:192
 #, kde-format
 msgid "Replace"
 msgstr "အစားထိုးမည်"
@@ -475,39 +475,39 @@ msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, searchButton)
 #. i18n: ectx: property (text), widget (QPushButton, searchButton)
-#: search.ui:22 search.ui:25
+#: search.ui:34 search.ui:37
 #, kde-format
 msgid "Search"
 msgstr "ရှာမည်"
 
 #. i18n: ectx: property (text), widget (QPushButton, replaceCheckedBtn)
-#: search.ui:35
+#: search.ui:47
 #, fuzzy, kde-format
 msgid "Replace Checked"
 msgstr "_Rအစားထိုးရန်"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, nextButton)
 #. i18n: ectx: property (text), widget (QPushButton, nextButton)
-#: search.ui:55 search.ui:58
+#: search.ui:67 search.ui:70
 #, kde-format
 msgid "Next"
 msgstr "နောက်"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, stopButton)
 #. i18n: ectx: property (text), widget (QPushButton, stopButton)
-#: search.ui:63 search.ui:66
+#: search.ui:75 search.ui:78
 #, kde-format
 msgid "Stop"
 msgstr "ရပ်မည်"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, matchCase)
-#: search.ui:103
+#: search.ui:115
 #, fuzzy, kde-format
 msgid "Match case"
 msgstr "ပေါင်းလဒ်စစ်တမ်းများ ကိုက်ညီသည်။"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, useRegExp)
-#: search.ui:119
+#: search.ui:131
 #, kde-format
 msgid ""
 "<html><head/><body><p>Enable regular expressions. Find help for regex syntax "
@@ -515,7 +515,7 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, expandResults)
-#: search.ui:148
+#: search.ui:160
 #, fuzzy, kde-format
 msgid "Expand results"
 msgstr "&Eတပ်ဘ်များဖြန့်မည်"
@@ -523,19 +523,19 @@ msgstr "&Eတပ်ဘ်များဖြန့်မည်"
 #. i18n: ectx: property (text), widget (QToolButton, filterBtn)
 #. i18n: ectx: property (text), widget (QToolButton, displayOptions)
 #. i18n: ectx: property (text), widget (QToolButton, newTabButton)
-#: search.ui:164 search.ui:234 search.ui:247
+#: search.ui:176 search.ui:246 search.ui:259
 #, kde-format
 msgid "..."
 msgstr "..."
 
 #. i18n: ectx: property (text), item, widget (QComboBox, searchPlaceCombo)
-#: search.ui:203
+#: search.ui:215
 #, kde-format
 msgid "In Current File"
 msgstr "လက်ရှိဖိုင်လ်ထဲတွင်"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, searchPlaceCombo)
-#: search.ui:208
+#: search.ui:220
 #, fuzzy, kde-format
 msgid "In Open Files"
 msgstr ""
@@ -553,55 +553,55 @@ msgstr ""
 "%k - .desktop ဖိုင်လ်၏တည်နေရာ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, searchPlaceCombo)
-#: search.ui:213
+#: search.ui:225
 #, kde-format
 msgid "In Folder"
 msgstr "ဖိုလ်ဒါထဲတွင်"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, currentFolderButton)
-#: search.ui:221
+#: search.ui:233
 #, kde-format
 msgid "Use the current document's path."
 msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူ၏ လမ်းကြောင်းသုံးမည်"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, displayOptions)
-#: search.ui:231
+#: search.ui:243
 #, fuzzy, kde-format
 msgid "Show more search options"
 msgstr "ရှာဖွေမှုဆိုင်ရာရွေးချယ်စရာများ"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, newTabButton)
-#: search.ui:244
+#: search.ui:256
 #, kde-format
 msgid "Add new search tab"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, folderLabel)
-#: search.ui:342
+#: search.ui:353
 #, kde-format
 msgid "Folder:"
 msgstr "ဖိုလ်ဒါ -"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, folderUpButton)
-#: search.ui:360
+#: search.ui:371
 #, kde-format
 msgid "Go one folder up."
 msgstr "ဖိုလ်ဒါအပေါ်တစ်ခု တက်မည်။"
 
 #. i18n: ectx: property (text), widget (QLabel, filterLabel)
-#: search.ui:369
+#: search.ui:380
 #, kde-format
 msgid "Filter:"
 msgstr "စစ်ထုတ်ချက် -"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, filterCombo)
-#: search.ui:391
+#: search.ui:402
 #, kde-format
 msgid "*"
 msgstr "*"
 
 #. i18n: ectx: property (text), widget (QLabel, excludeLabel)
-#: search.ui:399
+#: search.ui:410
 #, fuzzy, kde-format
 msgid "Exclude:"
 msgstr ""
@@ -615,25 +615,25 @@ msgstr ""
 "</qt>"
 
 #. i18n: ectx: property (text), widget (QCheckBox, recursiveCheckBox)
-#: search.ui:420
+#: search.ui:431
 #, kde-format
 msgid "Recursive"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, hiddenCheckBox)
-#: search.ui:430
+#: search.ui:441
 #, fuzzy, kde-format
 msgid "Include hidden"
 msgstr "ဖွက်ထား"
 
 #. i18n: ectx: property (text), widget (QCheckBox, symLinkCheckBox)
-#: search.ui:437
+#: search.ui:448
 #, kde-format
 msgid "Follow symbolic links"
 msgstr "အထိမ်းအမှတ်လင့်ခ်များနောက်လိုက်မည်"
 
 #. i18n: ectx: property (text), widget (QCheckBox, binaryCheckBox)
-#: search.ui:444
+#: search.ui:455
 #, fuzzy, kde-format
 msgid "Include binary files"
 msgstr "သိုလှောင်နေရာ (မစောင့်ကြည့်ထားသောဖိုင်လ်များအပါအဝင်)"
