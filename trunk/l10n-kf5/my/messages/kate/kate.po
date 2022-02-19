@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-17 00:48+0000\n"
+"POT-Creation-Date: 2022-02-19 00:46+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -990,6 +990,11 @@ msgstr "&lအားလုံးရွေးချယ်မည်"
 msgid ""
 "Data you requested to be saved could not be written. Please choose how you "
 "want to proceed."
+msgstr ""
+
+#: kateurlbar.cpp:480
+#, kde-format
+msgid "Untitled"
 msgstr ""
 
 #: kateviewmanager.cpp:114
