@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-15 00:48+0000\n"
+"POT-Creation-Date: 2022-02-20 00:49+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.0\n"
 
-#: config.yaml:0
+#: config.yaml:0 content/_index.en.md:0
 msgid "Kate"
 msgstr "ကိတ်"
 
@@ -83,7 +83,11 @@ msgstr "ကိတ် - တည်းဖြတ်မှုစွမ်းဆော
 msgid "Get an Edge in Editing"
 msgstr "တည်းဖြတ်မှုစွမ်းဆောင်ရည်အမြင့်ဆုံးရယူပါ"
 
-#: content/about-kate.en.md:0
+#: content/about-kate.en.md:0 i18n/en.yaml:0
+msgid "Features"
+msgstr "စွမ်းဆောင်ရည်များ"
+
+#: content/about-kate.en.md:0 content/get-it.en.md:0 content/mascot.md:0
 msgid "Christoph Cullmann"
 msgstr "ခရစ်စ်တိုကူမန်း"
 
@@ -659,10 +663,6 @@ msgstr "တွင်လည်းရရှိနိုင်သည် -"
 #: i18n/en.yaml:0
 msgid "Get it"
 msgstr "ရယူမည်"
-
-#: i18n/en.yaml:0
-msgid "Features"
-msgstr "စွမ်းဆောင်ရည်များ"
 
 #: i18n/en.yaml:0
 msgid "Kate is a Feature-Packed Text Editor"
