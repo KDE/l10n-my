@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-20 00:48+0000\n"
+"POT-Creation-Date: 2022-02-21 00:47+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -103,7 +103,7 @@ msgstr "&Cအရောင်အစီအစဥ်ပြပုံ"
 msgid "Configure"
 msgstr "ပြင်ဆင်မည်"
 
-#: kateconfigdialog.cpp:72 katemdi.cpp:644
+#: kateconfigdialog.cpp:72 katemdi.cpp:658
 #, kde-format
 msgid "Behavior"
 msgstr "အမူအကျင့်"
@@ -750,47 +750,47 @@ msgstr "&bဘေးတန်းများ ပြမည်"
 msgid "Show %1"
 msgstr "%1 ပြမည်"
 
-#: katemdi.cpp:640
+#: katemdi.cpp:654
 #, kde-format
 msgid "Configure ..."
 msgstr "ပြင်ဆင်မည်..."
 
-#: katemdi.cpp:647
+#: katemdi.cpp:661
 #, kde-format
 msgid "Make Non-Persistent"
 msgstr "မတည်မြဲစေမည်"
 
-#: katemdi.cpp:647
+#: katemdi.cpp:661
 #, kde-format
 msgid "Make Persistent"
 msgstr "တည်မြဲစေမည်"
 
-#: katemdi.cpp:650
+#: katemdi.cpp:664
 #, kde-format
 msgid "Move To"
 msgstr "သို့ရွေ့မည်"
 
-#: katemdi.cpp:653
+#: katemdi.cpp:667
 #, kde-format
 msgid "Left Sidebar"
 msgstr "ဘယ်ဘေးတန်း"
 
-#: katemdi.cpp:657
+#: katemdi.cpp:671
 #, kde-format
 msgid "Right Sidebar"
 msgstr "ညာဘေးတန်း"
 
-#: katemdi.cpp:661
+#: katemdi.cpp:675
 #, kde-format
 msgid "Top Sidebar"
 msgstr "ထိပ်ဘေးတန်"
 
-#: katemdi.cpp:665
+#: katemdi.cpp:679
 #, kde-format
 msgid "Bottom Sidebar"
 msgstr "အောက်ဘေးတန်း"
 
-#: katemdi.cpp:1008
+#: katemdi.cpp:1022
 #, kde-format
 msgid ""
 "<qt>You are about to hide the sidebars. With hidden sidebars it is not "
@@ -992,7 +992,7 @@ msgid ""
 "want to proceed."
 msgstr ""
 
-#: kateurlbar.cpp:835
+#: kateurlbar.cpp:861
 #, kde-format
 msgid "Untitled"
 msgstr ""
@@ -1170,7 +1170,7 @@ msgctxt "indicator for more documents"
 msgid "+%1"
 msgstr "+%1"
 
-#: kateviewspace.cpp:104 kateviewspace.cpp:191
+#: kateviewspace.cpp:104 kateviewspace.cpp:190
 #, kde-format
 msgid "Click here to switch to the Quick Open view."
 msgstr ""
@@ -1180,7 +1180,7 @@ msgstr ""
 msgid "Control view space splitting"
 msgstr ""
 
-#: kateviewspace.cpp:192
+#: kateviewspace.cpp:191
 #, kde-format
 msgid ""
 "Currently, there is one more document open. To see all open documents, "
@@ -1190,32 +1190,32 @@ msgid_plural ""
 "switch to the Quick Open view by clicking here."
 msgstr[0] ""
 
-#: kateviewspace.cpp:840
+#: kateviewspace.cpp:844
 #, kde-format
 msgid "Close Tab"
 msgstr "တပ်ဘ်ပိတ်မည်"
 
-#: kateviewspace.cpp:854
+#: kateviewspace.cpp:858
 #, kde-format
 msgid "&Close Document"
 msgstr "&Cမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
 
-#: kateviewspace.cpp:855
+#: kateviewspace.cpp:859
 #, kde-format
 msgid "Close Other &Documents"
 msgstr "&Dအခြားမှတ်တမ်းပုံနှိပ်မူများ ပိတ်မည်"
 
-#: kateviewspace.cpp:864
+#: kateviewspace.cpp:868
 #, kde-format
 msgid "Compare with active document"
 msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူနှင့် နှိုင်းယှဥ်မည်"
 
-#: kateviewspace.cpp:923
+#: kateviewspace.cpp:927
 #, kde-format
 msgid "Could not start program"
 msgstr "ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ"
 
-#: kateviewspace.cpp:924
+#: kateviewspace.cpp:928
 #, kde-format
 msgid "The selected program could not be started. Maybe it is not installed."
 msgstr "ရွေးထားသော ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ။ တပ်ဆင်မထားရသေးခြင်းဖြစ်နိုင်သည်။"

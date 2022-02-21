@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-03 00:43+0000\n"
+"POT-Creation-Date: 2022-02-21 00:43+0000\n"
 "PO-Revision-Date: 2021-09-15 20:37+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -690,12 +690,12 @@ msgstr ""
 msgid "&Immediately memorize form data"
 msgstr ""
 
-#: src/webenginepage.cpp:132
+#: src/webenginepage.cpp:129
 #, kde-format
 msgid "The download manager (%1) could not be found in your installation."
 msgstr ""
 
-#: src/webenginepage.cpp:133
+#: src/webenginepage.cpp:130
 #, kde-format
 msgid ""
 "Try to reinstall it and make sure that it is available in $PATH. \n"
@@ -703,12 +703,12 @@ msgid ""
 "The integration will be disabled."
 msgstr ""
 
-#: src/webenginepage.cpp:174
+#: src/webenginepage.cpp:171
 #, fuzzy, kde-format
 msgid "Save As"
 msgstr "_S ပုံရိပ် သိမ်းရန်…"
 
-#: src/webenginepage.cpp:303
+#: src/webenginepage.cpp:300
 #, kde-format
 msgid ""
 "<qt><p>To display the requested web page again, the browser needs to resend "
@@ -717,58 +717,58 @@ msgid ""
 "Otherwise, click the Continue button to display the webpage again.</p>"
 msgstr ""
 
-#: src/webenginepage.cpp:310
+#: src/webenginepage.cpp:307
 #, fuzzy, kde-format
 msgid "Resubmit Information"
 msgstr "သတင်းအချက်အလက်"
 
-#: src/webenginepage.cpp:540
+#: src/webenginepage.cpp:539
 #, kde-format
 msgid ""
 "This site is attempting to access information about your physical location.\n"
 "Do you want to allow it access?"
 msgstr ""
 
-#: src/webenginepage.cpp:544 src/webenginepage.cpp:661
-#: src/webenginepage.cpp:672
+#: src/webenginepage.cpp:543 src/webenginepage.cpp:660
+#: src/webenginepage.cpp:671
 #, fuzzy, kde-format
 msgid "Network Transmission"
 msgstr "ဆ.သ.ရ-ကွန်ရက်"
 
-#: src/webenginepage.cpp:545
+#: src/webenginepage.cpp:544
 #, fuzzy, kde-format
 msgid "Allow access"
 msgstr "အသုံးပြုခွင့်မရှိ"
 
-#: src/webenginepage.cpp:620
+#: src/webenginepage.cpp:619
 #, kde-format
 msgid ""
 "<qt>This untrusted page links to<br/><b>%1</b>.<br/>Do you want to follow "
 "the link?</qt>"
 msgstr ""
 
-#: src/webenginepage.cpp:622
+#: src/webenginepage.cpp:621
 #, fuzzy, kde-format
 msgid "Security Warning"
 msgstr "လုံခြုံရေး -"
 
-#: src/webenginepage.cpp:623
+#: src/webenginepage.cpp:622
 #, fuzzy, kde-format
 msgctxt "follow link despite of security warning"
 msgid "Follow"
 msgstr "အထိမ်းအမှတ်လင့်ခ်များနောက်လိုက်မည်"
 
-#: src/webenginepage.cpp:625
+#: src/webenginepage.cpp:624
 #, fuzzy, kde-format
 msgid "Security Alert"
 msgstr "လုံခြုံရေးသတိပေးချက် - ဤမှတ်တမ်းစာအုပ် \"%s\"ဖိုင်လ်ဖွင့်ရန်ကြိုးစားမှုကို ကာကွယ်တားဆီးခဲ့သည်"
 
-#: src/webenginepage.cpp:626
+#: src/webenginepage.cpp:625
 #, kde-format
 msgid "<qt>Access by untrusted page to<br/><b>%1</b><br/> denied.</qt>"
 msgstr ""
 
-#: src/webenginepage.cpp:654
+#: src/webenginepage.cpp:653
 #, kde-format
 msgid ""
 "Warning: This is a secure form but it is attempting to send your data back "
@@ -777,82 +777,82 @@ msgid ""
 "Are you sure you want to send the data unencrypted?"
 msgstr ""
 
-#: src/webenginepage.cpp:662
+#: src/webenginepage.cpp:661
 #, fuzzy, kde-format
 msgid "&Send Unencrypted"
 msgstr "ပို့ရန်..."
 
-#: src/webenginepage.cpp:669
+#: src/webenginepage.cpp:668
 #, kde-format
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
 msgstr ""
 
-#: src/webenginepage.cpp:673
+#: src/webenginepage.cpp:672
 #, fuzzy, kde-format
 msgid "&Send Email"
 msgstr "ပို့ရန်..."
 
-#: src/webenginepage.cpp:722
+#: src/webenginepage.cpp:721
 #, kde-format
 msgid ""
 "<qt>Do you want to allow this site to attach the following files to the "
 "email message?</qt>"
 msgstr ""
 
-#: src/webenginepage.cpp:724
+#: src/webenginepage.cpp:723
 #, fuzzy, kde-format
 msgid "Email Attachment Confirmation"
 msgstr "အတည်ပြုချက်"
 
-#: src/webenginepage.cpp:725
+#: src/webenginepage.cpp:724
 #, fuzzy, kde-format
 msgid "&Allow attachments"
 msgstr "တွဲထားချက်"
 
-#: src/webenginepage.cpp:726
+#: src/webenginepage.cpp:725
 #, fuzzy, kde-format
 msgid "&Ignore attachments"
 msgstr "တွဲထားချက်"
 
-#: src/webenginepage.cpp:740
+#: src/webenginepage.cpp:739
 #, kde-format
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: src/webenginepage.cpp:743
+#: src/webenginepage.cpp:742
 #, fuzzy, kde-format
 msgid "Attachment Removed"
 msgstr "_S တွဲထားချက်သိမ်း"
 
-#: src/webenginepage.cpp:873
+#: src/webenginepage.cpp:872
 #, kde-format
 msgid ""
 "This site is requesting to open a new popup window.\n"
 "Do you want to allow this?"
 msgstr ""
 
-#: src/webenginepage.cpp:875
+#: src/webenginepage.cpp:874
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open a popup window to<p>%1</p><br/>Do you "
 "want to allow this?</qt>"
 msgstr ""
 
-#: src/webenginepage.cpp:879
+#: src/webenginepage.cpp:878
 #, fuzzy, kde-format
 msgid "Javascript Popup Confirmation"
 msgstr "ဂျာဗားစခရစ်"
 
-#: src/webenginepage.cpp:880
+#: src/webenginepage.cpp:879
 #, kde-format
 msgid "Allow"
 msgstr "ခွင့်ပြုမည်"
 
-#: src/webenginepage.cpp:881
+#: src/webenginepage.cpp:880
 #, fuzzy, kde-format
 msgid "Do Not Allow"
 msgstr "ခွင့်ပြုမည်"
@@ -926,61 +926,61 @@ msgstr ""
 msgid "Dirk Mueller"
 msgstr "ဒစ်ခ်မျူလာ"
 
-#: src/webenginepart.cpp:245
+#: src/webenginepart.cpp:252
 #, fuzzy, kde-format
 msgid "Save &Frame As..."
 msgstr "ဖရိန်"
 
-#: src/webenginepart.cpp:249
+#: src/webenginepart.cpp:256
 #, kde-format
 msgid "Print Preview"
 msgstr "အကြိုကြည့်မြင်ကွင်း ပုံနှိပ်ရန်"
 
-#: src/webenginepart.cpp:253
+#: src/webenginepart.cpp:260
 #, fuzzy, kde-format
 msgctxt "zoom in action"
 msgid "Zoom In"
 msgstr "မြင်ကွင်းချဲ့ရန်"
 
-#: src/webenginepart.cpp:258
+#: src/webenginepart.cpp:265
 #, fuzzy, kde-format
 msgctxt "zoom out action"
 msgid "Zoom Out"
 msgstr "မြင်ကွင်းလျော့ရန်"
 
-#: src/webenginepart.cpp:263
+#: src/webenginepart.cpp:270
 #, fuzzy, kde-format
 msgctxt "reset zoom action"
 msgid "Actual Size"
 msgstr "အရွယ်အစား -"
 
-#: src/webenginepart.cpp:268
+#: src/webenginepart.cpp:275
 #, fuzzy, kde-format
 msgid "Zoom Text Only"
 msgstr "မြင်ကွင်းချဲ့ရန်"
 
-#: src/webenginepart.cpp:276
+#: src/webenginepart.cpp:283
 #, fuzzy, kde-format
 msgid "Zoom To DPI"
 msgstr "မြင်ကွင်းချဲ့ရန်"
 
-#: src/webenginepart.cpp:289
+#: src/webenginepart.cpp:296
 #, fuzzy, kde-format
 msgid "Set &Encoding"
 msgstr "ဖွင့်မည့် ဖိုင်လ်၏ ကုတ်ဝှက်စနစ်သတ်မှတ်မည်။"
 
-#: src/webenginepart.cpp:297
+#: src/webenginepart.cpp:304
 #, fuzzy, kde-format
 msgid "View Do&cument Source"
 msgstr "&Vမြင်ကွင်း"
 
-#: src/webenginepart.cpp:302 src/webenginepart.cpp:596
+#: src/webenginepart.cpp:309 src/webenginepart.cpp:608
 #, kde-format
 msgctxt "Secure Sockets Layer"
 msgid "SSL"
 msgstr "အက်စ်အက်စ်အယ်လ်"
 
-#: src/webenginepart.cpp:308
+#: src/webenginepart.cpp:315
 #, kde-format
 msgctxt "find action \"whats this\" text"
 msgid ""
@@ -988,12 +988,12 @@ msgid ""
 "displayed page."
 msgstr ""
 
-#: src/webenginepart.cpp:594
+#: src/webenginepart.cpp:606
 #, fuzzy, kde-format
 msgid "The SSL information for this site appears to be corrupt."
 msgstr "မိတ်ဆွေ အက်စ်အက်စ်အယ်လ် အသိအမှတ်ပြုစာချွန်အစဥ် ပျက်စီးနေပုံရသည်။"
 
-#: src/webenginepart.cpp:675
+#: src/webenginepart.cpp:687
 #, fuzzy, kde-format
 msgctxt ""
 "status bar text when hovering email links; looks like \"Email: xy@kde.org - "
@@ -1004,7 +1004,7 @@ msgstr ""
 "lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
 "&iservice=&comment=&email"
 
-#: src/webenginepart.cpp:704
+#: src/webenginepart.cpp:716
 #, kde-format
 msgctxt ""
 "status bar text when hovering email links; looks like \"Email: xy@kde.org - "
@@ -1012,7 +1012,7 @@ msgctxt ""
 msgid " - CC: "
 msgstr ""
 
-#: src/webenginepart.cpp:706
+#: src/webenginepart.cpp:718
 #, kde-format
 msgctxt ""
 "status bar text when hovering email links; looks like \"Email: xy@kde.org - "
@@ -1020,7 +1020,7 @@ msgctxt ""
 msgid " - BCC: "
 msgstr ""
 
-#: src/webenginepart.cpp:708
+#: src/webenginepart.cpp:720
 #, fuzzy, kde-format
 msgctxt ""
 "status bar text when hovering email links; looks like \"Email: xy@kde.org - "
@@ -1028,84 +1028,84 @@ msgctxt ""
 msgid " - Subject: "
 msgstr "အကြောင်းအရာ -"
 
-#: src/webenginepart.cpp:712 src/webenginepart.cpp:723
+#: src/webenginepart.cpp:724 src/webenginepart.cpp:735
 #, fuzzy, kde-format
 msgid " (In new window)"
 msgstr "&Wဝင်းဒိုးအသစ်"
 
-#: src/webenginepart.cpp:721
+#: src/webenginepart.cpp:733
 #, fuzzy, kde-format
 msgid " (In parent frame)"
 msgstr "ဖရိန်"
 
-#: src/webenginepart.cpp:785
+#: src/webenginepart.cpp:797
 #, fuzzy, kde-format
 msgid "<qt>Do you want to search for <b>%1</b>?</qt>"
 msgstr "<qt>အင်တာနက်တွင် <b>%1</b> ကို သင်ရှာချင်ပါသလား။</qt>"
 
-#: src/webenginepart.cpp:786
+#: src/webenginepart.cpp:798
 #, kde-format
 msgid "Internet Search"
 msgstr "အင်တာနက်ရှာဖွေမှု"
 
-#: src/webenginepart.cpp:786
+#: src/webenginepart.cpp:798
 #, kde-format
 msgid "&Search"
 msgstr "&Sရှာမည်"
 
-#: src/webenginepart.cpp:897
+#: src/webenginepart.cpp:909
 #, fuzzy, kde-format
 msgid "Close window?"
 msgstr "ဝင်းဒိုး ပိတ်ရန်"
 
-#: src/webenginepart.cpp:897
+#: src/webenginepart.cpp:909
 #, fuzzy, kde-format
 msgid "Confirmation Required"
 msgstr "အတည်ပြုချက်"
 
-#: src/webenginepart.cpp:971
+#: src/webenginepart.cpp:983
 #, kde-format
 msgid ""
 "<html>Do you want %1 to remember the login information for <b>%2</b>?</html>"
 msgstr ""
 
-#: src/webenginepart.cpp:1042
+#: src/webenginepart.cpp:1054
 #, kde-format
 msgctxt "Fill the Forms with Data from KWallet"
 msgid "&Fill forms now"
 msgstr ""
 
-#: src/webenginepart.cpp:1047
+#: src/webenginepart.cpp:1059
 #, kde-format
 msgid "&Memorize Passwords in This Page Now"
 msgstr ""
 
-#: src/webenginepart.cpp:1051
+#: src/webenginepart.cpp:1063
 #, kde-format
 msgid "&Customize Fields to Memorize for This Page..."
 msgstr ""
 
-#: src/webenginepart.cpp:1055
+#: src/webenginepart.cpp:1067
 #, kde-format
 msgid "Remove Customized Memorization Settings for This Page"
 msgstr ""
 
-#: src/webenginepart.cpp:1059
+#: src/webenginepart.cpp:1071
 #, fuzzy, kde-format
 msgid "&Allow Password Caching for This Site"
 msgstr "စကားဝှက် ယာယီ ကတ်ချ်သွင်းထားသည်"
 
-#: src/webenginepart.cpp:1063
+#: src/webenginepart.cpp:1075
 #, kde-format
 msgid "Remove All Memorized Passwords for This Site"
 msgstr ""
 
-#: src/webenginepart.cpp:1067
+#: src/webenginepart.cpp:1079
 #, fuzzy, kde-format
 msgid "&Launch Wallet Manager"
 msgstr "ပလပ်ဂင် မန်နေဂျာ"
 
-#: src/webenginepart.cpp:1071
+#: src/webenginepart.cpp:1083
 #, fuzzy, kde-format
 msgid "&Close Wallet"
 msgstr "_Cပိတ်"
@@ -1173,14 +1173,14 @@ msgctxt "Ignore the certificate error for this URL now and in the future"
 msgid "Yes, &forever"
 msgstr "&Fထာဝရ"
 
-#: src/webenginepartcertificateerrordlg.cpp:51
+#: src/webenginepartcertificateerrordlg.cpp:50
 #, kde-format
 msgid ""
 "<p>The server <tt>%1</tt> failed the authenticity check. The error is:</"
 "p><p><tt>%2</tt></p>Do you want to ignore this error?"
 msgstr ""
 
-#: src/webenginepartcertificateerrordlg.cpp:57
+#: src/webenginepartcertificateerrordlg.cpp:56
 #, fuzzy, kde-format
 msgctxt "title of a dialog asking what to do about a SSL certificate error"
 msgid "Certificate error"
@@ -1445,19 +1445,19 @@ msgstr "ဖြင့် '%1'ကို ရှာမည်"
 msgid "Configure Web Shortcuts..."
 msgstr "ဝက်ဘ်ဆိုင်ရာဖြတ်လမ်းများ ပြင်ဆင်မည်..."
 
-#: src/webenginewallet.cpp:103
+#: src/webenginewallet.cpp:104
 #, fuzzy, kde-format
 msgctxt "Web field with type 'text'"
 msgid "text"
 msgstr "စာသား"
 
-#: src/webenginewallet.cpp:104
+#: src/webenginewallet.cpp:105
 #, fuzzy, kde-format
 msgctxt "Web field with type 'password'"
 msgid "password"
 msgstr "စကားဝှက် -"
 
-#: src/webenginewallet.cpp:105
+#: src/webenginewallet.cpp:106
 #, fuzzy, kde-format
 msgctxt "Web field with type 'e-mail'"
 msgid "e-mail"
@@ -1474,7 +1474,7 @@ msgstr ""
 "ခလုတ်ကို နှိပ်ပါ။ ၎င်း မကိုင်တွယ်နိုင်သော အမ်အိုင်အမ်အီးတိုက်များ စာရင်းတွင်ပါပါက ထုတ်ပစ်ရန် <b>ဖယ်မည်</b> "
 "ခလုတ်ကိုနှိပ်ပါ။</p></qt>"
 
-#: src/webenginewallet.cpp:106
+#: src/webenginewallet.cpp:107
 #, fuzzy, kde-format
 msgctxt "Web field with type different from 'text', 'password' or 'e-mail'"
 msgid "other"
