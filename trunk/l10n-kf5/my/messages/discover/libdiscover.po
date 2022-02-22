@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-16 00:46+0000\n"
+"POT-Creation-Date: 2022-02-22 00:46+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -482,7 +482,7 @@ msgid "Local bundle"
 msgstr "စက်တွင်းအထုပ်"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1471
-#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:583
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:602
 #, kde-format
 msgid "Malformed appstream url '%1'"
 msgstr "ပုံပျက်-အပ်စထရင်း-ယူအာအယ်လ် '%1'"
@@ -712,12 +712,20 @@ msgctxt "Category"
 msgid "Fonts"
 msgstr "ဖောင့်များ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:210
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:212
 #, kde-format
 msgid "Please make sure that Appstream is properly set up on your system"
 msgstr "ကျေးဇူးပြု၍ သင်၏စစ်စတမ်တွင် အပ်စထရင်းအား မှန်ကန်စွာပြင်ဆင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:675
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:241
+#, kde-format
+msgctxt "%1 is the date as formatted by the locale"
+msgid ""
+"Your operating system ended support on %1. Consider upgrading to a supported "
+"version."
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:694
 #, kde-format
 msgid "Cannot remove '%1'"
 msgstr "'%1' ကိုမဖယ်ရှားနိုင်ပါ"
@@ -1470,7 +1478,7 @@ msgstr[0] ""
 "%2"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:110
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:143
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:158
 #, kde-format
 msgctxt "@action:button"
 msgid "Open Discover"
@@ -1483,22 +1491,33 @@ msgid "Repair System"
 msgstr "စစ်စတမ်ကို ပြန်ပြင်မည်"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:120
+#, fuzzy, kde-format
+#| msgid "Offline Updates"
+msgid "Repairing failed offline update"
+msgstr "အော့ဖ်လိုင်း အပ်ဒိတ်များ"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:128
 #, kde-format
 msgid "Repair Failed"
 msgstr "ပြန်ပြင်မှုမအောင်မြင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:121
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:129
 #, kde-kuit-format
 msgctxt "@info"
 msgid "%1<nl/>Please report this error to your distribution."
 msgstr "%1<nl/>ကျေးဇူးပြု၍ ဤအမှားကို သင်၏ဒစ်စထရီဗျူးရှင်းထံ တင်ပြပါ။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:141
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:140
+#, kde-format
+msgid "Repaired Successfully"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:156
 #, kde-format
 msgid "Offline Updates"
 msgstr "အော့ဖ်လိုင်း အပ်ဒိတ်များ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:142
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:157
 #, kde-format
 msgid "Successfully updated %1 package"
 msgid_plural "Successfully updated %1 packages"
