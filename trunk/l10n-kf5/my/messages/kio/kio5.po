@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-22 00:41+0000\n"
+"POT-Creation-Date: 2022-02-24 00:41+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -47,7 +47,7 @@ msgstr ""
 msgid "Unable to create io-slave: %1"
 msgstr "အိုင်အို-ကျွန် - %1 ကို မဖန်တီးနိုင်ခဲ့ပါ"
 
-#: core/copyjob.cpp:165 ioslaves/file/file_unix.cpp:1288
+#: core/copyjob.cpp:165 ioslaves/file/file_unix.cpp:1289
 #, kde-format
 msgctxt ""
 "The first arg is the path to the symlink that couldn't be created, the "
@@ -108,38 +108,38 @@ msgstr "ဖိုလ်ဒါအဖြစ်ရှိနှင့်ပြီး
 msgid "Trash"
 msgstr "အမှိုက်ပုံး"
 
-#: core/desktopexecparser.cpp:315
+#: core/desktopexecparser.cpp:316
 #, kde-format
 msgid "No Exec field in %1"
 msgstr "%1တွင် ဆောင်ရွက်-ကွက်လပ်မရှိပါ"
 
-#: core/desktopexecparser.cpp:340
+#: core/desktopexecparser.cpp:341
 #, kde-format
 msgid "Could not find the program '%1'"
 msgstr "'%1'ပရိုဂရမ်ကို ရှာမတွေ့ပါ"
 
-#: core/desktopexecparser.cpp:343
+#: core/desktopexecparser.cpp:344
 #, kde-format
 msgid ""
 "The program '%1' was found at '%2' but it is missing executable permissions."
 msgstr "ပရိုဂရမ် '%1' ကို '%2' ၌ တွေ့သော်လည်း ၎င်းတွင် မောင်းနှင်ရန် ခွင့်ပြုချက် ပျောက်နေသည်။"
 
-#: core/desktopexecparser.cpp:345
+#: core/desktopexecparser.cpp:346
 #, kde-format
 msgid "The program '%1' is missing executable permissions."
 msgstr "ပရိုဂရမ် '%1' တွင် မောင်းနှင်ရန် ခွင့်ပြုချက် ပျောက်နေသည်။"
 
-#: core/desktopexecparser.cpp:359
+#: core/desktopexecparser.cpp:360
 #, kde-format
 msgid "Syntax error in command %1 coming from %2"
 msgstr "%2 မှလာသော အမိန့် %1 တွင် သဒ္ဒါဆိုင်ရာအမှား"
 
-#: core/desktopexecparser.cpp:491
+#: core/desktopexecparser.cpp:492
 #, kde-format
 msgid "Terminal %1 not found while trying to run %2"
 msgstr "%2 လုပ်ဆောင်ရန်ကြိုးစားနေစဥ် တာမီနယ် %1 မတွေ့ပါ"
 
-#: core/desktopexecparser.cpp:507
+#: core/desktopexecparser.cpp:508
 #, kde-format
 msgid "Syntax error in command %1 while trying to run %2"
 msgstr "%2 လုပ်ဆောင်ရန် ကြိုးစားနေစဥ် အမိန့် %1 တွင် သဒ္ဒါဆိုင်ရာအမှား"
@@ -336,7 +336,7 @@ msgid ""
 "continue?"
 msgstr "ရွေ့ပြောင်းခြင်းလုပ်ဆောင်ချက် ပြီးရန် root၏အခွင့်အာဏာ လိုအပ်သည်။ သင်ဆက်လုပ်ချင်ပါသလား။"
 
-#: core/job.cpp:299 ioslaves/file/file_unix.cpp:123
+#: core/job.cpp:299 ioslaves/file/file_unix.cpp:124
 #, kde-format
 msgid "Rename"
 msgstr "အမည်ပြောင်းရန်"
@@ -348,7 +348,7 @@ msgid ""
 msgstr "အမည်ပြောင်းလဲခြင်းလုပ်ဆောင်ချက် ပြီးရန် root၏အခွင့်အာဏာ လိုအပ်သည်။ သင်ဆက်လုပ်ချင်ပါသလား။"
 
 #: core/job.cpp:305 filewidgets/knewfilemenu.cpp:595
-#: ioslaves/file/file_unix.cpp:127
+#: ioslaves/file/file_unix.cpp:128
 #, kde-format
 msgid "Create Symlink"
 msgstr "ဆင်းလင့်ခ်ဖန်တီးရန်"
@@ -3662,7 +3662,7 @@ msgstr "ဒက်စ်တော့ပ်သည် အော့ဖ်လို�
 #. i18n: ectx: property (text), widget (QPushButton, sha1CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha256CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha512CopyButton)
-#: filewidgets/kurlnavigator.cpp:495 ioslaves/file/file_unix.cpp:134
+#: filewidgets/kurlnavigator.cpp:495 ioslaves/file/file_unix.cpp:135
 #: widgets/checksumswidget.ui:118 widgets/checksumswidget.ui:156
 #: widgets/checksumswidget.ui:194 widgets/checksumswidget.ui:232
 #, kde-format
@@ -3907,82 +3907,82 @@ msgstr "windows CEတွင် ဖြုတ်ရန်လုပ်ဆောင�
 msgid "Could not find program \"umount\""
 msgstr "\"umount\" ပရိုဂရမ်ကို ရှာမတွေ့ပါ"
 
-#: ioslaves/file/file_unix.cpp:99
+#: ioslaves/file/file_unix.cpp:100
 #, kde-format
 msgid "Change File Permissions"
 msgstr "ဖိုင်လ်ခွင့်ပြုချက်များပြောင်းမည်"
 
-#: ioslaves/file/file_unix.cpp:100
+#: ioslaves/file/file_unix.cpp:101
 #, kde-format
 msgid "New Permissions: %1"
 msgstr "ခွင့်ပြုချက်အသစ်များ - %1"
 
-#: ioslaves/file/file_unix.cpp:103
+#: ioslaves/file/file_unix.cpp:104
 #, kde-format
 msgid "Change File Owner"
 msgstr "ဖိုင်လ်ပိုင်ရှင်ပြောင်းမည်"
 
-#: ioslaves/file/file_unix.cpp:104
+#: ioslaves/file/file_unix.cpp:105
 #, kde-format
 msgid "New Owner: UID=%1, GID=%2"
 msgstr "ပိုင်ရှင်သစ် - UID=%1၊ GID=%2"
 
-#: ioslaves/file/file_unix.cpp:107
+#: ioslaves/file/file_unix.cpp:108
 #, kde-format
 msgid "Remove File"
 msgstr "ဖိုင်လ်ဖယ်ရှားမည်"
 
-#: ioslaves/file/file_unix.cpp:110
+#: ioslaves/file/file_unix.cpp:111
 #, kde-format
 msgid "Remove Directory"
 msgstr "ဒါရိုက်ထရီဖယ်ရှားမည်"
 
-#: ioslaves/file/file_unix.cpp:113
+#: ioslaves/file/file_unix.cpp:114
 #, kde-format
 msgid "Create Directory"
 msgstr "ဒါရိုက်ထရီတည်ဆောက်ရန်"
 
-#: ioslaves/file/file_unix.cpp:114
+#: ioslaves/file/file_unix.cpp:115
 #, kde-format
 msgid "Directory Permissions: %1"
 msgstr "ဒါရိုက်ထရီခွင့်ပြုချက်များ - %1"
 
-#: ioslaves/file/file_unix.cpp:117
+#: ioslaves/file/file_unix.cpp:118
 #, kde-format
 msgid "Open File"
 msgstr "ဖိုင်လ်ဖွင့်မည်"
 
-#: ioslaves/file/file_unix.cpp:120
+#: ioslaves/file/file_unix.cpp:121
 #, kde-format
 msgid "Open Directory"
 msgstr "ဒါရိုက်ထရီဖွင့်မည်"
 
-#: ioslaves/file/file_unix.cpp:124
+#: ioslaves/file/file_unix.cpp:125
 #, kde-format
 msgid "New Filename: %1"
 msgstr "ဖိုင်လ်အမည်သစ် - %1"
 
-#: ioslaves/file/file_unix.cpp:128
+#: ioslaves/file/file_unix.cpp:129
 #, kde-format
 msgid "Target: %1"
 msgstr "ပစ်မှတ် - %1"
 
-#: ioslaves/file/file_unix.cpp:131
+#: ioslaves/file/file_unix.cpp:132
 #, kde-format
 msgid "Change Timestamp"
 msgstr "အချိန်မှတ်သားချက်ပြောင်းမည်"
 
-#: ioslaves/file/file_unix.cpp:135
+#: ioslaves/file/file_unix.cpp:136
 #, kde-format
 msgid "From: %1, To: %2"
 msgstr ""
 
-#: ioslaves/file/file_unix.cpp:138
+#: ioslaves/file/file_unix.cpp:139
 #, kde-format
 msgid "Unknown Action"
 msgstr "မသိသော လုပ်ဆောင်ချက်"
 
-#: ioslaves/file/file_unix.cpp:143
+#: ioslaves/file/file_unix.cpp:144
 #, kde-format
 msgid ""
 "Action: %1\n"
@@ -3993,22 +3993,22 @@ msgstr ""
 "မူလဇစ်မြစ် %2\n"
 "%3"
 
-#: ioslaves/file/file_unix.cpp:835
+#: ioslaves/file/file_unix.cpp:836
 #, kde-format
 msgid "Cannot copy file from %1 to %2. (Errno: %3)"
 msgstr "%1 မှ %2 သို့ ဖိုင်လ်ကူးယူမရပါ။ (အမှားနံပါတ် - %3)"
 
-#: ioslaves/file/file_unix.cpp:1062
+#: ioslaves/file/file_unix.cpp:1063
 #, kde-format
 msgid "No media in device for %1"
 msgstr "%1အတွက် စက်တွင် မီဒီယာမရှိပါ"
 
-#: ioslaves/file/file_unix.cpp:1373
+#: ioslaves/file/file_unix.cpp:1374
 #, kde-format
 msgid "Could not get user id for given user name %1"
 msgstr "ပေးထားသော အသုံးပြုသူအမည် %1 အတွက် အသုံးပြုသူအိုင်ဒီ မရယူနိုင်ခဲ့ပါ"
 
-#: ioslaves/file/file_unix.cpp:1385
+#: ioslaves/file/file_unix.cpp:1386
 #, kde-format
 msgid "Could not get group id for given group name %1"
 msgstr "ပေးထားသော အုပ်စုအမည် %1 အတွက် အုပ်စုအိုင်ဒီ မရယူနိုင်ခဲ့ပါ"
