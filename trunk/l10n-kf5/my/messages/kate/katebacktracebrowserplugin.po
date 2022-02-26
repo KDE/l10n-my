@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-03 00:19+0000\n"
+"POT-Creation-Date: 2022-02-26 00:52+0000\n"
 "PO-Revision-Date: 2021-09-15 05:00+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -153,10 +153,10 @@ msgstr "ဖိုင်လ်တိုးချဲ့အမည်များ �
 msgid "Indexing files..."
 msgstr "ဖိုင်လ်များကို အညွှန်းစဥ်နေသည်..."
 
-#: katebacktracebrowser.cpp:117
+#: katebacktracebrowser.cpp:117 katebacktracebrowser.cpp:280
 #, kde-format
-msgid "Backtrace Browser"
-msgstr "နောက်ယောင်ခံလိုက် ဘရောက်ဇာ"
+msgid "Backtrace"
+msgstr "နောက်ယောက်ခံလိုက်မှု"
 
 #: katebacktracebrowser.cpp:151
 #, kde-format
@@ -188,11 +188,6 @@ msgstr "ဖွင့်ထားသော ဖိုင်လ် - %1"
 msgid "No debugging information available"
 msgstr "ဒီဘက်ဂင်အချက်အလက်များ မရရှိနိုင်ပါ"
 
-#: katebacktracebrowser.cpp:280
-#, kde-format
-msgid "Backtrace"
-msgstr "နောက်ယောက်ခံလိုက်မှု"
-
 #: katebacktracebrowser.cpp:285
 #, kde-format
 msgid "Backtrace Settings"
@@ -202,3 +197,6 @@ msgstr "နောက်ယောင်ခံလိုက် ဆက်တင်"
 #, kde-format
 msgid "Backtrace Browser Settings"
 msgstr "နောက်ယောင်ခံလိုက် ဘရောက်ဇာ ဆက်တင်"
+
+#~ msgid "Backtrace Browser"
+#~ msgstr "နောက်ယောင်ခံလိုက် ဘရောက်ဇာ"

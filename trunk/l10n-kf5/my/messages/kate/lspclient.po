@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-20 00:48+0000\n"
+"POT-Creation-Date: 2022-02-26 00:52+0000\n"
 "PO-Revision-Date: 2021-09-19 13:41+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -25,8 +25,7 @@ msgstr ""
 
 #. i18n: ectx: Menu (LSPClient Menubar)
 #: lspclientconfigpage.cpp:108 lspclientconfigpage.cpp:113
-#: lspclientpluginview.cpp:690 lspclientpluginview.cpp:741
-#: lspclientpluginview.cpp:2944 ui.rc:6
+#: lspclientpluginview.cpp:690 lspclientpluginview.cpp:2944 ui.rc:6
 #, kde-format
 msgid "LSP Client"
 msgstr "အယ်အက်စ်ပီ ပရိုဂရမ်"
@@ -213,6 +212,11 @@ msgstr ""
 #, fuzzy, kde-format
 msgid "More options"
 msgstr "ပိုမို"
+
+#: lspclientpluginview.cpp:741
+#, kde-format
+msgid "LSP"
+msgstr ""
 
 #: lspclientpluginview.cpp:935 lspclientpluginview.cpp:2303
 #: lspclientsymbolview.cpp:287
@@ -453,9 +457,9 @@ msgstr ""
 "\n"
 
 #: lspclientsymbolview.cpp:240
-#, kde-format
-msgid "LSP Client Symbol Outline"
-msgstr ""
+#, fuzzy, kde-format
+msgid "Symbol Outline"
+msgstr "ဒေသတွင်းသုံးသင်္ကေတ သို့သွားမည်"
 
 #: lspclientsymbolview.cpp:252
 #, fuzzy, kde-format
@@ -667,10 +671,6 @@ msgstr "ပိုမို"
 #, fuzzy
 #~ msgid "Add markers"
 #~ msgstr "ထည့်သွင်းမည်..."
-
-#, fuzzy
-#~ msgid "Symbol Outline Options"
-#~ msgstr "ဒေသတွင်းသုံးသင်္ကေတ သို့သွားမည်"
 
 #, fuzzy
 #~ msgid "Tree mode outline"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-17 00:48+0000\n"
+"POT-Creation-Date: 2022-02-26 00:52+0000\n"
 "PO-Revision-Date: 2021-09-15 05:32+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -80,7 +80,7 @@ msgstr "&vရရှိနိုင်သော လုပ်ဆောင်ချ
 msgid "S&elected actions:"
 msgstr "&eရွေးချယ်ထားသော လုပ်ဆောင်ချက်များ -"
 
-#: katefilebrowserconfig.cpp:83 katefilebrowserplugin.cpp:69
+#: katefilebrowserconfig.cpp:83
 #, kde-format
 msgid "Filesystem Browser"
 msgstr "ဖိုင်လ်စနစ်ဘရောက်ဇာ"
@@ -89,3 +89,9 @@ msgstr "ဖိုင်လ်စနစ်ဘရောက်ဇာ"
 #, kde-format
 msgid "Filesystem Browser Settings"
 msgstr "ဖိုင်လ်စနစ်ဘရောက်ဇာ ဆက်တင်"
+
+#: katefilebrowserplugin.cpp:69
+#, fuzzy, kde-format
+#| msgid "Filesystem Browser"
+msgid "Filesystem"
+msgstr "ဖိုင်လ်စနစ်ဘရောက်ဇာ"

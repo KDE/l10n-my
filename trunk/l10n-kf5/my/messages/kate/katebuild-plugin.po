@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-10 00:46+0000\n"
+"POT-Creation-Date: 2022-02-26 00:52+0000\n"
 "PO-Revision-Date: 2021-09-15 04:13+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -80,10 +80,10 @@ msgstr "မှတ်စာ"
 msgid "Kate Build Plugin"
 msgstr "ကိတ် တည်ဆောက်မှု ပလပ်ဂင်"
 
-#: plugin_katebuild.cpp:135
-#, fuzzy, kde-format
-msgid "Build Output"
-msgstr "ပတ်ကေ့ချ်ကို မဆောက်နိုင်ခဲ့ပါ"
+#: plugin_katebuild.cpp:135 plugin_katebuild.cpp:1159
+#, kde-format
+msgid "Build"
+msgstr "တည်ဆောက်မည်"
 
 #: plugin_katebuild.cpp:138
 #, kde-format
@@ -285,11 +285,6 @@ msgstr "တည်ဆောက်မှု မအောင်မြင်ပါ�
 msgid "Build completed without problems."
 msgstr ""
 
-#: plugin_katebuild.cpp:1159
-#, kde-format
-msgid "Build"
-msgstr "တည်ဆောက်မည်"
-
 #: plugin_katebuild.cpp:1160
 #, kde-format
 msgid "Clean"
@@ -430,3 +425,7 @@ msgstr "လမ်းကြောင်းထည့်သွင်းမည်"
 #, kde-format
 msgid "Select directory to insert"
 msgstr "ထည့်သွင်းရန် ဒါရိုက်ထရီ ရွေးမည်"
+
+#, fuzzy
+#~ msgid "Build Output"
+#~ msgstr "ပတ်ကေ့ချ်ကို မဆောက်နိုင်ခဲ့ပါ"

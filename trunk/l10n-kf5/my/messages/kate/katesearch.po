@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-20 00:48+0000\n"
+"POT-Creation-Date: 2022-02-26 00:52+0000\n"
 "PO-Revision-Date: 2021-09-15 03:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -180,7 +180,7 @@ msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, searchButton)
 #. i18n: ectx: property (text), widget (QPushButton, searchButton)
-#: search.ui:34 search.ui:37
+#: search.ui:34 search.ui:37 SearchPlugin.cpp:303
 #, kde-format
 msgid "Search"
 msgstr "ရှာမည်"
@@ -514,11 +514,6 @@ msgstr ""
 msgid "Kate Search & Replace"
 msgstr "ကိတ်"
 
-#: SearchPlugin.cpp:303
-#, kde-format
-msgid "Search and Replace"
-msgstr "ရှာပြီး အစားထိုးမည်"
-
 #: SearchPlugin.cpp:337
 #, kde-format
 msgid "Search in Files"
@@ -649,6 +644,9 @@ msgstr "&Eတည်းဖြတ်"
 #, kde-format
 msgid "Search More"
 msgstr "နောက်ထပ်ရှာဖွေမည်"
+
+#~ msgid "Search and Replace"
+#~ msgstr "ရှာပြီး အစားထိုးမည်"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"

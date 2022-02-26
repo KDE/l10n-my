@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-25 00:48+0000\n"
+"POT-Creation-Date: 2022-02-26 00:52+0000\n"
 "PO-Revision-Date: 2021-09-15 03:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -803,10 +803,11 @@ msgstr ""
 msgid "Kate Project Manager"
 msgstr "ကိတ်ပရောဂျက်မန်နေဂျာ"
 
-#: kateprojectpluginview.cpp:75
+#: kateprojectpluginview.cpp:75 kateprojectpluginview.cpp:193
+#: kateprojectviewtree.cpp:131 kateprojectviewtree.cpp:156
 #, kde-format
-msgid "Current Project"
-msgstr "လက်ရှိ ပရောဂျက်"
+msgid "Project"
+msgstr "ပရောဂျက်"
 
 #: kateprojectpluginview.cpp:172
 #, kde-format
@@ -827,12 +828,6 @@ msgstr "ရှာဖွေမည်"
 #, kde-format
 msgid "Close Project"
 msgstr "ပရောဂျက် ပိတ်မည်"
-
-#: kateprojectpluginview.cpp:193 kateprojectviewtree.cpp:131
-#: kateprojectviewtree.cpp:156
-#, kde-format
-msgid "Project"
-msgstr "ပရောဂျက်"
 
 #: kateprojectpluginview.cpp:196 kateprojectpluginview.cpp:692
 #, kde-format
@@ -1009,3 +1004,6 @@ msgstr ""
 #, kde-format
 msgid "&Projects"
 msgstr "&Pပရောဂျက်များ"
+
+#~ msgid "Current Project"
+#~ msgstr "လက်ရှိ ပရောဂျက်"
