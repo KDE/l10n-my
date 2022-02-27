@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-26 00:52+0000\n"
+"POT-Creation-Date: 2022-02-27 00:53+0000\n"
 "PO-Revision-Date: 2021-09-15 05:11+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -33,7 +33,7 @@ msgstr "lw1nzayar@yandex.com"
 msgid "You do not have enough karma to access a shell or terminal emulation"
 msgstr ""
 
-#: kateconsole.cpp:104 kateconsole.cpp:599
+#: kateconsole.cpp:104 kateconsole.cpp:600
 #, kde-format
 msgid "Terminal"
 msgstr "တာမီနယ်"
@@ -193,7 +193,7 @@ msgid ""
 "Add these apps in the input below (Comma separated list)"
 msgstr ""
 
-#: kateconsole.cpp:604
+#: kateconsole.cpp:605
 #, kde-format
 msgid "Terminal Settings"
 msgstr "တာမီနယ်ဆက်တင်"
