@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-26 00:49+0000\n"
+"POT-Creation-Date: 2022-03-03 00:45+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -500,7 +500,7 @@ msgstr "'%1' ကို မစတင်နိုင်ခဲ့ပါ"
 
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:100
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:230
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:321
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:326
 #, kde-format
 msgid "Unknown"
 msgstr "မသိ"
@@ -745,716 +745,722 @@ msgstr "အင်တာနက်မရှိပါ"
 msgid "Operation not supported"
 msgstr "လုပ်မရပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:24
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:25
 #, kde-format
 msgid "Internal error"
 msgstr "စနစ်အတွင်းပိုင်းဆိုင်ရာအမှား"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:26
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:27
+#, fuzzy, kde-format
+#| msgid "Internal error"
+msgid "Internal error: %1"
+msgstr "စနစ်အတွင်းပိုင်းဆိုင်ရာအမှား"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:31
 #, kde-format
 msgid "GPG failure"
 msgstr "ဂျီပီဂျီ ရှုံးနိမ့်မှု"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:28
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:33
 #, kde-format
 msgid "PackageID invalid"
 msgstr "ပတ်ကေ့ချ်အိုင်ဒီ မမှန်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:30
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:35
 #, kde-format
 msgid "Package not installed"
 msgstr "ပတ်ကေ့ချ် မတပ်ဆင်ဖြစ်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:32
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:37
 #, kde-format
 msgid "Package not found"
 msgstr "ပတ်ကေ့ချ် ရှာမတွေ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:34
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:39
 #, kde-format
 msgid "Package is already installed"
 msgstr "ပတ်ကေ့ချ်ကို တပ်ဆင်ပြီးဖြစ်သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:36
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:41
 #, kde-format
 msgid "Package download failed"
 msgstr "ပတ်ကေ့ချ်ဒေါင်းလုတ်ဆွဲမှုမအောင်မြင်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:38
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:43
 #, kde-format
 msgid "Package group not found"
 msgstr "ပတ်ကေ့ချ်အုပ်စုရှာမတွေ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:40
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:45
 #, kde-format
 msgid "Package group list invalid"
 msgstr "ပတ်ကေ့ချ်အုပ်စုစာရင်း မမှန်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:42
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:47
 #, kde-format
 msgid "Dependency resolution failed"
 msgstr "မှီခိုပရိုဂရမ်ဖြေရှင်းချက် မအောင်မြင်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:44
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:49
 #, kde-format
 msgid "Filter invalid"
 msgstr "စစ်ထုတ်မှုမမှန်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:46
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:51
 #, kde-format
 msgid "Failed while creating a thread"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:48
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:53
 #, kde-format
 msgid "Transaction failure"
 msgstr "လွှဲပြောင်းမှု မအောင်မြင်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:50
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:55
 #, kde-format
 msgid "Transaction canceled"
 msgstr "လွှဲပြောင်းမှု ပယ်ဖျက်ခဲ့သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:52
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:57
 #, kde-format
 msgid "No Cache available"
 msgstr "ကတ့်ချ် မရှိပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:54
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:59
 #, kde-format
 msgid "Cannot find repository"
 msgstr "ရီပိုစစ်တိုရီကို မရှာနိုင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:56
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:61
 #, kde-format
 msgid "Cannot remove system package"
 msgstr "စစ်စတမ်ပတ်ကေ့ချ်ကို မဖယ်ရှားနိုင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:58
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:63
 #, kde-format
 msgid "The PackageKit daemon has crashed"
 msgstr "ပတ်ကေ့ချ်ကစ် နောက်ကွယ်လုပ်ဆောင်ချက် ရပ်တန့်သွားခဲ့သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:60
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:65
 #, kde-format
 msgid "Initialization failure"
 msgstr "စတင်ခြင်း ရှုံးနိမ့်မှု"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:62
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:67
 #, kde-format
 msgid "Failed to finalize transaction"
 msgstr "လွှဲပြောင်းမှုအဆုံးသတ်ရန်ကျရှုံးခဲ့သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:64
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:69
 #, kde-format
 msgid "Config parsing failed"
 msgstr "ကွန်ဖစ် ပေးချက်ရယူမှု ကျရှုံးခဲ့သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:66
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:71
 #, kde-format
 msgid "Cannot cancel transaction"
 msgstr "လွှဲပြောင်းမှု မပယ်ဖျက်နိုင်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:68
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:73
 #, kde-format
 msgid "Cannot obtain lock"
 msgstr "သော့ကို မရယူနိုင်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:70
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:75
 #, kde-format
 msgid "No packages to update"
 msgstr "အပ်ဒိတ်တင်ရမည့် ပတ်ကေ့ချ်မရှိပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:72
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:77
 #, kde-format
 msgid "Cannot write repo config"
 msgstr "ရီပို ကွန်ဖစ်ဖိုင်လ် မရေးနိုင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:74
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:79
 #, kde-format
 msgid "Local install failed"
 msgstr "စက်တွင်းတပ်ဆင်ခြင်း မအောင်မြင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:76
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:81
 #, kde-format
 msgid "Bad GPG signature found"
 msgstr "မကောင်းသော ဂျီပီဂျီ လက်မှတ်ကို တွေ့ခဲ့သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:78
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:83
 #, kde-format
 msgid "No GPG signature found"
 msgstr "မည်သည့် ဂျီပီဂျီ လက်မှတ်မှ မတွေ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:80
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:85
 #, kde-format
 msgid "Cannot install source package"
 msgstr "ဇစ်မြစ်ပတ်ကေ့ချ်ကို မတပ်ဆင်နိုင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:82
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:87
 #, kde-format
 msgid "Repo configuration error"
 msgstr "ရီပို ပြင်ဆင်ထားမှုဆိုင်ရာ အမှား"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:84
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:89
 #, kde-format
 msgid "No license agreement"
 msgstr "လိုင်စင်သဘောတူညီချက်မရှိပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:86
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:91
 #, kde-format
 msgid "File conflicts found"
 msgstr "ဖိုင်လ် ဆိုင်ရာအငြင်းပွားဖွယ် တွေ့ရှိသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:88
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:93
 #, kde-format
 msgid "Package conflict found"
 msgstr "ပတ်ကေ့ချ် ဆိုင်ရာအငြင်းပွားဖွယ် တွေ့ရှိသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:90
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:95
 #, kde-format
 msgid "Repo not available"
 msgstr "ရီပို သုံး၍မရသေးပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:92
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:97
 #, kde-format
 msgid "Invalid package file"
 msgstr "မမှန်ကန်သော ပတ်ကေ့ချ်ဖိုင်လ်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:94
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:99
 #, kde-format
 msgid "Package install blocked"
 msgstr "ပတ်ကေ့ချ်တပ်ဆင်ခြင်း ပိတ်ပင်ခံခဲ့ရသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:96
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:101
 #, kde-format
 msgid "Corrupt package found"
 msgstr "ပျက်စီးနေသော ပတ်ကေ့ချ် ရှာတွေ့ခဲ့သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:98
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:103
 #, kde-format
 msgid "All packages already installed"
 msgstr "ပတ်ကေ့ချ်အားလုံးတပ်ဆင်ပြီးဖြစ်သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:100
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:105
 #, kde-format
 msgid "File not found"
 msgstr "ဖိုင်လ်မတွေ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:102
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:107
 #, kde-format
 msgid "No more mirrors available"
 msgstr "အရံများ မရှိတော့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:104
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:109
 #, kde-format
 msgid "No distro upgrade data"
 msgstr "ဒစ်စထရို အပ်ဂရိတ် ဒေတာ မရှိပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:106
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:111
 #, kde-format
 msgid "Incompatible architecture"
 msgstr "ကိုက်ညီမှုမရှိသော ကွန်ပြူတာဖွဲ့စည်းပုံအခြေခံ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:108
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:113
 #, kde-format
 msgid "No space on device left"
 msgstr "စက်တွင် နေရာလွတ်မကျန်တော့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:110
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:115
 #, kde-format
 msgid "A media change is required"
 msgstr "မီဒီယာပြောင်းလဲရန်လိုသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:112
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:117
 #, kde-format
 msgid "You have no authorization to execute this operation"
 msgstr "ဤလုပ်ဆောင်ချက်ကို ဆောင်ရွက်ရန် သင်၌ အခွင့်မရှိပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:114
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:119
 #, kde-format
 msgid "Update not found"
 msgstr "အပ်ဒိတ်ရှာမတွေ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:116
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:121
 #, kde-format
 msgid "Cannot install from unsigned repo"
 msgstr "မယုံကြည်ရသော ရီပိုမှ မတပ်ဆင်နိုင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:118
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:123
 #, kde-format
 msgid "Cannot update from unsigned repo"
 msgstr "မယုံကြည်ရသော ရီပိုမှ အပ်ဒိတ်များ မတပ်ဆင်နိုင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:120
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:125
 #, kde-format
 msgid "Cannot get file list"
 msgstr "ဖိုင်လ်စာရင်း မရယူနိုင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:122
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:127
 #, kde-format
 msgid "Cannot get requires"
 msgstr "လိုအပ်သည်များ မရယူနိုင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:124
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:129
 #, kde-format
 msgid "Cannot disable repository"
 msgstr "ရီပိုစစ်တိုရီကို မပိတ်နိုင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:126
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:131
 #, kde-format
 msgid "Restricted download detected"
 msgstr "ဒေါင်းလုတ်ဆွဲမှုကန့်သတ်ထားခြင်းတွေ့ရှိရသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:128
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:133
 #, kde-format
 msgid "Package failed to configure"
 msgstr "ပတ်ကေ့ချ်ကို မပြင်ဆင်နိုင်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:130
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:135
 #, kde-format
 msgid "Package failed to build"
 msgstr "ပတ်ကေ့ချ်ကို မဆောက်နိုင်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:132
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:137
 #, kde-format
 msgid "Package failed to install"
 msgstr "ပတ်ကေ့ချ်ကို မတပ်ဆင်နိုင်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:134
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:139
 #, kde-format
 msgid "Package failed to remove"
 msgstr "ပတ်ကေ့ချ်ကို မဖယ်ရှားနိုင်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:136
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:141
 #, kde-format
 msgid "Update failed due to running process"
 msgstr "ဆောင်ရွက်ဆဲအလုပ်များကြောင့် အပ်ဒိတ်တင်ခြင်းမအောင်မြင်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:138
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:143
 #, kde-format
 msgid "The package database changed"
 msgstr "ပတ်ကေ့ချ်ဒေတာဘေ့စ် ပြောင်းလဲသွားပြီ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:140
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:145
 #, kde-format
 msgid "The provided type is not supported"
 msgstr "ပေးခဲ့သော အမျိုးအစားကို လုပ်မရပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:142
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:147
 #, kde-format
 msgid "Install root is invalid"
 msgstr "Rootအဖြစ်တပ်ဆင်ခြင်းသည် မမှန်ကန်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:144
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:149
 #, kde-format
 msgctxt ""
 "Failed to sync your Linux distro repositories or other sources of packages"
 msgid "Cannot fetch sources"
 msgstr "ပရိုဂရမ်စာရင်းများ မရယူနိုင်ခဲ့ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:146
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:151
 #, kde-format
 msgid "Canceled priority"
 msgstr "ဦးစားပေးမှု ပယ်ဖျက်ခဲ့သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:148
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:153
 #, kde-format
 msgid "Unfinished transaction"
 msgstr "မပြီးပြတ်သေးသော လွှဲပြောင်းမှု"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:150
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:155
 #, kde-format
 msgid "Lock required"
 msgstr "သော့ခတ်ရန်လိုအပ်သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:155
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:160
 #, kde-format
 msgid "Unknown error %1."
 msgstr "မသိသောအမှား %1။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:164
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:169
 #, kde-format
 msgid "'%1' was changed and suggests to be restarted."
 msgstr "'%1' ပြောင်းလဲသွားသောကြောင့် စစ်စတမ်ကို ပြန်လည်စတင်စေလိုသည်။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:166
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:171
 #, kde-format
 msgid "A change by '%1' suggests your session to be restarted."
 msgstr "'%1' ပြောင်းလဲသွားသောကြောင့် လုပ်ငန်းဆောင်ရွက်မှုခန်းကို ပြန်လည်စတင်စေလိုသည်။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:168
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:173
 #, kde-format
 msgid ""
 "'%1' was updated for security reasons, a restart of the session is "
 "recommended."
 msgstr "လုံခြုံရေးအရ '%1'ကို အပ်ဒိတ်တင်ခဲ့သည်။ လုပ်ငန်းဆောင်ရွက်မှုခန်း ပြန်စတင်ရန်လိုသည်။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:170
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:175
 #, kde-format
 msgid ""
 "'%1' was updated for security reasons, a restart of the system is "
 "recommended."
 msgstr "လုံခြုံရေးအရ '%1'ကို အပ်ဒိတ်တင်ခဲ့သည်။ စစ်စတမ်ကို ပြန်စတင်ပါ။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:175
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:180
 #, kde-format
 msgid "A change by '%1' suggests your system to be restarted."
 msgstr "'%1' ပြောင်းလဲသွားသောကြောင့် စစ်စတမ်ကို ပြန်လည်စတင်စေလိုသည်။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:183
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:188
 #, kde-format
 msgid "The application will have to be restarted."
 msgstr "အပ္ပလီကေးရှင်းကို ပြန်စတင်ရန်လိုသည်။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:185
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:190
 #, kde-format
 msgid "The session will have to be restarted"
 msgstr "ဆက်ရှင်ကို ပြန်စတင်ရန်လိုသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:187
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:192
 #, kde-format
 msgid "The system will have to be restarted."
 msgstr "စစ်စတမ်ကို ပြန်စတင်ရန်လိုသည်။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:189
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:194
 #, kde-format
 msgid "For security, the session will have to be restarted."
 msgstr "လုံခြုံရေးအရ လုပ်ငန်းဆောင်ရွက်မှုခန်းကို ပြန်စတင်ရန်လိုသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:191
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:196
 #, kde-format
 msgid "For security, the system will have to be restarted."
 msgstr "လုံခြုံရေးအရ စစ်စတမ်ကို ပြန်စတင်ရန်လိုသည်။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:203
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:208
 #, kde-format
 msgid "Waiting…"
 msgstr "စောင့်ဆိုင်းနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:205
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:210
 #, kde-format
 msgid "Refreshing Cache…"
 msgstr "ကတ့်ချ်ဆိုင်ရာအချက်အလက်အသစ်ရယူနေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:207
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:212
 #, kde-format
 msgid "Setup…"
 msgstr "စီစဥ်မည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:209
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:214
 #, kde-format
 msgid "Processing…"
 msgstr "လုပ်ဆောင်နေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:211
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:216
 #, kde-format
 msgid "Remove…"
 msgstr "ဖယ်ရှားမည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:213
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:218
 #, kde-format
 msgid "Downloading…"
 msgstr "ဒေါင်းလုတ်ဆွဲနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:215
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:220
 #, kde-format
 msgid "Installing…"
 msgstr "တပ်ဆင်နေသည်…"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:217
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:222
 #, kde-format
 msgid "Updating…"
 msgstr "အပ်ဒိတ်တင်နေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:219
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:224
 #, kde-format
 msgid "Cleaning up…"
 msgstr "ရှင်းနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:222
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:227
 #, kde-format
 msgid "Resolving dependencies…"
 msgstr "မှီခိုပရိုဂရမ်များ ဖြေရှင်းနေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:224
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:229
 #, kde-format
 msgid "Checking signatures…"
 msgstr "လက်မှတ်များ စစ်ဆေးနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:226
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:231
 #, kde-format
 msgid "Test committing…"
 msgstr "ပေးအပ်မှုကိုစစ်ဆေးမည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:228
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:233
 #, kde-format
 msgid "Committing…"
 msgstr "ပေးအပ်နေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:231
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:357
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:236
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:362
 #, kde-format
 msgid "Finished"
 msgstr "ပြီးပါပြီ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:233
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:238
 #, kde-format
 msgid "Canceled"
 msgstr "ပယ်ဖျက်ခဲ့သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:235
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:240
 #, kde-format
 msgid "Waiting for lock…"
 msgstr "သော့ကိုစောင့်ဆိုင်းနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:237
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:242
 #, kde-format
 msgid "Waiting for authorization…"
 msgstr "ခွင့်ပြုချက်ရရန်စောင့်ဆိုင်းနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:242
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:247
 #, kde-format
 msgid "Copying files…"
 msgstr "ဖိုင်လ်များကူးယူနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:245
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:250
 #, kde-format
 msgid "Unknown Status"
 msgstr "အခြေအနေဘာမှန်းမသိ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:253
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:258
 #, kde-format
 msgid "We are waiting for something."
 msgstr "တစ်စုံတစ်ခုကိုစောင့်ဆိုင်းနေသည်။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:255
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:260
 #, kde-format
 msgid "Setting up transaction…"
 msgstr "လွဲပြောင်းမှုကို ပြင်ဆင်နေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:257
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:262
 #, kde-format
 msgid "The transaction is currently working…"
 msgstr "လုပ်နေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:259
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:264
 #, kde-format
 msgid "The transaction is currently removing packages…"
 msgstr "ပတ်ကေ့ချ်များဖယ်ရှားနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:261
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:266
 #, kde-format
 msgid "The transaction is currently downloading packages…"
 msgstr "ပတ်ကေ့ချ်များဒေါင်းလုတ်ဆွဲနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:263
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:268
 #, kde-format
 msgid "The transactions is currently installing packages…"
 msgstr "ပတ်ကေ့ချ်များတပ်ဆင်နေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:265
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:270
 #, kde-format
 msgid "The transaction is currently updating packages…"
 msgstr "ပတ်ကေ့ချ်များအပ်ဒိတ်တင်နေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:267
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:272
 #, kde-format
 msgid "The transaction is currently cleaning up…"
 msgstr "ရှင်းနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:270
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:275
 #, kde-format
 msgid ""
 "The transaction is currently resolving the dependencies of the packages it "
 "will install…"
 msgstr "တပ်ဆင်မည့် ပတ်ကေ့ချ်များ၏ မှီခိုပရိုဂရမ်များကို ဖြေရှင်းနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:272
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:277
 #, kde-format
 msgid "The transaction is currently checking the signatures of the packages…"
 msgstr "ပတ်ကေ့ချ်များ၏လက်မှတ်များကို စစ်ဆေးနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:274
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:279
 #, kde-format
 msgid ""
 "The transaction is currently testing the commit of this set of packages…"
 msgstr "ပတ်ကေ့ချ်အစုများ ပေးအပ်မှုကို စစ်ဆေးနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:276
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:281
 #, kde-format
 msgid "The transaction is currently committing its set of packages…"
 msgstr "ပတ်ကေ့ချ်အစုများကို ပေးအပ်နေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:279
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:284
 #, kde-format
 msgid "The transaction has finished!"
 msgstr "ပြီးပါပြီ။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:281
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:286
 #, kde-format
 msgid "The transaction was canceled"
 msgstr "ပယ်ဖျက်ခဲ့သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:283
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:288
 #, kde-format
 msgid "The transaction is currently waiting for the lock…"
 msgstr "သော့ကိုစောင့်ဆိုင်းနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:285
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:290
 #, kde-format
 msgid "Waiting for the user to authorize the transaction…"
 msgstr "အသုံးပြုသူအတည်ပြုရန် စောင့်ဆိုင်းနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:290
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:295
 #, kde-format
 msgid "The transaction is currently copying files…"
 msgstr "ဖိုင်လ်များကူးယူနေသည်..."
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:292
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:297
 #, kde-format
 msgid "Currently refreshing the repository cache…"
 msgstr "ကတ့်ချ်ဆိုင်ရာအချက်အလက်အသစ်ရယူနေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:297
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:302
 #, kde-format
 msgid "Unknown status %1."
 msgstr "အခြေအနေဘာမှန်းမသိ %1။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:308
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:313
 #, kde-format
 msgctxt "update state"
 msgid "Stable"
 msgstr "တည်ငြိမ်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:310
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:315
 #, kde-format
 msgctxt "update state"
 msgid "Unstable"
 msgstr "မတည်ငြိမ်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:312
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:317
 #, kde-format
 msgctxt "update state"
 msgid "Testing"
 msgstr "စမ်းသပ်ဆဲ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:323
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:328
 #: libdiscover/resources/AbstractResource.cpp:92
 #, kde-format
 msgid "Installed"
 msgstr "တပ်ဆင်ပြီး"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:325
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:330
 #, kde-format
 msgid "Not Installed"
 msgstr "မတပ်ဆင်ရသေး"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:327
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:332
 #, kde-format
 msgid "Low"
 msgstr "အနည်းအကျဥ်း"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:329
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:334
 #, kde-format
 msgid "Enhancement"
 msgstr "စွမ်းဆောင်ရည်မြင့်တင်မှု"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:331
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:336
 #, kde-format
 msgid "Normal"
 msgstr "ပုံမှန်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:333
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:338
 #, kde-format
 msgid "Bugfix"
 msgstr "ဆော့ဖ်ဝဲလ်ပြစ်ချက်ပြင်ဆင်မှု"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:335
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:340
 #, kde-format
 msgid "Important"
 msgstr "အရေးကြီး"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:337
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:342
 #, kde-format
 msgid "Security"
 msgstr "လုံခြုံရေးဆိုင်ရာ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:339
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:344
 #, kde-format
 msgid "Blocked"
 msgstr "ပိတ်ပင်ခဲ့သည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:341
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:346
 #, kde-format
 msgid "Downloading"
 msgstr "ဒေါင်းလုတ်ဆွဲနေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:343
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:348
 #, kde-format
 msgid "Updating"
 msgstr "အပ်ဒိတ်တင်နေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:345
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:350
 #, kde-format
 msgid "Installing"
 msgstr "တပ်ဆင်နေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:347
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:352
 #, kde-format
 msgid "Removing"
 msgstr "ဖယ်ရှားနေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:349
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:354
 #, kde-format
 msgid "Cleanup"
 msgstr "ရှင်းမည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:351
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:356
 #, kde-format
 msgid "Obsoleting"
 msgstr "ခေတ်ကုန်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:353
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:358
 #, kde-format
 msgid "Collection Installed"
 msgstr "စုစည်းမှုတပ်ဆင်ပြီး"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:355
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:360
 #, kde-format
 msgid "Collection Available"
 msgstr "စုစည်းမှုရရှိပါပြီ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:359
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:364
 #, kde-format
 msgid "Reinstalling"
 msgstr "ပြန်လည်တပ်ဆင်နေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:361
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:366
 #, kde-format
 msgid "Downgrading"
 msgstr "ဗားရှင်းချနေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:363
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:368
 #, kde-format
 msgid "Preparing"
 msgstr "ပြင်ဆင်နေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:365
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:370
 #, kde-format
 msgid "Decompressing"
 msgstr "ဖိုင်လ်ချုံ့ထားသည်ကိုပြန်လျော့နေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:367
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:372
 #, kde-format
 msgid "Untrusted"
 msgstr "မယုံကြည်ရသော"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:369
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:374
 #, kde-format
 msgid "Trusted"
 msgstr "ယုံကြည်ရသော"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:371
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:376
 #, kde-format
 msgid "Unavailable"
 msgstr "မရရှိသေး"
