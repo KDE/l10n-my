@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-03 00:47+0000\n"
+"POT-Creation-Date: 2022-03-06 00:47+0000\n"
 "PO-Revision-Date: 2021-09-15 03:51+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -64,96 +64,96 @@ msgstr "&Sသတ်မှတ်ချက်များ"
 msgid "Main Toolbar"
 msgstr "ပင်မကိရိယာတန်း"
 
-#: kwrite.cpp:131
+#: kwrite.cpp:130
 #, kde-format
 msgid "Use this command to close the current document"
 msgstr "ဤအမိန့်ကို သုံး၍ လက်ရှိမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
 
-#: kwrite.cpp:137
+#: kwrite.cpp:136
 #, kde-format
 msgid "Use this command to create a new document"
 msgstr "ဤအမိန့်ကို သုံး၍ မှတ်တမ်းပုံနှိပ်မူအသစ် ဖန်တီးမည်"
 
-#: kwrite.cpp:140
+#: kwrite.cpp:139
 #, kde-format
 msgid "Use this command to open an existing document for editing"
 msgstr "ရှိပြီးသား မှတ်တမ်းပုံနှိပ်မူအား ဤအမိန့်ကို သုံး၍ တည်းဖြတ်ရန်ဖွင့်မည်"
 
-#: kwrite.cpp:144
+#: kwrite.cpp:143
 #, kde-format
 msgid ""
 "This lists files which you have opened recently, and allows you to easily "
 "open them again."
 msgstr ""
 
-#: kwrite.cpp:148
+#: kwrite.cpp:147
 #, kde-format
 msgid "&New Window"
 msgstr "&Nဝင်းဒိုးအသစ်"
 
-#: kwrite.cpp:150
+#: kwrite.cpp:149
 #, kde-format
 msgid "Create another view containing the current document"
 msgstr ""
 
-#: kwrite.cpp:152
+#: kwrite.cpp:151
 #, kde-format
 msgid "Close the current document view"
 msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
 
-#: kwrite.cpp:161
+#: kwrite.cpp:160
 #, kde-format
 msgid ""
 "Configure various aspects of this application and the editing component."
 msgstr ""
 
-#: kwrite.cpp:170
+#: kwrite.cpp:169
 #, kde-format
 msgid "Use this command to show or hide the view's statusbar"
 msgstr "မြင်ကွင်း၏အခြေအနေပြ-တန်းကို ဤအမိန့်ကို သုံး၍ ပြ၊ ဖွက် နိုင်သည်"
 
-#: kwrite.cpp:172
+#: kwrite.cpp:171
 #, kde-format
 msgid "Sho&w Path in Titlebar"
 msgstr "&wခေါင်းစဥ်တန်းတွင် လမ်းကြောင်း ပြမည်"
 
-#: kwrite.cpp:175
+#: kwrite.cpp:174
 #, kde-format
 msgid "Show the complete document path in the window caption"
 msgstr ""
 
-#: kwrite.cpp:178
+#: kwrite.cpp:177
 #, kde-format
 msgid "Configure the application's keyboard shortcut assignments."
 msgstr ""
 
-#: kwrite.cpp:181
+#: kwrite.cpp:180
 #, kde-format
 msgid "Configure which items should appear in the toolbar(s)."
 msgstr ""
 
-#: kwrite.cpp:238 kwrite.cpp:240
+#: kwrite.cpp:237 kwrite.cpp:239
 #, kde-format
 msgid "Open File"
 msgstr "ဖိုင်လ်ဖွင့်မည်"
 
-#: kwrite.cpp:287
+#: kwrite.cpp:286
 #, kde-format
 msgid ""
 "This will hide the menu bar completely. You can show it again by typing %1."
 msgstr ""
 
-#: kwrite.cpp:290
+#: kwrite.cpp:289
 #, kde-format
 msgid "Hide menu bar"
 msgstr "မီနူးတန်း ဖွက်ထားမည်"
 
-#: kwrite.cpp:441
+#: kwrite.cpp:440
 #, kde-format
 msgid " [read only]"
 msgstr " [ဖတ်၍သာရ]"
 
-#: kwrite.cpp:445
+#: kwrite.cpp:444
 #, kde-format
 msgid "Untitled"
 msgstr "ခေါင်းစဥ်မဲ့"
