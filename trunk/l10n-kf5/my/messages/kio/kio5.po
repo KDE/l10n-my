@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-07 00:40+0000\n"
+"POT-Creation-Date: 2022-03-08 00:40+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -3047,45 +3047,58 @@ msgctxt "KFile System Bookmarks"
 msgid "Audio"
 msgstr "အော်ဒီယို"
 
-#: filewidgets/kfileplacesmodel.cpp:1404
+#: filewidgets/kfileplacesmodel.cpp:1129
+#, fuzzy, kde-format
+#| msgid "Could not find the program '%1'"
+msgctxt "Placeholder is error message"
+msgid "Could not add to the Places panel: %1"
+msgstr "'%1'ပရိုဂရမ်ကို ရှာမတွေ့ပါ"
+
+#: filewidgets/kfileplacesmodel.cpp:1136
+#, fuzzy, kde-format
+#| msgid "A folder cannot be moved into itself"
+msgid "Only folders can be added to the Places panel."
+msgstr "ဖိုလ်ဒါအနေဖြင့် ၎င်း၏အတွင်းသို့ ၎င်းကို ရွေ့မရပါ"
+
+#: filewidgets/kfileplacesmodel.cpp:1395
 #, fuzzy, kde-format
 #| msgid "&Release '%1'"
 msgctxt "@action:inmenu"
 msgid "&Release"
 msgstr "&R '%1' လွှတ်သည်"
 
-#: filewidgets/kfileplacesmodel.cpp:1406
+#: filewidgets/kfileplacesmodel.cpp:1397
 #, fuzzy, kde-format
 #| msgid "&Safely Remove '%1'"
 msgctxt "@action:inmenu"
 msgid "&Safely Remove"
 msgstr "&S '%1'ကို အထိအခိုက်မရှိစွာ ဖယ်ရှားရန်"
 
-#: filewidgets/kfileplacesmodel.cpp:1409
+#: filewidgets/kfileplacesmodel.cpp:1400
 #, fuzzy, kde-format
 #| msgid "Unmount"
 msgctxt "@action:inmenu"
 msgid "&Unmount"
 msgstr "ဖြုတ်ရန်"
 
-#: filewidgets/kfileplacesmodel.cpp:1428
+#: filewidgets/kfileplacesmodel.cpp:1419
 #, fuzzy, kde-format
 #| msgid "&Reject"
 msgctxt "@action:inmenu"
 msgid "&Eject"
 msgstr "&Rငြင်းပယ်မည်"
 
-#: filewidgets/kfileplacesmodel.cpp:1464
+#: filewidgets/kfileplacesmodel.cpp:1455
 #, kde-format
 msgid "The device '%1' is not a disk and cannot be ejected."
 msgstr "'%1' စက်သည် မှတ်ဉာဏ်စက်မဟုတ်ပါ။ သို့ဖြစ်ပါ၍ ဖြုတ်မရပါ။"
 
-#: filewidgets/kfileplacesmodel.cpp:1499
+#: filewidgets/kfileplacesmodel.cpp:1490
 #, kde-format
 msgid "An error occurred while accessing '%1', the system responded: %2"
 msgstr "'%1'ရယူအသုံးပြုနေစဥ် အမှားဖြစ်ပေါ်ခဲ့သည်၊ စစ်စတမ်အကြောင်းပြန်ချက် - %2"
 
-#: filewidgets/kfileplacesmodel.cpp:1501
+#: filewidgets/kfileplacesmodel.cpp:1492
 #, kde-format
 msgid "An error occurred while accessing '%1'"
 msgstr "'%1'ရယူအသုံးပြုနေစဥ် အမှားဖြစ်ပေါ်ခဲ့သည်"
