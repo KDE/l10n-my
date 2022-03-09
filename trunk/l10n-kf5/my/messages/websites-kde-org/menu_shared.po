@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-15 00:48+0000\n"
+"POT-Creation-Date: 2022-03-09 00:49+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -469,6 +469,16 @@ msgstr "သောကြာ ၆ စက်တင်ဘာ ၂၀၂၁"
 #: i18n/en.yaml:0
 msgid "Simple by default, Powerful when needed"
 msgstr "မူလသတ်မှတ်ချက်အရ ရိုးရှင်းသည်။ သို့သော် လိုအပ်ပါက အလွန်စွမ်းရည်ပြည့်ဝလှပေသည်"
+
+#: i18n/en.yaml:0
+msgid "Steam Deck"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"The Steam Deck is a portable console that runs the latest AAA games with the "
+"flexibility of a full PC."
+msgstr ""
 
 #~ msgid ""
 #~ "KDE today announces the release of KDE Frameworks {{ .Get \"version\" }}."
