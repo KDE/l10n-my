@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-08 00:45+0000\n"
+"POT-Creation-Date: 2022-03-10 00:46+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -501,6 +501,8 @@ msgstr "'%1' ကို မစတင်နိုင်ခဲ့ပါ"
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:100
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:230
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:326
+#: libdiscover/UpdateModel/UpdateModel.cpp:116
+#: libdiscover/UpdateModel/UpdateModel.cpp:314
 #, kde-format
 msgid "Unknown"
 msgstr "မသိ"
@@ -1726,12 +1728,12 @@ msgstr "ဂျီပီအယ်နှင့်အခြားလိုင်စ
 msgid "Remote: "
 msgstr ""
 
-#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:296
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:288
 #, kde-format
 msgid "The currently running version of %1."
 msgstr "%1 ၏ လက်ရှိမောင်းနှင်နေသော ဗားရှင်း။"
 
-#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:298
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:290
 #, kde-format
 msgid "Installed but not currently running version of %1."
 msgstr "တပ်ဆင်းထားပြီးသော်လည်း ဗားရှင်း %1 ကို လက်ရှိ မောင်းနှင် မနေပါ။"

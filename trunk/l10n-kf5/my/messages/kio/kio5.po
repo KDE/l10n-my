@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-08 00:40+0000\n"
+"POT-Creation-Date: 2022-03-10 00:42+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -7385,25 +7385,25 @@ msgid "File System:"
 msgstr "ဖိုင်စနစ် -"
 
 #. i18n: ectx: property (text), widget (KCapacityBar, capacityBar)
-#: widgets/kfilepropspluginwidget.ui:408
+#: widgets/kfilepropspluginwidget.ui:411
 #, kde-format
 msgid "Unknown size"
 msgstr "အရွယ်အစားမသိ"
 
 #. i18n: ectx: property (text), widget (QLabel, mountPointLabel_Left)
-#: widgets/kfilepropspluginwidget.ui:428
+#: widgets/kfilepropspluginwidget.ui:431
 #, kde-format
 msgid "Mounted On:"
 msgstr "တွင်တပ်ဆင်ခဲ့သည် -"
 
 #. i18n: ectx: property (text), widget (QLabel, accessTimeLabel_Left)
-#: widgets/kfilepropspluginwidget.ui:448
+#: widgets/kfilepropspluginwidget.ui:451
 #, kde-format
 msgid "Accessed:"
 msgstr "အသုံးပြုခဲ့သည် -"
 
 #. i18n: ectx: property (text), widget (QLabel, defaultHandlerLabel_Left)
-#: widgets/kfilepropspluginwidget.ui:458
+#: widgets/kfilepropspluginwidget.ui:461
 #, kde-format
 msgid "Open With:"
 msgstr "ဖြင့်ဖွင့်ရန် -"

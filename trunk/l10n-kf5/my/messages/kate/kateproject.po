@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-04 00:48+0000\n"
+"POT-Creation-Date: 2022-03-10 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 03:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -804,7 +804,7 @@ msgid "Kate Project Manager"
 msgstr "ကိတ်ပရောဂျက်မန်နေဂျာ"
 
 #: kateprojectpluginview.cpp:75 kateprojectpluginview.cpp:193
-#: kateprojectviewtree.cpp:131 kateprojectviewtree.cpp:156
+#: kateprojectviewtree.cpp:132 kateprojectviewtree.cpp:157
 #, kde-format
 msgid "Project"
 msgstr "ပရောဂျက်"
@@ -929,12 +929,12 @@ msgstr "ဂစ်-ကုတ်ကိုင်း ပြောင်းလဲမ�
 msgid "Filter..."
 msgstr "စစ်ထုတ်မည်..."
 
-#: kateprojectviewtree.cpp:133
+#: kateprojectviewtree.cpp:134
 #, kde-format
 msgid "Failed to create file: %1, Error: %2"
 msgstr ""
 
-#: kateprojectviewtree.cpp:158
+#: kateprojectviewtree.cpp:159
 #, kde-format
 msgid "Failed to create dir: %1"
 msgstr "ဒါရိုက်ထရီကို မတည်ဆောက်နိုင်ခဲ့ပါ - %1"
