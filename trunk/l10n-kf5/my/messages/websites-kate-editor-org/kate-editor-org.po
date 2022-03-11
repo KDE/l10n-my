@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-20 00:49+0000\n"
+"POT-Creation-Date: 2022-03-11 00:54+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -353,11 +353,9 @@ msgstr "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 
 #: content/get-it.en.md:40
 msgid ""
-"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
-"%2064-bit/job/Kate_Release_win64/) *"
+"[Kate release (64bit) installer](https://download.kde.org/stable/release-"
+"service/21.12.3/windows/kate-21.12.3-1589-windows-msvc2019_64-cl.exe) *"
 msgstr ""
-"[Kate release (64bit) installer](https://binary-factory.kde.org/view/Windows"
-"%2064-bit/job/Kate_Release_win64/) *"
 
 #: content/get-it.en.md:41
 msgid ""
@@ -822,6 +820,13 @@ msgstr "ကိတ်ကိုတပ်ဆင်မည်"
 #: i18n/en.yaml:0
 msgid "Install KWrite on"
 msgstr "KWriteကိုတပ်ဆင်မည်"
+
+#~ msgid ""
+#~ "[Kate release (64bit) installer](https://binary-factory.kde.org/view/"
+#~ "Windows%2064-bit/job/Kate_Release_win64/) *"
+#~ msgstr ""
+#~ "[Kate release (64bit) installer](https://binary-factory.kde.org/view/"
+#~ "Windows%2064-bit/job/Kate_Release_win64/) *"
 
 #~ msgid "via Discover"
 #~ msgstr "ဒစ်(စ)ကာဗာဖြင့်"
