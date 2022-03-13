@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-09 00:49+0000\n"
+"POT-Creation-Date: 2022-03-13 00:55+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -413,7 +413,7 @@ msgstr "စျေးနှုန်း -"
 #: content/hardware.md:0
 #, fuzzy
 #| msgid "starting at $199"
-msgid "starting at $399"
+msgid "starting at US$399"
 msgstr "၁၉၉ဒေါ်လာမှ စျေးစသည်"
 
 #: content/hardware.md:0
@@ -597,7 +597,9 @@ msgstr ""
 "၉၇၀ အီဗိုပလပ်စ်တပ်ဆင်ထားသော အမ်.၂ ၂၂၈၀ ပီစီအိုင်အီး ဂျန်၃x၄ အင်တာဖေ့စ် နှစ်ခု"
 
 #: content/hardware.md:0
-msgid "starting at $1,795"
+#, fuzzy
+#| msgid "starting at $1,795"
+msgid "starting at US$1,795"
 msgstr "၁၇၉၅ဒေါ်လာမှ စျေးစသည်"
 
 #: content/hardware.md:0
@@ -632,7 +634,9 @@ msgid "64GB of eMMC (Upgradable)"
 msgstr "အီးအမ်အမ်စီ ၆၄ ဂစ်ဂါဘိုက်မန်မိုရီ (အပ်ဂရိတ်လုပ်၍ရ)"
 
 #: content/hardware.md:0
-msgid "starting at $199"
+#, fuzzy
+#| msgid "starting at $199"
+msgid "starting at US$199"
 msgstr "၁၉၉ဒေါ်လာမှ စျေးစသည်"
 
 #: content/hardware.md:0
