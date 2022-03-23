@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-21 00:47+0000\n"
+"POT-Creation-Date: 2022-03-23 01:00+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -95,12 +95,12 @@ msgstr "ပင်မကိရိယာတန်း"
 msgid "&Status Bar Items"
 msgstr "&Sအခြေအနေပြတန်း တန်ဆာများ"
 
-#: kateapp.cpp:230
+#: kateapp.cpp:231
 #, kde-format
 msgid "Folders can only be opened when the projects plugin is enabled"
 msgstr "ပရောဂျက်များပလပ်ဂင်သုံးထားမှသာ ဖိုလ်ဒါများကို ဖွင့်နိုင်သည်"
 
-#: kateapp.cpp:344
+#: kateapp.cpp:337
 #, kde-format
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
@@ -1013,7 +1013,7 @@ msgid ""
 "want to proceed."
 msgstr ""
 
-#: kateurlbar.cpp:1168
+#: kateurlbar.cpp:1177
 #, kde-format
 msgid "Untitled"
 msgstr ""
@@ -1241,348 +1241,348 @@ msgstr "ပရိုဂရမ်ကို မစတင်နိုင်ခဲ�
 msgid "The selected program could not be started. Maybe it is not installed."
 msgstr "ရွေးထားသော ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ။ တပ်ဆင်မထားရသေးခြင်းဖြစ်နိုင်သည်။"
 
-#: main.cpp:129
+#: main.cpp:132
 #, kde-format
 msgid "Kate"
 msgstr "ကိတ်"
 
-#: main.cpp:131
+#: main.cpp:134
 #, kde-format
 msgid "Kate - Advanced Text Editor"
 msgstr "ကိတ် - အဆင့်မြင့်စာသားတည်းဖြတ်ကိရိယာ"
 
-#: main.cpp:133
+#: main.cpp:136
 #, fuzzy, kde-format
 #| msgid "(c) 2000-2021 The Kate Authors"
 msgid "(c) 2000-2022 The Kate Authors"
 msgstr "(c) ၂၀၀၀-၂၀၂၁ ကိတ် ရေးသားသူများ"
 
-#: main.cpp:151
+#: main.cpp:154
 #, kde-format
 msgid "Christoph Cullmann"
 msgstr "ခရစ်စ်တိုကူးလ်မန်း"
 
-#: main.cpp:151
+#: main.cpp:154
 #, kde-format
 msgid "Maintainer"
 msgstr "ထိန်းသိမ်းသူ"
 
-#: main.cpp:152
+#: main.cpp:155
 #, kde-format
 msgid "Dominik Haumann"
 msgstr "ဒိုမင်နစ်ဟူမန်"
 
-#: main.cpp:152 main.cpp:155 main.cpp:157 main.cpp:160 main.cpp:166
+#: main.cpp:155 main.cpp:158 main.cpp:160 main.cpp:163 main.cpp:169
 #, kde-format
 msgid "Core Developer"
 msgstr "ပင်မအူတိုင် ပရိုဂရမ်မာ"
 
-#: main.cpp:153
+#: main.cpp:156
 #, kde-format
 msgid "Sven Brauch"
 msgstr "ဆဗန်ဘရက်ချ်"
 
-#: main.cpp:153 main.cpp:154 main.cpp:161
+#: main.cpp:156 main.cpp:157 main.cpp:164
 #, kde-format
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: main.cpp:154
+#: main.cpp:157
 #, kde-format
 msgid "Kåre Särs"
 msgstr "ကာရဲဆာ့စ်"
 
-#: main.cpp:155
+#: main.cpp:158
 #, kde-format
 msgid "Anders Lund"
 msgstr "အန်ဒရီလွန်"
 
-#: main.cpp:156
+#: main.cpp:159
 #, kde-format
 msgid "Joseph Wenninger"
 msgstr "ဂျိုးဆက်ဝမ်နင်ဂျာ"
 
-#: main.cpp:160
+#: main.cpp:163
 #, kde-format
 msgid "Hamish Rodda"
 msgstr "ဟာမစ်ရှ်ရိုဒါ"
 
-#: main.cpp:161
+#: main.cpp:164
 #, kde-format
 msgid "Alexander Neundorf"
 msgstr "အလက်ဇန်းဒါးနျူဒေါ့ဖ်"
 
-#: main.cpp:162
+#: main.cpp:165
 #, kde-format
 msgid "Waldo Bastian"
 msgstr "ဝါဒိုဘက်စတီရှန်"
 
-#: main.cpp:162
+#: main.cpp:165
 #, kde-format
 msgid "The cool buffersystem"
 msgstr "စွန်းမိုက်သော ဘက်ဖာစနစ်"
 
-#: main.cpp:163
+#: main.cpp:166
 #, kde-format
 msgid "Charles Samuels"
 msgstr "ချားလ်စ်ဆန်မြူရယ်"
 
-#: main.cpp:163
+#: main.cpp:166
 #, kde-format
 msgid "The Editing Commands"
 msgstr "တည်းဖြတ်မှုဆိုင်ရာအမိန့်များ"
 
-#: main.cpp:164
+#: main.cpp:167
 #, kde-format
 msgid "Matt Newell"
 msgstr "မတ်နီဝယ်"
 
-#: main.cpp:164
+#: main.cpp:167
 #, kde-format
 msgid "Testing, ..."
 msgstr "စမ်းသပ်နေသည်၊ ..."
 
-#: main.cpp:165
+#: main.cpp:168
 #, kde-format
 msgid "Michael Bartl"
 msgstr "မစ်ချယ်ဘာတယ်"
 
-#: main.cpp:165
+#: main.cpp:168
 #, kde-format
 msgid "Former Core Developer"
 msgstr "ယခင်က ပင်မအူတိုင် ပရိုဂရမ်မာ"
 
-#: main.cpp:166
+#: main.cpp:169
 #, kde-format
 msgid "Michael McCallum"
 msgstr "မစ်ချယ်မက်ကလွန်"
 
-#: main.cpp:167
+#: main.cpp:170
 #, kde-format
 msgid "Jochen Wilhemly"
 msgstr "ဂျိုချန်ဝီဟမ်လီ"
 
-#: main.cpp:167
+#: main.cpp:170
 #, kde-format
 msgid "KWrite Author"
 msgstr "ကေရိုက် ရေးသားသူ"
 
-#: main.cpp:168
+#: main.cpp:171
 #, kde-format
 msgid "Michael Koch"
 msgstr "မစ်ချယ်ကော့ချ်"
 
-#: main.cpp:168
+#: main.cpp:171
 #, kde-format
 msgid "KWrite port to KParts"
 msgstr "ကေရိုက်ကို ကေပါ့စ်သို့တင်သွင်း"
 
-#: main.cpp:169
+#: main.cpp:172
 #, kde-format
 msgid "Christian Gebauer"
 msgstr "ခရစ်ရှန် ဂဘောင်"
 
-#: main.cpp:170
+#: main.cpp:173
 #, kde-format
 msgid "Simon Hausmann"
 msgstr "ဆိုင်မွန်ဟူမန်"
 
-#: main.cpp:171
+#: main.cpp:174
 #, kde-format
 msgid "Glen Parker"
 msgstr "ဂလန်ပါကာ"
 
-#: main.cpp:171
+#: main.cpp:174
 #, kde-format
 msgid "KWrite Undo History, Kspell integration"
 msgstr "ကေရိုက် ပြန်ဆုတ် မှတ်တမ်း၊ ကေဆပဲလ် ပေါင်းစည်းမှု"
 
-#: main.cpp:172
+#: main.cpp:175
 #, kde-format
 msgid "Scott Manson"
 msgstr "စကော့မန်ဆန်"
 
-#: main.cpp:172
+#: main.cpp:175
 #, kde-format
 msgid "KWrite XML Syntax highlighting support"
 msgstr "ကေရိုက် အိပ်စ်အမ်အယ် အထားအသို အရောင်တင်ပြနိုင်မှု"
 
-#: main.cpp:173
+#: main.cpp:176
 #, kde-format
 msgid "John Firebaugh"
 msgstr "ဂျွန်ဖိုင်ယားဘာ့ချ်"
 
-#: main.cpp:173
+#: main.cpp:176
 #, kde-format
 msgid "Patches and more"
 msgstr ""
 
-#: main.cpp:174
+#: main.cpp:177
 #, kde-format
 msgid "Pablo Martín"
 msgstr "ပါဘလိုမာတင်"
 
-#: main.cpp:175
+#: main.cpp:178
 #, kde-format
 msgid "Python Plugin Developer"
 msgstr "ပိုက်သွန် ပလပ်ဂင် ပရိုဂရမ်မာ"
 
-#: main.cpp:178
+#: main.cpp:181
 #, kde-format
 msgid "Gerald Senarclens de Grancy"
 msgstr "ဂျရယဆီညာကလန်ဒီဂရမ်စီ"
 
-#: main.cpp:179
+#: main.cpp:182
 #, kde-format
 msgid "QA and Scripting"
 msgstr "ကျူအေ နှင့် ညွှန်ကြားကုတ်ရေးသားမှု"
 
-#: main.cpp:183
+#: main.cpp:186
 #, kde-format
 msgid "Tyson Tan"
 msgstr "တိုင်ဆွန်တန်"
 
-#: main.cpp:184
+#: main.cpp:187
 #, kde-format
 msgid "Designer of Kate's mascot 'Kate the Cyber Woodpecker'"
 msgstr ""
 
-#: main.cpp:187
+#: main.cpp:190
 #, kde-format
 msgid "Matteo Merli"
 msgstr "မတ်သျူမာလီ"
 
-#: main.cpp:187
+#: main.cpp:190
 #, kde-format
 msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
 msgstr "အာပီအမ် ဆက်စပ်ဖိုင်လ်၊ ပါလ်၊ Diff နှင့် နောက်ထပ်ဖိုင်လ်များ အရောင်တင်ပြခြင်း"
 
-#: main.cpp:188
+#: main.cpp:191
 #, kde-format
 msgid "Rocky Scaletta"
 msgstr "ရော့ကီစကယ်လက်တာ"
 
-#: main.cpp:188
+#: main.cpp:191
 #, kde-format
 msgid "Highlighting for VHDL"
 msgstr "ဗွီအိပ်ချ်ဒီအယ် အရောင်တင်ပြခြင်း"
 
-#: main.cpp:189
+#: main.cpp:192
 #, kde-format
 msgid "Yury Lebedev"
 msgstr "ယူရီလက်ဗဒက်"
 
-#: main.cpp:189
+#: main.cpp:192
 #, kde-format
 msgid "Highlighting for SQL"
 msgstr "အက်စ်ကျူအယ် အရောင်တင်ပြခြင်း"
 
-#: main.cpp:190
+#: main.cpp:193
 #, kde-format
 msgid "Chris Ross"
 msgstr "ခရစ်ရော့စ်"
 
-#: main.cpp:190
+#: main.cpp:193
 #, kde-format
 msgid "Highlighting for Ferite"
 msgstr "ပိုက်သွန် အရောင်တင်ပြခြင်း"
 
-#: main.cpp:191
+#: main.cpp:194
 #, kde-format
 msgid "Nick Roux"
 msgstr "နစ်ခ်ရို့စ်"
 
-#: main.cpp:191
+#: main.cpp:194
 #, kde-format
 msgid "Highlighting for ILERPG"
 msgstr "အိုင်အယ်အီးအာပီဂျီ အရောင်တင်ပြခြင်း"
 
-#: main.cpp:192
+#: main.cpp:195
 #, kde-format
 msgid "Carsten Niehaus"
 msgstr "ကာစတန်နီးဟိုက်"
 
-#: main.cpp:192
+#: main.cpp:195
 #, kde-format
 msgid "Highlighting for LaTeX"
 msgstr "အယ်အေတီအီးအိပ်စ် အရောင်တင်ပြခြင်း"
 
-#: main.cpp:193
+#: main.cpp:196
 #, kde-format
 msgid "Per Wigren"
 msgstr "ပါဝစ်ဂရမ်"
 
-#: main.cpp:193
+#: main.cpp:196
 #, kde-format
 msgid "Highlighting for Makefiles, Python"
 msgstr "မိတ်ခ်ဖိုင်လ်၊ ပိုက်သွန် အရောင်တင်ပြခြင်း"
 
-#: main.cpp:194
+#: main.cpp:197
 #, kde-format
 msgid "Jan Fritz"
 msgstr "ဂျန်ဖရစ်"
 
-#: main.cpp:194
+#: main.cpp:197
 #, kde-format
 msgid "Highlighting for Python"
 msgstr "ပိုက်သွန် အရောင်တင်ပြခြင်း"
 
-#: main.cpp:195
+#: main.cpp:198
 #, kde-format
 msgid "Daniel Naber"
 msgstr "ဒန်နီရယ်နဘာ"
 
-#: main.cpp:196
+#: main.cpp:199
 #, kde-format
 msgid "Roland Pabel"
 msgstr "ရိုလန်ပါဘယ်"
 
-#: main.cpp:196
+#: main.cpp:199
 #, kde-format
 msgid "Highlighting for Scheme"
 msgstr "စကင်း အရောင်တင်ပြခြင်း"
 
-#: main.cpp:197
+#: main.cpp:200
 #, kde-format
 msgid "Cristi Dumitrescu"
 msgstr "ခရစ်တီဒူမီထရက်ကျူ"
 
-#: main.cpp:197
+#: main.cpp:200
 #, kde-format
 msgid "PHP Keyword/Datatype list"
 msgstr ""
 
-#: main.cpp:198
+#: main.cpp:201
 #, kde-format
 msgid "Carsten Pfeiffer"
 msgstr "ကာစတန်ဖိုင်ဖာ"
 
-#: main.cpp:198
+#: main.cpp:201
 #, kde-format
 msgid "Very nice help"
 msgstr "အလွန်ကောင်းတဲ့အကူအညီ"
 
-#: main.cpp:199
+#: main.cpp:202
 #, kde-format
 msgid "All people who have contributed and I have forgotten to mention"
 msgstr "ပါဝင်ကူညီပေးသော လူများအားလုံး နှင့် ကျွန်ုပ်ဖော်ပြဖို့ကျန်ခဲ့သော လူများ"
 
-#: main.cpp:226
+#: main.cpp:229
 #, kde-format
 msgid "Start Kate with a given session."
 msgstr "ကိတ်ကို ပေးထားသော ဆက်ရှင်ဖြင့် စတင်မည်"
 
-#: main.cpp:227
+#: main.cpp:230
 #, kde-format
 msgid "session"
 msgstr "ဆက်ရှင်"
 
-#: main.cpp:232
+#: main.cpp:235
 #, kde-format
 msgid "Start Kate with a new anonymous session, implies '-n'."
 msgstr "ကိတ်ကို အမည်မသိသော ဆက်ရှင်ဖြင့် စတင်မည်။( '-n' သုံးသကဲ့သို့)"
 
-#: main.cpp:237
+#: main.cpp:240
 #, kde-format
 msgid ""
 "Force start of a new kate instance (is ignored if start is used and another "
@@ -1590,71 +1590,71 @@ msgid ""
 "and no URLs are given at all."
 msgstr ""
 
-#: main.cpp:243
+#: main.cpp:246
 #, kde-format
 msgid ""
 "If using an already running kate instance, block until it exits, if URLs "
 "given to open."
 msgstr ""
 
-#: main.cpp:249
+#: main.cpp:252
 #, kde-format
 msgid ""
 "Only try to reuse kate instance with this pid (is ignored if start is used "
 "and another kate instance already has the given session opened)."
 msgstr ""
 
-#: main.cpp:250
+#: main.cpp:253
 #, kde-format
 msgid "pid"
 msgstr "ပီအိုင်ဒီ"
 
-#: main.cpp:255
+#: main.cpp:258
 #, kde-format
 msgid "Set encoding for the file to open."
 msgstr "ဖွင့်မည့် ဖိုင်လ်၏ ကုတ်ဝှက်စနစ်သတ်မှတ်မည်။"
 
-#: main.cpp:256
+#: main.cpp:259
 #, kde-format
 msgid "encoding"
 msgstr "ကုတ်ဝှက်စနစ်"
 
-#: main.cpp:260
+#: main.cpp:263
 #, kde-format
 msgid "Navigate to this line."
 msgstr ""
 
-#: main.cpp:260
+#: main.cpp:263
 #, kde-format
 msgid "line"
 msgstr "စာကြောင်း"
 
-#: main.cpp:265
+#: main.cpp:268
 #, kde-format
 msgid "Navigate to this column."
 msgstr ""
 
-#: main.cpp:266
+#: main.cpp:269
 #, kde-format
 msgid "column"
 msgstr "တိုင်"
 
-#: main.cpp:270
+#: main.cpp:273
 #, kde-format
 msgid "Read the contents of stdin."
 msgstr "stdinရှိဒေတာများကို ဖတ်မည်။"
 
-#: main.cpp:275
+#: main.cpp:278
 #, kde-format
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 
-#: main.cpp:279
+#: main.cpp:282
 #, kde-format
 msgid "Documents to open."
 msgstr "ဖွင့်ရမည့် မှတ်တမ်းပုံနှိပ်မူများ။"
 
-#: main.cpp:279
+#: main.cpp:282
 #, kde-format
 msgid "[urls...]"
 msgstr "[ယူအာအယ်...]"
