@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-20 00:55+0000\n"
+"POT-Creation-Date: 2022-03-24 00:47+0000\n"
 "PO-Revision-Date: 2021-09-24 16:56+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1359,6 +1359,122 @@ msgstr "စစ်ထုတ်မည်..."
 msgctxt "@info:tooltip"
 msgid "Hide Filter Bar"
 msgstr "စစ်ထုတ်တန်း ဖွက်မည်"
+
+#: kitemviews/kfileitemlisttostring.cpp:23
+#, kde-format
+msgctxt "Textual representation of a file. %1 is the name of the file/folder."
+msgid "\"%1\""
+msgstr ""
+
+#: kitemviews/kfileitemlisttostring.cpp:27
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@action:inmenu menu with actions like copy, paste, rename. %1 and %2 are "
+#| "names of files/folders."
+#| msgid "Actions for \"%1\" and \"%2\""
+msgctxt ""
+"Textual representation of two files. %1 and %2 are names of files/folders."
+msgid "\"%1\" and \"%2\""
+msgstr "\"%1\" နှင့် \"%2\" အတွက် လုပ်ဆောင်ချက်များ"
+
+#: kitemviews/kfileitemlisttostring.cpp:31
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@action:inmenu menu with actions like copy, paste, rename. %1, %2 and %3 "
+#| "are names of files/folders."
+#| msgid "Actions for \"%1\", \"%2\" and \"%3\""
+msgctxt ""
+"Textual representation of three files. %1, %2 and %3 are names of files/"
+"folders."
+msgid "\"%1\", \"%2\" and \"%3\""
+msgstr "\"%1\"၊ \"%2\" နှင့် \"%3\" အတွက် လုပ်ဆောင်ချက်များ"
+
+#: kitemviews/kfileitemlisttostring.cpp:36
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@action:inmenu menu with actions like copy, paste, rename. %1, %2 and %3 "
+#| "are names of files/folders."
+#| msgid "Actions for \"%1\", \"%2\" and \"%3\""
+msgctxt ""
+"Textual representation of four files. %1, %2, %3 and %4 are names of files/"
+"folders."
+msgid "\"%1\", \"%2\", \"%3\" and \"%4\""
+msgstr "\"%1\"၊ \"%2\" နှင့် \"%3\" အတွက် လုပ်ဆောင်ချက်များ"
+
+#: kitemviews/kfileitemlisttostring.cpp:41
+#, kde-format
+msgctxt ""
+"Textual representation of five files. %1, %2, %3, %4 and %5 are names of "
+"files/folders."
+msgid "\"%1\", \"%2\", \"%3\", \"%4\" and \"%5\""
+msgstr ""
+
+#: kitemviews/kfileitemlisttostring.cpp:58
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@action:inmenu menu with actions like copy, paste, rename. %1 is the "
+#| "amount of selected files/folders."
+#| msgid "Actions for One Selected File"
+#| msgid_plural "Actions for %1 Selected Files"
+msgctxt "Textual representation of selected files. %1 is the number of files."
+msgid "One Selected File"
+msgid_plural "%1 Selected Files"
+msgstr[0] "ရွေးချယ်ထားသော ဖိုင်လ် %1ခု အတွက် လုပ်ဆောင်ချက်များ"
+
+#: kitemviews/kfileitemlisttostring.cpp:61
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@action:inmenu menu with actions like copy, paste, rename. %1 is the "
+#| "amount of selected files/folders."
+#| msgid "Actions for One Selected Folder"
+#| msgid_plural "Actions for %1 Selected Folders"
+msgctxt ""
+"Textual representation of selected folders. %1 is the number of folders."
+msgid "One Selected Folder"
+msgid_plural "%1 Selected Folders"
+msgstr[0] "ရွေးချယ်ထားသော ဖိုလ်ဒါ %1ခု အတွက် လုပ်ဆောင်ချက်များ"
+
+#: kitemviews/kfileitemlisttostring.cpp:64
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@action:inmenu menu with actions like copy, paste, rename. %1 is the "
+#| "amount of selected files/folders."
+#| msgid "Actions for One Selected Item"
+#| msgid_plural "Actions for %1 Selected Items"
+msgctxt ""
+"Textual representation of selected fileitems. %1 is the number of files/"
+"folders."
+msgid "One Selected Item"
+msgid_plural "%1 Selected Items"
+msgstr[0] "ရွေးချယ်ထားသော အိုင်တမ် %1ခု အတွက် လုပ်ဆောင်ချက်များ"
+
+#: kitemviews/kfileitemlisttostring.cpp:74
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "1 File"
+#| msgid_plural "%1 Files"
+msgctxt "Textual representation of files. %1 is the number of files."
+msgid "One File"
+msgid_plural "%1 Files"
+msgstr[0] "ဖိုင်လ် %1ခု"
+
+#: kitemviews/kfileitemlisttostring.cpp:77
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "1 Folder"
+#| msgid_plural "%1 Folders"
+msgctxt "Textual representation of folders. %1 is the number of folders."
+msgid "One Folder"
+msgid_plural "%1 Folders"
+msgstr[0] "ဖိုလ်ဒါ %1ခု"
+
+#: kitemviews/kfileitemlisttostring.cpp:80
+#, kde-format
+msgctxt ""
+"Textual representation of fileitems. %1 is the number of files/folders."
+msgid "One Item"
+msgid_plural "%1 Items"
+msgstr[0] ""
 
 #: kitemviews/kfileitemlistwidget.cpp:74
 #, kde-format
@@ -4037,13 +4153,13 @@ msgstr "မည်သည့်ဘလူးတုစက်မှ မတွေ့�
 msgid "Folder is empty"
 msgstr "ဖိုလ်ဒါသည် ဗလာဖြစ်နေသည်"
 
-#: views/dolphinviewactionhandler.cpp:89
+#: views/dolphinviewactionhandler.cpp:90
 #, kde-format
 msgctxt "@action"
 msgid "Create Folder..."
 msgstr "ဖိုလ်ဒါတည်ဆောက်မည်..."
 
-#: views/dolphinviewactionhandler.cpp:98
+#: views/dolphinviewactionhandler.cpp:99
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4051,7 +4167,7 @@ msgid ""
 "items at once amounts to their new names differing only in a number."
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:108
+#: views/dolphinviewactionhandler.cpp:109
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4060,7 +4176,7 @@ msgid ""
 "from if disk space is needed."
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:119
+#: views/dolphinviewactionhandler.cpp:120
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4068,25 +4184,25 @@ msgid ""
 "recovered by normal means."
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:129
+#: views/dolphinviewactionhandler.cpp:130
 #, kde-format
 msgctxt "@action \"Move to Trash\" for non-local files, etc."
 msgid "Delete (using shortcut for Trash)"
 msgstr "ဖျက်မည် (အမှိုက်ပုံးအတွက်ဖြတ်လမ်း)"
 
-#: views/dolphinviewactionhandler.cpp:135
+#: views/dolphinviewactionhandler.cpp:136
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Duplicate Here"
 msgstr "ဤတွင် ပုံတူပွားမည်"
 
-#: views/dolphinviewactionhandler.cpp:143
+#: views/dolphinviewactionhandler.cpp:144
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Properties"
 msgstr "ကိုယ်ပိုင်လက္ခဏာများ"
 
-#: views/dolphinviewactionhandler.cpp:145
+#: views/dolphinviewactionhandler.cpp:146
 #, kde-kuit-format
 msgctxt "@info:whatsthis properties"
 msgid ""
@@ -4096,19 +4212,19 @@ msgid ""
 "there like managing read- and write-permissions."
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:155
+#: views/dolphinviewactionhandler.cpp:156
 #, kde-format
 msgctxt "@action:incontextmenu"
 msgid "Copy Location"
 msgstr "တည်နေရာကူးယူမည်"
 
-#: views/dolphinviewactionhandler.cpp:157
+#: views/dolphinviewactionhandler.cpp:158
 #, kde-format
 msgctxt "@info:whatsthis copy_location"
 msgid "This will copy the path of the first selected item into the clipboard."
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:190
+#: views/dolphinviewactionhandler.cpp:191
 #, kde-kuit-format
 msgctxt "@info:whatsthis Icons view mode"
 msgid ""
@@ -4119,7 +4235,7 @@ msgid ""
 "interface> option is enabled.</para>"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:197
+#: views/dolphinviewactionhandler.cpp:198
 #, kde-kuit-format
 msgctxt "@info:whatsthis Compact view mode"
 msgid ""
@@ -4128,7 +4244,7 @@ msgid ""
 "the overview in folders with many items.</para>"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:201
+#: views/dolphinviewactionhandler.cpp:202
 #, kde-kuit-format
 msgctxt "@info:whatsthis Details view mode"
 msgid ""
@@ -4141,60 +4257,60 @@ msgid ""
 "of multiple folders in the same list.</para>"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:211
+#: views/dolphinviewactionhandler.cpp:212
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "View Mode"
 msgstr "မြင်ကွင်းထုံးနည်း"
 
-#: views/dolphinviewactionhandler.cpp:221
+#: views/dolphinviewactionhandler.cpp:222
 #, kde-format
 msgctxt "@info:whatsthis zoom in"
 msgid "This increases the icon size."
 msgstr "၎င်းသည် အိုင်ကွန်၏အရွယ်အစားကို ကြီးမားစေသည်။"
 
-#: views/dolphinviewactionhandler.cpp:224
+#: views/dolphinviewactionhandler.cpp:225
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Reset Zoom Level"
 msgstr "ဇွန်းပမာဏ ပြန်သတ်မှတ်မည်"
 
-#: views/dolphinviewactionhandler.cpp:225
+#: views/dolphinviewactionhandler.cpp:226
 #, kde-format
 msgid "Zoom To Default"
 msgstr "ဒီဖော့သို့ ဇွန်းမည်"
 
-#: views/dolphinviewactionhandler.cpp:226
+#: views/dolphinviewactionhandler.cpp:227
 #, kde-format
 msgctxt "@info:whatsthis zoom reset"
 msgid "This resets the icon size to default."
 msgstr "၎င်းသည် အိုင်ကွန်၏အရွယ်အစားကို ဒီဖော့သို့ ပြန်သတ်မှတ်သည်။"
 
-#: views/dolphinviewactionhandler.cpp:234
+#: views/dolphinviewactionhandler.cpp:235
 #, kde-format
 msgctxt "@info:whatsthis zoom out"
 msgid "This reduces the icon size."
 msgstr "၎င်းသည် အိုင်ကွန်၏အရွယ်အစားကို သေးငယ်စေသည်။"
 
-#: views/dolphinviewactionhandler.cpp:237
+#: views/dolphinviewactionhandler.cpp:238
 #, kde-format
 msgctxt "@action:inmenu menu of zoom actions"
 msgid "Zoom"
 msgstr "ဇွန်း"
 
-#: views/dolphinviewactionhandler.cpp:245
+#: views/dolphinviewactionhandler.cpp:246
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "Show Previews"
 msgstr "အကြိုမြင်ကွင်းများ ပြမည်"
 
-#: views/dolphinviewactionhandler.cpp:246
+#: views/dolphinviewactionhandler.cpp:247
 #, kde-format
 msgctxt "@info"
 msgid "Show preview of files and folders"
 msgstr "ဖိုင်လ်နှင့်ဖိုလ်ဒါများ၏အကြိုမြင်ကွင်းပြမည်"
 
-#: views/dolphinviewactionhandler.cpp:247
+#: views/dolphinviewactionhandler.cpp:248
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4203,49 +4319,49 @@ msgid ""
 "the images."
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:255
+#: views/dolphinviewactionhandler.cpp:256
 #, kde-format
 msgctxt "@action:inmenu Sort"
 msgid "Folders First"
 msgstr "ဖိုလ်ဒါများ အရင်"
 
-#: views/dolphinviewactionhandler.cpp:259
+#: views/dolphinviewactionhandler.cpp:260
 #, kde-format
 msgctxt "@action:inmenu Sort"
 msgid "Hidden Files Last"
 msgstr "ဖွက်ထားသောဖိုင်လ်များနောက်ဆုံး"
 
-#: views/dolphinviewactionhandler.cpp:267
+#: views/dolphinviewactionhandler.cpp:268
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Sort By"
 msgstr "ဖြင့်စီမည်"
 
-#: views/dolphinviewactionhandler.cpp:302
+#: views/dolphinviewactionhandler.cpp:303
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show Additional Information"
 msgstr "နောက်ထပ်သတင်းအချက်အလက်များ ပြမည်"
 
-#: views/dolphinviewactionhandler.cpp:313
+#: views/dolphinviewactionhandler.cpp:314
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show in Groups"
 msgstr "အုပ်စုများတွင်ပြမည်"
 
-#: views/dolphinviewactionhandler.cpp:314
+#: views/dolphinviewactionhandler.cpp:315
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "This groups files and folders by their first letter."
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:319
+#: views/dolphinviewactionhandler.cpp:320
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show Hidden Files"
 msgstr "ဖွက်ထားသောဖိုင်လ်များပြမည်"
 
-#: views/dolphinviewactionhandler.cpp:320
+#: views/dolphinviewactionhandler.cpp:321
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4256,110 +4372,110 @@ msgid ""
 "hidden.</para>"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:330
+#: views/dolphinviewactionhandler.cpp:331
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Adjust View Display Style..."
 msgstr "ရုပ်ပြမြင်ကွင်းစတိုင်ချိန်ညှိမည်..."
 
-#: views/dolphinviewactionhandler.cpp:332
+#: views/dolphinviewactionhandler.cpp:333
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
 "This opens a window in which all folder view properties can be adjusted."
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:621
+#: views/dolphinviewactionhandler.cpp:622
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Icons"
 msgstr "အိုင်ကွန်များ"
 
-#: views/dolphinviewactionhandler.cpp:622
+#: views/dolphinviewactionhandler.cpp:623
 #, kde-format
 msgctxt "@info"
 msgid "Icons view mode"
 msgstr "အိုင်ကွန်ပြမြင်ကွင်း"
 
-#: views/dolphinviewactionhandler.cpp:632
+#: views/dolphinviewactionhandler.cpp:633
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Compact"
 msgstr "ကျစ်လစ်"
 
-#: views/dolphinviewactionhandler.cpp:633
+#: views/dolphinviewactionhandler.cpp:634
 #, kde-format
 msgctxt "@info"
 msgid "Compact view mode"
 msgstr "ကျစ်လစ်-မြင်ကွင်း"
 
-#: views/dolphinviewactionhandler.cpp:643
+#: views/dolphinviewactionhandler.cpp:644
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Details"
 msgstr "အသေးစိတ်"
 
-#: views/dolphinviewactionhandler.cpp:644
+#: views/dolphinviewactionhandler.cpp:645
 #, kde-format
 msgctxt "@info"
 msgid "Details view mode"
 msgstr "အသေးစိတ်ပြမြင်ကွင်း"
 
-#: views/dolphinviewactionhandler.cpp:667
+#: views/dolphinviewactionhandler.cpp:668
 #, kde-format
 msgctxt "Sort descending"
 msgid "Z-A"
 msgstr "အ-က"
 
-#: views/dolphinviewactionhandler.cpp:668
+#: views/dolphinviewactionhandler.cpp:669
 #, kde-format
 msgctxt "Sort ascending"
 msgid "A-Z"
 msgstr "က-အ"
 
-#: views/dolphinviewactionhandler.cpp:670
+#: views/dolphinviewactionhandler.cpp:671
 #, kde-format
 msgctxt "Sort descending"
 msgid "Largest First"
 msgstr "ကြီးစဥ်ငယ်လိုက်"
 
-#: views/dolphinviewactionhandler.cpp:671
+#: views/dolphinviewactionhandler.cpp:672
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Smallest First"
 msgstr "ငယ်စဥ်ကြီးလိုက်"
 
-#: views/dolphinviewactionhandler.cpp:673
+#: views/dolphinviewactionhandler.cpp:674
 #, kde-format
 msgctxt "Sort descending"
 msgid "Newest First"
 msgstr "သက်တမ်းငယ်စဥ်ကြီးလိုက်"
 
-#: views/dolphinviewactionhandler.cpp:674
+#: views/dolphinviewactionhandler.cpp:675
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Oldest First"
 msgstr "သက်တမ်းကြီးစဥ်ငယ်လိုက်"
 
-#: views/dolphinviewactionhandler.cpp:676
+#: views/dolphinviewactionhandler.cpp:677
 #, kde-format
 msgctxt "Sort descending"
 msgid "Highest First"
 msgstr "ကြီးစဥ်ငယ်လိုက်"
 
-#: views/dolphinviewactionhandler.cpp:677
+#: views/dolphinviewactionhandler.cpp:678
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Lowest First"
 msgstr "ငယ်စဥ်ကြီးလိုက်"
 
-#: views/dolphinviewactionhandler.cpp:679
+#: views/dolphinviewactionhandler.cpp:680
 #, kde-format
 msgctxt "Sort descending"
 msgid "Descending"
 msgstr "ဆင်းနေသည်"
 
-#: views/dolphinviewactionhandler.cpp:680
+#: views/dolphinviewactionhandler.cpp:681
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Ascending"
@@ -4373,49 +4489,21 @@ msgctxt ""
 msgid "Actions for Current View"
 msgstr "လက်ရှိမြင်ကွင်းအတွက်လုပ်ဆောင်ချက်များ"
 
-#: views/dolphinviewactionhandler.cpp:775
-#, kde-format
-msgctxt ""
-"@action:inmenu menu with actions like copy, paste, rename. %1 is the name of "
-"the singular selected file/folder."
-msgid "Actions for \"%1\""
+#. i18n: @action:inmenu menu with actions like copy, paste, rename.
+#. %1 is a textual representation of the currently selected files or folders. This can be the name of
+#. the file/files like "file1" or "file1, file2 and file3" or an aggregate like "8 Selected Folders".
+#. If this sort of word puzzle can not be correctly translated in your language, translate it as "NULL" (without the quotes)
+#. and a fallback will be used.
+#: views/dolphinviewactionhandler.cpp:778
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@action:inmenu menu with actions like copy, paste, rename. %1 is the name "
+#| "of the singular selected file/folder."
+#| msgid "Actions for \"%1\""
+msgid "Actions for %1"
 msgstr "\"%1\" အတွက် လုပ်ဆောင်ချက်များ"
 
-#: views/dolphinviewactionhandler.cpp:780
-#, kde-format
-msgctxt ""
-"@action:inmenu menu with actions like copy, paste, rename. %1 and %2 are "
-"names of files/folders."
-msgid "Actions for \"%1\" and \"%2\""
-msgstr "\"%1\" နှင့် \"%2\" အတွက် လုပ်ဆောင်ချက်များ"
-
 #: views/dolphinviewactionhandler.cpp:785
-#, kde-format
-msgctxt ""
-"@action:inmenu menu with actions like copy, paste, rename. %1, %2 and %3 are "
-"names of files/folders."
-msgid "Actions for \"%1\", \"%2\" and \"%3\""
-msgstr "\"%1\"၊ \"%2\" နှင့် \"%3\" အတွက် လုပ်ဆောင်ချက်များ"
-
-#: views/dolphinviewactionhandler.cpp:799
-#, kde-format
-msgctxt ""
-"@action:inmenu menu with actions like copy, paste, rename. %1 is the amount "
-"of selected files/folders."
-msgid "Actions for One Selected File"
-msgid_plural "Actions for %1 Selected Files"
-msgstr[0] "ရွေးချယ်ထားသော ဖိုင်လ် %1ခု အတွက် လုပ်ဆောင်ချက်များ"
-
-#: views/dolphinviewactionhandler.cpp:803
-#, kde-format
-msgctxt ""
-"@action:inmenu menu with actions like copy, paste, rename. %1 is the amount "
-"of selected files/folders."
-msgid "Actions for One Selected Folder"
-msgid_plural "Actions for %1 Selected Folders"
-msgstr[0] "ရွေးချယ်ထားသော ဖိုလ်ဒါ %1ခု အတွက် လုပ်ဆောင်ချက်များ"
-
-#: views/dolphinviewactionhandler.cpp:807
 #, kde-format
 msgctxt ""
 "@action:inmenu menu with actions like copy, paste, rename. %1 is the amount "
