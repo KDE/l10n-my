@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-17 00:41+0000\n"
+"POT-Creation-Date: 2022-03-25 00:41+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2714,7 +2714,7 @@ msgstr "အကြိုကြည့်မြင်ကွင်း ပြမည�
 msgid "Open Containing Folder"
 msgstr "ဖိုင်လ်ပါဝင်သောဖိုလ်ဒါကို ဖွင့်မည်"
 
-#: filewidgets/kdiroperator.cpp:2291 filewidgets/kfileplacesview.cpp:1018
+#: filewidgets/kdiroperator.cpp:2291 filewidgets/kfileplacesview.cpp:1081
 #, kde-format
 msgid "Properties"
 msgstr "ကိုယ်ပိုင်လက္ခဏာများ"
@@ -3103,89 +3103,89 @@ msgstr "'%1'ရယူအသုံးပြုနေစဥ် အမှားဖ�
 msgid "An error occurred while accessing '%1'"
 msgstr "'%1'ရယူအသုံးပြုနေစဥ် အမှားဖြစ်ပေါ်ခဲ့သည်"
 
-#: filewidgets/kfileplacesview.cpp:504
+#: filewidgets/kfileplacesview.cpp:566
 #, kde-format
 msgid "%1 (hidden)"
 msgstr "%1 (ဖွက်ထား)"
 
-#: filewidgets/kfileplacesview.cpp:987
+#: filewidgets/kfileplacesview.cpp:1050
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
 msgstr "အမှိုက်ပုံးရှင်း"
 
-#: filewidgets/kfileplacesview.cpp:1005
+#: filewidgets/kfileplacesview.cpp:1068
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Mount"
 msgstr "တပ်ဆင်"
 
-#: filewidgets/kfileplacesview.cpp:1011
+#: filewidgets/kfileplacesview.cpp:1074
 #, fuzzy, kde-format
 #| msgid "Open %1 in tab"
 msgctxt "@item:inmenu"
 msgid "Open in New Tab"
 msgstr "%1ကို တပ်ဗ်တွင်ဖွင့်"
 
-#: filewidgets/kfileplacesview.cpp:1014
+#: filewidgets/kfileplacesview.cpp:1077
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Open in New Window"
 msgstr ""
 
-#: filewidgets/kfileplacesview.cpp:1023
+#: filewidgets/kfileplacesview.cpp:1086
 #, fuzzy, kde-format
 #| msgid "Add Entry..."
 msgctxt "@action:inmenu"
 msgid "Add Entry…"
 msgstr "စာရင်းမှတ်ချက်ထည့်မည်..."
 
-#: filewidgets/kfileplacesview.cpp:1029
+#: filewidgets/kfileplacesview.cpp:1092
 #, fuzzy, kde-format
 #| msgid "Edit"
 msgctxt "@action:inmenu"
 msgid "&Edit…"
 msgstr "တည်းဖြတ်"
 
-#: filewidgets/kfileplacesview.cpp:1034
+#: filewidgets/kfileplacesview.cpp:1097
 #, fuzzy, kde-format
 #| msgid "Remove"
 msgctxt "@action:inmenu"
 msgid "Remove"
 msgstr "ဖယ်ရှား"
 
-#: filewidgets/kfileplacesview.cpp:1038
+#: filewidgets/kfileplacesview.cpp:1101
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Hide"
 msgstr ""
 
-#: filewidgets/kfileplacesview.cpp:1046
+#: filewidgets/kfileplacesview.cpp:1109
 #, fuzzy, kde-format
 #| msgid "Hide Section"
 msgctxt "@item:inmenu"
 msgid "Hide Section '%1'"
 msgstr "အပိုင်းဖွက်ရန်"
 
-#: filewidgets/kfileplacesview.cpp:1046
+#: filewidgets/kfileplacesview.cpp:1109
 #, fuzzy, kde-format
 #| msgid "Hide Section"
 msgctxt "@item:inmenu"
 msgid "Hide Section"
 msgstr "အပိုင်းဖွက်ရန်"
 
-#: filewidgets/kfileplacesview.cpp:1054
+#: filewidgets/kfileplacesview.cpp:1117
 #, kde-format
 msgid "&Show All Entries"
 msgstr "&Sစာရင်းမှတ်ချက်များအားလုံးပြမည်"
 
-#: filewidgets/kfileplacesview.cpp:1059
+#: filewidgets/kfileplacesview.cpp:1122
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Icon Size"
 msgstr "အိုင်ကွန် အရွယ်အစား"
 
-#: filewidgets/kfileplacesview.cpp:1182
+#: filewidgets/kfileplacesview.cpp:1245
 #, kde-format
 msgctxt ""
 "@item:inmenu Auto set icon size based on available space inthe Places side-"
@@ -3193,25 +3193,25 @@ msgctxt ""
 msgid "Auto Resize"
 msgstr "အလိုအလျောက်အရွယ်ပြောင်း"
 
-#: filewidgets/kfileplacesview.cpp:1202
+#: filewidgets/kfileplacesview.cpp:1265
 #, kde-format
 msgctxt "Small icon size"
 msgid "Small (%1x%1)"
 msgstr "သေးငယ် (%1x%1)"
 
-#: filewidgets/kfileplacesview.cpp:1205
+#: filewidgets/kfileplacesview.cpp:1268
 #, kde-format
 msgctxt "Medium icon size"
 msgid "Medium (%1x%1)"
 msgstr "ပုံမှန် (%1x%1)"
 
-#: filewidgets/kfileplacesview.cpp:1208
+#: filewidgets/kfileplacesview.cpp:1271
 #, kde-format
 msgctxt "Large icon size"
 msgid "Large (%1x%1)"
 msgstr "ကြီး (%1x%1)"
 
-#: filewidgets/kfileplacesview.cpp:1211
+#: filewidgets/kfileplacesview.cpp:1274
 #, kde-format
 msgctxt "Huge icon size"
 msgid "Huge (%1x%1)"

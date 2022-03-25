@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-25 00:47+0000\n"
+"POT-Creation-Date: 2022-03-25 00:47+0000\n"
 "PO-Revision-Date: 2021-09-15 01:40+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -60,19 +60,16 @@ msgid "CTags command"
 msgstr "စီတပ်အမိန့်"
 
 #: ctagskinds.cpp:23
-#, kde-format
 msgctxt "Tag Type"
 msgid "define"
 msgstr "define"
 
 #: ctagskinds.cpp:24 ctagskinds.cpp:66
-#, kde-format
 msgctxt "Tag Type"
 msgid "label"
 msgstr "label"
 
 #: ctagskinds.cpp:25 ctagskinds.cpp:39 ctagskinds.cpp:85
-#, kde-format
 msgctxt "Tag Type"
 msgid "macro"
 msgstr "macro"
@@ -81,218 +78,182 @@ msgstr "macro"
 #: ctagskinds.cpp:83 ctagskinds.cpp:87 ctagskinds.cpp:91 ctagskinds.cpp:93
 #: ctagskinds.cpp:98 ctagskinds.cpp:102 ctagskinds.cpp:104 ctagskinds.cpp:106
 #: ctagskinds.cpp:110
-#, kde-format
 msgctxt "Tag Type"
 msgid "function"
 msgstr "function"
 
 #: ctagskinds.cpp:28 ctagskinds.cpp:71 ctagskinds.cpp:89 ctagskinds.cpp:95
-#, kde-format
 msgctxt "Tag Type"
 msgid "subroutine"
 msgstr "subroutine"
 
 #: ctagskinds.cpp:32
-#, kde-format
 msgctxt "Tag Type"
 msgid "fragment definition"
 msgstr "fragment definition"
 
 #: ctagskinds.cpp:33
-#, kde-format
 msgctxt "Tag Type"
 msgid "any pattern"
 msgstr "any pattern"
 
 #: ctagskinds.cpp:34
-#, kde-format
 msgctxt "Tag Type"
 msgid "slot"
 msgstr "slot"
 
 #: ctagskinds.cpp:35
-#, kde-format
 msgctxt "Tag Type"
 msgid "pattern"
 msgstr "pattern"
 
 #: ctagskinds.cpp:38 ctagskinds.cpp:55 ctagskinds.cpp:76 ctagskinds.cpp:91
 #: ctagskinds.cpp:93 ctagskinds.cpp:97
-#, kde-format
 msgctxt "Tag Type"
 msgid "class"
 msgstr "class"
 
 #: ctagskinds.cpp:40
-#, kde-format
 msgctxt "Tag Type"
 msgid "enumerator"
 msgstr "enumerator"
 
 #: ctagskinds.cpp:42
-#, kde-format
 msgctxt "Tag Type"
 msgid "enumeration"
 msgstr "enumeration"
 
 #: ctagskinds.cpp:43
-#, kde-format
 msgctxt "Tag Type"
 msgid "member"
 msgstr "member"
 
 #: ctagskinds.cpp:44 ctagskinds.cpp:106
-#, kde-format
 msgctxt "Tag Type"
 msgid "namespace"
 msgstr "namespace"
 
 #: ctagskinds.cpp:45
-#, kde-format
 msgctxt "Tag Type"
 msgid "prototype"
 msgstr "prototype"
 
 #: ctagskinds.cpp:46
-#, kde-format
 msgctxt "Tag Type"
 msgid "struct"
 msgstr "struct"
 
 #: ctagskinds.cpp:47
-#, kde-format
 msgctxt "Tag Type"
 msgid "typedef"
 msgstr "typedef"
 
 #: ctagskinds.cpp:48
-#, kde-format
 msgctxt "Tag Type"
 msgid "union"
 msgstr "union"
 
 #: ctagskinds.cpp:49 ctagskinds.cpp:73
-#, kde-format
 msgctxt "Tag Type"
 msgid "variable"
 msgstr "variable"
 
 #: ctagskinds.cpp:50
-#, kde-format
 msgctxt "Tag Type"
 msgid "external variable"
 msgstr "external variable"
 
 #: ctagskinds.cpp:53
-#, kde-format
 msgctxt "Tag Type"
 msgid "paragraph"
 msgstr "paragraph"
 
 #: ctagskinds.cpp:56
-#, kde-format
 msgctxt "Tag Type"
 msgid "feature"
 msgstr "feature"
 
 #: ctagskinds.cpp:57
-#, kde-format
 msgctxt "Tag Type"
 msgid "local entity"
 msgstr "local entity"
 
 #: ctagskinds.cpp:60
-#, kde-format
 msgctxt "Tag Type"
 msgid "block"
 msgstr "block"
 
 #: ctagskinds.cpp:61
-#, kde-format
 msgctxt "Tag Type"
 msgid "common"
 msgstr "common"
 
 #: ctagskinds.cpp:62
-#, kde-format
 msgctxt "Tag Type"
 msgid "entry"
 msgstr "entry"
 
 #: ctagskinds.cpp:64 ctagskinds.cpp:78
-#, kde-format
 msgctxt "Tag Type"
 msgid "interface"
 msgstr "interface"
 
 #: ctagskinds.cpp:65
-#, kde-format
 msgctxt "Tag Type"
 msgid "type component"
 msgstr "type component"
 
 #: ctagskinds.cpp:67
-#, kde-format
 msgctxt "Tag Type"
 msgid "local"
 msgstr "local"
 
 #: ctagskinds.cpp:68
-#, kde-format
 msgctxt "Tag Type"
 msgid "module"
 msgstr "module"
 
 #: ctagskinds.cpp:69
-#, kde-format
 msgctxt "Tag Type"
 msgid "namelist"
 msgstr "namelist"
 
 #: ctagskinds.cpp:70
-#, kde-format
 msgctxt "Tag Type"
 msgid "program"
 msgstr "program"
 
 #: ctagskinds.cpp:72
-#, kde-format
 msgctxt "Tag Type"
 msgid "type"
 msgstr "type"
 
 #: ctagskinds.cpp:77
-#, kde-format
 msgctxt "Tag Type"
 msgid "field"
 msgstr "field"
 
 #: ctagskinds.cpp:79
-#, kde-format
 msgctxt "Tag Type"
 msgid "method"
 msgstr "method"
 
 #: ctagskinds.cpp:80
-#, kde-format
 msgctxt "Tag Type"
 msgid "package"
 msgstr "package"
 
 #: ctagskinds.cpp:87 ctagskinds.cpp:108
-#, kde-format
 msgctxt "Tag Type"
 msgid "procedure"
 msgstr "procedure"
 
 #: ctagskinds.cpp:99
-#, kde-format
 msgctxt "Tag Type"
 msgid "mixin"
 msgstr "mixin"
 
 #: ctagskinds.cpp:102
-#, kde-format
 msgctxt "Tag Type"
 msgid "set"
 msgstr "set"
