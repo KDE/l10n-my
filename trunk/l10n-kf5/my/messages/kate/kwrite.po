@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-31 00:46+0000\n"
+"POT-Creation-Date: 2022-04-01 00:57+0000\n"
 "PO-Revision-Date: 2021-09-15 03:51+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1842,52 +1842,52 @@ msgstr "ကေရိုက် - စာသားတည်းဖြတ်ကိရ
 msgid "(c) 2000-2022 The Kate Authors"
 msgstr "(c) ၂၀၀၀-၂၀၂၁ ကိတ် ရေးသားသူများ"
 
-#: main.cpp:148
+#: main.cpp:154
 #, kde-format
 msgid "Set encoding for the file to open."
 msgstr "ဖွင့်မည့် ဖိုင်လ်၏ ကုတ်ဝှက်စနစ်သတ်မှတ်မည်။"
 
-#: main.cpp:149
+#: main.cpp:155
 #, kde-format
 msgid "encoding"
 msgstr "ကုတ်ဝှက်စနစ်"
 
-#: main.cpp:153
+#: main.cpp:159
 #, kde-format
 msgid "Navigate to this line."
 msgstr "ဤစာကြောင်းသို့ သွားမည်"
 
-#: main.cpp:153
+#: main.cpp:159
 #, kde-format
 msgid "line"
 msgstr "စာကြောင်း"
 
-#: main.cpp:157
+#: main.cpp:163
 #, kde-format
 msgid "Navigate to this column."
 msgstr "ဤတိုင်သို့ သွားမည်"
 
-#: main.cpp:157
+#: main.cpp:163
 #, kde-format
 msgid "column"
 msgstr "တိုင်"
 
-#: main.cpp:161
+#: main.cpp:167
 #, kde-format
 msgid "Read the contents of stdin."
 msgstr "'stdin'၏ပါဝင်ဒေတာများ ဖတ်မည်"
 
-#: main.cpp:165
+#: main.cpp:171
 #, kde-format
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 
-#: main.cpp:169
+#: main.cpp:175
 #, kde-format
 msgid "Documents to open."
 msgstr "ဖွင့်ရမည့် မှတ်တမ်းပုံနှိပ်မူများ။"
 
-#: main.cpp:169
+#: main.cpp:175
 #, kde-format
 msgid "[urls...]"
 msgstr "[ယူအာအယ်...]"
