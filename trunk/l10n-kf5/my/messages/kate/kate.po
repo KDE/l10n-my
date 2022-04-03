@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-02 00:46+0000\n"
+"POT-Creation-Date: 2022-04-03 00:54+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -66,346 +66,346 @@ msgid "Split View"
 msgstr "မြင်ကွင်းခွဲမည်"
 
 #. i18n: ectx: Menu (tools)
-#: ../lib/data/kateui.rc:99
+#: ../lib/data/kateui.rc:101
 #, kde-format
 msgid "&Tools"
 msgstr "&Tကိရိယာများ"
 
 #. i18n: ectx: Menu (settings)
-#: ../lib/data/kateui.rc:108
+#: ../lib/data/kateui.rc:110
 #, kde-format
 msgid "&Settings"
 msgstr "&Sဆက်တင်"
 
 #. i18n: ectx: ToolBar (mainToolBar)
-#: ../lib/data/kateui.rc:116
+#: ../lib/data/kateui.rc:118
 #, kde-format
 msgid "Main Toolbar"
 msgstr "ပင်မကိရိယာတန်း"
 
 #. i18n: ectx: Menu (viewspace_popup_statusbar)
-#: ../lib/data/kateui.rc:146
+#: ../lib/data/kateui.rc:148
 #, kde-format
 msgid "&Status Bar Items"
 msgstr "&Sအခြေအနေပြတန်း တန်ဆာများ"
 
-#: ../lib/kateapp.cpp:134
+#: ../lib/kateapp.cpp:148
 #, kde-format
 msgid "Christoph Cullmann"
 msgstr "ခရစ်စ်တိုကူးလ်မန်း"
 
-#: ../lib/kateapp.cpp:134
+#: ../lib/kateapp.cpp:148
 #, kde-format
 msgid "Maintainer"
 msgstr "ထိန်းသိမ်းသူ"
 
-#: ../lib/kateapp.cpp:135
+#: ../lib/kateapp.cpp:149
 #, kde-format
 msgid "Dominik Haumann"
 msgstr "ဒိုမင်နစ်ဟူမန်"
 
-#: ../lib/kateapp.cpp:135 ../lib/kateapp.cpp:138 ../lib/kateapp.cpp:140
-#: ../lib/kateapp.cpp:143 ../lib/kateapp.cpp:149
+#: ../lib/kateapp.cpp:149 ../lib/kateapp.cpp:152 ../lib/kateapp.cpp:154
+#: ../lib/kateapp.cpp:157 ../lib/kateapp.cpp:163
 #, kde-format
 msgid "Core Developer"
 msgstr "ပင်မအူတိုင် ပရိုဂရမ်မာ"
 
-#: ../lib/kateapp.cpp:136
+#: ../lib/kateapp.cpp:150
 #, kde-format
 msgid "Sven Brauch"
 msgstr "ဆဗန်ဘရက်ချ်"
 
-#: ../lib/kateapp.cpp:136 ../lib/kateapp.cpp:137 ../lib/kateapp.cpp:144
+#: ../lib/kateapp.cpp:150 ../lib/kateapp.cpp:151 ../lib/kateapp.cpp:158
 #, kde-format
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: ../lib/kateapp.cpp:137
+#: ../lib/kateapp.cpp:151
 #, kde-format
 msgid "Kåre Särs"
 msgstr "ကာရဲဆာ့စ်"
 
-#: ../lib/kateapp.cpp:138
+#: ../lib/kateapp.cpp:152
 #, kde-format
 msgid "Anders Lund"
 msgstr "အန်ဒရီလွန်"
 
-#: ../lib/kateapp.cpp:139
+#: ../lib/kateapp.cpp:153
 #, kde-format
 msgid "Joseph Wenninger"
 msgstr "ဂျိုးဆက်ဝမ်နင်ဂျာ"
 
-#: ../lib/kateapp.cpp:143
+#: ../lib/kateapp.cpp:157
 #, kde-format
 msgid "Hamish Rodda"
 msgstr "ဟာမစ်ရှ်ရိုဒါ"
 
-#: ../lib/kateapp.cpp:144
+#: ../lib/kateapp.cpp:158
 #, kde-format
 msgid "Alexander Neundorf"
 msgstr "အလက်ဇန်းဒါးနျူဒေါ့ဖ်"
 
-#: ../lib/kateapp.cpp:145
+#: ../lib/kateapp.cpp:159
 #, kde-format
 msgid "Waldo Bastian"
 msgstr "ဝါဒိုဘက်စတီရှန်"
 
-#: ../lib/kateapp.cpp:145
+#: ../lib/kateapp.cpp:159
 #, kde-format
 msgid "The cool buffersystem"
 msgstr "စွန်းမိုက်သော ဘက်ဖာစနစ်"
 
-#: ../lib/kateapp.cpp:146
+#: ../lib/kateapp.cpp:160
 #, kde-format
 msgid "Charles Samuels"
 msgstr "ချားလ်စ်ဆန်မြူရယ်"
 
-#: ../lib/kateapp.cpp:146
+#: ../lib/kateapp.cpp:160
 #, kde-format
 msgid "The Editing Commands"
 msgstr "တည်းဖြတ်မှုဆိုင်ရာအမိန့်များ"
 
-#: ../lib/kateapp.cpp:147
+#: ../lib/kateapp.cpp:161
 #, kde-format
 msgid "Matt Newell"
 msgstr "မတ်နီဝယ်"
 
-#: ../lib/kateapp.cpp:147
+#: ../lib/kateapp.cpp:161
 #, kde-format
 msgid "Testing, ..."
 msgstr "စမ်းသပ်နေသည်၊ ..."
 
-#: ../lib/kateapp.cpp:148
+#: ../lib/kateapp.cpp:162
 #, kde-format
 msgid "Michael Bartl"
 msgstr "မစ်ချယ်ဘာတယ်"
 
-#: ../lib/kateapp.cpp:148
+#: ../lib/kateapp.cpp:162
 #, kde-format
 msgid "Former Core Developer"
 msgstr "ယခင်က ပင်မအူတိုင် ပရိုဂရမ်မာ"
 
-#: ../lib/kateapp.cpp:149
+#: ../lib/kateapp.cpp:163
 #, kde-format
 msgid "Michael McCallum"
 msgstr "မစ်ချယ်မက်ကလွန်"
 
-#: ../lib/kateapp.cpp:150
+#: ../lib/kateapp.cpp:164
 #, kde-format
 msgid "Jochen Wilhemly"
 msgstr "ဂျိုချန်ဝီဟမ်လီ"
 
-#: ../lib/kateapp.cpp:150
+#: ../lib/kateapp.cpp:164
 #, kde-format
 msgid "KWrite Author"
 msgstr "ကေရိုက် ရေးသားသူ"
 
-#: ../lib/kateapp.cpp:151
+#: ../lib/kateapp.cpp:165
 #, kde-format
 msgid "Michael Koch"
 msgstr "မစ်ချယ်ကော့ချ်"
 
-#: ../lib/kateapp.cpp:151
+#: ../lib/kateapp.cpp:165
 #, kde-format
 msgid "KWrite port to KParts"
 msgstr "ကေရိုက်ကို ကေပါ့စ်သို့တင်သွင်း"
 
-#: ../lib/kateapp.cpp:152
+#: ../lib/kateapp.cpp:166
 #, kde-format
 msgid "Christian Gebauer"
 msgstr "ခရစ်ရှန် ဂဘောင်"
 
-#: ../lib/kateapp.cpp:153
+#: ../lib/kateapp.cpp:167
 #, kde-format
 msgid "Simon Hausmann"
 msgstr "ဆိုင်မွန်ဟူမန်"
 
-#: ../lib/kateapp.cpp:154
+#: ../lib/kateapp.cpp:168
 #, kde-format
 msgid "Glen Parker"
 msgstr "ဂလန်ပါကာ"
 
-#: ../lib/kateapp.cpp:154
+#: ../lib/kateapp.cpp:168
 #, kde-format
 msgid "KWrite Undo History, Kspell integration"
 msgstr "ကေရိုက် ပြန်ဆုတ် မှတ်တမ်း၊ ကေဆပဲလ် ပေါင်းစည်းမှု"
 
-#: ../lib/kateapp.cpp:155
+#: ../lib/kateapp.cpp:169
 #, kde-format
 msgid "Scott Manson"
 msgstr "စကော့မန်ဆန်"
 
-#: ../lib/kateapp.cpp:155
+#: ../lib/kateapp.cpp:169
 #, kde-format
 msgid "KWrite XML Syntax highlighting support"
 msgstr "ကေရိုက် အိပ်စ်အမ်အယ် အထားအသို အရောင်တင်ပြနိုင်မှု"
 
-#: ../lib/kateapp.cpp:156
+#: ../lib/kateapp.cpp:170
 #, kde-format
 msgid "John Firebaugh"
 msgstr "ဂျွန်ဖိုင်ယားဘာ့ချ်"
 
-#: ../lib/kateapp.cpp:156
+#: ../lib/kateapp.cpp:170
 #, kde-format
 msgid "Patches and more"
 msgstr ""
 
-#: ../lib/kateapp.cpp:157
+#: ../lib/kateapp.cpp:171
 #, kde-format
 msgid "Pablo Martín"
 msgstr "ပါဘလိုမာတင်"
 
-#: ../lib/kateapp.cpp:158
+#: ../lib/kateapp.cpp:172
 #, kde-format
 msgid "Python Plugin Developer"
 msgstr "ပိုက်သွန် ပလပ်ဂင် ပရိုဂရမ်မာ"
 
-#: ../lib/kateapp.cpp:161
+#: ../lib/kateapp.cpp:175
 #, kde-format
 msgid "Gerald Senarclens de Grancy"
 msgstr "ဂျရယဆီညာကလန်ဒီဂရမ်စီ"
 
-#: ../lib/kateapp.cpp:162
+#: ../lib/kateapp.cpp:176
 #, kde-format
 msgid "QA and Scripting"
 msgstr "ကျူအေ နှင့် ညွှန်ကြားကုတ်ရေးသားမှု"
 
-#: ../lib/kateapp.cpp:166
+#: ../lib/kateapp.cpp:180
 #, kde-format
 msgid "Tyson Tan"
 msgstr "တိုင်ဆွန်တန်"
 
-#: ../lib/kateapp.cpp:167
+#: ../lib/kateapp.cpp:181
 #, kde-format
 msgid "Designer of Kate's mascot 'Kate the Cyber Woodpecker'"
 msgstr ""
 
-#: ../lib/kateapp.cpp:170
+#: ../lib/kateapp.cpp:184
 #, kde-format
 msgid "Matteo Merli"
 msgstr "မတ်သျူမာလီ"
 
-#: ../lib/kateapp.cpp:170
+#: ../lib/kateapp.cpp:184
 #, kde-format
 msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
 msgstr "အာပီအမ် ဆက်စပ်ဖိုင်လ်၊ ပါလ်၊ Diff နှင့် နောက်ထပ်ဖိုင်လ်များ အရောင်တင်ပြခြင်း"
 
-#: ../lib/kateapp.cpp:171
+#: ../lib/kateapp.cpp:185
 #, kde-format
 msgid "Rocky Scaletta"
 msgstr "ရော့ကီစကယ်လက်တာ"
 
-#: ../lib/kateapp.cpp:171
+#: ../lib/kateapp.cpp:185
 #, kde-format
 msgid "Highlighting for VHDL"
 msgstr "ဗွီအိပ်ချ်ဒီအယ် အရောင်တင်ပြခြင်း"
 
-#: ../lib/kateapp.cpp:172
+#: ../lib/kateapp.cpp:186
 #, kde-format
 msgid "Yury Lebedev"
 msgstr "ယူရီလက်ဗဒက်"
 
-#: ../lib/kateapp.cpp:172
+#: ../lib/kateapp.cpp:186
 #, kde-format
 msgid "Highlighting for SQL"
 msgstr "အက်စ်ကျူအယ် အရောင်တင်ပြခြင်း"
 
-#: ../lib/kateapp.cpp:173
+#: ../lib/kateapp.cpp:187
 #, kde-format
 msgid "Chris Ross"
 msgstr "ခရစ်ရော့စ်"
 
-#: ../lib/kateapp.cpp:173
+#: ../lib/kateapp.cpp:187
 #, kde-format
 msgid "Highlighting for Ferite"
 msgstr "ပိုက်သွန် အရောင်တင်ပြခြင်း"
 
-#: ../lib/kateapp.cpp:174
+#: ../lib/kateapp.cpp:188
 #, kde-format
 msgid "Nick Roux"
 msgstr "နစ်ခ်ရို့စ်"
 
-#: ../lib/kateapp.cpp:174
+#: ../lib/kateapp.cpp:188
 #, kde-format
 msgid "Highlighting for ILERPG"
 msgstr "အိုင်အယ်အီးအာပီဂျီ အရောင်တင်ပြခြင်း"
 
-#: ../lib/kateapp.cpp:175
+#: ../lib/kateapp.cpp:189
 #, kde-format
 msgid "Carsten Niehaus"
 msgstr "ကာစတန်နီးဟိုက်"
 
-#: ../lib/kateapp.cpp:175
+#: ../lib/kateapp.cpp:189
 #, kde-format
 msgid "Highlighting for LaTeX"
 msgstr "အယ်အေတီအီးအိပ်စ် အရောင်တင်ပြခြင်း"
 
-#: ../lib/kateapp.cpp:176
+#: ../lib/kateapp.cpp:190
 #, kde-format
 msgid "Per Wigren"
 msgstr "ပါဝစ်ဂရမ်"
 
-#: ../lib/kateapp.cpp:176
+#: ../lib/kateapp.cpp:190
 #, kde-format
 msgid "Highlighting for Makefiles, Python"
 msgstr "မိတ်ခ်ဖိုင်လ်၊ ပိုက်သွန် အရောင်တင်ပြခြင်း"
 
-#: ../lib/kateapp.cpp:177
+#: ../lib/kateapp.cpp:191
 #, kde-format
 msgid "Jan Fritz"
 msgstr "ဂျန်ဖရစ်"
 
-#: ../lib/kateapp.cpp:177
+#: ../lib/kateapp.cpp:191
 #, kde-format
 msgid "Highlighting for Python"
 msgstr "ပိုက်သွန် အရောင်တင်ပြခြင်း"
 
-#: ../lib/kateapp.cpp:178
+#: ../lib/kateapp.cpp:192
 #, kde-format
 msgid "Daniel Naber"
 msgstr "ဒန်နီရယ်နဘာ"
 
-#: ../lib/kateapp.cpp:179
+#: ../lib/kateapp.cpp:193
 #, kde-format
 msgid "Roland Pabel"
 msgstr "ရိုလန်ပါဘယ်"
 
-#: ../lib/kateapp.cpp:179
+#: ../lib/kateapp.cpp:193
 #, kde-format
 msgid "Highlighting for Scheme"
 msgstr "စကင်း အရောင်တင်ပြခြင်း"
 
-#: ../lib/kateapp.cpp:180
+#: ../lib/kateapp.cpp:194
 #, kde-format
 msgid "Cristi Dumitrescu"
 msgstr "ခရစ်တီဒူမီထရက်ကျူ"
 
-#: ../lib/kateapp.cpp:180
+#: ../lib/kateapp.cpp:194
 #, kde-format
 msgid "PHP Keyword/Datatype list"
 msgstr ""
 
-#: ../lib/kateapp.cpp:181
+#: ../lib/kateapp.cpp:195
 #, kde-format
 msgid "Carsten Pfeiffer"
 msgstr "ကာစတန်ဖိုင်ဖာ"
 
-#: ../lib/kateapp.cpp:181
+#: ../lib/kateapp.cpp:195
 #, kde-format
 msgid "Very nice help"
 msgstr "အလွန်ကောင်းတဲ့အကူအညီ"
 
-#: ../lib/kateapp.cpp:182
+#: ../lib/kateapp.cpp:196
 #, kde-format
 msgid "All people who have contributed and I have forgotten to mention"
 msgstr "ပါဝင်ကူညီပေးသော လူများအားလုံး နှင့် ကျွန်ုပ်ဖော်ပြဖို့ကျန်ခဲ့သော လူများ"
 
-#: ../lib/kateapp.cpp:302
+#: ../lib/kateapp.cpp:316
 #, kde-format
 msgid "Folders can only be opened when the projects plugin is enabled"
 msgstr "ပရောဂျက်များပလပ်ဂင်သုံးထားမှသာ ဖိုလ်ဒါများကို ဖွင့်နိုင်သည်"
 
-#: ../lib/kateapp.cpp:405
+#: ../lib/kateapp.cpp:419
 #, kde-format
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
@@ -1329,143 +1329,169 @@ msgstr ""
 msgid "Untitled"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:114
+#: ../lib/kateviewmanager.cpp:117
 #, kde-format
 msgid "Split Ve&rtical"
 msgstr "&rအပေါ်အောက်ခွဲမည်"
 
-#: ../lib/kateviewmanager.cpp:118
+#: ../lib/kateviewmanager.cpp:121
 #, kde-format
 msgid "Split the currently active view vertically into two views."
 msgstr "လက်ရှိ ကြည့်နေသော မြင်ကွင်းကို အထက်အောက် မြင်ကွင်းနှစ်ခုအဖြစ်ခွဲမည်။"
 
-#: ../lib/kateviewmanager.cpp:122
+#: ../lib/kateviewmanager.cpp:125
 #, kde-format
 msgid "Split &Horizontal"
 msgstr "&Hဘယ်ညာခွဲမည်"
 
-#: ../lib/kateviewmanager.cpp:126
+#: ../lib/kateviewmanager.cpp:129
 #, kde-format
 msgid "Split the currently active view horizontally into two views."
 msgstr "လက်ရှိ ကြည့်နေသော မြင်ကွင်းကို ဘယ်ညာမြင်ကွင်းနှစ်ခုအဖြစ်ခွဲမည်။"
 
-#: ../lib/kateviewmanager.cpp:130
+#: ../lib/kateviewmanager.cpp:133
+#, kde-format
+msgid "Move Document to New Vertical Split"
+msgstr ""
+
+#: ../lib/kateviewmanager.cpp:137
+#, fuzzy, kde-format
+#| msgid "Split the currently active view vertically into two views."
+msgid ""
+"Split the currently active view vertically into two views and move the "
+"currently active document to right view."
+msgstr "လက်ရှိ ကြည့်နေသော မြင်ကွင်းကို အထက်အောက် မြင်ကွင်းနှစ်ခုအဖြစ်ခွဲမည်။"
+
+#: ../lib/kateviewmanager.cpp:142
+#, kde-format
+msgid "Move Document to New Horizontal Split"
+msgstr ""
+
+#: ../lib/kateviewmanager.cpp:146
+#, fuzzy, kde-format
+#| msgid "Split the currently active view horizontally into two views."
+msgid ""
+"Split the currently active view horizontally into two views and move the "
+"currently active document to view below."
+msgstr "လက်ရှိ ကြည့်နေသော မြင်ကွင်းကို ဘယ်ညာမြင်ကွင်းနှစ်ခုအဖြစ်ခွဲမည်။"
+
+#: ../lib/kateviewmanager.cpp:151
 #, kde-format
 msgid "Cl&ose Current View"
 msgstr "&oလက်ရှိမြင်ကွင်းပိတ်မည်"
 
-#: ../lib/kateviewmanager.cpp:134
+#: ../lib/kateviewmanager.cpp:155
 #, kde-format
 msgid "Close the currently active split view"
 msgstr "လက်ရှိကြည့်နေသော ကန့်ထားသည့်မြင်ကွင်းပိတ်မည်"
 
-#: ../lib/kateviewmanager.cpp:138
+#: ../lib/kateviewmanager.cpp:159
 #, kde-format
 msgid "Close Inactive Views"
 msgstr "မကြည့်နေသော မြင်ကွင်းများ ပိတ်မည်"
 
-#: ../lib/kateviewmanager.cpp:141
+#: ../lib/kateviewmanager.cpp:162
 #, kde-format
 msgid "Close every view but the active one"
 msgstr "လက်ရှိကြည့်နေသော မြင်ကွင်းမှလွဲ၍ အကုန်ပိတ်မည်"
 
-#: ../lib/kateviewmanager.cpp:145
+#: ../lib/kateviewmanager.cpp:166
 #, kde-format
 msgid "Hide Inactive Views"
 msgstr "မကြည့်နေသော မြင်ကွင်းများ ဖွက်ထားမည်"
 
-#: ../lib/kateviewmanager.cpp:149
+#: ../lib/kateviewmanager.cpp:170
 #, kde-format
 msgid "Hide every view but the active one"
 msgstr "လက်ရှိကြည့်နေသော မြင်ကွင်းမှလွဲ၍ အကုန်ဖွက်ထားမည်"
 
-#: ../lib/kateviewmanager.cpp:152
+#: ../lib/kateviewmanager.cpp:173
 #, kde-format
 msgid "Toggle Orientation"
 msgstr "တည်နေရာအခင်းအကျင်း ဖွင့်/ပိတ်"
 
-#: ../lib/kateviewmanager.cpp:155
+#: ../lib/kateviewmanager.cpp:176
 #, kde-format
 msgid "Toggles the orientation of the current split view"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:158
+#: ../lib/kateviewmanager.cpp:179
 #, kde-format
 msgid "Next Split View"
 msgstr "နောက် အခွဲ-မြင်ကွင်း"
 
-#: ../lib/kateviewmanager.cpp:162
+#: ../lib/kateviewmanager.cpp:183
 #, kde-format
 msgid "Make the next split view the active one."
 msgstr "နောက် အခွဲ-မြင်ကွင်းကို သက်ဝင်စေမည်။"
 
-#: ../lib/kateviewmanager.cpp:165
+#: ../lib/kateviewmanager.cpp:186
 #, kde-format
 msgid "Previous Split View"
 msgstr "ရှေ့ အခွဲ-မြင်ကွင်း"
 
-#: ../lib/kateviewmanager.cpp:169
+#: ../lib/kateviewmanager.cpp:190
 #, kde-format
 msgid "Make the previous split view the active one."
 msgstr "ရှေ့ အခွဲ-မြင်ကွင်းကို သက်ဝင်စေမည်။"
 
-#: ../lib/kateviewmanager.cpp:172
+#: ../lib/kateviewmanager.cpp:193
 #, kde-format
 msgid "Move Splitter Right"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:175
+#: ../lib/kateviewmanager.cpp:196
 #, kde-format
 msgid "Move the splitter of the current view to the right"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:178
+#: ../lib/kateviewmanager.cpp:199
 #, kde-format
 msgid "Move Splitter Left"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:181
+#: ../lib/kateviewmanager.cpp:202
 #, kde-format
 msgid "Move the splitter of the current view to the left"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:184
+#: ../lib/kateviewmanager.cpp:205
 #, kde-format
 msgid "Move Splitter Up"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:187
+#: ../lib/kateviewmanager.cpp:208
 #, kde-format
 msgid "Move the splitter of the current view up"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:190
+#: ../lib/kateviewmanager.cpp:211
 #, kde-format
 msgid "Move Splitter Down"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:193
+#: ../lib/kateviewmanager.cpp:214
 #, kde-format
 msgid "Move the splitter of the current view down"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:196
+#: ../lib/kateviewmanager.cpp:217
 #, kde-format
 msgid "Focus Navigation Bar"
 msgstr ""
 
-#: ../lib/kateviewmanager.cpp:197
+#: ../lib/kateviewmanager.cpp:218
 #, fuzzy, kde-format
 #| msgid "Focus the next tab."
 msgid "Focus the navigation bar"
 msgstr "နောက်တပ်ဘ်ကို အာရုံစိုက်မည်။"
 
-#: ../lib/kateviewmanager.cpp:231 ../lib/kateviewmanager.cpp:233
+#: ../lib/kateviewmanager.cpp:259 ../lib/kateviewmanager.cpp:261
 #, kde-format
 msgid "Open File"
 msgstr "ဖိုင်လ်ဖွင့်မည်"
 
-#: ../lib/kateviewmanager.cpp:252
+#: ../lib/kateviewmanager.cpp:280
 #, kde-format
 msgid ""
 "<p>You are attempting to open one or more large files:</p><ul>%1</ul><p>Do "
@@ -1476,12 +1502,12 @@ msgstr ""
 "ul><p>သင် ဆက်လုပ်ချင်ပါသလား။</p><p><strong>သတိထားရမည်က ဖိုင်လ်အကြီးများဖွင့်သောအခါ ကိတ်သည် "
 "ကာလတစ်ခုတိုင်အောင် တုံ့ပြန်မှုမရှိဘဲနေမည်။</strong></p>"
 
-#: ../lib/kateviewmanager.cpp:255
+#: ../lib/kateviewmanager.cpp:283
 #, kde-format
 msgid "Opening Large File"
 msgstr "ကြီးမားသောဖိုင်လ်ဖွင့်နေသည်"
 
-#: ../lib/kateviewmanager.cpp:951
+#: ../lib/kateviewmanager.cpp:993
 #, kde-format
 msgid "This view may have unsaved work. Do you really want to close it?"
 msgstr ""
@@ -1502,17 +1528,17 @@ msgctxt "indicator for more documents"
 msgid "+%1"
 msgstr "+%1"
 
-#: ../lib/kateviewspace.cpp:105 ../lib/kateviewspace.cpp:207
+#: ../lib/kateviewspace.cpp:105 ../lib/kateviewspace.cpp:209
 #, kde-format
 msgid "Click here to switch to the Quick Open view."
 msgstr ""
 
-#: ../lib/kateviewspace.cpp:118
+#: ../lib/kateviewspace.cpp:120
 #, kde-format
 msgid "Control view space splitting"
 msgstr ""
 
-#: ../lib/kateviewspace.cpp:208
+#: ../lib/kateviewspace.cpp:210
 #, kde-format
 msgid ""
 "Currently, there is one more document open. To see all open documents, "
@@ -1522,32 +1548,32 @@ msgid_plural ""
 "switch to the Quick Open view by clicking here."
 msgstr[0] ""
 
-#: ../lib/kateviewspace.cpp:868
+#: ../lib/kateviewspace.cpp:870
 #, kde-format
 msgid "Close Tab"
 msgstr "တပ်ဘ်ပိတ်မည်"
 
-#: ../lib/kateviewspace.cpp:882
+#: ../lib/kateviewspace.cpp:884
 #, kde-format
 msgid "&Close Document"
 msgstr "&Cမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
 
-#: ../lib/kateviewspace.cpp:883
+#: ../lib/kateviewspace.cpp:885
 #, kde-format
 msgid "Close Other &Documents"
 msgstr "&Dအခြားမှတ်တမ်းပုံနှိပ်မူများ ပိတ်မည်"
 
-#: ../lib/kateviewspace.cpp:892
+#: ../lib/kateviewspace.cpp:894
 #, kde-format
 msgid "Compare with active document"
 msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူနှင့် နှိုင်းယှဥ်မည်"
 
-#: ../lib/kateviewspace.cpp:951
+#: ../lib/kateviewspace.cpp:953
 #, kde-format
 msgid "Could not start program"
 msgstr "ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ"
 
-#: ../lib/kateviewspace.cpp:952
+#: ../lib/kateviewspace.cpp:954
 #, kde-format
 msgid "The selected program could not be started. Maybe it is not installed."
 msgstr "ရွေးထားသော ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ။ တပ်ဆင်မထားရသေးခြင်းဖြစ်နိုင်သည်။"
@@ -1829,38 +1855,38 @@ msgstr "&mအဓိပ္ပါယ်ဖွင့်ဆိုမှု-အချ
 msgid "Delete unused meta-information after:"
 msgstr "အသုံးမပြုသော အဓိပ္ပါယ်ဖွင့်ဆိုမှု-အချက်အလက်များကို ဖျက်မည် (အချိန်တစ်ခုကြာပြီးလျှင်) -"
 
-#: main.cpp:132
+#: main.cpp:118
 #, kde-format
 msgid "Kate"
 msgstr "ကိတ်"
 
-#: main.cpp:134
+#: main.cpp:120
 #, kde-format
 msgid "Kate - Advanced Text Editor"
 msgstr "ကိတ် - အဆင့်မြင့်စာသားတည်းဖြတ်ကိရိယာ"
 
-#: main.cpp:136
+#: main.cpp:122
 #, fuzzy, kde-format
 #| msgid "(c) 2000-2021 The Kate Authors"
 msgid "(c) 2000-2022 The Kate Authors"
 msgstr "(c) ၂၀၀၀-၂၀၂၁ ကိတ် ရေးသားသူများ"
 
-#: main.cpp:182
+#: main.cpp:168
 #, kde-format
 msgid "Start Kate with a given session."
 msgstr "ကိတ်ကို ပေးထားသော ဆက်ရှင်ဖြင့် စတင်မည်"
 
-#: main.cpp:183
+#: main.cpp:169
 #, kde-format
 msgid "session"
 msgstr "ဆက်ရှင်"
 
-#: main.cpp:188
+#: main.cpp:174
 #, kde-format
 msgid "Start Kate with a new anonymous session, implies '-n'."
 msgstr "ကိတ်ကို အမည်မသိသော ဆက်ရှင်ဖြင့် စတင်မည်။( '-n' သုံးသကဲ့သို့)"
 
-#: main.cpp:193
+#: main.cpp:179
 #, kde-format
 msgid ""
 "Force start of a new kate instance (is ignored if start is used and another "
@@ -1868,71 +1894,71 @@ msgid ""
 "and no URLs are given at all."
 msgstr ""
 
-#: main.cpp:199
+#: main.cpp:185
 #, kde-format
 msgid ""
 "If using an already running kate instance, block until it exits, if URLs "
 "given to open."
 msgstr ""
 
-#: main.cpp:205
+#: main.cpp:191
 #, kde-format
 msgid ""
 "Only try to reuse kate instance with this pid (is ignored if start is used "
 "and another kate instance already has the given session opened)."
 msgstr ""
 
-#: main.cpp:206
+#: main.cpp:192
 #, kde-format
 msgid "pid"
 msgstr "ပီအိုင်ဒီ"
 
-#: main.cpp:211
+#: main.cpp:197
 #, kde-format
 msgid "Set encoding for the file to open."
 msgstr "ဖွင့်မည့် ဖိုင်လ်၏ ကုတ်ဝှက်စနစ်သတ်မှတ်မည်။"
 
-#: main.cpp:212
+#: main.cpp:198
 #, kde-format
 msgid "encoding"
 msgstr "ကုတ်ဝှက်စနစ်"
 
-#: main.cpp:216
+#: main.cpp:202
 #, kde-format
 msgid "Navigate to this line."
 msgstr ""
 
-#: main.cpp:216
+#: main.cpp:202
 #, kde-format
 msgid "line"
 msgstr "စာကြောင်း"
 
-#: main.cpp:221
+#: main.cpp:207
 #, kde-format
 msgid "Navigate to this column."
 msgstr ""
 
-#: main.cpp:222
+#: main.cpp:208
 #, kde-format
 msgid "column"
 msgstr "တိုင်"
 
-#: main.cpp:226
+#: main.cpp:212
 #, kde-format
 msgid "Read the contents of stdin."
 msgstr "stdinရှိဒေတာများကို ဖတ်မည်။"
 
-#: main.cpp:231
+#: main.cpp:217
 #, kde-format
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 
-#: main.cpp:235
+#: main.cpp:221
 #, kde-format
 msgid "Documents to open."
 msgstr "ဖွင့်ရမည့် မှတ်တမ်းပုံနှိပ်မူများ။"
 
-#: main.cpp:235
+#: main.cpp:221
 #, kde-format
 msgid "[urls...]"
 msgstr "[ယူအာအယ်...]"
