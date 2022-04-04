@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kxmlgui\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-15 00:41+0000\n"
+"POT-Creation-Date: 2022-04-04 00:41+0000\n"
 "PO-Revision-Date: 2021-09-20 02:06+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -410,48 +410,78 @@ msgstr "ဗားရှင်းမသတ်မှတ်ထား (ပရို�
 msgid "OS:"
 msgstr "စီမံစနစ် -"
 
-#: kbugreport.cpp:219
+#: kbugreport.cpp:214
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@info:tooltip %1 is the tooltip of an action, %2 is its keyboard shorcut"
+#| msgid "%1 (%2)"
+msgctxt ""
+"%1 is the operating system name, e.g. 'Windows 10', %2 is the CPU "
+"architecture, e.g. 'x86_64'"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: kbugreport.cpp:221
+#, kde-format
+msgctxt ""
+"%1 is the operating system name, e.g. 'Fedora Linux', %2 is the operating "
+"system version, e.g. '35', %3 is the CPU architecture, e.g. 'x86_64'"
+msgid "%1 %2 (%3)"
+msgstr ""
+
+#: kbugreport.cpp:227
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@info:tooltip %1 is the tooltip of an action, %2 is its keyboard shorcut"
+#| msgid "%1 (%2)"
+msgctxt ""
+"%1 is the operating system name, e.g. 'Fedora Linux', %2 is the CPU "
+"architecture, e.g. 'x86_64'"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: kbugreport.cpp:239
 #, kde-format
 msgctxt "@title:group"
 msgid "Se&verity"
 msgstr "&vသက်ရောက်မှု"
 
-#: kbugreport.cpp:226
+#: kbugreport.cpp:246
 #, kde-format
 msgctxt "bug severity"
 msgid "Critical"
 msgstr "အလွန်ပြင်းထန်"
 
-#: kbugreport.cpp:227
+#: kbugreport.cpp:247
 #, kde-format
 msgctxt "bug severity"
 msgid "Grave"
 msgstr "သိသိသာသာပြင်းထန်"
 
-#: kbugreport.cpp:228
+#: kbugreport.cpp:248
 #, kde-format
 msgctxt "bug severity"
 msgid "Normal"
 msgstr "အနည်းငယ်ပြင်းထန်"
 
-#: kbugreport.cpp:229
+#: kbugreport.cpp:249
 #, kde-format
 msgctxt "bug severity"
 msgid "Wishlist"
 msgstr "ဆန္ဒပြု"
 
-#: kbugreport.cpp:230
+#: kbugreport.cpp:250
 #, kde-format
 msgctxt "bug severity"
 msgid "Translation"
 msgstr "ဘာသာပြန်"
 
-#: kbugreport.cpp:248
+#: kbugreport.cpp:268
 #, kde-format
 msgid "S&ubject: "
 msgstr "&uအကြောင်းအရာ - "
 
-#: kbugreport.cpp:257
+#: kbugreport.cpp:277
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -462,7 +492,7 @@ msgstr ""
 "အစီရင်ခံစာတင်ရန် ရေးသားပါ(ဖြစ်နိုင်လျှင် အင်္ဂလိပ်ဘာသာဖြင့်)\n"
 "\"ပို့\"ခလုတ်ကိုနှိပ်ပါက ဤပရိုဂရမ်ထိန်းသိမ်းသူဆီ မေးလ်ပို့လိမ့်မည်။\n"
 
-#: kbugreport.cpp:280
+#: kbugreport.cpp:300
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -474,7 +504,7 @@ msgstr ""
 "bugs.kde.org\">https://bugs.kde.org</a> တွင် ပွင့်လာမည်။ အထက်တွင်ဖော်ပြထားသော "
 "အချက်အလက်များ ထိုဆာဗာသို့ လွှဲပြောင်းသွားမည်။</qt>"
 
-#: kbugreport.cpp:286
+#: kbugreport.cpp:306
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -483,32 +513,32 @@ msgstr ""
 "<qt>ဆော့ဖ်လ်ဝဲလ်ပြစ်ချက်အစီရင်ခံစာတင်ပြရန် ခလုတ်ကိုနှိပ်ပါ။ ဘရောက်ဇာဝင်းဒိုးသည် <a href=\"%1\">%2</"
 "a> တွင် ပွင့်လာမည်။</qt>"
 
-#: kbugreport.cpp:303
+#: kbugreport.cpp:323
 #, kde-format
 msgctxt "@action:button"
 msgid "&Launch Bug Report Wizard"
 msgstr "&Lဆော့လ်ဖ်ဝဲလ်ပြစ်ချက်အစီအရင်ခံစာ ဝစ်ဇ စတင်ရန်"
 
-#: kbugreport.cpp:305
+#: kbugreport.cpp:325
 #, kde-format
 msgctxt "@action:button"
 msgid "&Submit Bug Report"
 msgstr "&Sဆော့လ်ဖ်ဝဲလ်ပြစ်ချက်အစီအရင်ခံစာတင်ရန်"
 
-#: kbugreport.cpp:360
+#: kbugreport.cpp:380
 #, kde-format
 msgctxt "The arg is the command kcmshell5"
 msgid "Could not find '%1' executable in PATH."
 msgstr ""
 
-#: kbugreport.cpp:410
+#: kbugreport.cpp:430
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr "အစီအရင်ခံစာ ပို့ရန် အကြောင်းအရာနှင့် ဖေါ်ပြချက် သေချာပေါက်ရေးသားထားရမည်။"
 
-#: kbugreport.cpp:419
+#: kbugreport.cpp:439
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -527,7 +557,7 @@ msgstr ""
 "<p>သင်တင်ပြသော ပြစ်ချက်သည် အထက်ပါထိခိုက်မှုများဖြစ်စေပါသလား။ မဖြစ်ဘူးဆိုလျှင် ပိုနိမ့်သော "
 "သက်ရောက်မှုရွေးချယ်ပါ။ ကျေးဇူးတင်ပါသည်။</p>"
 
-#: kbugreport.cpp:435
+#: kbugreport.cpp:455
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -545,7 +575,7 @@ msgstr ""
 "<p>သင်တင်ပြသော ပြစ်ချက်သည် အထက်ပါထိခိုက်မှုများဖြစ်စေပါသလား။ မဖြစ်ဘူးဆိုလျှင် ပိုနိမ့်သော "
 "သက်ရောက်မှုရွေးချယ်ပါ။ ကျေးဇူးတင်ပါသည်။</p>"
 
-#: kbugreport.cpp:454
+#: kbugreport.cpp:474
 #, kde-format
 msgid ""
 "Unable to send the bug report.\n"
@@ -556,12 +586,12 @@ msgstr ""
 "ကျေးဇူးပြု၍ ၎င်းအစီရင်ခံစာကို ကိုယ်တင်တင်ပြပါ...\n"
 "ညွှန်ကြားချက်များကို https://bugs.kde.org/ တွင်ရယူပါ။"
 
-#: kbugreport.cpp:461
+#: kbugreport.cpp:481
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "ဆော့ဖ်လ်ဝဲလ်အစီအရင်ခံစာပို့ပြီးပါပြီ၊ ပူးပေါင်းပါဝင်မှုအတွက် ကျေးဇူးတင်ပါသည်။"
 
-#: kbugreport.cpp:469
+#: kbugreport.cpp:489
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -570,7 +600,7 @@ msgstr ""
 "တည်းဖြတ်ထားသည့်အမှာစကား\n"
 "စွန့်ပစ်၍ ပိတ်မည်လား။"
 
-#: kbugreport.cpp:470
+#: kbugreport.cpp:490
 #, kde-format
 msgctxt "@title:window"
 msgid "Close Message"
