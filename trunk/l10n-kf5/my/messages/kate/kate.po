@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-08 00:49+0000\n"
+"POT-Creation-Date: 2022-04-10 00:48+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -633,19 +633,7 @@ msgid ""
 "loaded, and will be loaded again the next time Kate is started."
 msgstr ""
 
-#: ../lib/katedocmanager.cpp:222
-#, kde-format
-msgid ""
-"The supposedly temporary file %1 has been modified. Do you want to delete it "
-"anyway?"
-msgstr ""
-
-#: ../lib/katedocmanager.cpp:225
-#, kde-format
-msgid "Delete File?"
-msgstr "ဖိုင်လ် ဖျက်မည်လား။"
-
-#: ../lib/katedocmanager.cpp:333
+#: ../lib/katedocmanager.cpp:297
 #, kde-format
 msgid ""
 "<p>The document '%1' has been modified, but not saved.</p><p>Do you want to "
@@ -654,32 +642,32 @@ msgstr ""
 "<p>မှတ်တမ်းပုံနှိပ်မူ '%1' ကိုမွမ်းမံထားသော်လည်း မသိမ်းဆည်းရသေးပါ။</p><p>မွမ်းမံမှုများကို "
 "သိမ်းဆည်းမှာလား၊ စွန့်ပစ်မှာလား။</p>"
 
-#: ../lib/katedocmanager.cpp:336
+#: ../lib/katedocmanager.cpp:300
 #, kde-format
 msgid "Close Document"
 msgstr "မှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
 
-#: ../lib/katedocmanager.cpp:345
+#: ../lib/katedocmanager.cpp:309
 #, kde-format
 msgid "Save As"
 msgstr "အဖြစ်သိမ်းဆည်းမည်"
 
-#: ../lib/katedocmanager.cpp:363 ../lib/katemainwindow.cpp:588
+#: ../lib/katedocmanager.cpp:327 ../lib/katemainwindow.cpp:588
 #, kde-format
 msgid "New file opened while trying to close Kate, closing aborted."
 msgstr "ကိတ် ကိုပိတ်ရန် ကြိုးစားစဥ် ဖိုင်လ်အသစ်ဖွင့်ခဲ့သောကြောင့် ပိတ်ခြင်းကို စွန့်ပယ်ခဲ့သည်။"
 
-#: ../lib/katedocmanager.cpp:363 ../lib/katemainwindow.cpp:588
+#: ../lib/katedocmanager.cpp:327 ../lib/katemainwindow.cpp:588
 #, kde-format
 msgid "Closing Aborted"
 msgstr "ပိတ်ခြင်းကို စွန့်ပယ်ခဲ့သည်"
 
-#: ../lib/katedocmanager.cpp:441
+#: ../lib/katedocmanager.cpp:405
 #, kde-format
 msgid "Starting Up"
 msgstr "စတင်နေသည်"
 
-#: ../lib/katedocmanager.cpp:442
+#: ../lib/katedocmanager.cpp:406
 #, kde-format
 msgid "Reopening files from the last session..."
 msgstr ""
@@ -1507,7 +1495,7 @@ msgstr ""
 msgid "Opening Large File"
 msgstr "ကြီးမားသောဖိုင်လ်ဖွင့်နေသည်"
 
-#: ../lib/kateviewmanager.cpp:997
+#: ../lib/kateviewmanager.cpp:991
 #, kde-format
 msgid "This view may have unsaved work. Do you really want to close it?"
 msgstr ""
@@ -1962,6 +1950,9 @@ msgstr "ဖွင့်ရမည့် မှတ်တမ်းပုံနှ�
 #, kde-format
 msgid "[urls...]"
 msgstr "[ယူအာအယ်...]"
+
+#~ msgid "Delete File?"
+#~ msgstr "ဖိုင်လ် ဖျက်မည်လား။"
 
 #~ msgid "&Command Bar"
 #~ msgstr "&Cအမိန့်ပေး-တန်း"
