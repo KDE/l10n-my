@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-10 00:48+0000\n"
+"POT-Creation-Date: 2022-04-19 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 03:51+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -999,12 +999,12 @@ msgstr ""
 msgid "Save Session &As..."
 msgstr ""
 
-#: ../lib/katemainwindow.cpp:496
+#: ../lib/katemainwindow.cpp:496 ../lib/kateviewspace.cpp:60
 #, kde-format
 msgid "Go to Previous Location"
 msgstr ""
 
-#: ../lib/katemainwindow.cpp:504
+#: ../lib/katemainwindow.cpp:504 ../lib/kateviewspace.cpp:73
 #, kde-format
 msgid "Go to Next Location"
 msgstr ""
@@ -1501,16 +1501,6 @@ msgstr "ဖိုင်လ်ဖွင့်မည်"
 #: ../lib/kateviewmanager.cpp:991
 #, kde-format
 msgid "This view may have unsaved work. Do you really want to close it?"
-msgstr ""
-
-#: ../lib/kateviewspace.cpp:60
-#, kde-format
-msgid "Go to previous edit location"
-msgstr ""
-
-#: ../lib/kateviewspace.cpp:73
-#, kde-format
-msgid "Go to next edit location"
 msgstr ""
 
 #: ../lib/kateviewspace.cpp:100
