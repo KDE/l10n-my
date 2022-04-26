@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-05-18 00:18+0000\n"
+"POT-Creation-Date: 2022-04-26 00:43+0000\n"
 "PO-Revision-Date: 2021-09-19 13:25+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -31,6 +31,6 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.pix.appdata.xml:19
+#: org.kde.pix.appdata.xml:17
 msgid "The Pix music player"
 msgstr ""

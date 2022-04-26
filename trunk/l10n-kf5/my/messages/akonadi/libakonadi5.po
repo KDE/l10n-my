@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akonadi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-01 00:52+0000\n"
+"POT-Creation-Date: 2022-04-26 00:45+0000\n"
 "PO-Revision-Date: 2021-09-27 23:52+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -716,8 +716,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: widgets/cachepolicypage.ui:118
 #, kde-format
-msgid "Store emails locally:"
-msgstr "အီးမေးလ်များကို စက်တွင်းသိမ်းဆည်းမည် -"
+msgid "Keep message bodies locally for:"
+msgstr ""
 
 #. i18n: ectx: property (specialValueText), widget (QSpinBox, localCacheTimeout)
 #: widgets/cachepolicypage.ui:130
@@ -2388,6 +2388,9 @@ msgstr "ဒေတာဖိုင်လ်ကို အဓိပ္ပါယ်�
 #, kde-format
 msgid "Unable to find collection %1"
 msgstr "စုစည်းမှု %1 ကိုမရှာနိုင်ခဲ့ပါ"
+
+#~ msgid "Store emails locally:"
+#~ msgstr "အီးမေးလ်များကို စက်တွင်းသိမ်းဆည်းမည် -"
 
 #~ msgid "&Move here"
 #~ msgstr "&Mဤနေရာသို့ရွေ့ယူရန်"
