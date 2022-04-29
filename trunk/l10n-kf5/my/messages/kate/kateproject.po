@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-28 00:47+0000\n"
+"POT-Creation-Date: 2022-04-29 00:47+0000\n"
 "PO-Revision-Date: 2021-09-15 03:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -220,11 +220,10 @@ msgstr "လုပ်ဆောင်မှုပယ်ဖျက်မည်"
 msgid " canceled."
 msgstr " ပယ်ဖျက်ခဲ့သည်။"
 
-#: gitwidget.cpp:260
-#, fuzzy, kde-format
-#| msgid "Open Folder..."
-msgid "Type to filter..."
-msgstr "ဖိုလ်ဒါ ဖွင့်မည်..."
+#: gitwidget.cpp:260 kateprojectview.cpp:69
+#, kde-format
+msgid "Filter..."
+msgstr "စစ်ထုတ်မည်..."
 
 #: gitwidget.cpp:333
 #, kde-format
@@ -964,11 +963,6 @@ msgstr "ဖိုင်လ် \"%1\" ကို သင်တကယ်ဖျက်
 msgid "Checkout Git Branch"
 msgstr "ဂစ်-ကုတ်ကိုင်း ပြောင်းလဲမည်"
 
-#: kateprojectview.cpp:69
-#, kde-format
-msgid "Filter..."
-msgstr "စစ်ထုတ်မည်..."
-
 #: kateprojectviewtree.cpp:134
 #, kde-format
 msgid "Failed to create file: %1, Error: %2"
@@ -1044,3 +1038,8 @@ msgstr ""
 #, kde-format
 msgid "&Projects"
 msgstr "&Pပရောဂျက်များ"
+
+#, fuzzy
+#~| msgid "Open Folder..."
+#~ msgid "Type to filter..."
+#~ msgstr "ဖိုလ်ဒါ ဖွင့်မည်..."
