@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-15 02:41+0100\n"
+"POT-Creation-Date: 2022-05-04 00:49+0000\n"
 "PO-Revision-Date: 2021-09-13 20:54+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -58,8 +58,11 @@ msgstr "မြင်ကွင်းပိတ်မည်"
 msgid "Closes the selected view in the list of last used views."
 msgstr "နောက်ဆုံးသုံးခဲ့သော မြင်ကွင်းများမှ ရွေးထားသော မြင်ကွင်းကိုပိတ်မည်။"
 
-#. i18n: ectx: Menu (view)
+#. i18n: ectx: Menu (go)
 #: ui.rc:6
 #, kde-format
-msgid "&View"
-msgstr "&Vမြင်ကွင်း"
+msgid "&Go"
+msgstr ""
+
+#~ msgid "&View"
+#~ msgstr "&Vမြင်ကွင်း"

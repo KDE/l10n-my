@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-21 00:47+0000\n"
+"POT-Creation-Date: 2022-05-04 00:49+0000\n"
 "PO-Revision-Date: 2021-09-15 05:42+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -70,11 +70,14 @@ msgstr "မပေးပို့ရသေးပါ"
 msgid "Commit"
 msgstr ""
 
-#. i18n: ectx: Menu (view)
+#. i18n: ectx: Menu (tools)
 #: ui.rc:6
 #, kde-format
-msgid "&View"
-msgstr "&Vမြင်ကွင်း"
+msgid "&Tools"
+msgstr ""
+
+#~ msgid "&View"
+#~ msgstr "&Vမြင်ကွင်း"
 
 #, fuzzy
 #~| msgid "Show Git Blame Details"

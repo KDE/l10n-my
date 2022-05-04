@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-29 00:47+0000\n"
+"POT-Creation-Date: 2022-05-04 00:49+0000\n"
 "PO-Revision-Date: 2021-09-15 03:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -235,7 +235,7 @@ msgid "..."
 msgstr "..."
 
 #. i18n: ectx: property (text), widget (QPushButton, replaceButton)
-#: search.ui:192 SearchPlugin.cpp:493
+#: search.ui:192 SearchPlugin.cpp:494
 #, kde-format
 msgid "Replace"
 msgstr "အစားထိုးမည်"
@@ -516,120 +516,133 @@ msgid "Kate Search & Replace"
 msgstr "ကိတ်"
 
 #: SearchPlugin.cpp:337
-#, kde-format
-msgid "Search in Files"
-msgstr "ဖိုင်လ်များတွင် ရှာမည်"
+#, fuzzy, kde-format
+msgid "Find in Files"
+msgstr ""
+"ဤအပ္ပလီကေးရှင်းကို စတင်ရန် အမိန့် ရိုက်ထည့်ပါ။\n"
+"\n"
+"အမိန့်နောက်တွင် ပရိုဂရမ် မောင်းနှင်ချိန်တွင် တကယ်တန်ဖိုးများနှင့် အစားထိုးမည်ဖြစ်သော "
+"နေရာယူထားမှုအများအပြားလိုက်နိုင်သည်-\n"
+"\n"
+"%f - ဖိုင်လ်အမည်တစ်ခု\n"
+"%F - ဖိုင်လ်စာရင်း (ဖိုင်လ်အများအပြား တစ်ပြိုင်တည်း ဖွင့်နိုင်သည့် ပရိုဂရမ်းများအတွက်သာ)\n"
+"%u - ယူအာအယ်လ်တစ်ခုတည်း\n"
+"%U - ယူအာအယ်လ်စာရင်း\n"
+"%i - .desktop ဖိုင်လ်၏ ဝတ္တူ-မြင်ကွင်း\n"
+"%c - .desktop ဖိုင်လ်၏အမည်\n"
+"%k - .desktop ဖိုင်လ်၏တည်နေရာ"
 
-#: SearchPlugin.cpp:341
-#, kde-format
-msgid "Search in Files (in new tab)"
+#: SearchPlugin.cpp:342
+#, fuzzy, kde-format
+#| msgid "Search in Files (in new tab)"
+msgid "Find in Files (in new tab)"
 msgstr "ဖိုင်လ်များတွင် ရှာမည် (တပ်ဘ်အသစ်ဖြင့်)"
 
-#: SearchPlugin.cpp:347
+#: SearchPlugin.cpp:348
 #, fuzzy, kde-format
 msgid "Go to Next Match"
 msgstr "နောက်စာမျက်နှာသို့"
 
-#: SearchPlugin.cpp:352
+#: SearchPlugin.cpp:353
 #, fuzzy, kde-format
 msgid "Go to Previous Match"
 msgstr "ရှေ့စာမျက်နှာသို့"
 
-#: SearchPlugin.cpp:380
+#: SearchPlugin.cpp:381
 #, kde-format
 msgid ""
 "Comma separated list of file types to search in. Example: \"*.cpp,*.h\"\n"
 msgstr ""
 
-#: SearchPlugin.cpp:381
+#: SearchPlugin.cpp:382
 #, kde-format
 msgid ""
 "Comma separated list of files and directories to exclude from the search. "
 "Example: \"build*\""
 msgstr ""
 
-#: SearchPlugin.cpp:383
+#: SearchPlugin.cpp:384
 #, kde-format
 msgid "Click to filter through results"
 msgstr ""
 
-#: SearchPlugin.cpp:473
+#: SearchPlugin.cpp:474
 #, kde-format
 msgid "Find"
 msgstr "ရှာဖွေမည်"
 
-#: SearchPlugin.cpp:1222
+#: SearchPlugin.cpp:1223
 #, kde-format
 msgid "Searching while you type was interrupted. It would have taken too long."
 msgstr ""
 
-#: SearchPlugin.cpp:1564
+#: SearchPlugin.cpp:1565
 #, fuzzy, kde-format
 msgid "Search Match"
 msgstr "ပေါင်းလဒ်စစ်တမ်းများ ကိုက်ညီသည်။"
 
-#: SearchPlugin.cpp:1747 SearchPlugin.cpp:1824
+#: SearchPlugin.cpp:1748 SearchPlugin.cpp:1825
 #, fuzzy, kde-format
 msgid "Next from cursor"
 msgstr "&Nကျော် >>"
 
-#: SearchPlugin.cpp:1764
+#: SearchPlugin.cpp:1765
 #, kde-format
 msgid "Starting from first match"
 msgstr ""
 
-#: SearchPlugin.cpp:1784
+#: SearchPlugin.cpp:1785
 #, kde-format
 msgid "Continuing from first match"
 msgstr ""
 
-#: SearchPlugin.cpp:1841
+#: SearchPlugin.cpp:1842
 #, kde-format
 msgid "Starting from last match"
 msgstr ""
 
-#: SearchPlugin.cpp:1861
+#: SearchPlugin.cpp:1862
 #, kde-format
 msgid "Continuing from last match"
 msgstr ""
 
-#: SearchPlugin.cpp:2132
+#: SearchPlugin.cpp:2133
 #, kde-format
 msgid "Copy all"
 msgstr "အားလုံးကူးယူမည်"
 
-#: SearchPlugin.cpp:2137
+#: SearchPlugin.cpp:2138
 #, fuzzy, kde-format
 msgid "Copy expanded"
 msgstr "သို့ကူးယူရန်"
 
-#: SearchPlugin.cpp:2140
+#: SearchPlugin.cpp:2141
 #, fuzzy, kde-format
 msgid "Export matches"
 msgstr "ထုတ်ပို့မည်..."
 
-#: SearchPlugin.cpp:2145
+#: SearchPlugin.cpp:2146
 #, kde-format
 msgid "Clear"
 msgstr ""
 
-#: SearchPlugin.cpp:2253 SearchPlugin.cpp:2287
+#: SearchPlugin.cpp:2254 SearchPlugin.cpp:2288
 #, kde-format
 msgid "Add..."
 msgstr "ထည့်သွင်းမည်..."
 
-#: SearchPlugin.cpp:2265
+#: SearchPlugin.cpp:2266
 #, fuzzy, kde-format
 #| msgid "Search More"
 msgid "Search As You Type"
 msgstr "နောက်ထပ်ရှာဖွေမည်"
 
-#: SearchPlugin.cpp:2336
+#: SearchPlugin.cpp:2337
 #, fuzzy, kde-format
 msgid "In Current Project"
 msgstr "လက်ရှိ ပရောဂျက်"
 
-#: SearchPlugin.cpp:2338
+#: SearchPlugin.cpp:2339
 #, fuzzy, kde-format
 msgid "In All Open Projects"
 msgstr "ပရောဂျက် အားလုံး"
@@ -643,8 +656,14 @@ msgstr "&Eတည်းဖြတ်"
 #. i18n: ectx: Menu (search_more)
 #: ui.rc:9
 #, kde-format
-msgid "Search More"
-msgstr "နောက်ထပ်ရှာဖွေမည်"
+msgid "Find in Files Variants"
+msgstr ""
+
+#~ msgid "Search in Files"
+#~ msgstr "ဖိုင်လ်များတွင် ရှာမည်"
+
+#~ msgid "Search More"
+#~ msgstr "နောက်ထပ်ရှာဖွေမည်"
 
 #~ msgid "Search and Replace"
 #~ msgstr "ရှာပြီး အစားထိုးမည်"
