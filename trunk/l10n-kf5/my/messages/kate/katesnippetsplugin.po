@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-26 00:47+0000\n"
+"POT-Creation-Date: 2022-05-06 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 04:32+0630\n"
 "Last-Translator: \n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -212,7 +212,7 @@ msgstr "စာအတိုအထွာ %1 ထည့်သွင်းမည်"
 msgid "<empty repository>"
 msgstr "<ဗလာ ရီပိုစစ်တိုရီ>"
 
-#: snippetrepository.cpp:230
+#: snippetrepository.cpp:232
 #, kde-format
 msgid ""
 "You have edited a snippet repository file not located in your personal "
@@ -220,40 +220,40 @@ msgid ""
 "personal data directory."
 msgstr ""
 
-#: snippetrepository.cpp:236
+#: snippetrepository.cpp:238
 #, kde-format
 msgid "Output file '%1' could not be opened for writing"
 msgstr "ရေးရန်အတွက် အထုတ်ဖိုင်လ် '%1' ကို ဖွင့်မရနိုင်ခဲ့ပါ"
 
-#: snippetrepository.cpp:271
+#: snippetrepository.cpp:273
 #, kde-format
 msgid "Cannot open snippet repository %1."
 msgstr ""
 
-#: snippetrepository.cpp:284
+#: snippetrepository.cpp:286
 #, kde-format
 msgid ""
 "<qt>The error <b>%4</b><br /> has been detected in the file %1 at %2/%3</qt>"
 msgstr ""
 
-#: snippetrepository.cpp:291
+#: snippetrepository.cpp:293
 #, kde-format
 msgid "Invalid XML snippet file: %1"
 msgstr ""
 
-#: snippetrepository.cpp:353
+#: snippetrepository.cpp:355
 #, kde-format
 msgid ""
 "Repository is disabled, the contained snippets will not be shown during code-"
 "completion."
 msgstr ""
 
-#: snippetrepository.cpp:356
+#: snippetrepository.cpp:358
 #, kde-format
 msgid "Applies to all filetypes"
 msgstr "ဖိုင်လ်အမျိုးအစားအားလုံးကို သက်ရောက်စေမည်"
 
-#: snippetrepository.cpp:358
+#: snippetrepository.cpp:360
 #, kde-format
 msgid "Applies to the following filetypes: %1"
 msgstr ""
