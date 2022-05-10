@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-07 00:42+0000\n"
+"POT-Creation-Date: 2022-05-10 00:41+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -3217,27 +3217,27 @@ msgctxt "Huge icon size"
 msgid "Huge (%1x%1)"
 msgstr "အလွန်ကြီး (%1x%1)"
 
-#: filewidgets/kfilewidget.cpp:647
+#: filewidgets/kfilewidget.cpp:645
 #, kde-format
 msgid "You can only select one file"
 msgstr "တစ်ဖိုင်လ်သာရွေးနိုင်သည်"
 
-#: filewidgets/kfilewidget.cpp:647
+#: filewidgets/kfilewidget.cpp:645
 #, kde-format
 msgid "More than one file provided"
 msgstr "တစ်ခုထက်ပိုသောဖိုင်လ်ပေးထားသည်"
 
-#: filewidgets/kfilewidget.cpp:820
+#: filewidgets/kfilewidget.cpp:818
 #, kde-format
 msgid "You can only select local files"
 msgstr "စက်တွင်းဖိုင်လ်များသာရွေးနိုင်သည်"
 
-#: filewidgets/kfilewidget.cpp:820
+#: filewidgets/kfilewidget.cpp:818
 #, kde-format
 msgid "Remote files not accepted"
 msgstr "အဝေးဖိုင်လ်များလက်မခံပါ"
 
-#: filewidgets/kfilewidget.cpp:827
+#: filewidgets/kfilewidget.cpp:825
 #, kde-format
 msgid ""
 "The selected URL uses an unsupported scheme. Please use the following "
@@ -3248,12 +3248,12 @@ msgid_plural ""
 msgstr[0] ""
 "ရွေးချယ်ထားသော ယူအာအယ်လ်သည် မထောက်ပံ့ထားသည့် အစီအစဥ်ပြပုံ သုံးထားသည်။ နောက်ပါ အစီအစဥ်ပြပုံ သုံးပါ- %2"
 
-#: filewidgets/kfilewidget.cpp:833
+#: filewidgets/kfilewidget.cpp:831
 #, kde-format
 msgid "Unsupported URL scheme"
 msgstr "အသုံးပြု၍မရသော ယူအာအယ်လ်အစီအစဥ်ပုံ"
 
-#: filewidgets/kfilewidget.cpp:849
+#: filewidgets/kfilewidget.cpp:847
 #, kde-format
 msgid ""
 "More than one folder has been selected and this dialog does not accept "
@@ -3263,12 +3263,12 @@ msgstr ""
 "တစ်ခုထက်ပိုသောဖိုလ်ဒါများ ရွေးချယ်ထားသည်။ သို့သော် ဤအပြော-ဝင်းဒိုးသည် ဖိုလ်ဒါများ လက်မခံပါ။ ထို့ကြောင့် "
 "ဘယ်ဖိုလ်ဒါသုံးရမည်ကို ဆုံးဖြတ်နိုင်ခြင်းမရှိပါ။ ကျေးဇူးပြ၍ ဖိုလ်ဒါတစ်ခုသာ ရွေးချယ်ပါ။"
 
-#: filewidgets/kfilewidget.cpp:851
+#: filewidgets/kfilewidget.cpp:849
 #, kde-format
 msgid "More than one folder provided"
 msgstr "တစ်ခုထက်ပိုသောဖိုလ်ဒါပေးထားသည်"
 
-#: filewidgets/kfilewidget.cpp:861
+#: filewidgets/kfilewidget.cpp:859
 #, kde-format
 msgid ""
 "At least one folder and one file has been selected. Selected files will be "
@@ -3277,17 +3277,17 @@ msgstr ""
 "အနည်းဆုံး ဖိုင်နှင့် ဖိုလ်ဒါတစ်ခုဆီ ရွေးချယ်ထားသည်။ ရွေးချယ်ထားမှုများအနက် ဖိုင်လ်များကို လစ်လျူရှုပြီး "
 "ဖိုလ်ဒါကိုသာ စာရင်းပြမည်"
 
-#: filewidgets/kfilewidget.cpp:862
+#: filewidgets/kfilewidget.cpp:860
 #, kde-format
 msgid "Files and folders selected"
 msgstr "ဖိုင််လ်နှင့်ဖိုလ်ဒါများ ရွေးချယ်ထားသည်"
 
-#: filewidgets/kfilewidget.cpp:880
+#: filewidgets/kfilewidget.cpp:878
 #, kde-format
 msgid "The file \"%1\" could not be found"
 msgstr "\"%1\" ဖိုင်လ်ကိုရှာမတွေ့နိုင်ခဲ့ပါ"
 
-#: filewidgets/kfilewidget.cpp:880
+#: filewidgets/kfilewidget.cpp:878
 #, kde-format
 msgid "Cannot open file"
 msgstr "ဖိုင်လ်ဖွင့်မရပါ"
