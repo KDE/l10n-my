@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-shelf\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-12 00:43+0000\n"
+"POT-Creation-Date: 2022-05-13 00:45+0000\n"
 "PO-Revision-Date: 2021-09-19 13:19+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,27 +18,27 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#: src/main.cpp:48
+#: src/main.cpp:49
 #, kde-format
 msgid "Shelf"
 msgstr ""
 
-#: src/main.cpp:48
+#: src/main.cpp:49
 #, kde-format
 msgid "Browse and view your documents."
 msgstr ""
 
-#: src/main.cpp:48
+#: src/main.cpp:49
 #, kde-format
 msgid "© 2019-%1 Maui Development Team"
 msgstr ""
 
-#: src/main.cpp:49
+#: src/main.cpp:50
 #, kde-format
 msgid "Camilo Higuita"
 msgstr "ခမီလိုဟီဂီတာ"
 
-#: src/main.cpp:49
+#: src/main.cpp:50
 #, kde-format
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
@@ -89,7 +89,7 @@ msgstr "ဖွင့်မည်"
 msgid "Add sources"
 msgstr ""
 
-#: src/views/library/LibraryView.qml:77
+#: src/views/library/LibraryView.qml:77 src/views/library/LibraryView.qml:370
 #, kde-format
 msgid "Open"
 msgstr "ဖွင့်မည်"
@@ -144,17 +144,17 @@ msgstr ""
 msgid "Filter..."
 msgstr ""
 
-#: src/views/library/LibraryView.qml:370
+#: src/views/library/LibraryView.qml:384
 #, kde-format
 msgid "Tag"
 msgstr "တပ်ဂ်"
 
-#: src/views/library/LibraryView.qml:380 src/views/Viewer/Viewer.qml:97
+#: src/views/library/LibraryView.qml:394 src/views/Viewer/Viewer.qml:97
 #, kde-format
 msgid "Share"
 msgstr "ဝေမျှမည်"
 
-#: src/views/library/LibraryView.qml:386
+#: src/views/library/LibraryView.qml:400
 #, kde-format
 msgid "Export"
 msgstr "တင်ပို့မည်"

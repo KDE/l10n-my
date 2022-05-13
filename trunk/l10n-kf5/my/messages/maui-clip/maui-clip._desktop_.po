@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-18 00:53+0000\n"
+"POT-Creation-Date: 2022-05-13 00:55+0000\n"
 "PO-Revision-Date: 2021-09-15 21:21+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,12 @@ msgctxt "Name"
 msgid "Clip"
 msgstr "ကလစ်"
 
-#: src/org.kde.clip.desktop:33
+#: src/org.kde.clip.desktop:29
+msgctxt "Comment"
+msgid "Play your videos"
+msgstr ""
+
+#: src/org.kde.clip.desktop:34
 msgctxt "GenericName"
 msgid "Video Player"
 msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"

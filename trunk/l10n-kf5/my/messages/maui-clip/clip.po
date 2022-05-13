@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-clip\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-02 00:43+0000\n"
+"POT-Creation-Date: 2022-05-13 00:44+0000\n"
 "PO-Revision-Date: 2021-09-15 21:44+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -69,7 +69,7 @@ msgstr "ခမီလိုဟီဂီတာ"
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:103 src/main.qml:235
+#: src/main.qml:103 src/main.qml:236
 #, kde-format
 msgid "Open URL"
 msgstr "ယူအာအယ်လ် ဖွင့်မည်"
@@ -108,48 +108,43 @@ msgstr "ဖိုင်လ် %1ခု ကို သင်တကယ်ဖျက�
 msgid "Now playing"
 msgstr "ယခုဖွင့်ပြနေသည်"
 
-#: src/main.qml:222
+#: src/main.qml:223
 #, kde-format
 msgid "Open"
 msgstr "ဖွင့်"
 
-#: src/main.qml:246
+#: src/main.qml:247
 #, kde-format
 msgid "Settings"
 msgstr "ဆက်တင်"
 
-#: src/main.qml:254
+#: src/main.qml:255
 #, kde-format
 msgid "About"
 msgstr "အကြောင်း"
 
-#: src/main.qml:262 src/main.qml:382 src/views/settings/SettingsDialog.qml:56
+#: src/main.qml:263 src/main.qml:379 src/views/settings/SettingsDialog.qml:56
 #, kde-format
 msgid "Collection"
 msgstr "စုစည်းမှု"
 
-#: src/main.qml:269 src/views/ItemMenu.qml:31
+#: src/main.qml:270 src/views/ItemMenu.qml:31
 #, kde-format
 msgid "Tags"
 msgstr "တပ်ဂ်များ"
 
-#: src/main.qml:299
-#, kde-format
-msgid "Player"
-msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
-
-#: src/main.qml:360 src/views/youtube/YouTubeView.qml:26
+#: src/main.qml:358 src/views/youtube/YouTubeView.qml:26
 #, kde-format
 msgid "Nothing Here!"
 msgstr "ဘာမှမရှိ။"
 
-#: src/main.qml:361
+#: src/main.qml:359
 #, fuzzy, kde-format
 #| msgid "Open a new video to start playing or add it to the playlist."
 msgid "Open a new video from your collection or file system."
 msgstr "ဖွင့်ပြရန် ဗီဒီယိုအသစ်တစ်ခု ဖွင့်ပါ သို့ ဖွင့်မည့်စာရင်းသို့ သွင်းပါ။"
 
-#: src/main.qml:548
+#: src/main.qml:538
 #, fuzzy, kde-format
 #| msgid "Toogle SideBar"
 msgid "Toggle SideBar"
@@ -244,7 +239,7 @@ msgstr "ဗီဒီယိုစာတန်းထိုး"
 msgid "Audio Tracks"
 msgstr "အော်ဒီယိုသံစဥ်များ"
 
-#: src/views/player/PlayerView.qml:46
+#: src/views/player/PlayerView.qml:43
 #, kde-format
 msgid "Playing mode"
 msgstr ""
@@ -452,6 +447,9 @@ msgstr "အွန်လိုင်းဗီဒီယိုများ ရှ�
 #, kde-format
 msgid "Search..."
 msgstr "ရှာရန်..."
+
+#~ msgid "Player"
+#~ msgstr "ဗီဒီယိုကြည့်ရှုကိရိယာ"
 
 #~ msgid "Configure the app UI."
 #~ msgstr "အပ်၏ ယူအိုင် ပြင်ဆင်ပါ။"
