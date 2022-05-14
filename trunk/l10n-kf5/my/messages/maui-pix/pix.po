@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-pix\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-13 00:45+0000\n"
+"POT-Creation-Date: 2022-05-14 00:43+0000\n"
 "PO-Revision-Date: 2021-09-19 13:24+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -155,15 +155,15 @@ msgstr ""
 
 #: src/view_models/PixMenu.qml:140
 #, kde-format
-msgid "Show in folder"
+msgid "Go to folder"
 msgstr ""
 
-#: src/view_models/PixMenu.qml:162
+#: src/view_models/PixMenu.qml:165
 #, kde-format
 msgid "Open location"
 msgstr ""
 
-#: src/view_models/PixMenu.qml:174 src/widgets/SelectionBar.qml:110
+#: src/view_models/PixMenu.qml:177 src/widgets/SelectionBar.qml:110
 #, kde-format
 msgid "Remove"
 msgstr ""
@@ -425,17 +425,17 @@ msgstr ""
 msgid "Add sources"
 msgstr ""
 
-#: src/widgets/views/Gallery/GalleryView.qml:61
+#: src/widgets/views/Gallery/GalleryView.qml:66
 #, kde-format
 msgid "Animated"
 msgstr ""
 
-#: src/widgets/views/Gallery/GalleryView.qml:74
+#: src/widgets/views/Gallery/GalleryView.qml:79
 #, kde-format
 msgid "Screenshots"
 msgstr ""
 
-#: src/widgets/views/Gallery/GalleryView.qml:83
+#: src/widgets/views/Gallery/GalleryView.qml:88
 #, kde-format
 msgid "Animals"
 msgstr ""
