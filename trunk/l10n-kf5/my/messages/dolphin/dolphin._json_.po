@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-25 01:00+0000\n"
+"POT-Creation-Date: 2022-05-15 01:05+0000\n"
 "PO-Revision-Date: 2021-09-16 00:03+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -12,6 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.1\n"
+
+#: src/dolphinpart.json.in
+msgctxt "Name"
+msgid "Dolphin View"
+msgstr "လင်းပိုင် မြင်ကွင်း"
 
 #: src/settings/kcm/kcmdolphingeneral.json
 #, fuzzy
@@ -54,10 +59,6 @@ msgstr "ဖိုင်လ်မန်နေဂျာ လမ်းညွှန�
 msgctxt "Description"
 msgid "Configure file manager view modes"
 msgstr "ဖိုင်လ်မန်နေဂျာ မြင်ကွင်းထုံးနည်းများ ပြင်ဆင်မည်"
-
-#~ msgctxt "Name"
-#~ msgid "Dolphin View"
-#~ msgstr "လင်းပိုင် မြင်ကွင်း"
 
 #~ msgctxt "Name"
 #~ msgid "Icons"

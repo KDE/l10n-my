@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-sol\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-20 00:17+0000\n"
+"POT-Creation-Date: 2022-05-15 00:45+0000\n"
 "PO-Revision-Date: 2021-09-14 17:59+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -44,17 +44,17 @@ msgstr ""
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:115
+#: src/main.qml:116
 #, kde-format
 msgid "Browser"
 msgstr "ဘရောက်ဇာ"
 
-#: src/main.qml:121 src/views/widgets/NavigationBar.qml:323
+#: src/main.qml:122
 #, kde-format
 msgid "Recent"
 msgstr "လတ်တလော"
 
-#: src/main.qml:129
+#: src/main.qml:130
 #, kde-format
 msgid "Home"
 msgstr "အိမ်"
@@ -109,57 +109,57 @@ msgstr ""
 msgid "Search on default search engine"
 msgstr ""
 
-#: src/views/widgets/NavigationBar.qml:263
+#: src/views/widgets/NavigationBar.qml:264
 #, kde-format
 msgid "Next"
 msgstr "နောက်"
 
-#: src/views/widgets/NavigationBar.qml:278
+#: src/views/widgets/NavigationBar.qml:279
 #, kde-format
 msgid "New Tab"
 msgstr "တပ်ဘ်အသစ်"
 
-#: src/views/widgets/NavigationBar.qml:285
+#: src/views/widgets/NavigationBar.qml:286
 #, kde-format
 msgid "Incognito Tab"
 msgstr "ကိုယ်ယောင်ဖျောက်ထားသော တပ်ဘ်"
 
-#: src/views/widgets/NavigationBar.qml:293
+#: src/views/widgets/NavigationBar.qml:294
 #, kde-format
 msgid "History"
 msgstr "မှတ်တမ်း"
 
-#: src/views/widgets/NavigationBar.qml:303
+#: src/views/widgets/NavigationBar.qml:304
 #, kde-format
 msgid "Downloads"
 msgstr "ဒေါင်းလုတ်များ"
 
-#: src/views/widgets/NavigationBar.qml:313
+#: src/views/widgets/NavigationBar.qml:314
 #, kde-format
 msgid "BookMarks"
 msgstr "စာမျက်နှာအမှတ်အသားများ"
 
-#: src/views/widgets/NavigationBar.qml:334
+#: src/views/widgets/NavigationBar.qml:328
 #, kde-format
 msgid "Share"
 msgstr "ဝေမျှမည်"
 
-#: src/views/widgets/NavigationBar.qml:340
+#: src/views/widgets/NavigationBar.qml:334
 #, kde-format
 msgid "BookMark"
 msgstr "စာမျက်နှာအမှတ်အသား"
 
-#: src/views/widgets/NavigationBar.qml:346
+#: src/views/widgets/NavigationBar.qml:340
 #, kde-format
 msgid "Find"
 msgstr "ရှာဖွေမည်"
 
-#: src/views/widgets/NavigationBar.qml:355
+#: src/views/widgets/NavigationBar.qml:350
 #, kde-format
 msgid "Settings"
 msgstr "သတ်မှတ်ချက်များ"
 
-#: src/views/widgets/NavigationBar.qml:362
+#: src/views/widgets/NavigationBar.qml:357
 #, kde-format
 msgid "About"
 msgstr "အကြောင်း"
