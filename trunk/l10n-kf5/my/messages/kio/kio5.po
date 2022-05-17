@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-13 00:42+0000\n"
+"POT-Creation-Date: 2022-05-17 00:41+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -47,7 +47,7 @@ msgstr ""
 msgid "Unable to create io-slave: %1"
 msgstr "အိုင်အို-ကျွန် - %1 ကို မဖန်တီးနိုင်ခဲ့ပါ"
 
-#: core/copyjob.cpp:165 ioslaves/file/file_unix.cpp:1289
+#: core/copyjob.cpp:165 ioslaves/file/file_unix.cpp:1274
 #, kde-format
 msgctxt ""
 "The first arg is the path to the symlink that couldn't be created, the "
@@ -2015,7 +2015,7 @@ msgstr ""
 msgid "The server was too busy responding to other requests to respond."
 msgstr "ဆာဗာသည် အခြားတောင်းခံမှုကို တုံ့ပြန်ရာ၌ မအားမလပ်ဖြစ်နေသဖြင့် မတုံ့ပြန်နိုင်သေးပါ။"
 
-#: core/job_error.cpp:1109 core/slavebase.cpp:1575
+#: core/job_error.cpp:1109 core/slavebase.cpp:1592
 #, kde-format
 msgid "Unknown Error"
 msgstr "မသိသောအမှား"
@@ -2301,127 +2301,127 @@ msgstr ""
 msgid "Unable to determine the type of file for %1"
 msgstr "%1၏ ဖိုင်လ်အမျိုးအစားကို မဆုံးဖြတ်နိုင်ပါ"
 
-#: core/slave.cpp:408
-#, kde-format
-msgid "Can not create socket for launching io-slave for protocol '%1'."
-msgstr "လုပ်ရိုးလုပ်ထုံး'%1'အတွက် အိုင်အို-ကျွန် စတင်ရန် ဆော့ကတ် မဖန်တီးနိုင်ပါ။"
-
-#: core/slave.cpp:416
+#: core/slave.cpp:421
 #, kde-format
 msgid "Unknown protocol '%1'."
 msgstr "မသိသောလုပ်ရိုးလုပ်ထုံး '%1'။"
 
-#: core/slave.cpp:427
+#: core/slave.cpp:432
 #, kde-format
 msgid "Can not find io-slave for protocol '%1'."
 msgstr "'%1' လုပ်ရိုးလုပ်ထုံးအတွက် အိုင်အို-ကျွန် ရှာမတွေ့ပါ။"
 
-#: core/slave.cpp:447
+#: core/slave.cpp:440
+#, kde-format
+msgid "Can not create socket for launching io-slave for protocol '%1'."
+msgstr "လုပ်ရိုးလုပ်ထုံး'%1'အတွက် အိုင်အို-ကျွန် စတင်ရန် ဆော့ကတ် မဖန်တီးနိုင်ပါ။"
+
+#: core/slave.cpp:480
 #, kde-format
 msgid "Can not find 'kioslave5' executable at '%1'"
 msgstr "'%1'၌ 'ကေအိုင်အိုကျွန်၅' ဆောင်ရွက်ဖိုင်လ်ကို ရှာမတွေ့ပါ"
 
-#: core/slavebase.cpp:858
+#: core/slavebase.cpp:864
 #, kde-format
 msgid "Opening connections is not supported with the protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ချိတ်ဆက်မှုဖွင့်ခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:860
+#: core/slavebase.cpp:866
 #, kde-format
 msgid "Closing connections is not supported with the protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး '%1' တွင် ချိတ်ဆက်မှုပိတ်သောလုပ်ဆောင်ချက်မပါပါ။"
 
-#: core/slavebase.cpp:862
+#: core/slavebase.cpp:868
 #, kde-format
 msgid "Accessing files is not supported with the protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များရယူအသုံးပြုခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:864
+#: core/slavebase.cpp:870
 #, kde-format
 msgid "Writing to %1 is not supported."
 msgstr "%1 သို့ ရေးမရပါ။"
 
-#: core/slavebase.cpp:866
+#: core/slavebase.cpp:872
 #, kde-format
 msgid "There are no special actions available for protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 အတွက် အထူးပြုလုပ်ဆောင်ချက်များ မရှိပါ။"
 
-#: core/slavebase.cpp:868
+#: core/slavebase.cpp:874
 #, kde-format
 msgid "Listing folders is not supported for protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုလ်ဒါများစာရင်းပြခြင်းပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:870
+#: core/slavebase.cpp:876
 #, kde-format
 msgid "Retrieving data from %1 is not supported."
 msgstr "%1 မှ ဒေတာရယူခြင်း လုပ်ဆောင်၍မရပါ။"
 
-#: core/slavebase.cpp:872
+#: core/slavebase.cpp:878
 #, kde-format
 msgid "Retrieving mime type information from %1 is not supported."
 msgstr "%1 မှ အမ်အိုင်အမ်အီးတိုက် ဆိုင်ရာ အချက်အလက် ရယူခြင်း လုပ်ဆောင်၍မရပါ။"
 
-#: core/slavebase.cpp:874
+#: core/slavebase.cpp:880
 #, kde-format
 msgid "Renaming or moving files within %1 is not supported."
 msgstr "%1 အတွင်း ဖိုင်လ်များ အမည်ပြောင်းခြင်း၊ ကူးပြောင်းခြင်း မပြုလုပ်နိုင်ပါ။"
 
-#: core/slavebase.cpp:876
+#: core/slavebase.cpp:882
 #, kde-format
 msgid "Creating symlinks is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဆင်းလင့်ခ်များဖန်တီးခြင်းပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:878
+#: core/slavebase.cpp:884
 #, kde-format
 msgid "Copying files within %1 is not supported."
 msgstr "%1 အတွင်း ဖိုင်လ်များ ကူးယူခြင်း မပြုလုပ်နိုင်ပါ။"
 
-#: core/slavebase.cpp:880
+#: core/slavebase.cpp:886
 #, kde-format
 msgid "Deleting files from %1 is not supported."
 msgstr "%1မှဖိုင်လ်များဖျက်ခြင်းကို မလုပ်ဆောင်နိုင်ပါ။"
 
-#: core/slavebase.cpp:882
+#: core/slavebase.cpp:888
 #, kde-format
 msgid "Creating folders is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုလ်ဒါများတည်ဆောင်ခြင်းပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:884
+#: core/slavebase.cpp:890
 #, kde-format
 msgid "Changing the attributes of files is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များ၏သက်ဆိုင်ရာညွှန်ပြတန်ဖိုးများပြောင်းလဲခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:886
+#: core/slavebase.cpp:892
 #, kde-format
 msgid "Changing the ownership of files is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များ၏ပိုင်ဆိုင်မှု ပြောင်းလဲခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:888
+#: core/slavebase.cpp:894
 #, kde-format
 msgid "Using sub-URLs with %1 is not supported."
 msgstr "လက်အောက်ခံ-ယူအာအယ်လ်များကို %1 ဖြင့်အသုံးပြု၍မရပါ။"
 
-#: core/slavebase.cpp:890
+#: core/slavebase.cpp:896
 #, kde-format
 msgid "Multiple get is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် အများအပြားရယူခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:892
+#: core/slavebase.cpp:898
 #, kde-format
 msgid "Opening files is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များဖွင့်ခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:894
+#: core/slavebase.cpp:900
 #, kde-format
 msgid "Protocol %1 does not support action %2."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် လုပ်ဆောင်ချက် %2 ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:1056
+#: core/slavebase.cpp:1062
 #, kde-format
 msgid "&Yes"
 msgstr "&Yအွန်း"
 
-#: core/slavebase.cpp:1057
+#: core/slavebase.cpp:1063
 #, kde-format
 msgid "&No"
 msgstr "&Nဟင်အင့်"
@@ -2589,7 +2589,6 @@ msgstr "ဖိုလ်ဒါအသစ်..."
 #: filewidgets/kdiroperator.cpp:2095 widgets/jobuidelegate.cpp:280
 #: widgets/jobuidelegate.cpp:281 widgets/jobuidelegate.cpp:290
 #: widgets/jobuidelegate.cpp:291 widgets/widgetsaskuseractionhandler.cpp:176
-#: widgets/widgetsaskuseractionhandler.cpp:177
 #, kde-format
 msgid "Move to Trash"
 msgstr "အမှိုက်ပုံးသို့ရွေ့ယူရန်"
@@ -3882,34 +3881,34 @@ msgstr "ဖိုင်လ်ကိုမဖွင့်နိုင်ခဲ့
 msgid "The program \"%1\" could not be launched."
 msgstr "ပရိုဂရမ် \"%1\"ကို လွှင်တင်၍မရပါ။"
 
-#: ioslaves/file/file.cpp:165
+#: ioslaves/file/file.cpp:170
 #, kde-format
 msgid "Setting ACL for %1"
 msgstr "%1 အတွက် အေစီအယ်လ်သတ်မှတ်နေသည်"
 
-#: ioslaves/file/file.cpp:705
+#: ioslaves/file/file.cpp:710
 #, kde-format
 msgid ""
 "Could not change permissions for\n"
 "%1"
 msgstr "%1အတွက် ခွင့်ပြုချက်များကို ပြောင်းလဲမရပါ"
 
-#: ioslaves/file/file.cpp:788
+#: ioslaves/file/file.cpp:793
 #, kde-format
 msgid "mounting is not supported by Windows CE."
 msgstr "windows CEတွင် တပ်ဆင်ရန်လုပ်ဆောင်ချက် လုပ်မရပါ။"
 
-#: ioslaves/file/file.cpp:816
+#: ioslaves/file/file.cpp:821
 #, kde-format
 msgid "Could not find program \"mount\""
 msgstr "\"mount\" ပရိုဂရမ်ကို ရှာမတွေ့ပါ"
 
-#: ioslaves/file/file.cpp:883
+#: ioslaves/file/file.cpp:888
 #, kde-format
 msgid "unmounting is not supported by Windows CE."
 msgstr "windows CEတွင် ဖြုတ်ရန်လုပ်ဆောင်ချက် လုပ်မရပါ။"
 
-#: ioslaves/file/file.cpp:898
+#: ioslaves/file/file.cpp:903
 #, kde-format
 msgid "Could not find program \"umount\""
 msgstr "\"umount\" ပရိုဂရမ်ကို ရှာမတွေ့ပါ"
@@ -4010,12 +4009,12 @@ msgstr "%1 မှ %2 သို့ ဖိုင်လ်ကူးယူမရပ�
 msgid "No media in device for %1"
 msgstr "%1အတွက် စက်တွင် မီဒီယာမရှိပါ"
 
-#: ioslaves/file/file_unix.cpp:1374
+#: ioslaves/file/file_unix.cpp:1359
 #, kde-format
 msgid "Could not get user id for given user name %1"
 msgstr "ပေးထားသော အသုံးပြုသူအမည် %1 အတွက် အသုံးပြုသူအိုင်ဒီ မရယူနိုင်ခဲ့ပါ"
 
-#: ioslaves/file/file_unix.cpp:1386
+#: ioslaves/file/file_unix.cpp:1371
 #, kde-format
 msgid "Could not get group id for given group name %1"
 msgstr "ပေးထားသော အုပ်စုအမည် %1 အတွက် အုပ်စုအိုင်ဒီ မရယူနိုင်ခဲ့ပါ"
