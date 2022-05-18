@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-22 00:55+0000\n"
+"POT-Creation-Date: 2022-05-18 00:54+0000\n"
 "PO-Revision-Date: 2021-12-04 03:31+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -69,62 +69,62 @@ msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr "အမှိုက်ပုံး"
 
-#: src/kcms/cookies/cookies.desktop:13
+#: src/kcms/cookies/cookies.desktop:14
 msgctxt "Name"
 msgid "Cookies"
 msgstr "ကွတ်ကီးများ"
 
-#: src/kcms/cookies/cookies.desktop:68
+#: src/kcms/cookies/cookies.desktop:69
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "ကွတ်ကီးအလုပ်လုပ်ပုံပြင်ဆင်မည်"
 
-#: src/kcms/cookies/cookies.desktop:160
+#: src/kcms/cookies/cookies.desktop:161
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr "Cookies,Browsing,Internet,WWW,Network,Policy,Domains,ကွတ်ကီး"
 
-#: src/kcms/netpref/netpref.desktop:13
+#: src/kcms/netpref/netpref.desktop:14
 msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "ချိတ်ဆက်မှုဆိုင်ရာ နှစ်သက်-သတ်မှတ်ချက်များ"
 
-#: src/kcms/netpref/netpref.desktop:103
+#: src/kcms/netpref/netpref.desktop:104
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr "အချိန်ကုန်ပမာဏစသော ဆ.သ.ရ-ကွန်ရက်ဆိုင်ရာယေဘုယျနှစ်သက်-သတ်မှတ်ချက်များပြင်ဆင်မည်"
 
-#: src/kcms/netpref/netpref.desktop:194
+#: src/kcms/netpref/netpref.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr "timeout,iopref,netpref,network preferences,ftp"
 
-#: src/kcms/proxy/proxy.desktop:13
+#: src/kcms/proxy/proxy.desktop:14
 msgctxt "Name"
 msgid "Proxy"
 msgstr "ကြားခံ"
 
-#: src/kcms/proxy/proxy.desktop:106
+#: src/kcms/proxy/proxy.desktop:107
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "အသုံးပြုသော ကြားခံဆာဗာများပြင်ဆင်မည်"
 
-#: src/kcms/proxy/proxy.desktop:199
+#: src/kcms/proxy/proxy.desktop:200
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr "Proxy,Proxy server,Firewall,Squid,ကြားခံ"
 
-#: src/kcms/smb/smb.desktop:11
+#: src/kcms/smb/smb.desktop:12
 msgctxt "Name"
 msgid "Windows Shares"
 msgstr "ဝင်းဒိုးစ် ဝေမျှမှုများ"
 
-#: src/kcms/smb/smb.desktop:102
+#: src/kcms/smb/smb.desktop:103
 msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr "SMBဝေမျှမှုများကို အသုံးပြုခွင့်ရရန်သုံးရသော ထောက်ခံလက်မှတ်"
 
-#: src/kcms/smb/smb.desktop:153
+#: src/kcms/smb/smb.desktop:154
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -133,17 +133,17 @@ msgstr ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
 "Broadcast,WINS,Share,Login,Passwords"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:13
+#: src/kcms/webshortcuts/webshortcuts.desktop:14
 msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:57
+#: src/kcms/webshortcuts/webshortcuts.desktop:58
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ ပြင်ဆင်မည်"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:101
+#: src/kcms/webshortcuts/webshortcuts.desktop:102
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
