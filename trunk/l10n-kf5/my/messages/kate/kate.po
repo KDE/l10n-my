@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-16 00:47+0000\n"
+"POT-Creation-Date: 2022-05-19 00:48+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -573,7 +573,7 @@ msgstr "ဘယ်တော့မှ"
 msgid "Error"
 msgstr "အမှား"
 
-#: lib/kateconfigdialog.cpp:126 lib/kateconfigdialog.cpp:539
+#: lib/kateconfigdialog.cpp:126 lib/kateconfigdialog.cpp:541
 #, kde-format
 msgid "Warning"
 msgstr "သတိ"
@@ -625,158 +625,158 @@ msgid ""
 "scrolling' to prevent it. Unlimited tabs are always scrollable."
 msgstr ""
 
-#: lib/kateconfigdialog.cpp:163
+#: lib/kateconfigdialog.cpp:165
 #, kde-format
 msgid "&Auto hide tabs"
 msgstr ""
 
-#: lib/kateconfigdialog.cpp:165
+#: lib/kateconfigdialog.cpp:167
 #, fuzzy, kde-format
 #| msgid "When checked each tab will display a close button."
 msgid "When checked tabs will be hidden if only one document is open."
 msgstr "အမှန်ခြစ်ထားပါက တပ်ဘ်တစ်ချင်းဆီတွင် ပိတ်မည်-ခလုတ် ပြထားမည်"
 
-#: lib/kateconfigdialog.cpp:169
+#: lib/kateconfigdialog.cpp:171
 #, kde-format
 msgid "&Show close button"
 msgstr "&Sပိတ်ရန်ခလုတ်ပြမည်"
 
-#: lib/kateconfigdialog.cpp:171
+#: lib/kateconfigdialog.cpp:173
 #, kde-format
 msgid "When checked each tab will display a close button."
 msgstr "အမှန်ခြစ်ထားပါက တပ်ဘ်တစ်ချင်းဆီတွင် ပိတ်မည်-ခလုတ် ပြထားမည်"
 
-#: lib/kateconfigdialog.cpp:175
+#: lib/kateconfigdialog.cpp:177
 #, kde-format
 msgid "&Expand tabs"
 msgstr "&Eတပ်ဘ်များဖြန့်မည်"
 
-#: lib/kateconfigdialog.cpp:177
+#: lib/kateconfigdialog.cpp:179
 #, kde-format
 msgid "When checked tabs take as much size as possible."
 msgstr "အမှန်ခြစ်ထားပါက တပ်ဘ်များသည် ရနိုင်သမျှ နေရာယူမည်။"
 
-#: lib/kateconfigdialog.cpp:181
+#: lib/kateconfigdialog.cpp:183
 #, kde-format
 msgid "&Double click opens a new document"
 msgstr "&Dမောက့်စ်ကီးနှစ်ခါနှိပ်ချိန်တွင် မှတ်တမ်းပုံနှိပ်မူအသစ်ဖွင့်မည်"
 
-#: lib/kateconfigdialog.cpp:183
+#: lib/kateconfigdialog.cpp:185
 #, kde-format
 msgid "When checked double click opens a new document."
 msgstr "အမှန်ခြစ်ထားပါက မောက့်စ်ကီးနှစ်ခါနှိပ်ချိန်တွင် မှတ်တမ်းပုံနှိပ်မူအသစ်ဖွင့်မည်။"
 
-#: lib/kateconfigdialog.cpp:187
+#: lib/kateconfigdialog.cpp:189
 #, kde-format
 msgid "&Middle click closes a document"
 msgstr ""
 
-#: lib/kateconfigdialog.cpp:189
+#: lib/kateconfigdialog.cpp:191
 #, kde-format
 msgid "When checked middle click closes a document."
 msgstr "အမှန်ခြစ်ထားပါက အလယ်ခလုတ်နှိပ်လျှင် မှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်။"
 
-#: lib/kateconfigdialog.cpp:193
+#: lib/kateconfigdialog.cpp:195
 #, kde-format
 msgid "Allow tab scrolling"
 msgstr ""
 
-#: lib/kateconfigdialog.cpp:195
+#: lib/kateconfigdialog.cpp:197
 #, kde-format
 msgid ""
 "When checked this will allow scrolling in tab bar when number of tabs is "
 "large."
 msgstr ""
 
-#: lib/kateconfigdialog.cpp:199
+#: lib/kateconfigdialog.cpp:201
 #, kde-format
 msgid "Elide tab text"
 msgstr ""
 
-#: lib/kateconfigdialog.cpp:201
+#: lib/kateconfigdialog.cpp:203
 #, fuzzy, kde-format
 #| msgid "When checked tabs take as much size as possible."
 msgid "When checked tab text might be elided if its too long."
 msgstr "အမှန်ခြစ်ထားပါက တပ်ဘ်များသည် ရနိုင်သမျှ နေရာယူမည်။"
 
-#: lib/kateconfigdialog.cpp:207
+#: lib/kateconfigdialog.cpp:209
 #, kde-format
 msgid "&Mouse"
 msgstr ""
 
-#: lib/kateconfigdialog.cpp:212
+#: lib/kateconfigdialog.cpp:214
 #, kde-format
 msgid "&Backward button pressed:"
 msgstr ""
 
-#: lib/kateconfigdialog.cpp:217
+#: lib/kateconfigdialog.cpp:219
 #, fuzzy, kde-format
 #| msgid "&Previous Tab"
 msgid "Previous tab"
 msgstr "&Pရှေ့တပ်ဘ်"
 
-#: lib/kateconfigdialog.cpp:217
+#: lib/kateconfigdialog.cpp:219
 #, fuzzy, kde-format
 #| msgid "Go back"
 msgid "History back"
 msgstr "ပြန်လှည့်မည်"
 
-#: lib/kateconfigdialog.cpp:223
+#: lib/kateconfigdialog.cpp:225
 #, kde-format
 msgid "&Forward button pressed:"
 msgstr ""
 
-#: lib/kateconfigdialog.cpp:228
+#: lib/kateconfigdialog.cpp:230
 #, fuzzy, kde-format
 #| msgid "&Next Tab"
 msgid "Next tab"
 msgstr "&Nနောက်တပ်ဘ်"
 
-#: lib/kateconfigdialog.cpp:228
+#: lib/kateconfigdialog.cpp:230
 #, fuzzy, kde-format
 #| msgid "Go forward"
 msgid "History forward"
 msgstr "ရှေ့ဆက်သွားမည်"
 
-#: lib/kateconfigdialog.cpp:244
+#: lib/kateconfigdialog.cpp:246
 #, kde-format
 msgid "Session"
 msgstr "ဆက်ရှင်"
 
-#: lib/kateconfigdialog.cpp:245
+#: lib/kateconfigdialog.cpp:247
 #, kde-format
 msgid "Session Management"
 msgstr "ဆက်ရှင် စီမံမှု"
 
-#: lib/kateconfigdialog.cpp:256
+#: lib/kateconfigdialog.cpp:258
 #, kde-format
 msgctxt "The special case of 'Delete unused meta-information after'"
 msgid "(never)"
 msgstr "(မလုပ်ပါ)"
 
-#: lib/kateconfigdialog.cpp:257
+#: lib/kateconfigdialog.cpp:259
 #, kde-format
 msgctxt "The suffix of 'Delete unused meta-information after'"
 msgid " day"
 msgid_plural " days"
 msgstr[0] " ရက်"
 
-#: lib/kateconfigdialog.cpp:316
+#: lib/kateconfigdialog.cpp:318
 #, kde-format
 msgid "Plugins"
 msgstr "ပလပ်ဂင်များ"
 
-#: lib/kateconfigdialog.cpp:317
+#: lib/kateconfigdialog.cpp:319
 #, kde-format
 msgid "Plugin Manager"
 msgstr "ပလပ်ဂင် မန်နေဂျာ"
 
-#: lib/kateconfigdialog.cpp:335 lib/kateconfigdialog.cpp:336
+#: lib/kateconfigdialog.cpp:337 lib/kateconfigdialog.cpp:338
 #, kde-format
 msgid "User Feedback"
 msgstr "အသုံးပြုသူတုံ့ပြန်ချက်"
 
-#: lib/kateconfigdialog.cpp:538
+#: lib/kateconfigdialog.cpp:540
 #, kde-format
 msgid ""
 "You have unsaved changes. Do you want to apply the changes or discard them?"
