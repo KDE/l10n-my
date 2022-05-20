@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-18 00:54+0000\n"
+"POT-Creation-Date: 2022-05-20 00:53+0000\n"
 "PO-Revision-Date: 2021-12-04 03:31+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1546,8 +1546,11 @@ msgid "IETF Requests for Comments"
 msgstr "မှတ်ချက်ပေးရန် အိုင်အီးတီအက်ဖ် တောင်းဆိုချက်များ"
 
 #: src/urifilters/ikws/searchproviders/rfc.desktop:92
+#, fuzzy
+#| msgctxt "Query"
+#| msgid "https://tools.ietf.org/id/\\\\{@}"
 msgctxt "Query"
-msgid "https://tools.ietf.org/id/\\\\{@}"
+msgid "https://datatracker.ietf.org/doc/\\\\{@}"
 msgstr "https://tools.ietf.org/id/\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/rpmfind.desktop:3
