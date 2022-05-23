@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-15 01:02+0000\n"
+"POT-Creation-Date: 2022-05-23 02:16+0000\n"
 "PO-Revision-Date: 2021-09-13 03:11+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -102,7 +102,7 @@ msgctxt "Name"
 msgid "Repair Started"
 msgstr "ပြန်ပြင်ခြင်း မအောင်မြင်ပါ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:355
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:356
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "System updated successfully"
@@ -110,17 +110,17 @@ msgctxt "Name"
 msgid "Repaired Successfully"
 msgstr "စစ်စတမ်ကို အောင်မြင်စွာ အပ်ဒိတ်တင်ခဲ့သည်"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:386
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:388
 msgctxt "Name"
 msgid "Repair Failed"
 msgstr "ပြန်ပြင်ခြင်း မအောင်မြင်ပါ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:425
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:427
 msgctxt "Comment"
 msgid "Repair failure after offline update"
 msgstr "မအောင်မြင်သော အော့ဖ်လိုင်း အပ်ဒိတ်တင်မှုကို ပြန်ပြင်မည်"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:468
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:470
 msgctxt "Name"
 msgid "Restart is Required"
 msgstr "စစ်စတမ်ပြန်စတင်ရန်လိုအပ်သည်"
