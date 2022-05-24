@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akonadi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-09 00:45+0000\n"
+"POT-Creation-Date: 2022-05-24 00:44+0000\n"
 "PO-Revision-Date: 2021-09-27 23:52+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -456,29 +456,29 @@ msgstr "မဖတ်ရသေးသော မှတ်စာများ"
 msgid "Quota"
 msgstr "ဝေစု"
 
-#: core/models/statisticsproxymodel.cpp:105
+#: core/models/statisticsproxymodel.cpp:104
 #, kde-format
 msgid "Storage Size"
 msgstr "မှတ်ဉာဏ်သိမ်းနေရာအရွယ်အစား"
 
-#: core/models/statisticsproxymodel.cpp:111
+#: core/models/statisticsproxymodel.cpp:110
 #, kde-format
 msgid "Subfolder Storage Size"
 msgstr "လက်အောက်ခံဖိုလ်ဒါ၏မှတ်ဉာဏ်သိမ်းနေရာအရွယ်အစား"
 
-#: core/models/statisticsproxymodel.cpp:225
+#: core/models/statisticsproxymodel.cpp:224
 #, kde-format
 msgctxt "number of unread entities in the collection"
 msgid "Unread"
 msgstr "မဖတ်ရသေး"
 
-#: core/models/statisticsproxymodel.cpp:226
+#: core/models/statisticsproxymodel.cpp:225
 #, kde-format
 msgctxt "number of entities in the collection"
 msgid "Total"
 msgstr "စုစုပေါင်း"
 
-#: core/models/statisticsproxymodel.cpp:227
+#: core/models/statisticsproxymodel.cpp:226
 #, kde-format
 msgctxt "collection size"
 msgid "Size"
@@ -831,28 +831,28 @@ msgstr "အရွယ်အစား -"
 msgid "0 Byte"
 msgstr "၀ ဘိုက်"
 
-#: widgets/collectionmaintenancepage.cpp:45
+#: widgets/collectionmaintenancepage.cpp:46
 #, kde-format
 msgid "Remember that indexing can take some minutes."
 msgstr ""
 
-#: widgets/collectionmaintenancepage.cpp:70
+#: widgets/collectionmaintenancepage.cpp:71
 #, kde-format
 msgid "Maintenance"
 msgstr "ထိမ်းသိမ်းမှု"
 
-#: widgets/collectionmaintenancepage.cpp:129
+#: widgets/collectionmaintenancepage.cpp:130
 #, kde-format
 msgid "Error while retrieving indexed items count"
 msgstr ""
 
-#: widgets/collectionmaintenancepage.cpp:132
+#: widgets/collectionmaintenancepage.cpp:133
 #, fuzzy, kde-format
 msgid "Indexed %1 item in this folder"
 msgid_plural "Indexed %1 items in this folder"
 msgstr[0] "တန်ဆာ %1ခု"
 
-#: widgets/collectionmaintenancepage.cpp:136
+#: widgets/collectionmaintenancepage.cpp:137
 #, kde-format
 msgid "Calculating indexed items..."
 msgstr "စီထားသော အိုင်တမ်များ တွက်နေသည်..."
