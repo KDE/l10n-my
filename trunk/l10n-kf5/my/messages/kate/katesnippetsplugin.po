@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-06 00:48+0000\n"
+"POT-Creation-Date: 2022-05-25 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 04:32+0630\n"
 "Last-Translator: \n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -186,8 +186,8 @@ msgstr "%1 စာအတိုအထွာများ"
 msgid "Snippets tool view"
 msgstr "စာအတိုအထွာများ ကိရိယာမြင်ကွင်း"
 
-#: katesnippets.cpp:55 snippetcompletionmodel.cpp:43 snippetview.cpp:80
-#: snippetview.cpp:199
+#: katesnippets.cpp:55 snippetcompletionmodel.cpp:43 snippetview.cpp:77
+#: snippetview.cpp:202
 #, kde-format
 msgid "Snippets"
 msgstr "စာအတိုအထွာများ"
@@ -258,62 +258,57 @@ msgstr "ဖိုင်လ်အမျိုးအစားအားလုံး
 msgid "Applies to the following filetypes: %1"
 msgstr ""
 
-#: snippetview.cpp:96
+#: snippetview.cpp:93
 #, kde-format
 msgid "Add Repository"
 msgstr "ရီပိုစစ်တိုရီ ထည့်မည်"
 
-#: snippetview.cpp:99
+#: snippetview.cpp:96
 #, kde-format
 msgid "Edit Repository"
 msgstr "ရီပိုစစ်တိုရီ တည်းဖြတ်မည်"
 
-#: snippetview.cpp:102
+#: snippetview.cpp:99
 #, kde-format
 msgid "Remove Repository"
 msgstr "ရီပိုစစ်တိုရီ ဖယ်ရှားမည်"
 
 #: snippetview.cpp:109
 #, kde-format
-msgid "Publish Repository"
-msgstr "ရီပိုစစ်တိုရီ ထုတ်ဝေမည်"
-
-#: snippetview.cpp:119
-#, kde-format
 msgid "Add Snippet"
 msgstr "စာအတိုအထွာ ထည့်မည်"
 
-#: snippetview.cpp:122
+#: snippetview.cpp:112
 #, kde-format
 msgid "Edit Snippet"
 msgstr "စာအတိုအထွာ တည်းဖြတ်မည်"
 
-#: snippetview.cpp:125
+#: snippetview.cpp:115
 #, kde-format
 msgid "Remove Snippet"
 msgstr "စာအတိုအထွာ ဖယ်ရှားမည်"
 
-#: snippetview.cpp:131
+#: snippetview.cpp:121
 #, kde-format
 msgid "Get New Snippets"
 msgstr "စာအတိုအထွာအသစ်များ ရယူမည်"
 
-#: snippetview.cpp:207
+#: snippetview.cpp:210
 #, kde-format
 msgid "Snippet: %1"
 msgstr "စာအတိုအထွာ - %1"
 
-#: snippetview.cpp:215
+#: snippetview.cpp:218
 #, kde-format
 msgid "Repository: %1"
 msgstr "ရီပိုစစ်တိုရီ - %1"
 
-#: snippetview.cpp:283
+#: snippetview.cpp:282
 #, kde-format
 msgid "Do you really want to delete the snippet \"%1\"?"
 msgstr "စာအတိုအထွာ \"%1\" ကို သင်တကယ်ဖျက်တော့မည်လား။"
 
-#: snippetview.cpp:325
+#: snippetview.cpp:324
 #, kde-format
 msgid ""
 "Do you really want to delete the repository \"%1\" with all its snippets?"
@@ -336,3 +331,6 @@ msgstr "စစ်ထုတ်မည်..."
 #, kde-format
 msgid "&Tools"
 msgstr "&Tကိရိယာများ"
+
+#~ msgid "Publish Repository"
+#~ msgstr "ရီပိုစစ်တိုရီ ထုတ်ဝေမည်"

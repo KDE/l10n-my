@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-22 00:41+0000\n"
+"POT-Creation-Date: 2022-05-25 00:41+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2920,43 +2920,43 @@ msgstr ""
 "<qt>လက်ရှိအပ္ပလီကေးရှင်း (%1) ကိုသုံးနေစဥ် စာရင်းမှတ်ချက်ကို ပြချင်ပါက ဤသတ်မှတ်ချက်ကို ရွေးပါ။<br /"
 "><br />မရွေးထားလျှင် အပ္ပလီကေးရှင်းအားလုံးတွင် ပြမည်။</qt>"
 
-#: filewidgets/kfileplacesitem.cpp:156
+#: filewidgets/kfileplacesitem.cpp:162
 #, kde-format
 msgctxt "@item"
 msgid "Places"
 msgstr "နေရာများ"
 
-#: filewidgets/kfileplacesitem.cpp:159
+#: filewidgets/kfileplacesitem.cpp:165
 #, kde-format
 msgctxt "@item"
 msgid "Remote"
 msgstr "အဝေး"
 
-#: filewidgets/kfileplacesitem.cpp:162
+#: filewidgets/kfileplacesitem.cpp:168
 #, kde-format
 msgctxt "@item The place group section name for recent dynamic lists"
 msgid "Recent"
 msgstr "လတ်တလော"
 
-#: filewidgets/kfileplacesitem.cpp:165
+#: filewidgets/kfileplacesitem.cpp:171
 #, kde-format
 msgctxt "@item"
 msgid "Search For"
 msgstr "ရှာရန်"
 
-#: filewidgets/kfileplacesitem.cpp:168
+#: filewidgets/kfileplacesitem.cpp:174
 #, kde-format
 msgctxt "@item"
 msgid "Devices"
 msgstr "စက်များ"
 
-#: filewidgets/kfileplacesitem.cpp:171
+#: filewidgets/kfileplacesitem.cpp:177
 #, kde-format
 msgctxt "@item"
 msgid "Removable Devices"
 msgstr "ဖြုတ်လို့ရသော စက်များ"
 
-#: filewidgets/kfileplacesitem.cpp:174
+#: filewidgets/kfileplacesitem.cpp:180
 #, kde-format
 msgctxt "@item"
 msgid "Tags"
@@ -3046,58 +3046,58 @@ msgctxt "KFile System Bookmarks"
 msgid "Audio"
 msgstr "အော်ဒီယို"
 
-#: filewidgets/kfileplacesmodel.cpp:1140
+#: filewidgets/kfileplacesmodel.cpp:1151
 #, fuzzy, kde-format
 #| msgid "Could not find the program '%1'"
 msgctxt "Placeholder is error message"
 msgid "Could not add to the Places panel: %1"
 msgstr "'%1'ပရိုဂရမ်ကို ရှာမတွေ့ပါ"
 
-#: filewidgets/kfileplacesmodel.cpp:1147
+#: filewidgets/kfileplacesmodel.cpp:1158
 #, fuzzy, kde-format
 #| msgid "A folder cannot be moved into itself"
 msgid "Only folders can be added to the Places panel."
 msgstr "ဖိုလ်ဒါအနေဖြင့် ၎င်း၏အတွင်းသို့ ၎င်းကို ရွေ့မရပါ"
 
-#: filewidgets/kfileplacesmodel.cpp:1406
+#: filewidgets/kfileplacesmodel.cpp:1417
 #, fuzzy, kde-format
 #| msgid "&Release '%1'"
 msgctxt "@action:inmenu"
 msgid "&Release"
 msgstr "&R '%1' လွှတ်သည်"
 
-#: filewidgets/kfileplacesmodel.cpp:1408
+#: filewidgets/kfileplacesmodel.cpp:1419
 #, fuzzy, kde-format
 #| msgid "&Safely Remove '%1'"
 msgctxt "@action:inmenu"
 msgid "&Safely Remove"
 msgstr "&S '%1'ကို အထိအခိုက်မရှိစွာ ဖယ်ရှားရန်"
 
-#: filewidgets/kfileplacesmodel.cpp:1411
+#: filewidgets/kfileplacesmodel.cpp:1422
 #, fuzzy, kde-format
 #| msgid "Unmount"
 msgctxt "@action:inmenu"
 msgid "&Unmount"
 msgstr "ဖြုတ်ရန်"
 
-#: filewidgets/kfileplacesmodel.cpp:1430
+#: filewidgets/kfileplacesmodel.cpp:1441
 #, fuzzy, kde-format
 #| msgid "&Reject"
 msgctxt "@action:inmenu"
 msgid "&Eject"
 msgstr "&Rငြင်းပယ်မည်"
 
-#: filewidgets/kfileplacesmodel.cpp:1466
+#: filewidgets/kfileplacesmodel.cpp:1477
 #, kde-format
 msgid "The device '%1' is not a disk and cannot be ejected."
 msgstr "'%1' စက်သည် မှတ်ဉာဏ်စက်မဟုတ်ပါ။ သို့ဖြစ်ပါ၍ ဖြုတ်မရပါ။"
 
-#: filewidgets/kfileplacesmodel.cpp:1501
+#: filewidgets/kfileplacesmodel.cpp:1512
 #, kde-format
 msgid "An error occurred while accessing '%1', the system responded: %2"
 msgstr "'%1'ရယူအသုံးပြုနေစဥ် အမှားဖြစ်ပေါ်ခဲ့သည်၊ စစ်စတမ်အကြောင်းပြန်ချက် - %2"
 
-#: filewidgets/kfileplacesmodel.cpp:1503
+#: filewidgets/kfileplacesmodel.cpp:1514
 #, kde-format
 msgid "An error occurred while accessing '%1'"
 msgstr "'%1'ရယူအသုံးပြုနေစဥ် အမှားဖြစ်ပေါ်ခဲ့သည်"
@@ -7188,43 +7188,43 @@ msgstr "တပ်ဆင်"
 msgid "Unmount"
 msgstr "ဖြုတ်ရန်"
 
-#: widgets/kdirmodel.cpp:1189
+#: widgets/kdirmodel.cpp:1193
 #, kde-format
 msgctxt "@title:column"
 msgid "Name"
 msgstr "အမည်"
 
-#: widgets/kdirmodel.cpp:1191
+#: widgets/kdirmodel.cpp:1195
 #, kde-format
 msgctxt "@title:column"
 msgid "Size"
 msgstr "အရွယ်အစား"
 
-#: widgets/kdirmodel.cpp:1193
+#: widgets/kdirmodel.cpp:1197
 #, kde-format
 msgctxt "@title:column"
 msgid "Date"
 msgstr "ရက်စွဲ"
 
-#: widgets/kdirmodel.cpp:1195
+#: widgets/kdirmodel.cpp:1199
 #, kde-format
 msgctxt "@title:column"
 msgid "Permissions"
 msgstr "ခွင့်ပြုချက်များ"
 
-#: widgets/kdirmodel.cpp:1197
+#: widgets/kdirmodel.cpp:1201
 #, kde-format
 msgctxt "@title:column"
 msgid "Owner"
 msgstr "ပိုင်ရှင်"
 
-#: widgets/kdirmodel.cpp:1199
+#: widgets/kdirmodel.cpp:1203
 #, kde-format
 msgctxt "@title:column"
 msgid "Group"
 msgstr "အုပ်စု"
 
-#: widgets/kdirmodel.cpp:1201
+#: widgets/kdirmodel.cpp:1205
 #, kde-format
 msgctxt "@title:column"
 msgid "Type"
