@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-10 00:47+0000\n"
+"POT-Creation-Date: 2022-05-26 00:45+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1599,6 +1599,7 @@ msgid "Downloading"
 msgstr "ဒေါင်းလုတ်ဆွဲနေသည်"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:348
+#: libdiscover/resources/ResourcesUpdatesModel.cpp:109
 #, kde-format
 msgid "Updating"
 msgstr "အပ်ဒိတ်တင်နေသည်"
@@ -2027,11 +2028,6 @@ msgctxt "an approximation number, like 3000+"
 msgid "%1+"
 msgstr ""
 
-#: libdiscover/resources/ResourcesUpdatesModel.cpp:109
-#, kde-format
-msgid "Updates"
-msgstr "အပ်ဒိတ်များ"
-
 #: libdiscover/Transaction/Transaction.cpp:133
 #, kde-format
 msgctxt "@label Download rate"
@@ -2111,6 +2107,9 @@ msgstr "စစ်စတမ် အပ်ဂရိတ်"
 msgctxt "@item:inlistbox"
 msgid "Addons"
 msgstr "အက်အွန်များ"
+
+#~ msgid "Updates"
+#~ msgstr "အပ်ဒိတ်များ"
 
 #~ msgctxt "origin (backend name)"
 #~ msgid "%1 (%2)"
