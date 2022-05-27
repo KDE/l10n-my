@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-25 00:41+0000\n"
+"POT-Creation-Date: 2022-05-27 00:41+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2271,17 +2271,17 @@ msgstr ""
 msgid "Undocumented Error"
 msgstr "မှတ်တမ်းမပြုစုထားသော အမှား"
 
-#: core/kfileitem.cpp:1356
+#: core/kfileitem.cpp:1368
 #, kde-format
 msgid "(Symbolic Link to %1)"
 msgstr "(%1သို့ အထိမ်းအမှတ်လင့်ခ်ချိတ်)"
 
-#: core/kfileitem.cpp:1358
+#: core/kfileitem.cpp:1370
 #, kde-format
 msgid "(%1, Link to %2)"
 msgstr "(%1၊ %2သို့လင့်ခ်ချိတ်)"
 
-#: core/kfileitem.cpp:1361
+#: core/kfileitem.cpp:1373
 #, kde-format
 msgid " (Points to %1)"
 msgstr " (%1 သို့ညွှန်ပြသည်)"
@@ -4777,8 +4777,8 @@ msgstr "အမှိုက်ပုံး -"
 
 #: ioslaves/trash/kio_trash.cpp:99 ioslaves/trash/kio_trash.cpp:146
 #: ioslaves/trash/kio_trash.cpp:210 ioslaves/trash/kio_trash.cpp:390
-#: ioslaves/trash/kio_trash.cpp:425 ioslaves/trash/kio_trash.cpp:603
-#: ioslaves/trash/kio_trash.cpp:615
+#: ioslaves/trash/kio_trash.cpp:425 ioslaves/trash/kio_trash.cpp:604
+#: ioslaves/trash/kio_trash.cpp:616
 #, kde-format
 msgid "Malformed URL %1"
 msgstr "ပုံပျက်နေသော ယူအာအယ်လ် %1"

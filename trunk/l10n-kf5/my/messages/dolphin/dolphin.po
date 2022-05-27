@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-25 00:47+0000\n"
+"POT-Creation-Date: 2022-05-27 00:47+0000\n"
 "PO-Revision-Date: 2021-09-24 16:56+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2711,10 +2711,10 @@ msgstr ""
 msgid "Position of columns"
 msgstr "တိုင်များ၏တည်နေရာ"
 
-#. i18n: ectx: label, entry (LeadingPadding), group (DetailsMode)
+#. i18n: ectx: label, entry (SidePadding), group (DetailsMode)
 #: settings/dolphin_detailsmodesettings.kcfg:44
 #, kde-format
-msgid "Leading Column Padding"
+msgid "Side Padding"
 msgstr ""
 
 #. i18n: ectx: label, entry (ExpandableFolders), group (DetailsMode)
@@ -4066,7 +4066,7 @@ msgstr[0] "အိုင်တမ် %1ခုကို တကယ်ဖွင်�
 #: views/dolphinview.cpp:1123
 #, kde-format
 msgctxt "@action:inmenu"
-msgid "Leading Column Padding"
+msgid "Side Padding"
 msgstr ""
 
 #: views/dolphinview.cpp:1127

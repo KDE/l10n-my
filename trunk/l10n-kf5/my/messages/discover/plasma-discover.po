@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-26 00:45+0000\n"
+"POT-Creation-Date: 2022-05-27 00:45+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,25 +18,54 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.0\n"
 
-#: discover/DiscoverObject.cpp:153
+#: discover/DiscoverObject.cpp:154
 #, fuzzy, kde-format
 #| msgid ""
 #| "Discover currently cannot be used to install any apps because none of its "
 #| "app backends are available. Please report this error to your distribution."
 msgid ""
-"Discover currently cannot be used to install any apps because none of its "
-"app backends are available. Please report this issue to the packagers of "
-"your distribution."
+"Discover currently cannot be used to install any apps or perform system "
+"updates because none of its app backends are available."
 msgstr ""
 "ဒစ်(စ)ကာဗာ အနေဖြင့် ၎င်း၏အုတ်မြစ်ပရိုဂရမ်များ တစ်ခုမှ မရှိသောကြောင့် အပ်များ တပ်ဆင်၍မရနိုင်ပါ။ "
 "ဤအမှားအယွင်းကို သင်၏ဒစ်စထရီဗျူးရှင်းထံ တင်ပြပါ။"
 
-#: discover/DiscoverObject.cpp:238
+#: discover/DiscoverObject.cpp:158
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"You can install some on the Settings page, under the <interface>Missing "
+"Backends</interface> section.<nl/><nl/>Also please consider reporting this "
+"as a packaging issue to your distribution."
+msgstr ""
+
+#: discover/DiscoverObject.cpp:163 discover/DiscoverObject.cpp:341
+#, kde-format
+msgid "Report This Issue"
+msgstr ""
+
+#: discover/DiscoverObject.cpp:168
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"You can use <command>pacman</command> to install the optional dependencies "
+"that are needed to enable the application backends.<nl/><nl/>Please note "
+"that Arch Linux developers recommend using <command>pacman</command> for "
+"managing software because the PackageKit backend is not well-integrated on "
+"Arch Linux."
+msgstr ""
+
+#: discover/DiscoverObject.cpp:176
+#, kde-format
+msgid "Learn More"
+msgstr ""
+
+#: discover/DiscoverObject.cpp:264
 #, kde-format
 msgid "Could not find category '%1'"
 msgstr "အမျိုးအစား '%1' ကိုရှာမတွေ့ခဲ့ပါ"
 
-#: discover/DiscoverObject.cpp:275
+#: discover/DiscoverObject.cpp:301
 #, kde-format
 msgid ""
 "Cannot interact with flatpak resources without the flatpak backend %1. "
@@ -44,30 +73,35 @@ msgid ""
 msgstr ""
 "ဖလက်ပတ်ခ်-အုတ်မြစ်ပရိုဂရမ် %1 မရှိဘဲ ဖလက်ပတ်ခ်အပ်များ တပ်ဆင်၍မရပါ။ ကျေးဇူးပြု၍ ၎င်းအား အရင်တပ်ဆင်ပါ။"
 
-#: discover/DiscoverObject.cpp:279
+#: discover/DiscoverObject.cpp:305
 #, kde-format
 msgid "Could not open %1"
 msgstr "%1 ကိုမဖွင့်နိုင်ခဲ့ပါ"
 
-#: discover/DiscoverObject.cpp:307
+#: discover/DiscoverObject.cpp:333
 #, kde-format
 msgid "Please make sure Snap support is installed"
 msgstr "စနပ် ထောက်ပံမှု တပ်ဆင်ပါ"
 
-#: discover/DiscoverObject.cpp:310
+#: discover/DiscoverObject.cpp:335
 #, kde-format
 msgid ""
 "Could not open %1 because it was not found in any available software "
-"repositories. Please report this issue to the packagers of your distribution."
+"repositories."
 msgstr ""
 
-#: discover/DiscoverObject.cpp:371 discover/DiscoverObject.cpp:372
+#: discover/DiscoverObject.cpp:338
+#, kde-format
+msgid "Please report this issue to the packagers of your distribution."
+msgstr ""
+
+#: discover/DiscoverObject.cpp:401 discover/DiscoverObject.cpp:402
 #: discover/main.cpp:113
 #, kde-format
 msgid "Discover"
 msgstr "ဒစ်(စ)ကာဗာ"
 
-#: discover/DiscoverObject.cpp:372
+#: discover/DiscoverObject.cpp:402
 #, kde-format
 msgid ""
 "Discover was closed before certain tasks were done, waiting for it to finish."
@@ -218,7 +252,7 @@ msgstr "%1 အဝေးရီပိုစစ်တိုရီအသစ်ကိ
 msgid "Add"
 msgstr "ထည့်သွင်းမည်"
 
-#: discover/qml/AddSourceDialog.qml:70 discover/qml/DiscoverWindow.qml:257
+#: discover/qml/AddSourceDialog.qml:70 discover/qml/DiscoverWindow.qml:262
 #: discover/qml/InstallApplicationButton.qml:41
 #: discover/qml/ProgressView.qml:104 discover/qml/SourcesPage.qml:159
 #: discover/qml/UpdatesPage.qml:210
@@ -586,7 +620,7 @@ msgstr "&Aအကြောင်း"
 msgid "S&ettings"
 msgstr "&eဆက်တင်များ"
 
-#: discover/qml/DiscoverWindow.qml:144 discover/qml/DiscoverWindow.qml:331
+#: discover/qml/DiscoverWindow.qml:144 discover/qml/DiscoverWindow.qml:336
 #, kde-format
 msgid "Error"
 msgstr "အမှား"
@@ -596,16 +630,15 @@ msgstr "အမှား"
 msgid "Unable to find resource: %1"
 msgstr "ရင်းမြစ်ကိုမရှာနိုင်ခဲ့ပါ - %1"
 
-#: discover/qml/DiscoverWindow.qml:205 discover/qml/DiscoverWindow.qml:301
-#: discover/qml/UpdatesPage.qml:107
-#, kde-format
-msgid "Report this issue"
-msgstr ""
-
-#: discover/qml/DiscoverWindow.qml:244 discover/qml/SourcesPage.qml:149
+#: discover/qml/DiscoverWindow.qml:249 discover/qml/SourcesPage.qml:149
 #, kde-format
 msgid "Proceed"
 msgstr "ဆက်လုပ်မည်"
+
+#: discover/qml/DiscoverWindow.qml:306 discover/qml/UpdatesPage.qml:107
+#, kde-format
+msgid "Report this issue"
+msgstr ""
 
 #: discover/qml/Feedback.qml:11
 #, kde-format
