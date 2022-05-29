@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-25 09:30+0200\n"
+"POT-Creation-Date: 2022-05-29 00:49+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -995,6 +995,12 @@ msgstr ""
 "release-service/{{ .Get \"version\" }}/src)။ ကွန်ပိုင်းလုပ်ခြင်းနှင့် တပ်ဆင်ခြင်းဆိုင်ရာ "
 "ညွှန်ကြားချက်များကို [ကေဒီအီးဂီယာ {{ .Get \"version\" }} သတင်းစာမျက်နှာ](/info/releases-"
 "{{ .Get \"version\" }}) တွင် ရယူနိုင်သည်။"
+
+#: i18n/en.yaml:0
+msgid ""
+"Note that packages of this release might not be available on all "
+"distributions at the time of this announcement."
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Replay"
