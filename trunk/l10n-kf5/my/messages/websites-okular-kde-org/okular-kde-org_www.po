@@ -34,10 +34,6 @@ msgid "Donate"
 msgstr "လှူဒါန်း"
 
 #: content/_index.md:0
-msgid "strings"
-msgstr ""
-
-#: content/_index.md:0
 msgid "Okular - The Universal Document Viewer"
 msgstr ""
 
