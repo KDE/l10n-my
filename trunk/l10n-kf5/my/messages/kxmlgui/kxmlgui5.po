@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kxmlgui\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-22 00:42+0000\n"
+"POT-Creation-Date: 2022-06-01 00:44+0000\n"
 "PO-Revision-Date: 2021-09-20 02:06+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -527,18 +527,22 @@ msgstr "&Sဆော့လ်ဖ်ဝဲလ်ပြစ်ချက်အစီ�
 
 #: kbugreport.cpp:380
 #, kde-format
-msgctxt "The arg is the command kcmshell5"
-msgid "Could not find '%1' executable in PATH."
+msgctxt ""
+"The second arg is 'kde-cli-tools' which is the package that contains "
+"kcmshell5 (the first arg)"
+msgid ""
+"Could not find <application>%1</application> executable (usually it's part "
+"of the \"%2\" package)."
 msgstr ""
 
-#: kbugreport.cpp:430
+#: kbugreport.cpp:432
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr "အစီအရင်ခံစာ ပို့ရန် အကြောင်းအရာနှင့် ဖေါ်ပြချက် သေချာပေါက်ရေးသားထားရမည်။"
 
-#: kbugreport.cpp:439
+#: kbugreport.cpp:441
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -557,7 +561,7 @@ msgstr ""
 "<p>သင်တင်ပြသော ပြစ်ချက်သည် အထက်ပါထိခိုက်မှုများဖြစ်စေပါသလား။ မဖြစ်ဘူးဆိုလျှင် ပိုနိမ့်သော "
 "သက်ရောက်မှုရွေးချယ်ပါ။ ကျေးဇူးတင်ပါသည်။</p>"
 
-#: kbugreport.cpp:455
+#: kbugreport.cpp:457
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -575,7 +579,7 @@ msgstr ""
 "<p>သင်တင်ပြသော ပြစ်ချက်သည် အထက်ပါထိခိုက်မှုများဖြစ်စေပါသလား။ မဖြစ်ဘူးဆိုလျှင် ပိုနိမ့်သော "
 "သက်ရောက်မှုရွေးချယ်ပါ။ ကျေးဇူးတင်ပါသည်။</p>"
 
-#: kbugreport.cpp:474
+#: kbugreport.cpp:476
 #, kde-format
 msgid ""
 "Unable to send the bug report.\n"
@@ -586,12 +590,12 @@ msgstr ""
 "ကျေးဇူးပြု၍ ၎င်းအစီရင်ခံစာကို ကိုယ်တင်တင်ပြပါ...\n"
 "ညွှန်ကြားချက်များကို https://bugs.kde.org/ တွင်ရယူပါ။"
 
-#: kbugreport.cpp:481
+#: kbugreport.cpp:483
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "ဆော့ဖ်လ်ဝဲလ်အစီအရင်ခံစာပို့ပြီးပါပြီ၊ ပူးပေါင်းပါဝင်မှုအတွက် ကျေးဇူးတင်ပါသည်။"
 
-#: kbugreport.cpp:489
+#: kbugreport.cpp:491
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -600,7 +604,7 @@ msgstr ""
 "တည်းဖြတ်ထားသည့်အမှာစကား\n"
 "စွန့်ပစ်၍ ပိတ်မည်လား။"
 
-#: kbugreport.cpp:490
+#: kbugreport.cpp:492
 #, kde-format
 msgctxt "@title:window"
 msgid "Close Message"
