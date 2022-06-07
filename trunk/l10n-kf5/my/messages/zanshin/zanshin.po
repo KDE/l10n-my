@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zanshin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-27 00:21+0000\n"
+"POT-Creation-Date: 2022-06-07 00:57+0000\n"
 "PO-Revision-Date: 2021-09-21 12:51+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -57,36 +57,6 @@ msgstr "နောက်အပတ်"
 msgctxt "the month after this month"
 msgid "next month"
 msgstr "နောက်လ"
-
-#: 3rdparty/kdepim/libkdepim/kdatepickerpopup.cpp:80
-#, kde-format
-msgctxt "@option today"
-msgid "&Today"
-msgstr "&Tယနေ့"
-
-#: 3rdparty/kdepim/libkdepim/kdatepickerpopup.cpp:81
-#, kde-format
-msgctxt "@option tomorrow"
-msgid "To&morrow"
-msgstr "&mနံဖြန်"
-
-#: 3rdparty/kdepim/libkdepim/kdatepickerpopup.cpp:82
-#, kde-format
-msgctxt "@option next week"
-msgid "Next &Week"
-msgstr "&Wနောက်အပတ်"
-
-#: 3rdparty/kdepim/libkdepim/kdatepickerpopup.cpp:83
-#, kde-format
-msgctxt "@option next month"
-msgid "Next M&onth"
-msgstr "&oနောက်လ"
-
-#: 3rdparty/kdepim/libkdepim/kdatepickerpopup.cpp:91
-#, kde-format
-msgctxt "@option do not specify a date"
-msgid "No Date"
-msgstr "ရက်စွဲမသတ်မှတ်ထား"
 
 #: src/akonadi/akonadiconfigdialog.cpp:35
 #, kde-format
@@ -703,3 +673,23 @@ msgstr "ပင်မကိရိယာတန်း"
 #, kde-format
 msgid "Add \"%1\" to your todo list"
 msgstr "သင်၏လုပ်ရန်စာရင်းသို့ \"%1\" ထည့်မည်"
+
+#~ msgctxt "@option today"
+#~ msgid "&Today"
+#~ msgstr "&Tယနေ့"
+
+#~ msgctxt "@option tomorrow"
+#~ msgid "To&morrow"
+#~ msgstr "&mနံဖြန်"
+
+#~ msgctxt "@option next week"
+#~ msgid "Next &Week"
+#~ msgstr "&Wနောက်အပတ်"
+
+#~ msgctxt "@option next month"
+#~ msgid "Next M&onth"
+#~ msgstr "&oနောက်လ"
+
+#~ msgctxt "@option do not specify a date"
+#~ msgid "No Date"
+#~ msgstr "ရက်စွဲမသတ်မှတ်ထား"
