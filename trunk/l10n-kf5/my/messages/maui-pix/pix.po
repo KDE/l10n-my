@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-pix\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-02 00:44+0000\n"
+"POT-Creation-Date: 2022-06-17 00:43+0000\n"
 "PO-Revision-Date: 2021-09-19 13:24+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -133,7 +133,7 @@ msgstr ""
 msgid "Info"
 msgstr "အချက်"
 
-#: src/view_models/PixMenu.qml:79 src/widgets/SelectionBar.qml:73
+#: src/view_models/PixMenu.qml:79 src/widgets/SelectionBar.qml:72
 #, kde-format
 msgid "Share"
 msgstr ""
@@ -143,7 +143,7 @@ msgstr ""
 msgid "Select"
 msgstr ""
 
-#: src/view_models/PixMenu.qml:109 src/widgets/SelectionBar.qml:92
+#: src/view_models/PixMenu.qml:109 src/widgets/SelectionBar.qml:91
 #, kde-format
 msgid "Export"
 msgstr "တင်ပို့မည်"
@@ -163,202 +163,202 @@ msgstr ""
 msgid "Open location"
 msgstr ""
 
-#: src/view_models/PixMenu.qml:175 src/widgets/SelectionBar.qml:108
+#: src/view_models/PixMenu.qml:175 src/widgets/SelectionBar.qml:107
 #, kde-format
 msgid "Remove"
 msgstr ""
 
-#: src/widgets/SelectionBar.qml:53
+#: src/widgets/SelectionBar.qml:52
 #, kde-format
 msgid "View"
 msgstr ""
 
-#: src/widgets/SelectionBar.qml:61
+#: src/widgets/SelectionBar.qml:60
 #, kde-format
 msgid "Tag"
 msgstr ""
 
-#: src/widgets/SelectionBar.qml:85
+#: src/widgets/SelectionBar.qml:84
 #, kde-format
 msgid "Un/Fav"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:16
+#: src/widgets/SettingsDialog.qml:15
 #, kde-format
 msgid "Behavior"
 msgstr "အမူအကျင့်"
 
-#: src/widgets/SettingsDialog.qml:17
+#: src/widgets/SettingsDialog.qml:16
 #, kde-format
 msgid "Configure the app behaviour."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:21
+#: src/widgets/SettingsDialog.qml:20
 #, kde-format
 msgid "Auto Reload"
 msgstr "အလိုအလျောက်ပြန်တွန်းတင်မည်"
 
-#: src/widgets/SettingsDialog.qml:22
+#: src/widgets/SettingsDialog.qml:21
 #, kde-format
 msgid "Watch for changes in the collection sources."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:35
+#: src/widgets/SettingsDialog.qml:34
 #, kde-format
 msgid "Dark Mode"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:36
+#: src/widgets/SettingsDialog.qml:35
 #, kde-format
 msgid "Switch between light and dark colorscheme"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:53
+#: src/widgets/SettingsDialog.qml:52
 #, kde-format
 msgid "Collection"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:54
+#: src/widgets/SettingsDialog.qml:53
 #, kde-format
 msgid "Configure the app plugins and look & feel."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:58
+#: src/widgets/SettingsDialog.qml:57
 #, kde-format
 msgid "Fit"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:59
+#: src/widgets/SettingsDialog.qml:58
 #, kde-format
 msgid "Fit the previews"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:72
+#: src/widgets/SettingsDialog.qml:71
 #, kde-format
 msgid "Image Titles"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:73
+#: src/widgets/SettingsDialog.qml:72
 #, kde-format
 msgid "Show the titles of the images."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:86
+#: src/widgets/SettingsDialog.qml:85
 #, kde-format
 msgid "Preview Size"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:87
+#: src/widgets/SettingsDialog.qml:86
 #, kde-format
 msgid "Size of the thumbnails in the collection views."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:111
+#: src/widgets/SettingsDialog.qml:110
 #, kde-format
 msgid "S"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:117
+#: src/widgets/SettingsDialog.qml:116
 #, kde-format
 msgid "M"
 msgstr "M"
 
-#: src/widgets/SettingsDialog.qml:123
+#: src/widgets/SettingsDialog.qml:122
 #, kde-format
 msgid "X"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:129
+#: src/widgets/SettingsDialog.qml:128
 #, kde-format
 msgid "XL"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:137
+#: src/widgets/SettingsDialog.qml:136
 #, kde-format
 msgid "Sorting by"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:138
+#: src/widgets/SettingsDialog.qml:137
 #, kde-format
 msgid "Change the sorting key."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:160
+#: src/widgets/SettingsDialog.qml:159
 #, kde-format
 msgid "Title"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:166
+#: src/widgets/SettingsDialog.qml:165
 #, kde-format
 msgid "Date"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:172
+#: src/widgets/SettingsDialog.qml:171
 #, kde-format
 msgid "Size"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:180
+#: src/widgets/SettingsDialog.qml:179
 #, kde-format
 msgid "Sort order"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:181
+#: src/widgets/SettingsDialog.qml:180
 #, kde-format
 msgid "Change the sorting order."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:202
+#: src/widgets/SettingsDialog.qml:201
 #, kde-format
 msgid "Ascending"
 msgstr "တက်နေသည်"
 
-#: src/widgets/SettingsDialog.qml:209
+#: src/widgets/SettingsDialog.qml:208
 #, kde-format
 msgid "Descending"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:219
+#: src/widgets/SettingsDialog.qml:218
 #, kde-format
 msgid "Viewer"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:220
+#: src/widgets/SettingsDialog.qml:219
 #, kde-format
 msgid "Adjust the viewer panels and settings."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:224
+#: src/widgets/SettingsDialog.qml:223
 #, kde-format
 msgid "Tag Bar"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:225
+#: src/widgets/SettingsDialog.qml:224
 #, kde-format
 msgid "Easy way to add, remove and modify the tags of the current image."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:238
+#: src/widgets/SettingsDialog.qml:237
 #, kde-format
 msgid "Preview Bar"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:239
+#: src/widgets/SettingsDialog.qml:238
 #, kde-format
 msgid "Show small thumbnail previews in the image viewer."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:252
+#: src/widgets/SettingsDialog.qml:251
 #, kde-format
 msgid "Sources"
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:254
+#: src/widgets/SettingsDialog.qml:252
 #, kde-format
 msgid "Add new sources to manage and browse your image collection."
 msgstr ""
 
-#: src/widgets/SettingsDialog.qml:295
+#: src/widgets/SettingsDialog.qml:293
 #, kde-format
 msgid "Add"
 msgstr "ထည့်မည်"
@@ -399,12 +399,12 @@ msgstr ""
 msgid "Add new image sources"
 msgstr ""
 
-#: src/widgets/views/Folders/FoldersView.qml:148
+#: src/widgets/views/Folders/FoldersView.qml:149
 #, kde-format
 msgid "Folder is empty!"
 msgstr ""
 
-#: src/widgets/views/Folders/FoldersView.qml:149
+#: src/widgets/views/Folders/FoldersView.qml:150
 #, kde-format
 msgid "There're no images in this folder"
 msgstr ""
@@ -461,12 +461,12 @@ msgstr ""
 msgid "You can create new tags to organize your gallery"
 msgstr ""
 
-#: src/widgets/views/Tags/TagsView.qml:43
+#: src/widgets/views/Tags/TagsView.qml:42
 #, kde-format
 msgid "No Pics in %1!"
 msgstr ""
 
-#: src/widgets/views/Tags/TagsView.qml:44
+#: src/widgets/views/Tags/TagsView.qml:43
 #, kde-format
 msgid "There're no pics associated with the tag"
 msgstr ""
