@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-pix\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-17 00:43+0000\n"
+"POT-Creation-Date: 2022-06-18 00:43+0000\n"
 "PO-Revision-Date: 2021-09-19 13:24+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -399,12 +399,12 @@ msgstr ""
 msgid "Add new image sources"
 msgstr ""
 
-#: src/widgets/views/Folders/FoldersView.qml:149
+#: src/widgets/views/Folders/FoldersView.qml:152
 #, kde-format
 msgid "Folder is empty!"
 msgstr ""
 
-#: src/widgets/views/Folders/FoldersView.qml:150
+#: src/widgets/views/Folders/FoldersView.qml:153
 #, kde-format
 msgid "There're no images in this folder"
 msgstr ""
