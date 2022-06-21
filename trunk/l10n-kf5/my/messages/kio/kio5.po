@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-15 00:43+0000\n"
+"POT-Creation-Date: 2022-06-21 00:41+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -4035,17 +4035,17 @@ msgstr "အိမ်ရှင် %1သို့ ချိတ်ဆက်မှ�
 msgid "Connected to host %1"
 msgstr "အိမ်ရှင် %1နှင့် ချိတ်ဆက်ထားသည်"
 
-#: ioslaves/ftp/ftp.cpp:463
+#: ioslaves/ftp/ftp.cpp:462
 #, kde-format
 msgid "%1 (Error %2)"
 msgstr "%1 (အမှား %2)"
 
-#: ioslaves/ftp/ftp.cpp:493
+#: ioslaves/ftp/ftp.cpp:492
 #, kde-format
 msgid "Sending login information"
 msgstr "လော့ဂင်ဆိုင်ရာသတင်းအချက်အလက်များ ပေးပို့နေသည်"
 
-#: ioslaves/ftp/ftp.cpp:551
+#: ioslaves/ftp/ftp.cpp:550
 #, kde-format
 msgid ""
 "Message sent:\n"
@@ -4062,32 +4062,32 @@ msgstr ""
 "%2\n"
 "\n"
 
-#: ioslaves/ftp/ftp.cpp:562 ioslaves/http/http.cpp:5314
+#: ioslaves/ftp/ftp.cpp:561 ioslaves/http/http.cpp:5314
 #, kde-format
 msgid "You need to supply a username and a password to access this site."
 msgstr "ဤဆိုက်ကို ဝင်ရောက်အသုံးပြုရန် အသုံးပြုအမည်နှင့် စကားဝှက် ပေးရန်လိုအပ်သည်။"
 
-#: ioslaves/ftp/ftp.cpp:564 ioslaves/http/http.cpp:5316
+#: ioslaves/ftp/ftp.cpp:563 ioslaves/http/http.cpp:5316
 #, kde-format
 msgid "Site:"
 msgstr "ဆိုက် -"
 
-#: ioslaves/ftp/ftp.cpp:565 ioslaves/ftp/ftp.cpp:2515
+#: ioslaves/ftp/ftp.cpp:564 ioslaves/ftp/ftp.cpp:2514
 #, kde-format
 msgid "<b>%1</b>"
 msgstr "<b>%1</b>"
 
-#: ioslaves/ftp/ftp.cpp:649
+#: ioslaves/ftp/ftp.cpp:648
 #, kde-format
 msgid "Login OK"
 msgstr "လော့ဂင် အိုကေ"
 
-#: ioslaves/ftp/ftp.cpp:678
+#: ioslaves/ftp/ftp.cpp:677
 #, kde-format
 msgid "Could not login to %1."
 msgstr "%1 သို့ လော့ဂင် ဝင်မရခဲ့ပါ။"
 
-#: ioslaves/ftp/ftp.cpp:1055
+#: ioslaves/ftp/ftp.cpp:1054
 #, kde-format
 msgid ""
 "\n"
@@ -4096,7 +4096,7 @@ msgstr ""
 "\n"
 "ဆာဗာအကြောင်းပြန်ချက် - \"%1\""
 
-#: ioslaves/ftp/ftp.cpp:2510 ioslaves/http/http.cpp:5195
+#: ioslaves/ftp/ftp.cpp:2509 ioslaves/http/http.cpp:5195
 #: ioslaves/http/http.cpp:5329
 #, kde-format
 msgid ""
@@ -4106,13 +4106,13 @@ msgstr ""
 "မည်သည့်ဆိုက်မဆို ဝင်ရောက်အသုံးပြုခွင့်မရမီ အောက်တွင်ပြထားသည့် ကြားခံဆာဗာစာရင်းအတွက် အသုံးပြုအမည်နှင့် စကားဝှက် "
 "ပေးရန်လိုအပ်သည်။"
 
-#: ioslaves/ftp/ftp.cpp:2514 ioslaves/http/http.cpp:5199
+#: ioslaves/ftp/ftp.cpp:2513 ioslaves/http/http.cpp:5199
 #: ioslaves/http/http.cpp:5332
 #, kde-format
 msgid "Proxy:"
 msgstr "ကြားခံ -"
 
-#: ioslaves/ftp/ftp.cpp:2517 ioslaves/http/http.cpp:5202
+#: ioslaves/ftp/ftp.cpp:2516 ioslaves/http/http.cpp:5202
 #: ioslaves/http/http.cpp:5347
 #, kde-format
 msgid "Proxy Authentication Failed."
