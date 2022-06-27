@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-sol\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-09 00:49+0000\n"
+"POT-Creation-Date: 2022-06-27 00:43+0000\n"
 "PO-Revision-Date: 2021-09-14 17:59+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -44,17 +44,17 @@ msgstr ""
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:115
+#: src/main.qml:121
 #, kde-format
 msgid "Browser"
 msgstr "ဘရောက်ဇာ"
 
-#: src/main.qml:121
+#: src/main.qml:127
 #, kde-format
 msgid "Recent"
 msgstr "လတ်တလော"
 
-#: src/main.qml:129
+#: src/main.qml:135
 #, kde-format
 msgid "Home"
 msgstr "အိမ်"
