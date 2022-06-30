@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-23 00:45+0000\n"
+"POT-Creation-Date: 2022-06-30 00:46+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -40,6 +40,7 @@ msgid ""
 msgstr ""
 
 #: discover/DiscoverObject.cpp:163 discover/DiscoverObject.cpp:341
+#: discover/qml/UpdatesPage.qml:107
 #, kde-format
 msgid "Report This Issue"
 msgstr ""
@@ -635,7 +636,7 @@ msgstr "ရင်းမြစ်ကိုမရှာနိုင်ခဲ့ပ
 msgid "Proceed"
 msgstr "ဆက်လုပ်မည်"
 
-#: discover/qml/DiscoverWindow.qml:306 discover/qml/UpdatesPage.qml:107
+#: discover/qml/DiscoverWindow.qml:306
 #, kde-format
 msgid "Report this issue"
 msgstr ""
@@ -952,7 +953,7 @@ msgstr ""
 
 #: discover/qml/UpdatesPage.qml:67
 #, kde-format
-msgid "See technical details"
+msgid "See Technical Details"
 msgstr ""
 
 #: discover/qml/UpdatesPage.qml:83
@@ -964,7 +965,7 @@ msgstr ""
 
 #: discover/qml/UpdatesPage.qml:98
 #, kde-format
-msgid "Copy to clipboard"
+msgid "Copy to Clipboard"
 msgstr ""
 
 #: discover/qml/UpdatesPage.qml:102
