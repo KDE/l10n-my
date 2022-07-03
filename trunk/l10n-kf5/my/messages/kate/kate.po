@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-02 00:53+0000\n"
+"POT-Creation-Date: 2022-07-03 00:51+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1178,12 +1178,12 @@ msgstr "&Sဆက်ရှင် သိမ်းဆည်းမည်"
 msgid "Save Session &As..."
 msgstr "&Aအဖြစ် ဆက်ရှင်ကိုသိမ်းဆည်းမည်..."
 
-#: lib/katemainwindow.cpp:486 lib/kateviewspace.cpp:60
+#: lib/katemainwindow.cpp:486 lib/kateviewspace.cpp:61
 #, kde-format
 msgid "Go to Previous Location"
 msgstr ""
 
-#: lib/katemainwindow.cpp:494 lib/kateviewspace.cpp:73
+#: lib/katemainwindow.cpp:494 lib/kateviewspace.cpp:74
 #, kde-format
 msgid "Go to Next Location"
 msgstr ""
@@ -1222,23 +1222,34 @@ msgid "Hide menu bar"
 msgstr "မီနူးတန်း ဖွက်ထားမည်"
 
 #: lib/katemainwindow.cpp:837
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "You dropped the directory %1 into Kate. Do you want to load all files "
+#| "contained in it ?"
 msgid ""
-"You dropped the directory %1 into Kate. Do you want to load all files "
-"contained in it ?"
+"You dropped the directory %1 into Kate. Do you want to open all files "
+"contained in it?"
 msgstr "သင်သည် ဒါရိုက်ထရီ %1 ကို ကိတ် ထဲသို့ လွတ်ချခဲ့သည်။ ၎င်းအတွင်းရှိ ဖိုင်လ်များအားလုံး သင်ဖွင့်ချင်ပါသလား။"
 
 #: lib/katemainwindow.cpp:840
 #, kde-format
-msgid "Load files recursively?"
+msgctxt "@title:window"
+msgid "Open Files Recursively"
 msgstr ""
 
-#: lib/katemainwindow.cpp:968
+#: lib/katemainwindow.cpp:841
+#, fuzzy, kde-format
+#| msgid "Open File"
+msgctxt "@action:button"
+msgid "Open All Files"
+msgstr "ဖိုင်လ်ဖွင့်မည်"
+
+#: lib/katemainwindow.cpp:970
 #, kde-format
 msgid "&Other..."
 msgstr "&Oအခြား..."
 
-#: lib/katemainwindow.cpp:1083
+#: lib/katemainwindow.cpp:1085
 #, kde-format
 msgid " [read only]"
 msgstr " [ဖတ်၍သာရ]"
@@ -1706,28 +1717,28 @@ msgstr ""
 msgid "Opening Large File"
 msgstr "ကြီးမားသောဖိုင်လ်ဖွင့်နေသည်"
 
-#: lib/kateviewmanager.cpp:990
+#: lib/kateviewmanager.cpp:991
 #, kde-format
 msgid "This view may have unsaved work. Do you really want to close it?"
 msgstr ""
 
-#: lib/kateviewspace.cpp:100
+#: lib/kateviewspace.cpp:101
 #, kde-format
 msgctxt "indicator for more documents"
 msgid "+%1"
 msgstr "+%1"
 
-#: lib/kateviewspace.cpp:105 lib/kateviewspace.cpp:209
+#: lib/kateviewspace.cpp:106 lib/kateviewspace.cpp:210
 #, kde-format
 msgid "Click here to switch to the Quick Open view."
 msgstr ""
 
-#: lib/kateviewspace.cpp:120
+#: lib/kateviewspace.cpp:121
 #, kde-format
 msgid "Control view space splitting"
 msgstr ""
 
-#: lib/kateviewspace.cpp:210
+#: lib/kateviewspace.cpp:211
 #, kde-format
 msgid ""
 "Currently, there is one more document open. To see all open documents, "
@@ -1737,32 +1748,32 @@ msgid_plural ""
 "switch to the Quick Open view by clicking here."
 msgstr[0] ""
 
-#: lib/kateviewspace.cpp:883
+#: lib/kateviewspace.cpp:885
 #, kde-format
 msgid "Close Tab"
 msgstr "တပ်ဘ်ပိတ်မည်"
 
-#: lib/kateviewspace.cpp:897
+#: lib/kateviewspace.cpp:902
 #, kde-format
 msgid "&Close Document"
 msgstr "&Cမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
 
-#: lib/kateviewspace.cpp:898
+#: lib/kateviewspace.cpp:903
 #, kde-format
 msgid "Close Other &Documents"
 msgstr "&Dအခြားမှတ်တမ်းပုံနှိပ်မူများ ပိတ်မည်"
 
-#: lib/kateviewspace.cpp:907
+#: lib/kateviewspace.cpp:912
 #, kde-format
 msgid "Compare with active document"
 msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူနှင့် နှိုင်းယှဥ်မည်"
 
-#: lib/kateviewspace.cpp:966
+#: lib/kateviewspace.cpp:974
 #, kde-format
 msgid "Could not start program"
 msgstr "ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ"
 
-#: lib/kateviewspace.cpp:967
+#: lib/kateviewspace.cpp:975
 #, kde-format
 msgid "The selected program could not be started. Maybe it is not installed."
 msgstr "ရွေးထားသော ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ။ တပ်ဆင်မထားရသေးခြင်းဖြစ်နိုင်သည်။"
@@ -1881,46 +1892,58 @@ msgid ""
 "Internal error: there is more than one instance open for a given session."
 msgstr "စနစ်အတွင်းပိုင်းဆိုင်ရာ အမှား - ပေးထားသော ဆက်ရှင်တစ်ခုအတွက် ဆောင်ရွက်မှုများ တစ်ခုမကရှိနေသည်။"
 
-#: lib/session/katesessionmanager.cpp:111
+#: lib/session/katesessionmanager.cpp:112
 #, kde-format
 msgid ""
-"Session '%1' is already opened in another kate instance, change there "
-"instead of reopening?"
+"Session '%1' is already opened in another Kate instance. Switch to that or "
+"reopen in this instance?"
 msgstr ""
 
-#: lib/session/katesessionmanager.cpp:302
+#: lib/session/katesessionmanager.cpp:114
 #, kde-format
-msgid "The session could not be renamed to \"%1\". Failed to write to \"%2\""
+msgctxt "@action:button"
+msgid "Switch to Instance"
+msgstr ""
+
+#: lib/session/katesessionmanager.cpp:115
+#, kde-format
+msgctxt "@action:button"
+msgid "Reopen"
 msgstr ""
 
 #: lib/session/katesessionmanager.cpp:303
 #, kde-format
+msgid "The session could not be renamed to \"%1\". Failed to write to \"%2\""
+msgstr ""
+
+#: lib/session/katesessionmanager.cpp:304
+#, kde-format
 msgid "Session Renaming"
 msgstr "ဆက်ရှင် အမည်ပြောင်းခြင်း"
 
-#: lib/session/katesessionmanager.cpp:450
+#: lib/session/katesessionmanager.cpp:451
 #, kde-format
 msgid "Session name:"
 msgstr "ဆက်ရှင် အမည် -"
 
-#: lib/session/katesessionmanager.cpp:452
+#: lib/session/katesessionmanager.cpp:453
 #, kde-format
 msgid ""
 "There is already an existing session with your chosen name: %1\n"
 "Please choose a different one."
 msgstr ""
 
-#: lib/session/katesessionmanager.cpp:454
+#: lib/session/katesessionmanager.cpp:455
 #, kde-format
 msgid "To save a session, you must specify a name."
 msgstr "ဆက်ရှင်ကိုသိမ်းဆည်းရန် အမည်ပေးရမည်။"
 
-#: lib/session/katesessionmanager.cpp:481
+#: lib/session/katesessionmanager.cpp:482
 #, kde-format
 msgid "Specify a name for this session"
 msgstr "ဤဆက်ရှင်အတွက် အမည်သတ်မှတ်ပါ"
 
-#: lib/session/katesessionmanager.cpp:483
+#: lib/session/katesessionmanager.cpp:484
 #, kde-format
 msgid "Specify a new name for session: %1"
 msgstr "ဆက်ရှင် - %1 အတွက် အမည်အသစ်သတ်မှတ်ပါ"

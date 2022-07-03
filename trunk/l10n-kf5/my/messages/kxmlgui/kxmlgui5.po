@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kxmlgui\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-16 00:43+0000\n"
+"POT-Creation-Date: 2022-07-03 00:42+0000\n"
 "PO-Revision-Date: 2021-09-20 02:06+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -1072,46 +1072,46 @@ msgstr ""
 "အစီအစဥ်ပုံ %1ကို သင်တကယ်ဖျက်လိုသလား။\n"
 "ဖျက်ရင်တောင် စစ်စတမ်သုံးအစီအစဥ်ပုံများကို မဖယ်ရှားသည်ကိုတော့ မှတ်သားပါ။"
 
-#: kshortcutschemeseditor.cpp:169
+#: kshortcutschemeseditor.cpp:172
 #, kde-format
 msgctxt "@title:window"
 msgid "Export Shortcuts"
 msgstr "အမြန်ခလုတ်များ ထုတ်ပို့မည်"
 
-#: kshortcutschemeseditor.cpp:169 kshortcutschemeseditor.cpp:180
+#: kshortcutschemeseditor.cpp:172 kshortcutschemeseditor.cpp:183
 #, kde-format
 msgid "Shortcuts (*.shortcuts)"
 msgstr "အမြန်ခလုတ်များ(*.shortcuts)"
 
-#: kshortcutschemeseditor.cpp:180
+#: kshortcutschemeseditor.cpp:183
 #, kde-format
 msgctxt "@title:window"
 msgid "Import Shortcuts"
 msgstr "အမြန်ခလုတ်များ တင်သွင်းမည်"
 
-#: kshortcutschemeseditor.cpp:191
+#: kshortcutschemeseditor.cpp:194
 #, kde-format
 msgid "Shortcut scheme successfully saved."
 msgstr "အမြန်ခလုတ်အစီအစဥ်ပုံကို အောင်မြင်စွာသိမ်းဆည်းခဲ့ပြီးပါပြီ။"
 
-#: kshortcutschemeseditor.cpp:194
+#: kshortcutschemeseditor.cpp:197
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr "အမြန်ခလုတ်အစီအစဥ်ပုံကို အောင်မြင်စွာ မသိမ်းဆည်းနိုင်ခဲ့ပါ။"
 
-#: kshortcutsdialog.cpp:69
+#: kshortcutsdialog.cpp:70
 #, kde-format
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
 "one?"
 msgstr "လက်ရှိဖြတ်လမ်းအစီအစဥ်ပုံကို မွမ်းမံထားသည်။ အသစ်ခုသို့ မပြောင်းမီ သိမ်းဆည်းမည်လား။"
 
-#: kshortcutsdialog.cpp:119
+#: kshortcutsdialog.cpp:124
 #, kde-format
 msgid "Manage &Schemes"
 msgstr "&Sအစီအစဥ်ပုံများ စီမံရန်"
 
-#: kshortcutsdialog.cpp:144
+#: kshortcutsdialog.cpp:149
 #, kde-format
 msgctxt "@title:window"
 msgid "Configure Keyboard Shortcuts"
