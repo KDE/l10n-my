@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-02 01:00+0000\n"
+"POT-Creation-Date: 2022-07-10 00:57+0000\n"
 "PO-Revision-Date: 2021-09-19 13:15+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -48,17 +48,17 @@ msgctxt "Name"
 msgid "Users"
 msgstr "အသုံးပြုသူများ"
 
-#: app/systemsettings.desktop:341
+#: app/systemsettings.desktop:342
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr "စခရင် သော့ခတ်ခြင်း"
 
-#: app/systemsettings.desktop:389
+#: app/systemsettings.desktop:390
 msgctxt "Name"
 msgid "Energy Saving"
 msgstr ""
 
-#: app/systemsettings.desktop:437
+#: app/systemsettings.desktop:438
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr ""

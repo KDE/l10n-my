@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-07 00:48+0000\n"
+"POT-Creation-Date: 2022-07-10 00:50+0000\n"
 "PO-Revision-Date: 2021-09-15 03:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -899,9 +899,10 @@ msgid "Add"
 msgstr "ထည့်သွင်းမည်"
 
 #: kateprojecttreeviewcontextmenu.cpp:65
-#, kde-format
-msgid "Copy File Path"
-msgstr "ဖိုင်လ်လမ်းကြောင်းကို ကူးယူမည်"
+#, fuzzy, kde-format
+#| msgid "No Action"
+msgid "Copy Location"
+msgstr "လုပ်ဆောင်ချက်မရှိ"
 
 #: kateprojecttreeviewcontextmenu.cpp:70
 #, kde-format
@@ -928,32 +929,32 @@ msgstr "ကိုယ်ပိုင်လက္ခဏာများ"
 msgid "Open With"
 msgstr "ဖြင့် ဖွင့်မည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:110
+#: kateprojecttreeviewcontextmenu.cpp:111
 #, kde-format
 msgid "Open Internal Terminal Here"
 msgstr ""
 
-#: kateprojecttreeviewcontextmenu.cpp:119
+#: kateprojecttreeviewcontextmenu.cpp:120
 #, kde-format
 msgid "Open External Terminal Here"
 msgstr "ပြင်ပတာမီနယ်ကို ဒီနေရာတွင် ဖွင့်မည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:124
+#: kateprojecttreeviewcontextmenu.cpp:125
 #, kde-format
 msgid "&Open Containing Folder"
 msgstr "&Oတည်ရှိသော ဖိုလ်ဒါကို ဖွင့်မည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:134
+#: kateprojecttreeviewcontextmenu.cpp:135
 #, fuzzy, kde-format
 msgid "Show Git History"
 msgstr "မှတ်တမ်းပြမည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:153
+#: kateprojecttreeviewcontextmenu.cpp:154
 #, kde-format
 msgid "Delete File"
 msgstr "ဖိုင်လ် ဖျက်မည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:154
+#: kateprojecttreeviewcontextmenu.cpp:155
 #, kde-format
 msgid "Do you want to delete the file '%1'?"
 msgstr "ဖိုင်လ် \"%1\" ကို သင်တကယ်ဖျက်တော့မည်လား။"
@@ -1038,6 +1039,9 @@ msgstr ""
 #, kde-format
 msgid "&Projects"
 msgstr "&Pပရောဂျက်များ"
+
+#~ msgid "Copy File Path"
+#~ msgstr "ဖိုင်လ်လမ်းကြောင်းကို ကူးယူမည်"
 
 #, fuzzy
 #~| msgid "Open Folder..."

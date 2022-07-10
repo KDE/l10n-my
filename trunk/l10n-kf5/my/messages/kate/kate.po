@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-07 00:48+0000\n"
+"POT-Creation-Date: 2022-07-10 00:50+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -992,9 +992,10 @@ msgid "Reload all open documents."
 msgstr "ဖွင့်ထားသော မှတ်တမ်းပုံနှိပ်မူအကုန် ပြန်တွန်းတင်မည်။"
 
 #: lib/katemainwindow.cpp:316
-#, kde-format
-msgid "Copy File &Path"
-msgstr "&Pဖိုင်လ်လမ်းကြောင်းကို ကူးယူမည်"
+#, fuzzy, kde-format
+#| msgid "Location"
+msgid "Copy Location"
+msgstr "တည်နေရာ"
 
 #: lib/katemainwindow.cpp:321 lib/katemainwindow.cpp:330
 #, kde-format
@@ -1287,8 +1288,9 @@ msgid "Show %1 Button"
 msgstr "&Sပိတ်ရန်ခလုတ်ပြမည်"
 
 #: lib/katemdi.cpp:760
-#, kde-format
-msgid "Configure ..."
+#, fuzzy, kde-format
+#| msgid "Configure ..."
+msgid "Configure..."
 msgstr "ပြင်ဆင်မည်..."
 
 #: lib/katemdi.cpp:767
@@ -2066,6 +2068,9 @@ msgstr "&mအဓိပ္ပါယ်ဖွင့်ဆိုမှု-အချ
 #, kde-format
 msgid "Delete unused meta-information after:"
 msgstr "အသုံးမပြုသော အဓိပ္ပါယ်ဖွင့်ဆိုမှု-အချက်အလက်များကို ဖျက်မည် (အချိန်တစ်ခုကြာပြီးလျှင်) -"
+
+#~ msgid "Copy File &Path"
+#~ msgstr "&Pဖိုင်လ်လမ်းကြောင်းကို ကူးယူမည်"
 
 #~ msgid "Type to filter..."
 #~ msgstr "စစ်ထုတ်ရန် ရိုက်သွင်းပါ..."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-03 00:51+0000\n"
+"POT-Creation-Date: 2022-07-10 00:50+0000\n"
 "PO-Revision-Date: 2021-09-15 05:32+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -34,44 +34,44 @@ msgctxt "@action:inmenu"
 msgid "Open With"
 msgstr "ဖြင့် ဖွင့်မည်"
 
-#: katefilebrowser.cpp:278
+#: katefilebrowser.cpp:279
 #, kde-format
 msgid "&Other..."
 msgstr "&Oအခြား..."
 
-#: katefilebrowser.cpp:310
+#: katefilebrowser.cpp:311
 #, kde-format
 msgid "You are trying to open 1 file, are you sure?"
 msgid_plural "You are trying to open %1 files, are you sure?"
 msgstr[0] "သင်သည် ဖိုင်လ် %1ခု ဖွင့်ရန် ကြိုးပမ်းနေသည်။ သေချာပါသလား။"
 
-#: katefilebrowser.cpp:312
+#: katefilebrowser.cpp:313
 #, kde-format
 msgctxt "@action:button"
 msgid "Open All Files"
 msgstr ""
 
-#: katefilebrowser.cpp:375
+#: katefilebrowser.cpp:376
 #, kde-format
 msgid "Bookmarks"
 msgstr "စာမျက်နှာအမှတ်အသားများ"
 
-#: katefilebrowser.cpp:383
+#: katefilebrowser.cpp:384
 #, kde-format
 msgid "Current Document Folder"
 msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူ ဖိုလ်ဒါ"
 
-#: katefilebrowser.cpp:391
+#: katefilebrowser.cpp:392
 #, kde-format
 msgid "Options"
 msgstr "ရွေးချယ်စရာများ"
 
-#: katefilebrowser.cpp:403
+#: katefilebrowser.cpp:404
 #, kde-format
 msgid "Automatically synchronize with current document"
 msgstr ""
 
-#: katefilebrowser.cpp:410
+#: katefilebrowser.cpp:411
 #, kde-format
 msgid "Highlight current file"
 msgstr ""
