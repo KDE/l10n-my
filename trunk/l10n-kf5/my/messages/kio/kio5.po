@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-13 00:43+0000\n"
+"POT-Creation-Date: 2022-07-15 00:42+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -47,7 +47,7 @@ msgstr ""
 msgid "Unable to create io-slave: %1"
 msgstr "အိုင်အို-ကျွန် - %1 ကို မဖန်တီးနိုင်ခဲ့ပါ"
 
-#: core/copyjob.cpp:165 ioslaves/file/file_unix.cpp:1273
+#: core/copyjob.cpp:165 ioslaves/file/file_unix.cpp:1277
 #, kde-format
 msgctxt ""
 "The first arg is the path to the symlink that couldn't be created, the "
@@ -3455,7 +3455,7 @@ msgid "*|All Files"
 msgstr "*|ဖိုင်လ်အားလုံး"
 
 #: filewidgets/kfilewidget.cpp:2147 widgets/executablefileopendialog.cpp:30
-#: widgets/kfileitemactions.cpp:874
+#: widgets/kfileitemactions.cpp:875
 #, kde-format
 msgid "&Open"
 msgstr "&Oဖွင့်"
@@ -3674,7 +3674,7 @@ msgstr "ဒက်စ်တော့ပ်သည် အော့ဖ်လို�
 #. i18n: ectx: property (text), widget (QPushButton, sha1CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha256CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha512CopyButton)
-#: filewidgets/kurlnavigator.cpp:494 ioslaves/file/file_unix.cpp:135
+#: filewidgets/kurlnavigator.cpp:493 ioslaves/file/file_unix.cpp:135
 #: widgets/checksumswidget.ui:118 widgets/checksumswidget.ui:156
 #: widgets/checksumswidget.ui:194 widgets/checksumswidget.ui:232
 #, kde-format
@@ -3682,41 +3682,41 @@ msgid "Copy"
 msgstr "ကူးယူရန်"
 
 #. i18n: ectx: property (text), widget (QPushButton, pasteButton)
-#: filewidgets/kurlnavigator.cpp:498 widgets/checksumswidget.ui:39
+#: filewidgets/kurlnavigator.cpp:497 widgets/checksumswidget.ui:39
 #, kde-format
 msgid "Paste"
 msgstr "ပွား"
 
-#: filewidgets/kurlnavigator.cpp:518
+#: filewidgets/kurlnavigator.cpp:517
 #, fuzzy, kde-format
 #| msgid "Open %1 in tab"
 msgctxt "@item:inmenu"
 msgid "Open \"%1\" in New Tab"
 msgstr "%1ကို တပ်ဗ်တွင်ဖွင့်"
 
-#: filewidgets/kurlnavigator.cpp:526
+#: filewidgets/kurlnavigator.cpp:525
 #, fuzzy, kde-format
 #| msgid "Open %1 in tab"
 msgctxt "@item:inmenu"
 msgid "Open \"%1\" in New Window"
 msgstr "%1ကို တပ်ဗ်တွင်ဖွင့်"
 
-#: filewidgets/kurlnavigator.cpp:535
+#: filewidgets/kurlnavigator.cpp:534
 #, kde-format
 msgid "Edit"
 msgstr "တည်းဖြတ်"
 
-#: filewidgets/kurlnavigator.cpp:538
+#: filewidgets/kurlnavigator.cpp:537
 #, kde-format
 msgid "Navigate"
 msgstr "လမ်းညွှန်မည်"
 
-#: filewidgets/kurlnavigator.cpp:553
+#: filewidgets/kurlnavigator.cpp:552
 #, kde-format
 msgid "Show Full Path"
 msgstr "လမ်းကြောင်းအပြည့်အစုံပြမည်"
 
-#: filewidgets/kurlnavigatorbutton.cpp:703
+#: filewidgets/kurlnavigatorbutton.cpp:701
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "More"
@@ -4014,22 +4014,22 @@ msgstr ""
 "မူလဇစ်မြစ် %2\n"
 "%3"
 
-#: ioslaves/file/file_unix.cpp:835
+#: ioslaves/file/file_unix.cpp:839
 #, kde-format
 msgid "Cannot copy file from %1 to %2. (Errno: %3)"
 msgstr "%1 မှ %2 သို့ ဖိုင်လ်ကူးယူမရပါ။ (အမှားနံပါတ် - %3)"
 
-#: ioslaves/file/file_unix.cpp:1062
+#: ioslaves/file/file_unix.cpp:1066
 #, kde-format
 msgid "No media in device for %1"
 msgstr "%1အတွက် စက်တွင် မီဒီယာမရှိပါ"
 
-#: ioslaves/file/file_unix.cpp:1358
+#: ioslaves/file/file_unix.cpp:1362
 #, kde-format
 msgid "Could not get user id for given user name %1"
 msgstr "ပေးထားသော အသုံးပြုသူအမည် %1 အတွက် အသုံးပြုသူအိုင်ဒီ မရယူနိုင်ခဲ့ပါ"
 
-#: ioslaves/file/file_unix.cpp:1370
+#: ioslaves/file/file_unix.cpp:1374
 #, kde-format
 msgid "Could not get group id for given group name %1"
 msgstr "ပေးထားသော အုပ်စုအမည် %1 အတွက် အုပ်စုအိုင်ဒီ မရယူနိုင်ခဲ့ပါ"
@@ -6258,12 +6258,12 @@ msgstr ""
 "ကြားခံပြင်ဆင်မှုညွှန်ကြားစာဖိုင်လ်မှ အမှားပြန်လာခဲ့သည်-\n"
 "%1"
 
-#: kpac/script.cpp:675
+#: kpac/script.cpp:674
 #, kde-format
 msgid "Could not find 'FindProxyForURL' or 'FindProxyForURLEx'"
 msgstr "'FindProxyForURL' သို့မဟုတ် 'FindProxyForURLEx' ရှာမတွေ့ပါ"
 
-#: kpac/script.cpp:693
+#: kpac/script.cpp:692
 #, kde-format
 msgid "Got an invalid reply when calling %1 -> %2"
 msgstr "%1 -> %2 ခေါ်သည့်အခါ အတည်မပြုနိုင်သော ပြန်ကြားချက်ရရှိခဲ့သည်"
@@ -6481,12 +6481,12 @@ msgctxt "Space as keyword delimiter"
 msgid "Space"
 msgstr "'နေရာလွတ်'အက္ခရာ"
 
-#: urifilters/ikws/kuriikwsfilter.cpp:105
+#: urifilters/ikws/kuriikwsfilter.cpp:104
 #, kde-format
 msgid "No preferred search providers were found."
 msgstr "ပိုနှစ်သက်သော ရှာဖွေခြင်းဝန်ဆောင်မှုပေးသူများ မတွေ့ပါ။"
 
-#: urifilters/ikws/kuriikwsfilter.cpp:120
+#: urifilters/ikws/kuriikwsfilter.cpp:119
 #, kde-format
 msgid "No search providers were found."
 msgstr "ရှာဖွေခြင်းဝန်ဆောင်မှုပေးသူများ မတွေ့ပါ။"
@@ -7256,24 +7256,24 @@ msgctxt "@item:inmenu Open With, %1 is application name"
 msgid "%1"
 msgstr "%1"
 
-#: widgets/kfileitemactions.cpp:618
+#: widgets/kfileitemactions.cpp:619
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Actions"
 msgstr "&Aလုပ်ဆောင်ချက်များ"
 
-#: widgets/kfileitemactions.cpp:863
+#: widgets/kfileitemactions.cpp:864
 #, fuzzy, kde-format
 #| msgid "&Open with %1"
 msgid "&Open folder with %1"
 msgstr "&O %1 ဖြင့်ဖွင့်ရန်"
 
-#: widgets/kfileitemactions.cpp:863
+#: widgets/kfileitemactions.cpp:864
 #, kde-format
 msgid "&Open with %1"
 msgstr "&O %1 ဖြင့်ဖွင့်ရန်"
 
-#: widgets/kfileitemactions.cpp:887
+#: widgets/kfileitemactions.cpp:886
 #, fuzzy, kde-format
 #| msgctxt "@title:menu"
 #| msgid "&Open With..."
@@ -7281,13 +7281,13 @@ msgctxt "@title:menu"
 msgid "&Open Folder With..."
 msgstr "&Oဖြင့်ဖွင့်ရန်..."
 
-#: widgets/kfileitemactions.cpp:888
+#: widgets/kfileitemactions.cpp:886
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open With..."
 msgstr "&Oဖြင့်ဖွင့်ရန်..."
 
-#: widgets/kfileitemactions.cpp:902
+#: widgets/kfileitemactions.cpp:900
 #, fuzzy, kde-format
 #| msgctxt "@title:menu"
 #| msgid "&Open With"
@@ -7295,13 +7295,13 @@ msgctxt "@title:menu"
 msgid "&Open Folder With"
 msgstr "&Oဖြင့်ဖွင့်ရန်"
 
-#: widgets/kfileitemactions.cpp:902
+#: widgets/kfileitemactions.cpp:900
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open With"
 msgstr "&Oဖြင့်ဖွင့်ရန်"
 
-#: widgets/kfileitemactions.cpp:913
+#: widgets/kfileitemactions.cpp:911
 #, kde-format
 msgctxt "@action:inmenu Open With"
 msgid "&Other Application..."
@@ -7539,25 +7539,25 @@ msgstr "&tတာမီနယ်တွင် လုပ်ဆောင်မည်
 msgid "&Do not close when command exits"
 msgstr "&Dအမိန့်ပြီးသွားသည့်အခါ မပိတ်ပါနှင့်"
 
-#: widgets/kopenwithdialog.cpp:792
+#: widgets/kopenwithdialog.cpp:791
 #, kde-format
 msgid "Get more Apps from Discover"
 msgstr ""
 
-#: widgets/kopenwithdialog.cpp:977
+#: widgets/kopenwithdialog.cpp:976
 #, kde-format
 msgid ""
 "Could not extract executable name from '%1', please type a valid program "
 "name."
 msgstr "'%1' မှ လုပ်ဆောင်-ဖိုင်လ်အမည် မရခဲ့ပါ။ ကျေးဇူးပြု၍ မှန်ကန်သော ပရိုဂရမ်အမည် ရိုက်သွင်းပါ။"
 
-#: widgets/kopenwithdialog.cpp:1031
+#: widgets/kopenwithdialog.cpp:1030
 #, kde-kuit-format
 msgctxt "@info"
 msgid "<filename>%1</filename> does not appear to be an executable program."
 msgstr "<filename>%1</filename> သည် ဆောင်ရွက်၍ရသော ပရိုဂရမ်မဟုတ်ပါ။"
 
-#: widgets/kopenwithdialog.cpp:1033
+#: widgets/kopenwithdialog.cpp:1031
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
