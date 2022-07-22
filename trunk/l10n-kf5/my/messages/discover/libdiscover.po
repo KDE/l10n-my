@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-21 00:45+0000\n"
+"POT-Creation-Date: 2022-07-22 00:46+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -46,17 +46,17 @@ msgstr "ထုတ်ဝေမှုဆိုင်ရာ"
 msgid "%1, released on %2"
 msgstr "%2 တွင်ထုတ်လွှင့်ခဲ့သော %1"
 
-#: libdiscover/appstream/OdrsReviewsBackend.cpp:147
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:155
 #, kde-format
 msgid "Error while fetching reviews: %1"
 msgstr "သုံးသပ်ချက်များရယူရာတွင်အခက်အခဲဖြစ်ပေါ်ခဲ့သည်- %1"
 
-#: libdiscover/appstream/OdrsReviewsBackend.cpp:193
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:201
 #, kde-format
 msgid "Error while submitting usefulness: %1"
 msgstr "အသုံးဝင်မှုတင်ပြရာတွင်အခက်အခဲဖြစ်ပေါ်ခဲ့သည်- %1"
 
-#: libdiscover/appstream/OdrsReviewsBackend.cpp:250
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:258
 #, kde-format
 msgid "Error while submitting review: %1"
 msgstr "သုံးသပ်ချက်တင်ပြရာတွင်အခက်အခဲဖြစ်ပေါ်ခဲ့သည်- %1"
@@ -899,7 +899,7 @@ msgstr "%1: %2"
 msgid "Wrong KNewStuff URI: %1"
 msgstr "မှားနေသော ကေနယူးစတပ်ဖ် ယူအာအိုင်- %1"
 
-#: libdiscover/backends/KNSBackend/KNSReviews.cpp:146
+#: libdiscover/backends/KNSBackend/KNSReviews.cpp:159
 #, kde-format
 msgid "Log in information for %1"
 msgstr "%1အတွက် အချက်အလက်"
@@ -1681,13 +1681,13 @@ msgstr "ယုံကြည်ရသော"
 msgid "Unavailable"
 msgstr "မရရှိသေး"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:110
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:115
 #, fuzzy, kde-format
 #| msgid "Offline Updates"
 msgid "Failed Offline Update"
 msgstr "အော့ဖ်လိုင်း အပ်ဒိတ်များ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:111
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:116
 #, kde-format
 msgid ""
 "Failed to update %1 package\n"
@@ -1699,47 +1699,47 @@ msgstr[0] ""
 "ပတ်ကေ့ချ် %1ခု ကိုအပ်ဒိတ်မတင်နိုင်ခဲ့ပါ\n"
 "%2"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:112
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:160
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:117
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:165
 #, kde-format
 msgctxt "@action:button"
 msgid "Open Discover"
 msgstr "ဒစ်(စ)ကာဗာ ဖွင့်မည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:112
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:117
 #, kde-format
 msgctxt "@action:button"
 msgid "Repair System"
 msgstr "စစ်စတမ်ကို ပြန်ပြင်မည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:122
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:127
 #, fuzzy, kde-format
 #| msgid "Offline Updates"
 msgid "Repairing failed offline update"
 msgstr "အော့ဖ်လိုင်း အပ်ဒိတ်များ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:130
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:135
 #, kde-format
 msgid "Repair Failed"
 msgstr "ပြန်ပြင်မှုမအောင်မြင်ပါ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:131
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:136
 #, kde-kuit-format
 msgctxt "@info"
 msgid "%1<nl/>Please report this error to your distribution."
 msgstr "%1<nl/>ကျေးဇူးပြု၍ ဤအမှားကို သင်၏ဒစ်စထရီဗျူးရှင်းထံ တင်ပြပါ။"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:142
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:147
 #, kde-format
 msgid "Repaired Successfully"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:158
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:163
 #, kde-format
 msgid "Offline Updates"
 msgstr "အော့ဖ်လိုင်း အပ်ဒိတ်များ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:159
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:164
 #, kde-format
 msgid "Successfully updated %1 package"
 msgid_plural "Successfully updated %1 packages"
