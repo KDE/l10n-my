@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kxmlgui\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-15 00:42+0000\n"
+"POT-Creation-Date: 2022-07-25 00:43+0000\n"
 "PO-Revision-Date: 2021-09-20 02:06+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -1043,28 +1043,28 @@ msgctxt "@action:inmenu"
 msgid "Import Scheme..."
 msgstr "အစီအစဥ်ပုံ တင်သွင်းရန်..."
 
-#: kshortcutschemeseditor.cpp:108
+#: kshortcutschemeseditor.cpp:109
 #, kde-format
 msgctxt "@title:window"
 msgid "Name for New Scheme"
 msgstr "အစီအစဥ်ပုံအသစ်အတွက် အမည်"
 
-#: kshortcutschemeseditor.cpp:108
+#: kshortcutschemeseditor.cpp:109
 #, kde-format
 msgid "Name for new scheme:"
 msgstr "အစီအစဥ်ပုံအသစ်အတွက် အမည် -"
 
-#: kshortcutschemeseditor.cpp:108
+#: kshortcutschemeseditor.cpp:109
 #, kde-format
 msgid "New Scheme"
 msgstr "အစီအစဥ်ပုံအသစ်"
 
-#: kshortcutschemeseditor.cpp:114
+#: kshortcutschemeseditor.cpp:115
 #, kde-format
 msgid "A scheme with this name already exists."
 msgstr "ဤအမည်ဖြင့်အစီအစဥ်ပုံရှိနှင့်ပြီးဖြစ်သည်။"
 
-#: kshortcutschemeseditor.cpp:144
+#: kshortcutschemeseditor.cpp:145
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
@@ -1073,29 +1073,29 @@ msgstr ""
 "အစီအစဥ်ပုံ %1ကို သင်တကယ်ဖျက်လိုသလား။\n"
 "ဖျက်ရင်တောင် စစ်စတမ်သုံးအစီအစဥ်ပုံများကို မဖယ်ရှားသည်ကိုတော့ မှတ်သားပါ။"
 
-#: kshortcutschemeseditor.cpp:180
+#: kshortcutschemeseditor.cpp:181
 #, kde-format
 msgctxt "@title:window"
 msgid "Export Shortcuts"
 msgstr "အမြန်ခလုတ်များ ထုတ်ပို့မည်"
 
-#: kshortcutschemeseditor.cpp:180 kshortcutschemeseditor.cpp:191
+#: kshortcutschemeseditor.cpp:181 kshortcutschemeseditor.cpp:192
 #, kde-format
 msgid "Shortcuts (*.shortcuts)"
 msgstr "အမြန်ခလုတ်များ(*.shortcuts)"
 
-#: kshortcutschemeseditor.cpp:191
+#: kshortcutschemeseditor.cpp:192
 #, kde-format
 msgctxt "@title:window"
 msgid "Import Shortcuts"
 msgstr "အမြန်ခလုတ်များ တင်သွင်းမည်"
 
-#: kshortcutschemeseditor.cpp:202
+#: kshortcutschemeseditor.cpp:203
 #, kde-format
 msgid "Shortcut scheme successfully saved."
 msgstr "အမြန်ခလုတ်အစီအစဥ်ပုံကို အောင်မြင်စွာသိမ်းဆည်းခဲ့ပြီးပါပြီ။"
 
-#: kshortcutschemeseditor.cpp:205
+#: kshortcutschemeseditor.cpp:206
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr "အမြန်ခလုတ်အစီအစဥ်ပုံကို အောင်မြင်စွာ မသိမ်းဆည်းနိုင်ခဲ့ပါ။"

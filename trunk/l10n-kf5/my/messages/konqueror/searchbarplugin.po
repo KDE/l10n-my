@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-01 00:43+0000\n"
+"POT-Creation-Date: 2022-07-25 00:45+0000\n"
 "PO-Revision-Date: 2021-09-19 13:51+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -35,17 +35,22 @@ msgstr "ရှာဖွေတန်း"
 msgid "Focus Searchbar"
 msgstr ""
 
-#: searchbar.cpp:282
+#: searchbar.cpp:267
+#, kde-format
+msgid "Find in Page..."
+msgstr ""
+
+#: searchbar.cpp:287
 #, kde-format
 msgid "Find in This Page"
 msgstr ""
 
-#: searchbar.cpp:294
+#: searchbar.cpp:299
 #, kde-format
 msgid "Select Search Engines..."
 msgstr ""
 
-#: searchbar.cpp:313
+#: searchbar.cpp:318
 #, kde-format
 msgid "Add %1..."
 msgstr ""
