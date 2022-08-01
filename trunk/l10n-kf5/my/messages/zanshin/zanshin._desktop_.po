@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-30 00:56+0000\n"
+"POT-Creation-Date: 2022-08-01 00:54+0000\n"
 "PO-Revision-Date: 2021-09-21 12:09+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -28,16 +28,6 @@ msgctxt "Name"
 msgid "Zanshin Part"
 msgstr "ဇန်ရှင် အပိုင်း"
 
-#: src/zanshin/kontact/zanshin_plugin.desktop:19
-msgctxt "Comment"
-msgid "Kontact Zanshin Plugin"
-msgstr "ကွန်တပ် ဇန်ရှင်ပလပ်ဂင်"
-
-#: src/zanshin/kontact/zanshin_plugin.desktop:56
-msgctxt "Name"
-msgid "Task Lists"
-msgstr "အလုပ်စာရင်းများ"
-
 #: src/zanshin/runner/plasma-runner-zanshin.desktop:2
 msgctxt "Name"
 msgid "Zanshin Tasks"
@@ -47,3 +37,11 @@ msgstr "ဇန်ရှင် အလုပ်များ"
 msgctxt "Comment"
 msgid "Add tasks to your todo list"
 msgstr "သင်၏လုပ်ရန်စာရင်းသို့ အလုပ်များထည့်မည်"
+
+#~ msgctxt "Comment"
+#~ msgid "Kontact Zanshin Plugin"
+#~ msgstr "ကွန်တပ် ဇန်ရှင်ပလပ်ဂင်"
+
+#~ msgctxt "Name"
+#~ msgid "Task Lists"
+#~ msgstr "အလုပ်စာရင်းများ"
