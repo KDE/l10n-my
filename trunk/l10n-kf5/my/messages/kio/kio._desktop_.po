@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-08 00:56+0000\n"
+"POT-Creation-Date: 2022-08-09 00:55+0000\n"
 "PO-Revision-Date: 2021-12-04 03:31+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1900,11 +1900,6 @@ msgctxt "Comment"
 msgid "Plugin for the KIO file item context menu"
 msgstr "ကေအိုင်အို ဖိုင်လ်အိုင်တမ် ဆက်စပ်မီနူး"
 
-#: src/widgets/kiodndpopupmenuplugin.desktop:4
-msgctxt "Comment"
-msgid "Plugin for the KIO Drag-and-drop Popup Menu"
-msgstr "ကေအိုင်အို ဆွဲယူပစ်ချ ပေါ့အပ်မီနူးအတွက် ပလပ်ဂင်"
-
 #: src/widgets/konqpopupmenuplugin.desktop:4
 msgctxt "Comment"
 msgid "Plugin for the Konqueror Popup Menu"
@@ -1919,6 +1914,10 @@ msgstr "ကိုယ်ပိုင်လက္ခဏာများဆိုင
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "စွမ်းရည်တိုးထားသော ရှောက်ကြည့်-ပလပ်ဂင်"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the KIO Drag-and-drop Popup Menu"
+#~ msgstr "ကေအိုင်အို ဆွဲယူပစ်ချ ပေါ့အပ်မီနူးအတွက် ပလပ်ဂင်"
 
 #~ msgctxt "Query"
 #~ msgid "https://api.kde.org/classmapper.php?class=\\\\{@}"
