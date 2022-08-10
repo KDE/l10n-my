@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-09 00:42+0000\n"
+"POT-Creation-Date: 2022-08-10 00:43+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2023,7 +2023,7 @@ msgstr ""
 msgid "The server was too busy responding to other requests to respond."
 msgstr "ဆာဗာသည် အခြားတောင်းခံမှုကို တုံ့ပြန်ရာ၌ မအားမလပ်ဖြစ်နေသဖြင့် မတုံ့ပြန်နိုင်သေးပါ။"
 
-#: core/job_error.cpp:1112 core/slavebase.cpp:1592
+#: core/job_error.cpp:1112 core/slavebase.cpp:1595
 #, kde-format
 msgid "Unknown Error"
 msgstr "မသိသောအမှား"
@@ -2329,107 +2329,107 @@ msgstr "လုပ်ရိုးလုပ်ထုံး'%1'အတွက် အ�
 msgid "Can not find 'kioslave5' executable at '%1'"
 msgstr "'%1'၌ 'ကေအိုင်အိုကျွန်၅' ဆောင်ရွက်ဖိုင်လ်ကို ရှာမတွေ့ပါ"
 
-#: core/slavebase.cpp:864
+#: core/slavebase.cpp:867
 #, kde-format
 msgid "Opening connections is not supported with the protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ချိတ်ဆက်မှုဖွင့်ခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:866
+#: core/slavebase.cpp:869
 #, kde-format
 msgid "Closing connections is not supported with the protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး '%1' တွင် ချိတ်ဆက်မှုပိတ်သောလုပ်ဆောင်ချက်မပါပါ။"
 
-#: core/slavebase.cpp:868
+#: core/slavebase.cpp:871
 #, kde-format
 msgid "Accessing files is not supported with the protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များရယူအသုံးပြုခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:870
+#: core/slavebase.cpp:873
 #, kde-format
 msgid "Writing to %1 is not supported."
 msgstr "%1 သို့ ရေးမရပါ။"
 
-#: core/slavebase.cpp:872
+#: core/slavebase.cpp:875
 #, kde-format
 msgid "There are no special actions available for protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 အတွက် အထူးပြုလုပ်ဆောင်ချက်များ မရှိပါ။"
 
-#: core/slavebase.cpp:874
+#: core/slavebase.cpp:877
 #, kde-format
 msgid "Listing folders is not supported for protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုလ်ဒါများစာရင်းပြခြင်းပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:876
+#: core/slavebase.cpp:879
 #, kde-format
 msgid "Retrieving data from %1 is not supported."
 msgstr "%1 မှ ဒေတာရယူခြင်း လုပ်ဆောင်၍မရပါ။"
 
-#: core/slavebase.cpp:878
+#: core/slavebase.cpp:881
 #, kde-format
 msgid "Retrieving mime type information from %1 is not supported."
 msgstr "%1 မှ အမ်အိုင်အမ်အီးတိုက် ဆိုင်ရာ အချက်အလက် ရယူခြင်း လုပ်ဆောင်၍မရပါ။"
 
-#: core/slavebase.cpp:880
+#: core/slavebase.cpp:883
 #, kde-format
 msgid "Renaming or moving files within %1 is not supported."
 msgstr "%1 အတွင်း ဖိုင်လ်များ အမည်ပြောင်းခြင်း၊ ကူးပြောင်းခြင်း မပြုလုပ်နိုင်ပါ။"
 
-#: core/slavebase.cpp:882
+#: core/slavebase.cpp:885
 #, kde-format
 msgid "Creating symlinks is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဆင်းလင့်ခ်များဖန်တီးခြင်းပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:884
+#: core/slavebase.cpp:887
 #, kde-format
 msgid "Copying files within %1 is not supported."
 msgstr "%1 အတွင်း ဖိုင်လ်များ ကူးယူခြင်း မပြုလုပ်နိုင်ပါ။"
 
-#: core/slavebase.cpp:886
+#: core/slavebase.cpp:889
 #, kde-format
 msgid "Deleting files from %1 is not supported."
 msgstr "%1မှဖိုင်လ်များဖျက်ခြင်းကို မလုပ်ဆောင်နိုင်ပါ။"
 
-#: core/slavebase.cpp:888
+#: core/slavebase.cpp:891
 #, kde-format
 msgid "Creating folders is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုလ်ဒါများတည်ဆောင်ခြင်းပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:890
+#: core/slavebase.cpp:893
 #, kde-format
 msgid "Changing the attributes of files is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များ၏သက်ဆိုင်ရာညွှန်ပြတန်ဖိုးများပြောင်းလဲခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:892
+#: core/slavebase.cpp:895
 #, kde-format
 msgid "Changing the ownership of files is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များ၏ပိုင်ဆိုင်မှု ပြောင်းလဲခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:894
+#: core/slavebase.cpp:897
 #, kde-format
 msgid "Using sub-URLs with %1 is not supported."
 msgstr "လက်အောက်ခံ-ယူအာအယ်လ်များကို %1 ဖြင့်အသုံးပြု၍မရပါ။"
 
-#: core/slavebase.cpp:896
+#: core/slavebase.cpp:899
 #, kde-format
 msgid "Multiple get is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် အများအပြားရယူခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:898
+#: core/slavebase.cpp:901
 #, kde-format
 msgid "Opening files is not supported with protocol %1."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် ဖိုင်လ်များဖွင့်ခြင်း ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:900
+#: core/slavebase.cpp:903
 #, kde-format
 msgid "Protocol %1 does not support action %2."
 msgstr "လုပ်ရိုးလုပ်ထုံး %1 နှင့် လုပ်ဆောင်ချက် %2 ပြုလုပ်၍မရပါ။"
 
-#: core/slavebase.cpp:1062
+#: core/slavebase.cpp:1065
 #, kde-format
 msgid "&Yes"
 msgstr "&Yအွန်း"
 
-#: core/slavebase.cpp:1063
+#: core/slavebase.cpp:1066
 #, kde-format
 msgid "&No"
 msgstr "&Nဟင်အင့်"
