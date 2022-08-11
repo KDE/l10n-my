@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-27 00:50+0000\n"
+"POT-Creation-Date: 2022-08-11 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 03:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -65,12 +65,12 @@ msgstr ""
 msgid "Select branch to checkout from. Press 'Esc' to cancel."
 msgstr ""
 
-#: branchcheckoutdialog.cpp:121
+#: branchcheckoutdialog.cpp:115
 #, kde-format
 msgid "Checked out to new branch: %1"
 msgstr "ကုတ်ကိုင်းအသစ်သို့ ပြောင်းလဲမည် - %1"
 
-#: branchcheckoutdialog.cpp:123
+#: branchcheckoutdialog.cpp:117
 #, kde-format
 msgid "Failed to create new branch. Error \"%1\""
 msgstr ""
@@ -97,12 +97,12 @@ msgid "Are you sure you want to delete the selected branch?"
 msgid_plural "Are you sure you want to delete the selected branches?"
 msgstr[0] ""
 
-#: branchesdialog.cpp:175
+#: branchesdialog.cpp:107
 #, kde-format
 msgid "Select Branch..."
 msgstr "ကုတ်ကိုင်း ရွေးမည်..."
 
-#: branchesdialog.cpp:209 gitwidget.cpp:458 kateprojectpluginview.cpp:69
+#: branchesdialog.cpp:131 gitwidget.cpp:458 kateprojectpluginview.cpp:69
 #: kateprojectview.cpp:156
 #, kde-format
 msgid "Git"
@@ -985,62 +985,62 @@ msgstr ""
 msgid "Failed to create dir: %1"
 msgstr "ဒါရိုက်ထရီကို မတည်ဆောက်နိုင်ခဲ့ပါ - %1"
 
-#: stashdialog.cpp:167
+#: stashdialog.cpp:52
 #, kde-format
 msgid "Stash message (optional). Enter to confirm, Esc to leave."
 msgstr ""
 
-#: stashdialog.cpp:174
+#: stashdialog.cpp:59
 #, kde-format
 msgid "Type to filter, Enter to pop stash, Esc to leave."
 msgstr ""
 
-#: stashdialog.cpp:251
+#: stashdialog.cpp:158
 #, kde-format
 msgid "Failed to stash changes %1"
 msgstr "ပြောင်းလဲမှုများ သိုလှောင်မှုမအောင်မြင်ပါ %1"
 
-#: stashdialog.cpp:253
+#: stashdialog.cpp:160
 #, kde-format
 msgid "Changes stashed successfully."
 msgstr "ပြောင်းလဲမှုများကို အောင်မြင်စွာသိုလှောင်နိုင်ခဲ့သည်"
 
-#: stashdialog.cpp:271
+#: stashdialog.cpp:179
 #, kde-format
 msgid "Failed to get stash list. Error: "
 msgstr ""
 
-#: stashdialog.cpp:305
+#: stashdialog.cpp:195
 #, kde-format
 msgid "Failed to apply stash. Error: "
 msgstr ""
 
-#: stashdialog.cpp:307
+#: stashdialog.cpp:197
 #, kde-format
 msgid "Failed to drop stash. Error: "
 msgstr ""
 
-#: stashdialog.cpp:309
+#: stashdialog.cpp:199
 #, kde-format
 msgid "Failed to pop stash. Error: "
 msgstr ""
 
-#: stashdialog.cpp:313
+#: stashdialog.cpp:203
 #, kde-format
 msgid "Stash applied successfully."
 msgstr "သိုလှောင်နေရာမှ အရာများ အောင်မြင်စွာ အသုံးချခဲ့သည်။"
 
-#: stashdialog.cpp:315
+#: stashdialog.cpp:205
 #, kde-format
 msgid "Stash dropped successfully."
 msgstr "သိုလှောင်နေရာမှ အရာများ ပစ်ချခဲ့သည်။"
 
-#: stashdialog.cpp:317
+#: stashdialog.cpp:207
 #, kde-format
 msgid "Stash popped successfully."
 msgstr "သိုလှောင်နေရာမှ အရာများ အောင်မြင်စွာ ပြန်လည်အသုံးချခဲ့သည်။"
 
-#: stashdialog.cpp:346
+#: stashdialog.cpp:236
 #, kde-format
 msgid "Show stash failed. Error: "
 msgstr ""
