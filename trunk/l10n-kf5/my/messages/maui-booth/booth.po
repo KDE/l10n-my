@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-booth\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-29 00:44+0000\n"
+"POT-Creation-Date: 2022-08-12 00:43+0000\n"
 "PO-Revision-Date: 2021-09-15 21:18+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -45,30 +45,137 @@ msgstr "ခမီလိုဟီဂီတာ"
 msgid "Developer"
 msgstr "ပရိုဂရမ်မာ"
 
-#: src/main.qml:48
+#: src/main.qml:85
+#, fuzzy, kde-format
+#| msgid "Dark Mode"
+msgid "Mode"
+msgstr "အမှောင်ထုံးနည်း"
+
+#: src/main.qml:98 src/main.qml:227
 #, kde-format
-msgid "Settings"
+msgid "Manual"
 msgstr ""
 
-#: src/main.qml:55
+#: src/main.qml:99
 #, kde-format
-msgid "About"
+msgid "Hyperfocal"
 msgstr ""
 
-#: src/main.qml:72
+#: src/main.qml:100
+#, kde-format
+msgid "Infinity"
+msgstr ""
+
+#: src/main.qml:101 src/main.qml:129
+#, kde-format
+msgid "Auto"
+msgstr "အလိုအလျောက်"
+
+#: src/main.qml:102
+#, kde-format
+msgid "Continuous"
+msgstr ""
+
+#: src/main.qml:103
+#, kde-format
+msgid "Macro"
+msgstr ""
+
+#: src/main.qml:117
+#, kde-format
+msgid "Point"
+msgstr ""
+
+#: src/main.qml:130
+#, kde-format
+msgid "Center"
+msgstr ""
+
+#: src/main.qml:131
+#, kde-format
+msgid "Face Detection"
+msgstr ""
+
+#: src/main.qml:132
+#, kde-format
+msgid "Custom"
+msgstr ""
+
+#: src/main.qml:174
+#, kde-format
+msgid "Read QR"
+msgstr ""
+
+#: src/main.qml:180
+#, kde-format
+msgid "Resolutions"
+msgstr ""
+
+#: src/main.qml:207
 #, kde-format
 msgid "Photo"
 msgstr "ပုံ"
 
-#: src/main.qml:79
+#: src/main.qml:218
 #, kde-format
 msgid "Video"
 msgstr "ဗီဒီယို"
 
-#: src/main.qml:243
+#: src/main.qml:272
 #, kde-format
-msgid "Roll"
-msgstr "ဓါတ်ပုံများ"
+msgid "Settings"
+msgstr ""
+
+#: src/main.qml:279
+#, kde-format
+msgid "About"
+msgstr ""
+
+#: src/main.qml:386
+#, kde-format
+msgid "Aperture"
+msgstr ""
+
+#: src/main.qml:391
+#, kde-format
+msgid "ISO"
+msgstr ""
+
+#: src/main.qml:396
+#, kde-format
+msgid "Shutter"
+msgstr ""
+
+#: src/main.qml:401
+#, kde-format
+msgid "Modes"
+msgstr ""
+
+#: src/main.qml:406
+#, kde-format
+msgid "Brightness"
+msgstr ""
+
+#: src/main.qml:411
+#, kde-format
+msgid "White Balance"
+msgstr ""
+
+#: src/main.qml:417
+#, kde-format
+msgid "Contrast"
+msgstr ""
+
+#: src/main.qml:422
+#, fuzzy, kde-format
+#| msgid "Navigation"
+msgid "Saturation"
+msgstr "လမ်းညွှန်"
+
+#: src/main.qml:427
+#, kde-format
+msgid "Filters"
+msgstr ""
 
 #: src/widgets/PhotoCaptureControls.qml:122
 #: src/widgets/VideoCaptureControls.qml:95
@@ -211,11 +318,11 @@ msgstr "ဘေးတန်းကို နေရာအကန့်အသတ်�
 msgid "Dark Mode"
 msgstr "အမှောင်ထုံးနည်း"
 
+#~ msgid "Roll"
+#~ msgstr "ဓါတ်ပုံများ"
+
 #~ msgid "Camera"
 #~ msgstr "ကင်မရာ"
-
-#~ msgid "Auto"
-#~ msgstr "အလိုအလျောက်"
 
 #~ msgid "Sunlight"
 #~ msgstr "နေရောင်"
