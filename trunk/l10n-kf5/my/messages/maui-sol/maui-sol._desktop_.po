@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-18 00:53+0000\n"
+"POT-Creation-Date: 2022-08-13 00:54+0000\n"
 "PO-Revision-Date: 2021-09-14 18:02+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -13,17 +13,21 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#: org.kde.sol.desktop:2
+#: org.kde.fiery.desktop:2
 msgctxt "Name"
-msgid "Sol"
-msgstr "ဆိုလ်"
+msgid "Fiery"
+msgstr ""
 
-#: org.kde.sol.desktop:30
+#: org.kde.fiery.desktop:3
 msgctxt "Comment"
 msgid "Web Browser and Manager"
 msgstr "ဝက်ဘ် ဘရောက်ဇာ နှင့် မန်နေဂျာ"
 
-#: org.kde.sol.desktop:63
+#: org.kde.fiery.desktop:36
 msgctxt "GenericName"
 msgid "Web Browser"
 msgstr "ဝက်ဘ်ဘရောက်ဇာ"
+
+#~ msgctxt "Name"
+#~ msgid "Sol"
+#~ msgstr "ဆိုလ်"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-09 00:55+0000\n"
+"POT-Creation-Date: 2022-08-13 00:54+0000\n"
 "PO-Revision-Date: 2021-12-04 03:31+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -32,16 +32,6 @@ msgstr "HTTPကေ့ချ်(ယာယီသိမ်းဆည်းနေရ�
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "HTTP ကတ်မှ မှတ်တမ်းဟောင်းများ ရှင်းမည်"
-
-#: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:3
-msgctxt "Name"
-msgid "Remote URL Change Notifier"
-msgstr "အဝေး URL ပြောင်းလဲမှုအသိပေးသူ"
-
-#: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:76
-msgctxt "Comment"
-msgid "Provides change notification for network folders"
-msgstr "ကွန်ရက်ပေါ်မှဖိုလ်ဒါများပြောင်းလဲပါက အကြောင်းကြားသည်"
 
 #: src/ioslaves/telnet/ktelnetservice5.desktop:10
 msgctxt "Name"
@@ -151,6 +141,16 @@ msgid ""
 msgstr ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
 "Internet,Internet Filters,Network,Search Engines,Shortcuts"
+
+#: src/kioworkers/remote/kdedmodule/remotedirnotify.desktop:3
+msgctxt "Name"
+msgid "Remote URL Change Notifier"
+msgstr "အဝေး URL ပြောင်းလဲမှုအသိပေးသူ"
+
+#: src/kioworkers/remote/kdedmodule/remotedirnotify.desktop:76
+msgctxt "Comment"
+msgid "Provides change notification for network folders"
+msgstr "ကွန်ရက်ပေါ်မှဖိုလ်ဒါများပြောင်းလဲပါက အကြောင်းကြားသည်"
 
 #: src/kpac/proxyscout.notifyrc:3
 msgctxt "Comment"

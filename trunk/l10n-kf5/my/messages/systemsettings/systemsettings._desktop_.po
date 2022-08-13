@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-10 00:55+0000\n"
+"POT-Creation-Date: 2022-08-13 00:54+0000\n"
 "PO-Revision-Date: 2021-09-19 13:15+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -83,11 +83,6 @@ msgctxt "Name"
 msgid "Fonts"
 msgstr "ဖောင့်များ"
 
-#: categories/settings-appearance-icons.desktop:9
-msgctxt "Name"
-msgid "Icons"
-msgstr "အိုင်ကွန်များ"
-
 #: categories/settings-hardware.desktop:9
 msgctxt "Name"
 msgid "Hardware"
@@ -113,11 +108,6 @@ msgctxt "Name"
 msgid "Multimedia"
 msgstr "မီဒီယာအစုံ"
 
-#: categories/settings-hardware-peripherals.desktop:9
-msgctxt "Name"
-msgid "Peripherals"
-msgstr ""
-
 #: categories/settings-hardware-powermanagement.desktop:9
 msgctxt "Name"
 msgid "Power Management"
@@ -127,11 +117,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Removable Storage"
 msgstr "ဖြုတ်၊တပ်၍ရသော မှတ်ဉာဏ်သိမ်းကိရိယာ"
-
-#: categories/settings-network-bluetooth.desktop:9
-msgctxt "Name"
-msgid "Bluetooth"
-msgstr ""
 
 #: categories/settings-network-connectivity.desktop:9
 msgctxt "Name"
@@ -148,16 +133,6 @@ msgctxt "Name"
 msgid "Settings"
 msgstr "ဆက်တင်များ"
 
-#: categories/settings-personalization-accessibility.desktop:8
-msgctxt "Name"
-msgid "Accessibility"
-msgstr ""
-
-#: categories/settings-personalization-accountdetails.desktop:9
-msgctxt "Name"
-msgid "Account Details"
-msgstr ""
-
 #: categories/settings-personalization-applications.desktop:9
 msgctxt "Name"
 msgid "Applications"
@@ -167,11 +142,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Personalization"
 msgstr ""
-
-#: categories/settings-personalization-notification.desktop:9
-msgctxt "Name"
-msgid "Notifications"
-msgstr "အသိပေးချက်များ"
 
 #: categories/settings-personalization-regionalsettings.desktop:9
 msgctxt "Name"
@@ -258,6 +228,14 @@ msgstr "ဘေးတန်း မြင်ကွင်း"
 msgctxt "Comment"
 msgid "Categorized sidebar style"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Icons"
+#~ msgstr "အိုင်ကွန်များ"
+
+#~ msgctxt "Name"
+#~ msgid "Notifications"
+#~ msgstr "အသိပေးချက်များ"
 
 #~ msgctxt "Name"
 #~ msgid "System Settings View"
