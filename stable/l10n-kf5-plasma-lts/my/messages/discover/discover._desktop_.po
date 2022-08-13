@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-03 03:02+0000\n"
+"POT-Creation-Date: 2022-08-13 03:05+0000\n"
 "PO-Revision-Date: 2021-09-13 03:11+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -20,12 +20,12 @@ msgctxt "Name"
 msgid "Discover"
 msgstr "ဒစ်(စ)ကာဗာ"
 
-#: discover/org.kde.discover.desktop.cmake:60
+#: discover/org.kde.discover.desktop.cmake:61
 msgctxt "GenericName"
 msgid "Software Center"
 msgstr "ဆော့ဖ်ဝဲလ်စင်တာ"
 
-#: discover/org.kde.discover.desktop.cmake:112
+#: discover/org.kde.discover.desktop.cmake:114
 #, fuzzy
 #| msgctxt "Keywords"
 #| msgid ""
@@ -39,7 +39,7 @@ msgstr ""
 "program;software;repository;package;install;remove;update;apps;applications;"
 "ပရိုဂရမ်;ဆော့ဖ်ဝဲလ်;ရီပိုစစ်တိုရီ;ပတ်ကေ့ချ်;တပ်ဆင်;ဖယ်ရှား;အပ်ဒိတ်;အပ်;အပ္ပလီကေးရှင်း;"
 
-#: discover/org.kde.discover.desktop.cmake:144
+#: discover/org.kde.discover.desktop.cmake:147
 msgctxt "Name"
 msgid "See Available Updates"
 msgstr "ရရှိနိုင်သော အပ်ဒိတ်များ ကြည့်မည်"
@@ -49,7 +49,7 @@ msgctxt "Name"
 msgid "Snap login action"
 msgstr "စနပ် လော့ဂင် လုပ်ဆောင်ချက်"
 
-#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:50
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:51
 msgctxt "Description"
 msgid "Allows snap front-ends to log in"
 msgstr "စနပ်၏ အသုံးပြုသူ-ထိတွေ့ပရိုဂရမ်များကို လော့ဂင်ဝင်ခွင့်ပြုမည်"
@@ -59,47 +59,47 @@ msgctxt "Comment"
 msgid "Discover"
 msgstr "ဒစ်(စ)ကာဗာ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:56
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:57
 msgctxt "Name"
 msgid "Updates Are Available"
 msgstr "အပ်ဒိတ်များရရှိနေပါပြီ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:107
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:109
 msgctxt "Comment"
 msgid "Updates Available"
 msgstr "အပ်ဒိတ်များရရှိနေပါပြီ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:161
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:164
 msgctxt "Name"
 msgid "Successful Offline Update"
 msgstr "အောင်မြင်သော အော့ဖ်လိုင်း အပ်ဒိတ်တင်မှု"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:200
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:204
 msgctxt "Comment"
 msgid "System updated successfully"
 msgstr "စစ်စတမ်ကို အောင်မြင်စွာ အပ်ဒိတ်တင်ခဲ့သည်"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:243
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:248
 msgctxt "Name"
 msgid "Failed Offline Update"
 msgstr "မအောင်မြင်သော အော့ဖ်လိုင်း အပ်ဒိတ်တင်မှု"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:282
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:288
 msgctxt "Comment"
 msgid "System update failed"
 msgstr "စစ်စတမ်အပ်ဒိတ်တင်မှုမအောင်မြင်ပါ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:325
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:332
 msgctxt "Name"
 msgid "Repair Failed"
 msgstr "ပြန်ပြင်ခြင်း မအောင်မြင်ပါ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:364
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:372
 msgctxt "Comment"
 msgid "Repair failure after offline update"
 msgstr "မအောင်မြင်သော အော့ဖ်လိုင်း အပ်ဒိတ်တင်မှုကို ပြန်ပြင်မည်"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:407
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:416
 msgctxt "Name"
 msgid "Restart is Required"
 msgstr "စစ်စတမ်ပြန်စတင်ရန်လိုအပ်သည်"
