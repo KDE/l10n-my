@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-29 01:00+0000\n"
+"POT-Creation-Date: 2022-08-15 00:57+0000\n"
 "PO-Revision-Date: 2021-09-15 04:53+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -77,6 +77,11 @@ msgstr "စီတပ်"
 msgctxt "Name"
 msgid "SQL Plugin"
 msgstr "အက်စ်ကျူအယ် ပလပ်ဂင်"
+
+#: addons/keyboardmacros/keyboardmacrosplugin.json
+msgctxt "Name"
+msgid "Keyboard Macros"
+msgstr ""
 
 #: addons/konsole/katekonsoleplugin.json
 msgctxt "Name"
@@ -221,6 +226,11 @@ msgstr ""
 #: addons/katesql/katesql.json
 msgctxt "Description"
 msgid "Execute query on SQL databases"
+msgstr ""
+
+#: addons/keyboardmacros/keyboardmacrosplugin.json
+msgctxt "Description"
+msgid "Record and play keyboard macros (i.e., keyboard action sequences)"
 msgstr ""
 
 #: addons/konsole/katekonsoleplugin.json
