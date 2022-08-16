@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-06 00:49+0000\n"
+"POT-Creation-Date: 2022-08-16 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 04:13+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -75,12 +75,7 @@ msgctxt "Header for the error message column"
 msgid "Message"
 msgstr "မှတ်စာ"
 
-#: plugin_katebuild.cpp:127
-#, kde-format
-msgid "Kate Build Plugin"
-msgstr "ကိတ် တည်ဆောက်မှု ပလပ်ဂင်"
-
-#: plugin_katebuild.cpp:134 plugin_katebuild.cpp:1172
+#: plugin_katebuild.cpp:127 plugin_katebuild.cpp:134 plugin_katebuild.cpp:1172
 #, kde-format
 msgid "Build"
 msgstr "တည်ဆောက်မည်"
@@ -419,6 +414,9 @@ msgstr "လမ်းကြောင်းထည့်သွင်းမည်"
 #, kde-format
 msgid "Select directory to insert"
 msgstr "ထည့်သွင်းရန် ဒါရိုက်ထရီ ရွေးမည်"
+
+#~ msgid "Kate Build Plugin"
+#~ msgstr "ကိတ် တည်ဆောက်မှု ပလပ်ဂင်"
 
 #~ msgid "Select build target"
 #~ msgstr "တည်ဆောက်မှု ဦိးတည်ပစ်မှတ် ရွေးမည်"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-11 00:48+0000\n"
+"POT-Creation-Date: 2022-08-16 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 04:45+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -366,7 +366,8 @@ msgid ""
 "list of documents."
 msgstr ""
 
-#: katefiletreeconfigpage.cpp:137 katefiletreeplugin.cpp:138
+#: katefiletreeconfigpage.cpp:137 katefiletreeplugin.cpp:131
+#: katefiletreeplugin.cpp:138
 #, kde-format
 msgid "Documents"
 msgstr "မှတ်တမ်းပုံနှိပ်မူများ"
@@ -382,11 +383,6 @@ msgctxt "%1 is the full path"
 msgid ""
 "<p><b>%1</b></p><p>The document has been modified by another application.</p>"
 msgstr ""
-
-#: katefiletreeplugin.cpp:131
-#, kde-format
-msgid "Kate File Tree"
-msgstr "ကိတ် ဖိုင်လ် သစ်ပင်"
 
 #: katefiletreeplugin.cpp:235
 #, kde-format
@@ -418,6 +414,9 @@ msgstr ""
 #, kde-format
 msgid "&Go"
 msgstr ""
+
+#~ msgid "Kate File Tree"
+#~ msgstr "ကိတ် ဖိုင်လ် သစ်ပင်"
 
 #~ msgctxt "@action:inmenu"
 #~ msgid "Copy File Path"

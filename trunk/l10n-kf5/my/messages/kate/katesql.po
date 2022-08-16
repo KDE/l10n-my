@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-17 00:49+0000\n"
+"POT-Creation-Date: 2022-08-16 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 02:07+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -343,9 +343,11 @@ msgid "SQL ConfigPage Settings"
 msgstr "အက်စ်ကျူအယ် ကွန်ဖစ်ပေ့ချ် ဆက်တင်"
 
 #: katesqlview.cpp:47
-#, kde-format
-msgid "Kate SQL Plugin"
-msgstr "ကိတ် အက်စ်ကျူအယ် ပလပ်ဂင်"
+#, fuzzy, kde-format
+#| msgctxt "@title"
+#| msgid "SQL"
+msgid "SQL"
+msgstr "အက်စ်ကျူအယ်"
 
 #: katesqlview.cpp:54
 #, fuzzy, kde-format
@@ -564,6 +566,9 @@ msgstr "အက်စ်ကျူအယ် ချိတ်ဆက်မှုမ�
 #, kde-format
 msgid "SQL Toolbar"
 msgstr "အက်စ်ကျူအယ် ကိရိယာတန်း"
+
+#~ msgid "Kate SQL Plugin"
+#~ msgstr "ကိတ် အက်စ်ကျူအယ် ပလပ်ဂင်"
 
 #~ msgctxt "@title:window"
 #~ msgid "SQL Results"

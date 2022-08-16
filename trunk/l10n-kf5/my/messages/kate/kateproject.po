@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-14 00:48+0000\n"
+"POT-Creation-Date: 2022-08-16 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 03:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -75,23 +75,23 @@ msgstr "ကုတ်ကိုင်းအသစ်သို့ ပြောင�
 msgid "Failed to create new branch. Error \"%1\""
 msgstr ""
 
-#: branchdeletedialog.cpp:25
+#: branchdeletedialog.cpp:122
 #, fuzzy, kde-format
 #| msgid "Delete Branch"
 msgid "Branch"
 msgstr "ကုတ်ကိုင်း ဖျက်မည်"
 
-#: branchdeletedialog.cpp:25
+#: branchdeletedialog.cpp:122
 #, fuzzy, kde-format
 msgid "Last Commit"
 msgstr "နောက်ဆုံးဖွင့်ခဲ့သော"
 
-#: branchdeletedialog.cpp:34 kateprojecttreeviewcontextmenu.cpp:79
+#: branchdeletedialog.cpp:135 kateprojecttreeviewcontextmenu.cpp:79
 #, kde-format
 msgid "Delete"
 msgstr "ဖျက်မည်"
 
-#: branchdeletedialog.cpp:39
+#: branchdeletedialog.cpp:140
 #, kde-format
 msgid "Are you sure you want to delete the selected branch?"
 msgid_plural "Are you sure you want to delete the selected branches?"
@@ -828,8 +828,9 @@ msgid "Project"
 msgstr "ပရောဂျက်"
 
 #: kateprojectpluginview.cpp:55
-#, kde-format
-msgid "Kate Project Manager"
+#, fuzzy, kde-format
+#| msgid "Kate Project Manager"
+msgid "Project Manager"
 msgstr "ကိတ်ပရောဂျက်မန်နေဂျာ"
 
 #: kateprojectpluginview.cpp:176

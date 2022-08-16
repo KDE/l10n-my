@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-06 00:49+0000\n"
+"POT-Creation-Date: 2022-08-16 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 01:40+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -361,7 +361,8 @@ msgstr "ဒါရိုက်ထရီဖယ်ရှားမည်။"
 msgid "(Re-)generate the common CTags database."
 msgstr "(Re-)ဘုံသုံး စီတပ်ဒေတာဘေ့စ်ဖိုင်လ် ဖန်တီးမည်။"
 
-#: kate_ctags_plugin.cpp:105 kate_ctags_view.cpp:52 kate_ctags_view.cpp:95
+#: kate_ctags_plugin.cpp:105 kate_ctags_view.cpp:45 kate_ctags_view.cpp:52
+#: kate_ctags_view.cpp:95
 #, kde-format
 msgid "CTags"
 msgstr "စီတပ်"
@@ -385,11 +386,6 @@ msgstr "စီတပ် လုပ်ဆောင်-ဖိုင်လ် ရု
 #, kde-format
 msgid "The CTags command exited with code %1"
 msgstr "စီတပ်သည် ကုတ် %1 ဖြင့် ထွက်ခဲ့သည်"
-
-#: kate_ctags_view.cpp:45
-#, kde-format
-msgid "Kate CTags"
-msgstr "ကိတ် စီတပ်"
 
 #: kate_ctags_view.cpp:56
 #, kde-format
@@ -471,3 +467,6 @@ msgstr "အညွှန်းပြရန် ဖိုင်လ်နှင်�
 #, kde-format
 msgid "The CTags program exited with code %1: %2"
 msgstr "စီတပ်သည် ကုတ် %1 - %2 ဖြင့် ထွက်ခဲ့သည်"
+
+#~ msgid "Kate CTags"
+#~ msgstr "ကိတ် စီတပ်"

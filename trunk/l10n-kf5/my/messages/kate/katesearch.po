@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-04 00:49+0000\n"
+"POT-Creation-Date: 2022-08-16 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 03:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -512,8 +512,9 @@ msgstr ""
 
 #: SearchPlugin.cpp:296
 #, fuzzy, kde-format
-msgid "Kate Search & Replace"
-msgstr "ကိတ်"
+#| msgid "Search and Replace"
+msgid "Search & Replace"
+msgstr "ရှာပြီး အစားထိုးမည်"
 
 #: SearchPlugin.cpp:337
 #, fuzzy, kde-format
@@ -659,14 +660,15 @@ msgstr "&Eတည်းဖြတ်"
 msgid "Find in Files Variants"
 msgstr ""
 
+#, fuzzy
+#~ msgid "Kate Search & Replace"
+#~ msgstr "ကိတ်"
+
 #~ msgid "Search in Files"
 #~ msgstr "ဖိုင်လ်များတွင် ရှာမည်"
 
 #~ msgid "Search More"
 #~ msgstr "နောက်ထပ်ရှာဖွေမည်"
-
-#~ msgid "Search and Replace"
-#~ msgstr "ရှာပြီး အစားထိုးမည်"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
