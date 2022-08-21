@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: maui-pix\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-18 00:45+0000\n"
+"POT-Creation-Date: 2022-08-21 00:45+0000\n"
 "PO-Revision-Date: 2021-09-19 13:24+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -511,7 +511,7 @@ msgstr ""
 
 #: src/widgets/views/Tags/TagsSidebar.qml:203
 #, kde-format
-msgid "GIMP"
+msgid "Paint"
 msgstr ""
 
 #: src/widgets/views/Tags/TagsSidebar.qml:211
@@ -529,9 +529,9 @@ msgstr ""
 msgid "There're no pics associated with the tag"
 msgstr ""
 
-#: src/widgets/views/Tags/TagsView.qml:75
+#: src/widgets/views/Tags/TagsView.qml:76
 #, kde-format
-msgid "EMpty filter"
+msgid "No results found."
 msgstr ""
 
 #: src/widgets/views/Viewer/PixViewer.qml:70
