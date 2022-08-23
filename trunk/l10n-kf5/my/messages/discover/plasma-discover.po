@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-30 00:47+0000\n"
+"POT-Creation-Date: 2022-08-23 00:47+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -261,14 +261,14 @@ msgstr "ထည့်သွင်းမည်"
 msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
 
-#: discover/qml/ApplicationDelegate.qml:137
+#: discover/qml/ApplicationDelegate.qml:138
 #: discover/qml/ApplicationPage.qml:191
 #, kde-format
 msgid "%1 rating"
 msgid_plural "%1 ratings"
 msgstr[0] "အကဲဖြတ်ချက် %1ခု"
 
-#: discover/qml/ApplicationDelegate.qml:137
+#: discover/qml/ApplicationDelegate.qml:138
 #: discover/qml/ApplicationPage.qml:191
 #, kde-format
 msgid "No ratings yet"
@@ -653,12 +653,12 @@ msgstr "ဆက်လုပ်မည်"
 msgid "Report this issue"
 msgstr ""
 
-#: discover/qml/Feedback.qml:11
+#: discover/qml/Feedback.qml:12
 #, kde-format
 msgid "Submit usage information"
 msgstr "အသုံးပြုအချက်အလက််များ ပေးပို့မည်"
 
-#: discover/qml/Feedback.qml:12
+#: discover/qml/Feedback.qml:13
 #, kde-format
 msgid ""
 "Sends anonymized usage information to KDE so we can better understand our "
@@ -667,28 +667,28 @@ msgstr ""
 "ကျွန်ုပ်တို့အနေဖြင့် အသုံးပြုသူများ၏လိုလားချက်များကို သိရှိရန် အမည်ဖျောက်ထားသော အသုံးပြုအချက်အလက်များကို "
 "ကေဒီအီးသို့ ပေးပို့ပါ။ ပိုမိုသိလိုပါက https://kde.org/privacypolicy-apps.php သို့သွားပါ။"
 
-#: discover/qml/Feedback.qml:16
+#: discover/qml/Feedback.qml:17
 #, kde-format
 msgid "Submitting usage information…"
 msgstr "အသုံးပြုအချက်အလက််များ ပေးပို့နေသည်"
 
-#: discover/qml/Feedback.qml:16
+#: discover/qml/Feedback.qml:17
 #, kde-format
 msgid "Configure"
 msgstr "ပြင်ဆင်မည်"
 
-#: discover/qml/Feedback.qml:20
+#: discover/qml/Feedback.qml:21
 #, kde-format
 msgid "Configure feedback…"
 msgstr "တုံ့ပြန်ချက်ပြင်ဆင်မည်…"
 
-#: discover/qml/Feedback.qml:27 discover/qml/SourcesPage.qml:19
+#: discover/qml/Feedback.qml:28 discover/qml/SourcesPage.qml:19
 #, fuzzy, kde-format
 #| msgid "Configure feedback…"
 msgid "Configure Updates…"
 msgstr "တုံ့ပြန်ချက်ပြင်ဆင်မည်…"
 
-#: discover/qml/Feedback.qml:57
+#: discover/qml/Feedback.qml:58
 #, kde-format
 msgid ""
 "You can help us improving this application by sharing statistics and "
@@ -697,17 +697,17 @@ msgstr ""
 "ဤအပ္ပလီကေးရှင်း တိုးတက်စေရန် ဆောင်ရွက်ရာတွင် အသုံးပြုစာရင်းအင်းများ မျှဝေ၍ စစ်တမ်းကောက်ချက်များတွင် "
 "ဖြေဆို၍ ပါဝင်ကူညီနိုင်သည်။"
 
-#: discover/qml/Feedback.qml:57
+#: discover/qml/Feedback.qml:58
 #, kde-format
 msgid "Contribute…"
 msgstr "ပါဝင်ကူညီမည်…"
 
-#: discover/qml/Feedback.qml:62
+#: discover/qml/Feedback.qml:63
 #, kde-format
 msgid "We are looking for your feedback!"
 msgstr "သင့်တုံ့ပြန်ချက်များကို ကြိုဆိုပါသည်။"
 
-#: discover/qml/Feedback.qml:62
+#: discover/qml/Feedback.qml:63
 #, kde-format
 msgid "Participate…"
 msgstr "ပါဝင်ကူညီမည်…"

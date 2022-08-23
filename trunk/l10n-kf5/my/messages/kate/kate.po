@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-22 00:49+0000\n"
+"POT-Creation-Date: 2022-08-23 00:49+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1250,7 +1250,7 @@ msgstr "ဖိုင်လ်ဖွင့်မည်"
 msgid "&Other..."
 msgstr "&Oအခြား..."
 
-#: lib/katemainwindow.cpp:1094
+#: lib/katemainwindow.cpp:1101
 #, kde-format
 msgid " [read only]"
 msgstr " [ဖတ်၍သာရ]"

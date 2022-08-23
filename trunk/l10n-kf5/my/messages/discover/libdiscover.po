@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-17 00:46+0000\n"
+"POT-Creation-Date: 2022-08-23 00:47+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -843,32 +843,32 @@ msgstr "အီးယူအယ်အေ ကိုသုံးသပ်မည်"
 msgid "Could not enable remote %1: %2"
 msgstr "ပရိုဂရမ်ဇစ်မြစ် %1 ကို မထည့်သွင်းနိုင်ပါ"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:111
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:107
 #, kde-format
 msgid "Backend %1 took too long to initialize"
 msgstr "အုတ်မြစ်ပရိုဂရမ် %1 သည် စတင်ရန် အချိန်အရမ်းကြာနေသည်။"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:173
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:169
 #, kde-format
 msgid "Applications"
 msgstr "အပ္ပလီကေးရှင်းများ"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:219
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:214
 #, kde-format
 msgid "Plasma Addons"
 msgstr "ပလက်စမာ အက်အွန်များ"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:219
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:214
 #, kde-format
 msgid "Application Addons"
 msgstr "အပ္ပလီကေးရှင်း အက်အွန်များ"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:420
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:415
 #, kde-format
 msgid "Network error in backend %1: %2"
 msgstr "%1 အုတ်မြစ်ပရိုဂရမ်တွင် ဆ.သ.ရ-ကွန်ရက်ဆိုင်ရာအမှား %2 ဖြစ်ပေါ်ခဲ့သည်"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:427
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:422
 #, kde-format
 msgid ""
 "Too many requests sent to the server for backend %1. Please try again in a "
@@ -877,14 +877,14 @@ msgstr ""
 "အုတ်မြစ်ပရိုဂရမ် %1 အတွက် ဆာဗာသို့ တောင်းခံမှု အများအပြားပို့ခဲ့ပြီးဖြစ်သည်။ ကျေးဇူးပြု၍ "
 "ခေတ္တခဏစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားပါ။"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:430
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:425
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:431
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:436
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:441
 #, kde-format
 msgid "Invalid %1 backend, contact your distributor."
 msgstr "မမှန်ကန်သော %1 အုတ်မြစ်ပရိုဂရမ်ဖြစ်သည်။ ဖြန့်ဝေသူထံ ဆက်သွယ်ပါ။"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:460
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:455
 #, kde-format
 msgid ""
 "Unable to complete the update of %1. You can try and perform this action "
@@ -893,22 +893,22 @@ msgid ""
 "%2"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:470
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:465
 #, kde-format
 msgid "Could not fetch screenshot for the entry %1 in backend %2"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:474
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:469
 #, kde-format
 msgid "Unhandled error in %1 backend. Contact your distributor."
 msgstr "%1 အုတ်မြစ်ပရိုဂရမ်တွင် မကိုင်တွယ်ခဲ့သော အမှားဖြစ်ပေါ်ခဲ့သည်။ ဖြန့်ဝေသူထံ ဆက်သွယ်ပါ။"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:482
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:477
 #, kde-format
 msgid "%1: %2"
 msgstr "%1: %2"
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:699
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:694
 #, kde-format
 msgid "Wrong KNewStuff URI: %1"
 msgstr "မှားနေသော ကေနယူးစတပ်ဖ် ယူအာအိုင်- %1"
@@ -919,7 +919,7 @@ msgctxt "The name of the KDE Store"
 msgid "KDE Store"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSReviews.cpp:159
+#: libdiscover/backends/KNSBackend/KNSReviews.cpp:144
 #, kde-format
 msgid "Log in information for %1"
 msgstr "%1အတွက် အချက်အလက်"
@@ -1839,7 +1839,7 @@ msgstr "လက်ရှိ"
 msgid "Future"
 msgstr "အနာဂတ်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:455
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:456
 #, kde-format
 msgid ""
 "This update cannot be completed as it would remove the following software "
@@ -1848,12 +1848,12 @@ msgid ""
 "your distribution."
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:462
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:463
 #, kde-format
 msgid "Packages to remove"
 msgstr "ဖယ်ရှားမည့် ပတ်ကေ့ချ်များ"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:463
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:464
 #, kde-format
 msgid ""
 "The following packages will be removed by the update:<ul><li>%1</li></ul><br/"
@@ -1862,13 +1862,13 @@ msgstr ""
 "အောက်ပါပတ်ကေ့ချ်များကို အပ်ဒိတ် <ul><li>%2</li></ul> တင်ရန် ဖယ်ရှားမည်-<ul><li>%1</li></"
 "ul><br/>"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:561
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:562
 #, kde-kuit-format
 msgctxt "@info"
 msgid "%1:<nl/><nl/>%2"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:569
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:570
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:310
 #, kde-format
 msgid ""
@@ -1878,13 +1878,13 @@ msgstr ""
 "မီဒီယာပြောင်းလဲမှုအမျိုးအစား '%1' ကိုတောင်းဆိုထားသည်။\n"
 "%2"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:602
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:603
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:287
 #, kde-format
 msgid "Accept EULA"
 msgstr "အီးယူအယ်အေ လက်ခံမည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:603
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:604
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:288
 #, kde-format
 msgid ""
@@ -1894,13 +1894,13 @@ msgstr ""
 "ပတ်ကေ့ချ် %1 နှင့် ၎င်း၏ရောင်းချသူ %2 က သင်ကိုလိုင်စင်အားလက်ခံရန် လိုအပ်သည်။\n"
 "%3"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:720
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:721
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:327
 #, kde-format
 msgid "Missing signature for %1 in %2"
 msgstr "%2 တွင် %1 အတွက် လက်မှတ်ပျောက်နေသည်"
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:721
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:722
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:328
 #, kde-format
 msgid ""

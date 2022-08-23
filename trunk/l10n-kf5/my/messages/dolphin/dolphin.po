@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-19 00:48+0000\n"
+"POT-Creation-Date: 2022-08-23 00:49+0000\n"
 "PO-Revision-Date: 2021-09-24 16:56+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2283,25 +2283,25 @@ msgstr "မီဒီယာဖိုင်လ်အလိုအလျောက်
 msgid "Date display format"
 msgstr "ရက်စွဲဖော်ပြမှုပုံစံ"
 
-#: panels/information/informationpanel.cpp:162
+#: panels/information/informationpanel.cpp:154
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Preview"
 msgstr "အကြိုမြင်ကွင်း"
 
-#: panels/information/informationpanel.cpp:167
+#: panels/information/informationpanel.cpp:159
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Auto-Play media files"
 msgstr "မီဒီယာဖိုင်လ်အလိုအလျောက်ဖွင့်မည်"
 
-#: panels/information/informationpanel.cpp:172
+#: panels/information/informationpanel.cpp:164
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Configure..."
 msgstr "ပြင်ဆင်မည်..."
 
-#: panels/information/informationpanel.cpp:178
+#: panels/information/informationpanel.cpp:170
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Condensed Date"
@@ -2344,12 +2344,12 @@ msgctxt "@action:inmenu"
 msgid "Configure Trash…"
 msgstr "အမှိုက်ပုံဆိုင်ရာ ပြင်ဆင်မည်..."
 
-#: panels/places/placespanel.cpp:238
+#: panels/places/placespanel.cpp:240
 #, kde-format
 msgid "One or more files on this device are open within an application."
 msgstr ""
 
-#: panels/places/placespanel.cpp:245
+#: panels/places/placespanel.cpp:247
 #, kde-kuit-format
 msgid ""
 "One or more files on this device are opened in application <application>"
@@ -2359,7 +2359,7 @@ msgid_plural ""
 "<application>%2</application>."
 msgstr[0] ""
 
-#: panels/places/placespanel.cpp:247
+#: panels/places/placespanel.cpp:249
 #, kde-format
 msgctxt "separator in list of apps blocking device unmount"
 msgid ", "
