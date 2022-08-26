@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-23 00:49+0000\n"
+"POT-Creation-Date: 2022-08-26 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 03:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -103,7 +103,7 @@ msgid "Select Branch..."
 msgstr "ကုတ်ကိုင်း ရွေးမည်..."
 
 #: branchesdialog.cpp:137 gitwidget.cpp:460 kateprojectpluginview.cpp:70
-#: kateprojectview.cpp:164
+#: kateprojectview.cpp:165
 #, kde-format
 msgid "Git"
 msgstr "ဂစ်"
@@ -821,7 +821,7 @@ msgid ""
 msgstr ""
 
 #: kateprojectplugin.cpp:707 kateprojectpluginview.cpp:75
-#: kateprojectpluginview.cpp:217 kateprojectviewtree.cpp:132
+#: kateprojectpluginview.cpp:214 kateprojectviewtree.cpp:132
 #: kateprojectviewtree.cpp:157
 #, kde-format
 msgid "Project"
@@ -833,64 +833,75 @@ msgstr "ပရောဂျက်"
 msgid "Project Manager"
 msgstr "ကိတ်ပရောဂျက်မန်နေဂျာ"
 
-#: kateprojectpluginview.cpp:181
+#: kateprojectpluginview.cpp:85
+#, fuzzy, kde-format
+#| msgid "Close Project"
+msgid "Reload project"
+msgstr "ပရောဂျက် ပိတ်မည်"
+
+#: kateprojectpluginview.cpp:102
+#, kde-format
+msgid "Refresh git status"
+msgstr ""
+
+#: kateprojectpluginview.cpp:178
 #, kde-format
 msgid "Open Folder..."
 msgstr "ဖိုလ်ဒါ ဖွင့်မည်..."
 
-#: kateprojectpluginview.cpp:184
+#: kateprojectpluginview.cpp:181
 #, fuzzy, kde-format
 msgid "Project TODOs"
 msgstr "လက်ရှိ ပရောဂျက်"
 
-#: kateprojectpluginview.cpp:188
+#: kateprojectpluginview.cpp:185
 #, kde-format
 msgid "Activate Previous Project"
 msgstr ""
 
-#: kateprojectpluginview.cpp:193
+#: kateprojectpluginview.cpp:190
 #, kde-format
 msgid "Activate Next Project"
 msgstr ""
 
-#: kateprojectpluginview.cpp:198
+#: kateprojectpluginview.cpp:195
 #, kde-format
 msgid "Lookup"
 msgstr "ရှာဖွေမည်"
 
-#: kateprojectpluginview.cpp:202
+#: kateprojectpluginview.cpp:199
 #, kde-format
 msgid "Close Project"
 msgstr "ပရောဂျက် ပိတ်မည်"
 
-#: kateprojectpluginview.cpp:206
+#: kateprojectpluginview.cpp:203
 #, fuzzy, kde-format
 #| msgid "Close Project"
 msgid "Close All Projects"
 msgstr "ပရောဂျက် ပိတ်မည်"
 
-#: kateprojectpluginview.cpp:211
+#: kateprojectpluginview.cpp:208
 #, fuzzy, kde-format
 #| msgid "Close Project"
 msgid "Close Orphaned Projects"
 msgstr "ပရောဂျက် ပိတ်မည်"
 
-#: kateprojectpluginview.cpp:220 kateprojectpluginview.cpp:766
+#: kateprojectpluginview.cpp:217 kateprojectpluginview.cpp:768
 #, kde-format
 msgid "Lookup: %1"
 msgstr "ရှာဖွေမှု - %1"
 
-#: kateprojectpluginview.cpp:221 kateprojectpluginview.cpp:767
+#: kateprojectpluginview.cpp:218 kateprojectpluginview.cpp:769
 #, kde-format
 msgid "Goto: %1"
 msgstr "သွားမည် - %1"
 
-#: kateprojectpluginview.cpp:290
+#: kateprojectpluginview.cpp:292
 #, fuzzy, kde-format
 msgid "Projects Index"
 msgstr "&Pပရောဂျက်များ"
 
-#: kateprojectpluginview.cpp:805
+#: kateprojectpluginview.cpp:807
 #, kde-format
 msgid "Choose a directory"
 msgstr "ဒါရိုက်ထရီရွေးချယ်မည်"
@@ -971,7 +982,13 @@ msgstr "ဖိုင်လ် \"%1\" ကို သင်တကယ်ဖျက်
 msgid "Checkout Git Branch"
 msgstr "ဂစ်-ကုတ်ကိုင်း ပြောင်းလဲမည်"
 
-#: kateprojectview.cpp:101
+#: kateprojectview.cpp:83
+#, fuzzy, kde-format
+#| msgid "Checkout Branch"
+msgid "Checkout branch"
+msgstr "ကုတ်ကိုင်း ပြောင်းလဲမည်"
+
+#: kateprojectview.cpp:102
 #, fuzzy, kde-format
 msgid "Show File Git History"
 msgstr "မှတ်တမ်းပြမည်"
