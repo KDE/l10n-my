@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-16 00:48+0000\n"
+"POT-Creation-Date: 2022-08-27 00:52+0000\n"
 "PO-Revision-Date: 2021-09-15 03:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -536,7 +536,7 @@ msgstr ""
 #: SearchPlugin.cpp:342
 #, fuzzy, kde-format
 #| msgid "Search in Files (in new tab)"
-msgid "Find in Files (in new tab)"
+msgid "Find in Files (in a New Tab)"
 msgstr "ဖိုင်လ်များတွင် ရှာမည် (တပ်ဘ်အသစ်ဖြင့်)"
 
 #: SearchPlugin.cpp:348

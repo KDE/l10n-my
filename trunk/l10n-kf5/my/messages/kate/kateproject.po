@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-26 00:48+0000\n"
+"POT-Creation-Date: 2022-08-27 00:52+0000\n"
 "PO-Revision-Date: 2021-09-15 03:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -201,13 +201,15 @@ msgid "Modified"
 msgstr "မွမ်းမံခဲ့သည်"
 
 #: gitwidget.cpp:231
-#, kde-format
-msgid "Git push"
+#, fuzzy, kde-format
+#| msgid "Git push"
+msgid "Git Push"
 msgstr "ဂစ်-တွန်း"
 
 #: gitwidget.cpp:243
-#, kde-format
-msgid "Git pull"
+#, fuzzy, kde-format
+#| msgid "Git pull"
+msgid "Git Pull"
 msgstr "ဂစ်-ဆွဲ"
 
 #: gitwidget.cpp:255
@@ -351,8 +353,9 @@ msgid "Delete Branch"
 msgstr "ကုတ်ကိုင်း ဖျက်မည်"
 
 #: gitwidget.cpp:1021
-#, kde-format
-msgid "Compare Branch with ..."
+#, fuzzy, kde-format
+#| msgid "Compare Branch with ..."
+msgid "Compare Branch with..."
 msgstr "ဖြင့် ကုတ်ကိုင်း နှိုင်းယှဥ်မည်..."
 
 #: gitwidget.cpp:1024 gitwidget.cpp:1058
@@ -420,7 +423,7 @@ msgstr "အကုန် ပစ်ပယ်မည်"
 msgid "Open .gitignore"
 msgstr ".gitignore ဖွင့်မည်"
 
-#: gitwidget.cpp:1124 gitwidget.cpp:1213
+#: gitwidget.cpp:1124
 #, fuzzy, kde-format
 msgid "Show diff"
 msgstr "Diff အထုတ်"
@@ -435,20 +438,20 @@ msgstr ""
 msgid "Are you sure you want to discard all changes?"
 msgstr ""
 
-#: gitwidget.cpp:1170 kateprojectconfigpage.cpp:92
-#: kateprojectconfigpage.cpp:103
-#, kde-format
-msgid "Open file"
+#: gitwidget.cpp:1170
+#, fuzzy, kde-format
+#| msgid "Open file"
+msgid "Open File"
 msgstr "ဖိုင်လ်ဖွင့်မည်"
 
 #: gitwidget.cpp:1171
 #, fuzzy, kde-format
-msgid "Show raw diff"
+msgid "Show Raw Diff"
 msgstr "Diff အထုတ်"
 
 #: gitwidget.cpp:1172
 #, kde-format
-msgid "Show in external git diff tool"
+msgid "Show in External Git Diff Tool"
 msgstr ""
 
 #: gitwidget.cpp:1173
@@ -457,13 +460,15 @@ msgid "Open at HEAD"
 msgstr "HEADတွင် ဖွင့်မည်"
 
 #: gitwidget.cpp:1174
-#, kde-format
-msgid "Unstage file"
+#, fuzzy, kde-format
+#| msgid "Unstage file"
+msgid "Unstage File"
 msgstr "ဖိုင်လ်ကို ပေးပို့မှုတွင် မပါဝင်အောင် လုပ်မည်"
 
 #: gitwidget.cpp:1174
-#, kde-format
-msgid "Stage file"
+#, fuzzy, kde-format
+#| msgid "Stage file"
+msgid "Stage File"
 msgstr "ဖိုင်လ်ကို ပေးပို့မှုတွင် ပါဝင်အောင် လုပ်မည်"
 
 #: gitwidget.cpp:1175
@@ -490,6 +495,12 @@ msgstr "ဤဖိုင်လ်ကို သင်တကယ်ဖျက်တ�
 #, kde-format
 msgid "Unstage All"
 msgstr "အားလုံးကို ပေးပို့မှုတွင် မပါဝင်အောင် လုပ်မည်"
+
+#: gitwidget.cpp:1213 kateprojectconfigpage.cpp:91
+#: kateprojectconfigpage.cpp:102
+#, fuzzy, kde-format
+msgid "Show Diff"
+msgstr "Diff အထုတ်"
 
 #: gitwidget.cpp:1279
 #, kde-format
@@ -521,12 +532,12 @@ msgstr ""
 msgid "Are you sure you want to remove these untracked changes?"
 msgstr ""
 
-#: kateproject.cpp:133
+#: kateproject.cpp:222
 #, kde-format
 msgid "Malformed JSON file '%1': %2"
 msgstr ""
 
-#: kateproject.cpp:438
+#: kateproject.cpp:527
 #, kde-format
 msgid "<untracked>"
 msgstr "<မစောင့်ကြည့်ထားသော>"
@@ -657,10 +668,10 @@ msgstr ""
 msgid "No Action"
 msgstr "လုပ်ဆောင်ချက်မရှိ"
 
-#: kateprojectconfigpage.cpp:91 kateprojectconfigpage.cpp:102
-#, fuzzy, kde-format
-msgid "Show Diff"
-msgstr "Diff အထုတ်"
+#: kateprojectconfigpage.cpp:92 kateprojectconfigpage.cpp:103
+#, kde-format
+msgid "Open file"
+msgstr "ဖိုင်လ်ဖွင့်မည်"
 
 #: kateprojectconfigpage.cpp:93 kateprojectconfigpage.cpp:104
 #, kde-format
@@ -788,12 +799,12 @@ msgstr ""
 msgid "Indexing is not enabled"
 msgstr ""
 
-#: kateprojectitem.cpp:163
+#: kateprojectitem.cpp:168
 #, kde-format
 msgid "Error"
 msgstr "အမှား"
 
-#: kateprojectitem.cpp:163
+#: kateprojectitem.cpp:168
 #, kde-format
 msgid "File name already exists"
 msgstr "ဖိုင်လ်အမည်တူ ရှိနှင့်ပြီး ဖြစ်ပါသည်"
@@ -821,8 +832,8 @@ msgid ""
 msgstr ""
 
 #: kateprojectplugin.cpp:707 kateprojectpluginview.cpp:75
-#: kateprojectpluginview.cpp:214 kateprojectviewtree.cpp:132
-#: kateprojectviewtree.cpp:157
+#: kateprojectpluginview.cpp:214 kateprojectviewtree.cpp:135
+#: kateprojectviewtree.cpp:160
 #, kde-format
 msgid "Project"
 msgstr "ပရောဂျက်"
@@ -993,12 +1004,12 @@ msgstr "ကုတ်ကိုင်း ပြောင်းလဲမည်"
 msgid "Show File Git History"
 msgstr "မှတ်တမ်းပြမည်"
 
-#: kateprojectviewtree.cpp:134
+#: kateprojectviewtree.cpp:137
 #, kde-format
 msgid "Failed to create file: %1, Error: %2"
 msgstr ""
 
-#: kateprojectviewtree.cpp:159
+#: kateprojectviewtree.cpp:162
 #, kde-format
 msgid "Failed to create dir: %1"
 msgstr "ဒါရိုက်ထရီကို မတည်ဆောက်နိုင်ခဲ့ပါ - %1"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-22 00:49+0000\n"
+"POT-Creation-Date: 2022-08-27 00:52+0000\n"
 "PO-Revision-Date: 2021-09-15 04:45+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -51,9 +51,11 @@ msgid "Close the current document."
 msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
 
 #: katefiletree.cpp:129
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Expand recursively"
 msgctxt "@action:inmenu"
-msgid "Expand recursively"
+msgid "Expand Recursively"
 msgstr "တပ်ဘ်များဖြန့်မည်"
 
 #: katefiletree.cpp:131
@@ -62,10 +64,12 @@ msgid "Expand the file list sub tree recursively."
 msgstr ""
 
 #: katefiletree.cpp:133
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Expand recursively"
 msgctxt "@action:inmenu"
-msgid "Collapse recursively"
-msgstr ""
+msgid "Collapse Recursively"
+msgstr "တပ်ဘ်များဖြန့်မည်"
 
 #: katefiletree.cpp:135
 #, kde-format
