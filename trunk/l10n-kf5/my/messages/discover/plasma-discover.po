@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-30 00:47+0000\n"
+"POT-Creation-Date: 2022-08-31 00:46+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -256,7 +256,7 @@ msgstr "ထည့်သွင်းမည်"
 #: discover/qml/AddSourceDialog.qml:70 discover/qml/DiscoverWindow.qml:262
 #: discover/qml/InstallApplicationButton.qml:41
 #: discover/qml/ProgressView.qml:104 discover/qml/SourcesPage.qml:181
-#: discover/qml/UpdatesPage.qml:210
+#: discover/qml/UpdatesPage.qml:247
 #, kde-format
 msgid "Cancel"
 msgstr "ပယ်ဖျက်မည်"
@@ -1013,48 +1013,53 @@ msgstr "ရွေးထားသည်များသာ အပ်ဒိတ်�
 msgid "Update All"
 msgstr "အကုန်အပ်ဒိတ်တင်မည်"
 
-#: discover/qml/UpdatesPage.qml:177
+#: discover/qml/UpdatesPage.qml:168
+#, kde-format
+msgid "Ignore"
+msgstr ""
+
+#: discover/qml/UpdatesPage.qml:214
 #, kde-format
 msgid "Select All"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:185
+#: discover/qml/UpdatesPage.qml:222
 #, kde-format
 msgid "Select None"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:192
+#: discover/qml/UpdatesPage.qml:229
 #, kde-format
 msgid "Restart automatically after update has completed"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:199
+#: discover/qml/UpdatesPage.qml:236
 #, kde-format
 msgid "Total size: %1"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:235
+#: discover/qml/UpdatesPage.qml:272
 #, kde-format
 msgid "Restart Now"
 msgstr "ယခုချက်ချင်းပြန်စတင်မည်"
 
-#: discover/qml/UpdatesPage.qml:334
+#: discover/qml/UpdatesPage.qml:371
 #, kde-format
 msgid "%1"
 msgstr "%1"
 
-#: discover/qml/UpdatesPage.qml:350
+#: discover/qml/UpdatesPage.qml:387
 #, kde-format
 msgid "Installing"
 msgstr "တပ်ဆင်နေသည်"
 
-#: discover/qml/UpdatesPage.qml:385
+#: discover/qml/UpdatesPage.qml:422
 #, fuzzy, kde-format
 #| msgid "Update All"
 msgid "Update from:"
 msgstr "အကုန်အပ်ဒိတ်တင်မည်"
 
-#: discover/qml/UpdatesPage.qml:397
+#: discover/qml/UpdatesPage.qml:434
 #, kde-format
 msgctxt ""
 "%1 is the backend that provides this app, %2 is the specific repository or "
@@ -1062,43 +1067,43 @@ msgctxt ""
 msgid "%1 (%2)"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:404
+#: discover/qml/UpdatesPage.qml:441
 #, kde-format
 msgid "More Information…"
 msgstr "နောက်ထပ်အချက်အလက်များ…"
 
-#: discover/qml/UpdatesPage.qml:432
+#: discover/qml/UpdatesPage.qml:469
 #, kde-format
 msgctxt "@info"
 msgid "Fetching updates…"
 msgstr "အပ်ဒိတ်များရယူနေသည်…"
 
-#: discover/qml/UpdatesPage.qml:445
+#: discover/qml/UpdatesPage.qml:482
 #, kde-format
 msgctxt "@info"
 msgid "Updates"
 msgstr "အပ်ဒိတ်များ"
 
-#: discover/qml/UpdatesPage.qml:455
+#: discover/qml/UpdatesPage.qml:492
 #, kde-format
 msgctxt "@info"
 msgid "Restart the system to complete the update process"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:467 discover/qml/UpdatesPage.qml:474
-#: discover/qml/UpdatesPage.qml:481
+#: discover/qml/UpdatesPage.qml:504 discover/qml/UpdatesPage.qml:511
+#: discover/qml/UpdatesPage.qml:518
 #, kde-format
 msgctxt "@info"
 msgid "Up to date"
 msgstr "နောက်ဆုံးပေါ်"
 
-#: discover/qml/UpdatesPage.qml:488
+#: discover/qml/UpdatesPage.qml:525
 #, kde-format
 msgctxt "@info"
 msgid "Should check for updates"
 msgstr "အပ်ဒိတ်ရှိ၊မရှိ စစ်ဆေးသင့်"
 
-#: discover/qml/UpdatesPage.qml:495
+#: discover/qml/UpdatesPage.qml:532
 #, kde-format
 msgctxt "@info"
 msgid "Time of last update unknown"
