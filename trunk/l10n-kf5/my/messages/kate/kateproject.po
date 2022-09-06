@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-05 00:47+0000\n"
+"POT-Creation-Date: 2022-09-06 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 03:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -86,7 +86,7 @@ msgstr "ကုတ်ကိုင်း ဖျက်မည်"
 msgid "Last Commit"
 msgstr "နောက်ဆုံးဖွင့်ခဲ့သော"
 
-#: branchdeletedialog.cpp:135 kateprojecttreeviewcontextmenu.cpp:84
+#: branchdeletedialog.cpp:135 kateprojecttreeviewcontextmenu.cpp:85
 #, kde-format
 msgid "Delete"
 msgstr "ဖျက်မည်"
@@ -103,25 +103,14 @@ msgid "Select Branch..."
 msgstr "ကုတ်ကိုင်း ရွေးမည်..."
 
 #: branchesdialog.cpp:137 gitwidget.cpp:460 kateprojectpluginview.cpp:70
-#: kateprojectview.cpp:169
 #, kde-format
 msgid "Git"
 msgstr "ဂစ်"
 
-#: comparebranchesview.cpp:144 filehistorywidget.cpp:223
+#: comparebranchesview.cpp:144
 #, fuzzy, kde-format
 msgid "Back"
 msgstr "နောက်"
-
-#: filehistorywidget.cpp:251
-#, kde-format
-msgid "Failed to get file history: git executable not found in PATH"
-msgstr ""
-
-#: filehistorywidget.cpp:264
-#, kde-format
-msgid "Failed to get file history: %1"
-msgstr ""
 
 #: gitcommitdialog.cpp:70 gitcommitdialog.cpp:117
 #, kde-format
@@ -222,7 +211,7 @@ msgstr "လုပ်ဆောင်မှုပယ်ဖျက်မည်"
 msgid " canceled."
 msgstr " ပယ်ဖျက်ခဲ့သည်။"
 
-#: gitwidget.cpp:284 kateprojectview.cpp:72
+#: gitwidget.cpp:284 kateprojectview.cpp:67
 #, kde-format
 msgid "Filter..."
 msgstr "စစ်ထုတ်မည်..."
@@ -882,92 +871,87 @@ msgstr "&Pပရောဂျက်များ"
 msgid "Choose a directory"
 msgstr "ဒါရိုက်ထရီရွေးချယ်မည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:48
+#: kateprojecttreeviewcontextmenu.cpp:49
 #, kde-format
 msgid "Enter name:"
 msgstr "အမည်ရေးပါ -"
 
-#: kateprojecttreeviewcontextmenu.cpp:49
+#: kateprojecttreeviewcontextmenu.cpp:50
 #, kde-format
 msgid "Add"
 msgstr "ထည့်သွင်းမည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:70
+#: kateprojecttreeviewcontextmenu.cpp:71
 #, fuzzy, kde-format
 #| msgid "No Action"
 msgid "Copy Location"
 msgstr "လုပ်ဆောင်ချက်မရှိ"
 
-#: kateprojecttreeviewcontextmenu.cpp:75
+#: kateprojecttreeviewcontextmenu.cpp:76
 #, kde-format
 msgid "Add File"
 msgstr "ဖိုင်လ် ထည့်သွင်းမည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:76
+#: kateprojecttreeviewcontextmenu.cpp:77
 #, kde-format
 msgid "Add Folder"
 msgstr "ဖိုလ်ဒါ ထည့်သွင်းမည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:83
+#: kateprojecttreeviewcontextmenu.cpp:84
 #, kde-format
 msgid "&Rename"
 msgstr "&Rအမည်ပြောင်း"
 
-#: kateprojecttreeviewcontextmenu.cpp:90
+#: kateprojecttreeviewcontextmenu.cpp:91
 #, kde-format
 msgid "Properties"
 msgstr "ကိုယ်ပိုင်လက္ခဏာများ"
 
-#: kateprojecttreeviewcontextmenu.cpp:97
+#: kateprojecttreeviewcontextmenu.cpp:98
 #, kde-format
 msgid "Open With"
 msgstr "ဖြင့် ဖွင့်မည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:116
+#: kateprojecttreeviewcontextmenu.cpp:117
 #, kde-format
 msgid "Open Internal Terminal Here"
 msgstr ""
 
-#: kateprojecttreeviewcontextmenu.cpp:125
+#: kateprojecttreeviewcontextmenu.cpp:126
 #, kde-format
 msgid "Open External Terminal Here"
 msgstr "ပြင်ပတာမီနယ်ကို ဒီနေရာတွင် ဖွင့်မည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:130
+#: kateprojecttreeviewcontextmenu.cpp:131
 #, kde-format
 msgid "&Open Containing Folder"
 msgstr "&Oတည်ရှိသော ဖိုလ်ဒါကို ဖွင့်မည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:140
+#: kateprojecttreeviewcontextmenu.cpp:141
 #, fuzzy, kde-format
 msgid "Show Git History"
 msgstr "မှတ်တမ်းပြမည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:163
+#: kateprojecttreeviewcontextmenu.cpp:164
 #, kde-format
 msgid "Delete File"
 msgstr "ဖိုင်လ် ဖျက်မည်"
 
-#: kateprojecttreeviewcontextmenu.cpp:164
+#: kateprojecttreeviewcontextmenu.cpp:165
 #, kde-format
 msgid "Do you want to delete the file '%1'?"
 msgstr "ဖိုင်လ် \"%1\" ကို သင်တကယ်ဖျက်တော့မည်လား။"
 
-#: kateprojectview.cpp:67
+#: kateprojectview.cpp:62
 #, kde-format
 msgid "Checkout Git Branch"
 msgstr "ဂစ်-ကုတ်ကိုင်း ပြောင်းလဲမည်"
 
-#: kateprojectview.cpp:84
+#: kateprojectview.cpp:79
 #, fuzzy, kde-format
 #| msgid "Checkout Branch"
 msgid "Checkout branch"
 msgstr "ကုတ်ကိုင်း ပြောင်းလဲမည်"
-
-#: kateprojectview.cpp:103
-#, fuzzy, kde-format
-msgid "Show File Git History"
-msgstr "မှတ်တမ်းပြမည်"
 
 #: kateprojectviewtree.cpp:137
 #, kde-format
@@ -1044,6 +1028,10 @@ msgstr ""
 #, kde-format
 msgid "&Projects"
 msgstr "&Pပရောဂျက်များ"
+
+#, fuzzy
+#~ msgid "Show File Git History"
+#~ msgstr "မှတ်တမ်းပြမည်"
 
 #, fuzzy
 #~| msgid "Discard"

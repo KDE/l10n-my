@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-16 00:48+0000\n"
+"POT-Creation-Date: 2022-09-06 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 04:13+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -75,7 +75,7 @@ msgctxt "Header for the error message column"
 msgid "Message"
 msgstr "မှတ်စာ"
 
-#: plugin_katebuild.cpp:127 plugin_katebuild.cpp:134 plugin_katebuild.cpp:1172
+#: plugin_katebuild.cpp:127 plugin_katebuild.cpp:134 plugin_katebuild.cpp:1194
 #, kde-format
 msgid "Build"
 msgstr "တည်ဆောက်မည်"
@@ -121,18 +121,18 @@ msgctxt "Tab label"
 msgid "Target Settings"
 msgstr "ဦိးတည်ပစ်မှတ် ဆက်တင်"
 
-#: plugin_katebuild.cpp:267 plugin_katebuild.cpp:1171
+#: plugin_katebuild.cpp:267 plugin_katebuild.cpp:1193
 #, kde-format
 msgid "Target Set"
 msgstr "ဦိးတည်ပစ်မှတ်အစု"
 
 #: plugin_katebuild.cpp:268 plugin_katebuild.cpp:288 plugin_katebuild.cpp:293
-#: plugin_katebuild.cpp:1334
+#: plugin_katebuild.cpp:1356
 #, kde-format
 msgid "build"
 msgstr "တည်ဆောက်မည်"
 
-#: plugin_katebuild.cpp:269 plugin_katebuild.cpp:289 plugin_katebuild.cpp:1337
+#: plugin_katebuild.cpp:269 plugin_katebuild.cpp:289 plugin_katebuild.cpp:1359
 #, kde-format
 msgid "clean"
 msgstr "ရှင်းမည်"
@@ -142,13 +142,13 @@ msgstr "ရှင်းမည်"
 msgid "config"
 msgstr "ကွန်ဖစ်"
 
-#: plugin_katebuild.cpp:274 plugin_katebuild.cpp:291 plugin_katebuild.cpp:1340
+#: plugin_katebuild.cpp:274 plugin_katebuild.cpp:291 plugin_katebuild.cpp:1362
 #, kde-format
 msgid "quick"
 msgstr "အလျင်အမြန်"
 
-#: plugin_katebuild.cpp:327 plugin_katebuild.cpp:1274 plugin_katebuild.cpp:1285
-#: plugin_katebuild.cpp:1306 plugin_katebuild.cpp:1314
+#: plugin_katebuild.cpp:327 plugin_katebuild.cpp:1296 plugin_katebuild.cpp:1307
+#: plugin_katebuild.cpp:1328 plugin_katebuild.cpp:1336
 #, fuzzy, kde-format
 msgid "Project Plugin Targets"
 msgstr "ဦးတည်းဖိုင်လ်များကို အညွှန်းစီမည်"
@@ -280,37 +280,37 @@ msgstr "တည်ဆောက်မှု မအောင်မြင်ပါ�
 msgid "Build completed without problems."
 msgstr ""
 
-#: plugin_katebuild.cpp:1173
+#: plugin_katebuild.cpp:1195
 #, kde-format
 msgid "Clean"
 msgstr "ရှင်းမည်"
 
-#: plugin_katebuild.cpp:1174
+#: plugin_katebuild.cpp:1196
 #, kde-format
 msgid "Config"
 msgstr "ကွန်ဖစ်"
 
-#: plugin_katebuild.cpp:1175
+#: plugin_katebuild.cpp:1197
 #, kde-format
 msgid "ConfigClean"
 msgstr ""
 
-#: plugin_katebuild.cpp:1218
+#: plugin_katebuild.cpp:1240
 #, kde-format
 msgid "Only Errors"
 msgstr "အမှားများသာ"
 
-#: plugin_katebuild.cpp:1221
+#: plugin_katebuild.cpp:1243
 #, kde-format
 msgid "Errors and Warnings"
 msgstr "အမှားနှင့် သတိပေးချက်များ"
 
-#: plugin_katebuild.cpp:1224
+#: plugin_katebuild.cpp:1246
 #, fuzzy, kde-format
 msgid "Parsed Output"
 msgstr "အထုတ်"
 
-#: plugin_katebuild.cpp:1227
+#: plugin_katebuild.cpp:1249
 #, fuzzy, kde-format
 msgid "Full Output"
 msgstr "အထုတ်"
