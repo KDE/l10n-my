@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-24 00:56+0000\n"
+"POT-Creation-Date: 2022-09-08 00:58+0000\n"
 "PO-Revision-Date: 2021-12-04 03:31+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -123,17 +123,17 @@ msgstr ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
 "Broadcast,WINS,Share,Login,Passwords"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:14
+#: src/kcms/webshortcuts/webshortcuts.desktop:11
 msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:63
+#: src/kcms/webshortcuts/webshortcuts.desktop:60
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ ပြင်ဆင်မည်"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:112
+#: src/kcms/webshortcuts/webshortcuts.desktop:109
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
