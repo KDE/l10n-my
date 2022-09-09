@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-07 00:52+0000\n"
+"POT-Creation-Date: 2022-09-09 00:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -9121,6 +9121,26 @@ msgstr ""
 #| msgid "[21.04.1 full changelog](/announcements/changelogs/gear/21.04.1/)"
 msgid "[Full changelog here](/announcements/changelogs/gear/22.08.0/)."
 msgstr "[21.04.1 ပြောင်းလဲမှုမှတ်တမ်းအပြည့်အစုံ](/announcements/changelogs/gear/21.04.1/)"
+
+#: content/announcements/gear/22.08.1.md:7
+msgid ""
+"kmail: Searching for messages does work again ([Commit](http://commits.kde."
+"org/akonadi/2acf92c81c4317950760e22c4fc1c5e216de6012), fixes bugs [#458202]"
+"(https://bugs.kde.org/458202) and [#458245](https://bugs.kde.org/458245))."
+msgstr ""
+
+#: content/announcements/gear/22.08.1.md:8
+msgid ""
+"kate: Fix a crash when there are no search results ([Commit](http://commits."
+"kde.org/kate/6b29b6ba03b9e01b03c5af8dd71c36a62bbb3344))"
+msgstr ""
+
+#: content/announcements/gear/22.08.1.md:9
+msgid ""
+"krdc: Access dates are displayed properly now ([Commit](http://commits.kde."
+"org/krdc/f4824d49759ba1cf1711e432ea4fe42a7359d380), fixes bug [#458587]"
+"(https://bugs.kde.org/458587))"
+msgstr ""
 
 #: content/announcements/plasma/2-tp.md:0
 msgid "Plasma 2 Technology Preview and Plasma Media Center 1.2.0"
