@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-10 00:48+0000\n"
+"POT-Creation-Date: 2022-09-13 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 05:42+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -50,22 +50,22 @@ msgstr "ဂစ်ဘလိမ်း အသေးစိတ်ပြမည်"
 msgid "Toggle Git Blame Details"
 msgstr "ဂစ်ဘလိမ်း အသေးစိတ် ဖွင့်/ပိတ်"
 
-#: kategitblameplugin.cpp:311
+#: kategitblameplugin.cpp:318
 #, kde-format
 msgid "Git"
 msgstr ""
 
-#: kategitblameplugin.cpp:451
+#: kategitblameplugin.cpp:458
 #, kde-format
 msgid "Git blame, show commit failed."
 msgstr ""
 
-#: kategitblameplugin.cpp:538
+#: kategitblameplugin.cpp:545
 #, kde-format
 msgid "Not Committed Yet"
 msgstr "မပေးပို့ရသေးပါ"
 
-#: kategitblameplugin.cpp:569
+#: kategitblameplugin.cpp:576
 #, kde-format
 msgid "Commit"
 msgstr ""

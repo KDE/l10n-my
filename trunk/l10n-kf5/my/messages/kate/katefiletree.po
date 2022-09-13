@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-12 00:49+0000\n"
+"POT-Creation-Date: 2022-09-13 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 04:45+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -212,67 +212,60 @@ msgstr "ဖွင့်ထားသော အစဥ်ဖြင့် စီမ�
 msgid "Custom Sorting"
 msgstr ""
 
-#: katefiletree.cpp:387
+#: katefiletree.cpp:386
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open With"
 msgstr "ဖြင့်ဖွင့်ရန်"
 
-#: katefiletree.cpp:401
+#: katefiletree.cpp:400
 #, kde-format
 msgid "Show File Git History"
 msgstr ""
 
-#: katefiletree.cpp:427
-#, fuzzy, kde-format
-#| msgctxt "@action:inmenu"
-#| msgid "Close Other"
-msgid "Close Widget"
-msgstr "အခြားဟာများပိတ်မည်"
-
-#: katefiletree.cpp:443
+#: katefiletree.cpp:437
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "View Mode"
 msgstr "မြင်ကွင်းထုံးနည်း"
 
-#: katefiletree.cpp:447
+#: katefiletree.cpp:441
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Sort By"
 msgstr "ဖြင့်စီမည်"
 
-#: katefiletree.cpp:487
+#: katefiletree.cpp:483
 #, kde-format
 msgid "&Other..."
 msgstr "&Oအခြား..."
 
-#: katefiletree.cpp:620
+#: katefiletree.cpp:619
 #, kde-format
 msgid "Rename file"
 msgstr "ဖိုင်လ် အမည်ပြောင်းမည်"
 
-#: katefiletree.cpp:620
+#: katefiletree.cpp:619
 #, kde-format
 msgid "New file name"
 msgstr "ဖိုင်လ်အမည်အသစ်"
 
-#: katefiletree.cpp:648
+#: katefiletree.cpp:647
 #, kde-format
 msgid "File \"%1\" could not be moved to \"%2\""
 msgstr "ဖိုင်လ် \"%1\" ကို \"%2\" သို့မရွေ့နိုင်ခဲ့ပါ"
 
-#: katefiletree.cpp:854
+#: katefiletree.cpp:853
 #, kde-format
 msgid "Do you really want to delete file \"%1\" from storage?"
 msgstr "မှတ်ဉာဏ်စက်မှ ဖိုင်လ် \"%1\" ကို သင်တကယ်ဖျက်တော့မည်လား။"
 
-#: katefiletree.cpp:855
+#: katefiletree.cpp:854
 #, kde-format
 msgid "Delete file?"
 msgstr "ဖိုင်လ် ဖျက်မည်လား။"
 
-#: katefiletree.cpp:872
+#: katefiletree.cpp:871
 #, kde-format
 msgid "File \"%1\" could not be deleted."
 msgstr "ဖိုင်လ် \"%1\" ကိုမဖျက်နိုင်ခဲ့ပါ"
@@ -437,6 +430,12 @@ msgstr ""
 #, kde-format
 msgid "&Go"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "@action:inmenu"
+#~| msgid "Close Other"
+#~ msgid "Close Widget"
+#~ msgstr "အခြားဟာများပိတ်မည်"
 
 #~ msgid "Kate File Tree"
 #~ msgstr "ကိတ် ဖိုင်လ် သစ်ပင်"
