@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-10 00:48+0000\n"
+"POT-Creation-Date: 2022-09-14 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 03:45+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -197,7 +197,7 @@ msgid "Running %1: %2 %3 with input %4"
 msgstr "%4 ပေးချက်နှင့် မောင်းနှင်နေသည် %1 - %2 %3"
 
 #: externaltoolsplugin.cpp:289 externaltoolsplugin.cpp:400
-#: kateexternaltoolsconfigwidget.cpp:271 kateexternaltoolsconfigwidget.cpp:276
+#: kateexternaltoolsconfigwidget.cpp:270 kateexternaltoolsconfigwidget.cpp:275
 #: kateexternaltoolsview.cpp:160 kateexternaltoolsview.cpp:164
 #: kateexternaltoolsview.cpp:212
 #, kde-format
@@ -224,68 +224,68 @@ msgstr "%1 သည် အထွက်ကုတ် %2 နှင့် ပြီး
 msgid "Starts the external tool '%1'"
 msgstr ""
 
-#: kateexternaltoolsconfigwidget.cpp:139
+#: kateexternaltoolsconfigwidget.cpp:138
 #, kde-format
 msgid "Edit External Tool"
 msgstr "ပြင်ပကိရိယာ တည်းဖြတ်မည်"
 
-#: kateexternaltoolsconfigwidget.cpp:172
+#: kateexternaltoolsconfigwidget.cpp:171
 #, kde-format
 msgid "Revert tool to default settings"
 msgstr "ကိရိယာကို မူလသတ်မှတ်ချက်များသို့ ပြန်ပြောင်းမည်"
 
-#: kateexternaltoolsconfigwidget.cpp:197 kateexternaltoolsconfigwidget.cpp:203
+#: kateexternaltoolsconfigwidget.cpp:196 kateexternaltoolsconfigwidget.cpp:202
 #, kde-format
 msgid "External Tool"
 msgstr "ပြင်ပကိရိယာ"
 
-#: kateexternaltoolsconfigwidget.cpp:197
+#: kateexternaltoolsconfigwidget.cpp:196
 #, kde-format
 msgid "You must specify at least a name and an executable"
 msgstr "အနည်းဆုံး အမည်နှင့် လုပ်ဆောင်-ဖိုင်လ် သတ်မှတ်ပေးရမည်"
 
-#: kateexternaltoolsconfigwidget.cpp:203
+#: kateexternaltoolsconfigwidget.cpp:202
 #, kde-format
 msgid "With 'Trigger' enabled, at least one mimetype needs to be specified."
 msgstr ""
 
-#: kateexternaltoolsconfigwidget.cpp:212
+#: kateexternaltoolsconfigwidget.cpp:211
 #, kde-format
 msgid "Select the MimeTypes for which to enable this tool."
 msgstr ""
 
-#: kateexternaltoolsconfigwidget.cpp:214
+#: kateexternaltoolsconfigwidget.cpp:213
 #, kde-format
 msgid "Select Mime Types"
 msgstr "အမ်အိုင်အမ်အီးအမျိုးအစားများ ရွေးချယ်မည်"
 
-#: kateexternaltoolsconfigwidget.cpp:240
+#: kateexternaltoolsconfigwidget.cpp:239
 #, kde-format
 msgid "Add Tool..."
 msgstr "ကိရိယာထည့်သွင်းမည်..."
 
-#: kateexternaltoolsconfigwidget.cpp:241
+#: kateexternaltoolsconfigwidget.cpp:240
 #, kde-format
 msgid "Add Tool from Defaults"
 msgstr ""
 
-#: kateexternaltoolsconfigwidget.cpp:243
+#: kateexternaltoolsconfigwidget.cpp:242
 #, kde-format
 msgid "Add Category"
 msgstr "အမျိုးအစားထည့်သွင်းမည်"
 
-#: kateexternaltoolsconfigwidget.cpp:290 kateexternaltoolsconfigwidget.cpp:397
-#: kateexternaltoolsconfigwidget.cpp:443
+#: kateexternaltoolsconfigwidget.cpp:289 kateexternaltoolsconfigwidget.cpp:396
+#: kateexternaltoolsconfigwidget.cpp:442
 #, kde-format
 msgid "Uncategorized"
 msgstr "အမျိုးအစားမခွဲထားသော"
 
-#: kateexternaltoolsconfigwidget.cpp:485
+#: kateexternaltoolsconfigwidget.cpp:484
 #, kde-format
 msgid "New Category"
 msgstr "အမျိုးအစားအသစ်"
 
-#: kateexternaltoolsconfigwidget.cpp:488
+#: kateexternaltoolsconfigwidget.cpp:487
 #, kde-format
 msgid "New Category %1"
 msgstr "အမျိုးအစားအသစ် %1"
