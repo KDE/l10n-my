@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-13 00:48+0000\n"
+"POT-Creation-Date: 2022-09-15 00:48+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -216,56 +216,56 @@ msgstr "ပင်မကိရိယာတန်း"
 msgid "&Status Bar Items"
 msgstr "&Sအခြေအနေပြတန်း တန်ဆာများ"
 
-#: lib/diff/diffeditor.cpp:146
+#: lib/diff/diffeditor.cpp:148
 #, kde-format
 msgid "Change Style"
 msgstr ""
 
-#: lib/diff/diffeditor.cpp:148 lib/kateconfigdialog.cpp:292
+#: lib/diff/diffeditor.cpp:150 lib/kateconfigdialog.cpp:292
 #, kde-format
 msgid "Side By Side"
 msgstr ""
 
-#: lib/diff/diffeditor.cpp:151 lib/kateconfigdialog.cpp:293
+#: lib/diff/diffeditor.cpp:153 lib/kateconfigdialog.cpp:293
 #, fuzzy, kde-format
 #| msgid "Modified"
 msgid "Unified"
 msgstr "မွမ်းမံခဲ့သည်"
 
-#: lib/diff/diffeditor.cpp:154 lib/kateconfigdialog.cpp:294
+#: lib/diff/diffeditor.cpp:156 lib/kateconfigdialog.cpp:294
 #, kde-format
 msgid "Raw"
 msgstr ""
 
-#: lib/diff/diffeditor.cpp:183
+#: lib/diff/diffeditor.cpp:185
 #, kde-format
 msgid "Stage Line"
 msgid_plural "Stage Lines"
 msgstr[0] ""
 
-#: lib/diff/diffeditor.cpp:188
+#: lib/diff/diffeditor.cpp:190
 #, kde-format
 msgid "Stage Hunk"
 msgstr ""
 
-#: lib/diff/diffeditor.cpp:195
+#: lib/diff/diffeditor.cpp:197
 #, kde-format
 msgid "Discard Line"
 msgid_plural "Discard Lines"
 msgstr[0] ""
 
-#: lib/diff/diffeditor.cpp:200
+#: lib/diff/diffeditor.cpp:202
 #, kde-format
 msgid "Discard Hunk"
 msgstr ""
 
-#: lib/diff/diffeditor.cpp:207
+#: lib/diff/diffeditor.cpp:209
 #, kde-format
 msgid "Unstage Line"
 msgid_plural "Unstage Lines"
 msgstr[0] ""
 
-#: lib/diff/diffeditor.cpp:212
+#: lib/diff/diffeditor.cpp:214
 #, kde-format
 msgid "Unstage Hunk"
 msgstr ""
