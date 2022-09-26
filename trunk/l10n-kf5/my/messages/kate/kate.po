@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-25 00:48+0000\n"
+"POT-Creation-Date: 2022-09-26 00:49+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1491,7 +1491,7 @@ msgstr "ထိပ်ဘေးတန်"
 msgid "Bottom Sidebar"
 msgstr "အောက်ဘေးတန်း"
 
-#: lib/katemdi.cpp:1397
+#: lib/katemdi.cpp:1402
 #, kde-format
 msgid ""
 "<qt>You are about to hide the sidebars. With hidden sidebars it is not "
@@ -1694,7 +1694,7 @@ msgid ""
 "want to proceed."
 msgstr ""
 
-#: lib/kateurlbar.cpp:1174
+#: lib/kateurlbar.cpp:1171
 #, kde-format
 msgid "Untitled"
 msgstr ""
