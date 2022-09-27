@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-27 00:52+0000\n"
+"POT-Creation-Date: 2022-09-27 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 03:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -181,7 +181,7 @@ msgstr "စစ်ထုတ်ချက် -"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, searchButton)
 #. i18n: ectx: property (text), widget (QPushButton, searchButton)
-#: search.ui:34 search.ui:37 SearchPlugin.cpp:303
+#: search.ui:34 search.ui:37 SearchPlugin.cpp:302
 #, kde-format
 msgid "Search"
 msgstr "ရှာမည်"
@@ -235,7 +235,7 @@ msgid "..."
 msgstr "..."
 
 #. i18n: ectx: property (text), widget (QPushButton, replaceButton)
-#: search.ui:192 SearchPlugin.cpp:494
+#: search.ui:192 SearchPlugin.cpp:493
 #, kde-format
 msgid "Replace"
 msgstr "အစားထိုးမည်"
@@ -350,173 +350,173 @@ msgstr "အထိမ်းအမှတ်လင့်ခ်များနော
 msgid "Include binary files"
 msgstr "သိုလှောင်နေရာ (မစောင့်ကြည့်ထားသောဖိုင်လ်များအပါအဝင်)"
 
-#: SearchPlugin.cpp:85 SearchPlugin.cpp:118
+#: SearchPlugin.cpp:84 SearchPlugin.cpp:117
 #, fuzzy, kde-format
 msgid "Line break"
 msgstr "စာကြောင်း"
 
-#: SearchPlugin.cpp:86 SearchPlugin.cpp:119
+#: SearchPlugin.cpp:85 SearchPlugin.cpp:118
 #, kde-format
 msgid "Tab"
 msgstr "တပ်ဘ်"
 
-#: SearchPlugin.cpp:97
+#: SearchPlugin.cpp:96
 #, kde-format
 msgid "Beginning of line"
 msgstr "စာကြောင်းအစ"
 
-#: SearchPlugin.cpp:98
+#: SearchPlugin.cpp:97
 #, kde-format
 msgid "End of line"
 msgstr "စာကြောင်းအဆုံး"
 
-#: SearchPlugin.cpp:100
+#: SearchPlugin.cpp:99
 #, kde-format
 msgid "Any single character (excluding line breaks)"
 msgstr ""
 
-#: SearchPlugin.cpp:101
+#: SearchPlugin.cpp:100
 #, kde-format
 msgid "Literal dot"
 msgstr ""
 
-#: SearchPlugin.cpp:103
+#: SearchPlugin.cpp:102
 #, fuzzy, kde-format
 msgid "One or more occurrences"
 msgstr "တစ်ခုထက်ပိုသောဖိုင်လ်ပေးထားသည်"
 
-#: SearchPlugin.cpp:104
+#: SearchPlugin.cpp:103
 #, fuzzy, kde-format
 msgid "Zero or more occurrences"
 msgstr "ပိုမို"
 
-#: SearchPlugin.cpp:105
+#: SearchPlugin.cpp:104
 #, fuzzy, kde-format
 msgid "Zero or one occurrences"
 msgstr "တစ်ခုထက်ပိုသောဖိုင်လ်ပေးထားသည်"
 
-#: SearchPlugin.cpp:107
+#: SearchPlugin.cpp:106
 #, kde-format
 msgid "<a> through <b> occurrences"
 msgstr ""
 
-#: SearchPlugin.cpp:109
+#: SearchPlugin.cpp:108
 #, kde-format
 msgid "Group, capturing"
 msgstr "အုပ်စု၊ ဖမ်းဆီးနေသည်"
 
-#: SearchPlugin.cpp:110
+#: SearchPlugin.cpp:109
 #, kde-format
 msgid "Or"
 msgstr "သို့မဟုတ်"
 
-#: SearchPlugin.cpp:111
+#: SearchPlugin.cpp:110
 #, kde-format
 msgid "Set of characters"
 msgstr "အက္ခရာအစု"
 
-#: SearchPlugin.cpp:112
+#: SearchPlugin.cpp:111
 #, fuzzy, kde-format
 msgid "Negative set of characters"
 msgstr "ယူအိုင်ဒီ သတ်မှတ်"
 
-#: SearchPlugin.cpp:113
+#: SearchPlugin.cpp:112
 #, fuzzy, kde-format
 msgid "Group, non-capturing"
 msgstr "မတည်မြဲစေမည်"
 
-#: SearchPlugin.cpp:114
+#: SearchPlugin.cpp:113
 #, kde-format
 msgid "Lookahead"
 msgstr ""
 
-#: SearchPlugin.cpp:115
+#: SearchPlugin.cpp:114
 #, kde-format
 msgid "Negative lookahead"
 msgstr ""
 
-#: SearchPlugin.cpp:120
+#: SearchPlugin.cpp:119
 #, fuzzy, kde-format
 msgid "Word boundary"
 msgstr "စကားလုံး အလိုလိုပြီးစေခြင်း"
 
-#: SearchPlugin.cpp:121
+#: SearchPlugin.cpp:120
 #, fuzzy, kde-format
 msgid "Not word boundary"
 msgstr "စကားလုံး အလိုလိုပြီးစေခြင်း"
 
-#: SearchPlugin.cpp:122
+#: SearchPlugin.cpp:121
 #, kde-format
 msgid "Digit"
 msgstr ""
 
-#: SearchPlugin.cpp:123
+#: SearchPlugin.cpp:122
 #, kde-format
 msgid "Non-digit"
 msgstr "ဂဏာန်းမဟုတ်သော"
 
-#: SearchPlugin.cpp:124
+#: SearchPlugin.cpp:123
 #, kde-format
 msgid "Whitespace (excluding line breaks)"
 msgstr ""
 
-#: SearchPlugin.cpp:125
+#: SearchPlugin.cpp:124
 #, kde-format
 msgid "Non-whitespace (excluding line breaks)"
 msgstr ""
 
-#: SearchPlugin.cpp:126
+#: SearchPlugin.cpp:125
 #, kde-format
 msgid "Word character (alphanumerics plus '_')"
 msgstr ""
 
-#: SearchPlugin.cpp:127
+#: SearchPlugin.cpp:126
 #, kde-format
 msgid "Non-word character"
 msgstr "အက္ခရာမဟုတ်သော သင်္ကေတ"
 
-#: SearchPlugin.cpp:139
+#: SearchPlugin.cpp:138
 #, kde-format
 msgid "Regular expression capture 0 (whole match)"
 msgstr ""
 
-#: SearchPlugin.cpp:140
+#: SearchPlugin.cpp:139
 #, kde-format
 msgid "Regular expression capture 1-9"
 msgstr ""
 
-#: SearchPlugin.cpp:141
+#: SearchPlugin.cpp:140
 #, kde-format
 msgid "Regular expression capture 0-999"
 msgstr ""
 
-#: SearchPlugin.cpp:143
+#: SearchPlugin.cpp:142
 #, kde-format
 msgid "Upper-cased capture 0-9"
 msgstr ""
 
-#: SearchPlugin.cpp:144
+#: SearchPlugin.cpp:143
 #, kde-format
 msgid "Upper-cased capture 0-999"
 msgstr ""
 
-#: SearchPlugin.cpp:145
+#: SearchPlugin.cpp:144
 #, kde-format
 msgid "Lower-cased capture 0-9"
 msgstr ""
 
-#: SearchPlugin.cpp:146
+#: SearchPlugin.cpp:145
 #, kde-format
 msgid "Lower-cased capture 0-999"
 msgstr ""
 
-#: SearchPlugin.cpp:296
+#: SearchPlugin.cpp:295
 #, fuzzy, kde-format
 #| msgid "Search and Replace"
 msgid "Search & Replace"
 msgstr "ရှာပြီး အစားထိုးမည်"
 
-#: SearchPlugin.cpp:337
+#: SearchPlugin.cpp:336
 #, fuzzy, kde-format
 msgid "Find in Files"
 msgstr ""
@@ -533,117 +533,117 @@ msgstr ""
 "%c - .desktop ဖိုင်လ်၏အမည်\n"
 "%k - .desktop ဖိုင်လ်၏တည်နေရာ"
 
-#: SearchPlugin.cpp:342
+#: SearchPlugin.cpp:341
 #, fuzzy, kde-format
 #| msgid "Search in Files (in new tab)"
 msgid "Find in Files (in a New Tab)"
 msgstr "ဖိုင်လ်များတွင် ရှာမည် (တပ်ဘ်အသစ်ဖြင့်)"
 
-#: SearchPlugin.cpp:348
+#: SearchPlugin.cpp:347
 #, fuzzy, kde-format
 msgid "Go to Next Match"
 msgstr "နောက်စာမျက်နှာသို့"
 
-#: SearchPlugin.cpp:353
+#: SearchPlugin.cpp:352
 #, fuzzy, kde-format
 msgid "Go to Previous Match"
 msgstr "ရှေ့စာမျက်နှာသို့"
 
-#: SearchPlugin.cpp:381
+#: SearchPlugin.cpp:380
 #, kde-format
 msgid ""
 "Comma separated list of file types to search in. Example: \"*.cpp,*.h\"\n"
 msgstr ""
 
-#: SearchPlugin.cpp:382
+#: SearchPlugin.cpp:381
 #, kde-format
 msgid ""
 "Comma separated list of files and directories to exclude from the search. "
 "Example: \"build*\""
 msgstr ""
 
-#: SearchPlugin.cpp:384
+#: SearchPlugin.cpp:383
 #, kde-format
 msgid "Click to filter through results"
 msgstr ""
 
-#: SearchPlugin.cpp:474
+#: SearchPlugin.cpp:473
 #, kde-format
 msgid "Find"
 msgstr "ရှာဖွေမည်"
 
-#: SearchPlugin.cpp:1223
+#: SearchPlugin.cpp:1222
 #, kde-format
 msgid "Searching while you type was interrupted. It would have taken too long."
 msgstr ""
 
-#: SearchPlugin.cpp:1565
+#: SearchPlugin.cpp:1564
 #, fuzzy, kde-format
 msgid "Search Match"
 msgstr "ပေါင်းလဒ်စစ်တမ်းများ ကိုက်ညီသည်။"
 
-#: SearchPlugin.cpp:1748 SearchPlugin.cpp:1825
+#: SearchPlugin.cpp:1747 SearchPlugin.cpp:1824
 #, fuzzy, kde-format
 msgid "Next from cursor"
 msgstr "&Nကျော် >>"
 
-#: SearchPlugin.cpp:1765
+#: SearchPlugin.cpp:1764
 #, kde-format
 msgid "Starting from first match"
 msgstr ""
 
-#: SearchPlugin.cpp:1785
+#: SearchPlugin.cpp:1784
 #, kde-format
 msgid "Continuing from first match"
 msgstr ""
 
-#: SearchPlugin.cpp:1842
+#: SearchPlugin.cpp:1841
 #, kde-format
 msgid "Starting from last match"
 msgstr ""
 
-#: SearchPlugin.cpp:1862
+#: SearchPlugin.cpp:1861
 #, kde-format
 msgid "Continuing from last match"
 msgstr ""
 
-#: SearchPlugin.cpp:2133
+#: SearchPlugin.cpp:2132
 #, kde-format
 msgid "Copy all"
 msgstr "အားလုံးကူးယူမည်"
 
-#: SearchPlugin.cpp:2138
+#: SearchPlugin.cpp:2137
 #, fuzzy, kde-format
 msgid "Copy expanded"
 msgstr "သို့ကူးယူရန်"
 
-#: SearchPlugin.cpp:2141
+#: SearchPlugin.cpp:2140
 #, fuzzy, kde-format
 msgid "Export matches"
 msgstr "ထုတ်ပို့မည်..."
 
-#: SearchPlugin.cpp:2146
+#: SearchPlugin.cpp:2145
 #, kde-format
 msgid "Clear"
 msgstr ""
 
-#: SearchPlugin.cpp:2254 SearchPlugin.cpp:2288
+#: SearchPlugin.cpp:2253 SearchPlugin.cpp:2287
 #, kde-format
 msgid "Add..."
 msgstr "ထည့်သွင်းမည်..."
 
-#: SearchPlugin.cpp:2266
+#: SearchPlugin.cpp:2265
 #, fuzzy, kde-format
 #| msgid "Search More"
 msgid "Search As You Type"
 msgstr "နောက်ထပ်ရှာဖွေမည်"
 
-#: SearchPlugin.cpp:2337
+#: SearchPlugin.cpp:2336
 #, fuzzy, kde-format
 msgid "In Current Project"
 msgstr "လက်ရှိ ပရောဂျက်"
 
-#: SearchPlugin.cpp:2339
+#: SearchPlugin.cpp:2338
 #, fuzzy, kde-format
 msgid "In All Open Projects"
 msgstr "ပရောဂျက် အားလုံး"

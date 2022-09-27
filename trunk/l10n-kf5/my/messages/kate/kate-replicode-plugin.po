@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-06 00:49+0000\n"
+"POT-Creation-Date: 2022-09-27 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 01:19+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -17,16 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.1\n"
-
-#, kde-format
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "ဇေယျာလွင်"
-
-#, kde-format
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "lw1nzayar@yandex.com"
 
 #. i18n: ectx: attribute (title), widget (QWidget, run)
 #: config.ui:18
@@ -292,116 +282,124 @@ msgstr "ပရိုဂရမ်မော်ဒယ်များကို ဖ�
 msgid "Test models:"
 msgstr "စမ်းသပ် ပရိုဂရမ်မော်ဒယ်များ -"
 
-#: replicodeconfigpage.cpp:26
+#: replicodeconfigpage.cpp:24
 #, kde-format
 msgid "Path to replicode executor:"
 msgstr "ရီပလီကုတ် လုပ်ဆောင်ဖိုင်လ်သို့ လမ်းကြောင်း -"
 
-#: replicodeconfigpage.cpp:41 replicodeview.cpp:56
+#: replicodeconfigpage.cpp:39 replicodeview.cpp:51
 #, kde-format
 msgid "Replicode"
 msgstr "ရီပလီကုတ်"
 
-#: replicodeconfigpage.cpp:46
+#: replicodeconfigpage.cpp:44
 #, kde-format
 msgid "Replicode configuration"
 msgstr "ရီပလီကုတ် ပြင်ဆင်မှု"
 
-#: replicodeview.cpp:43
+#: replicodeview.cpp:38
 #, kde-format
 msgid "Run replicode"
 msgstr "ရီပလီကုတ် မောင်းနှင်မည်"
 
-#: replicodeview.cpp:47
+#: replicodeview.cpp:42
 #, kde-format
 msgid "Stop replicode"
 msgstr "ရီပလီကုတ် ရပ်မည်"
 
-#: replicodeview.cpp:66
+#: replicodeview.cpp:61
 #, kde-format
 msgid "Replicode Config"
 msgstr "ရီပလီကုတ် ကွန်ဖစ်"
 
-#: replicodeview.cpp:69
+#: replicodeview.cpp:64
 #, kde-format
 msgctxt "shortcut for action"
 msgid "Run (%1)"
 msgstr "မောင်းနှင်မည် (%1)"
 
-#: replicodeview.cpp:70
+#: replicodeview.cpp:65
 #, kde-format
 msgctxt "shortcut for action"
 msgid "Stop (%1)"
 msgstr "ရပ်မည် (%1)"
 
-#: replicodeview.cpp:105
+#: replicodeview.cpp:100
 #, kde-format
 msgctxt "@title:window"
 msgid "Active Document Not Found"
 msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူ မတွေ့ပါ"
 
-#: replicodeview.cpp:105
+#: replicodeview.cpp:100
 #, kde-format
 msgid "Could not find an active document to run."
 msgstr ""
 
-#: replicodeview.cpp:110
+#: replicodeview.cpp:105
 #, kde-format
 msgctxt "@title:window"
 msgid "Empty Document"
 msgstr "ဗလာ မှတ်တမ်းပုံနှိပ်မူ"
 
-#: replicodeview.cpp:110
+#: replicodeview.cpp:105
 #, kde-format
 msgid "Cannot execute an empty document."
 msgstr "ဗလာ မှတ်တမ်းပုံနှိပ်မူ ကို မလုပ်ဆောင်နိုင်ပါ။"
 
-#: replicodeview.cpp:117
+#: replicodeview.cpp:112
 #, kde-format
 msgctxt "@title:window"
 msgid "File Not Found"
 msgstr "ဖိုင်လ်မတွေ့ပါ"
 
-#: replicodeview.cpp:117
+#: replicodeview.cpp:112
 #, kde-format
 msgid "Unable to open source file for reading."
 msgstr ""
 
-#: replicodeview.cpp:132
+#: replicodeview.cpp:127
 #, kde-format
 msgctxt "@title:window"
 msgid "Replicode Executable Not Found"
 msgstr "ရီပလီကုတ် လုပ်ဆောင်-ဖိုင်လ် မတွေ့ပါ"
 
-#: replicodeview.cpp:133
+#: replicodeview.cpp:128
 #, kde-format
 msgid ""
 "Unable to find replicode executor.\n"
 "Please go to settings and set the path to the Replicode executable."
 msgstr ""
 
-#: replicodeview.cpp:140
+#: replicodeview.cpp:135
 #, kde-format
 msgctxt "@title:window"
 msgid "User Operator Library Not Found"
 msgstr ""
 
-#: replicodeview.cpp:141
+#: replicodeview.cpp:136
 #, kde-format
 msgid ""
 "Unable to find user operator library.\n"
 "Please go to settings and set the path to the library."
 msgstr ""
 
-#: replicodeview.cpp:206
+#: replicodeview.cpp:201
 #, kde-format
 msgid "Replicode execution failed: %1"
 msgstr "ရီပလီကုတ် ဆောင်ရွက်မှု ကျရှုံးခဲ့သည် - %1"
 
-#: replicodeview.cpp:216
+#: replicodeview.cpp:211
 #, kde-format
 msgid "Replicode execution finished."
 msgstr "ရီပလီကုတ် ဆောင်ရွက်မှု ပြီးပါပြီ။"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "ဇေယျာလွင်"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "lw1nzayar@yandex.com"
 
 #~ msgid "Replicode Output"
 #~ msgstr "ရီပလီကုတ် အထုတ်"

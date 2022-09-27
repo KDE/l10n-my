@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-03 00:51+0000\n"
+"POT-Creation-Date: 2022-09-27 00:48+0000\n"
 "PO-Revision-Date: 2021-09-15 05:34+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#: colorpickerconfigpage.cpp:36
+#: colorpickerconfigpage.cpp:34
 #, kde-format
 msgid "Show preview for known color names"
 msgstr ""
 
-#: colorpickerconfigpage.cpp:38
+#: colorpickerconfigpage.cpp:36
 #, kde-format
 msgid ""
 "Also show the color picker for known color names (e.g. skyblue).\n"
@@ -31,47 +31,47 @@ msgid ""
 "colors."
 msgstr ""
 
-#: colorpickerconfigpage.cpp:41
+#: colorpickerconfigpage.cpp:39
 #, kde-format
 msgid "Place preview after text color"
 msgstr ""
 
-#: colorpickerconfigpage.cpp:47
+#: colorpickerconfigpage.cpp:45
 #, kde-format
 msgid "Hex color matching"
 msgstr ""
 
-#: colorpickerconfigpage.cpp:50
+#: colorpickerconfigpage.cpp:48
 #, kde-format
 msgid "12 digits (#RRRRGGGGBBBB)"
 msgstr "ဂဏန်း ၁၂လုံး (#RRRRGGGGBBBB)"
 
-#: colorpickerconfigpage.cpp:51
+#: colorpickerconfigpage.cpp:49
 #, kde-format
 msgid "9 digits (#RRRGGGBBB)"
 msgstr "ဂဏန်း ၉လုံး (#RRRGGGBBB)"
 
-#: colorpickerconfigpage.cpp:52
+#: colorpickerconfigpage.cpp:50
 #, kde-format
 msgid "8 digits (#AARRGGBB)"
 msgstr "ဂဏန်း ၈လုံး (#AARRGGBB)"
 
-#: colorpickerconfigpage.cpp:53
+#: colorpickerconfigpage.cpp:51
 #, kde-format
 msgid "6 digits (#RRGGBB)"
 msgstr "ဂဏန်း ၆လုံး (#RRGGBB)"
 
-#: colorpickerconfigpage.cpp:54
+#: colorpickerconfigpage.cpp:52
 #, kde-format
 msgid "3 digits (#RGB)"
 msgstr "ဂဏန်း ၃လုံး (#RGB)"
 
-#: colorpickerconfigpage.cpp:74
+#: colorpickerconfigpage.cpp:72
 #, kde-format
 msgid "Color Picker"
 msgstr "အရောင်ရွေးကိရိယာ"
 
-#: colorpickerconfigpage.cpp:79
+#: colorpickerconfigpage.cpp:77
 #, kde-format
 msgid "Color Picker Settings"
 msgstr "အရောင်ရွေးကိရိယာ ဆက်တင်"
