@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-25 00:47+0000\n"
+"POT-Creation-Date: 2022-09-28 00:52+0000\n"
 "PO-Revision-Date: 2021-09-21 20:20+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -28,7 +28,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "lw1nzayar@yandex.com"
 
-#: app/main.cpp:61 app/SettingsBase.cpp:62
+#: app/main.cpp:61 app/SettingsBase.cpp:64
 #, kde-format
 msgid "Info Center"
 msgstr "အချက်အလက်စင်တာ"
@@ -43,7 +43,7 @@ msgstr "စစ်စတမ်ဆိုင်ရာအချက်အလက်မ
 msgid "(c) 2009, Ben Cooksley"
 msgstr "(c) ၂၀၁၉၊ ဘန်ကွတ်စလေ"
 
-#: app/main.cpp:72 app/SettingsBase.cpp:65 runner/systemsettingsrunner.cpp:185
+#: app/main.cpp:72 app/SettingsBase.cpp:67 runner/systemsettingsrunner.cpp:185
 #: sidebar/package/contents/ui/introPage.qml:63
 #, kde-format
 msgid "System Settings"
@@ -109,45 +109,50 @@ msgstr "အောက်ပါမော်ဂျူးများရရှိန
 msgid "No description available"
 msgstr "ဖော်ပြချက်မရရှိနိုင်ပါ"
 
-#: app/SettingsBase.cpp:56
+#: app/SettingsBase.cpp:58
 #, kde-format
 msgctxt "Search through a list of control modules"
 msgid "Search"
 msgstr "ရှာမည်"
 
-#: app/SettingsBase.cpp:153
+#: app/SettingsBase.cpp:155
 #, kde-format
 msgid "Switch to Icon View"
 msgstr "အိုင်ကွန်ပြမြင်ကွင်းသို့ပြောင်းမည်"
 
-#: app/SettingsBase.cpp:160
+#: app/SettingsBase.cpp:162
 #, kde-format
 msgid "Switch to Sidebar View"
 msgstr "ဘေးတန်းမြင်ကွင်း သို့ပြောင်းမည်"
 
-#: app/SettingsBase.cpp:188
+#: app/SettingsBase.cpp:171
+#, kde-format
+msgid "Report a Bug in the Current Page…"
+msgstr ""
+
+#: app/SettingsBase.cpp:198
 #, kde-format
 msgid "Help"
 msgstr "အကူအညီ"
 
-#: app/SettingsBase.cpp:344
+#: app/SettingsBase.cpp:354
 #, kde-format
 msgid ""
 "System Settings was unable to find any views, and hence has nothing to "
 "display."
 msgstr "စစ်စတမ်ဆက်တင်များသည် မည်သည်မြင်ကွင်းမှ ရှာမတွေ့ပါ။ ထို့ကြောင် ဘာမှ ပြစရာမရှိပါ။"
 
-#: app/SettingsBase.cpp:344
+#: app/SettingsBase.cpp:354
 #, kde-format
 msgid "No views found"
 msgstr "မြင်ကွင်းများမတွေ့ပါ"
 
-#: app/SettingsBase.cpp:398
+#: app/SettingsBase.cpp:408
 #, kde-format
 msgid "About Active View"
 msgstr "သက်ဝင်မြင်ကွင်းအကြောင်း"
 
-#: app/SettingsBase.cpp:459
+#: app/SettingsBase.cpp:479
 #, kde-format
 msgid "About %1"
 msgstr "%1 အကြောင်း"
@@ -290,12 +295,12 @@ msgstr "(c) ၂၀၁၇၊ မာကိုမာတင်"
 msgid "Marco Martin"
 msgstr "မာကိုမာတင်"
 
-#: sidebar/SidebarMode.cpp:668
+#: sidebar/SidebarMode.cpp:669
 #, kde-format
 msgid "Sidebar"
 msgstr "ဘေးတန်း"
 
-#: sidebar/SidebarMode.cpp:740
+#: sidebar/SidebarMode.cpp:741
 #, kde-format
 msgid "Most Used"
 msgstr "အသုံးများဆုံး"

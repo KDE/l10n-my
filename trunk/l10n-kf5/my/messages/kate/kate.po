@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-27 00:48+0000\n"
+"POT-Creation-Date: 2022-09-28 00:54+0000\n"
 "PO-Revision-Date: 2021-11-25 22:00+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -292,22 +292,22 @@ msgstr ""
 msgid "Failed to get file history: %1"
 msgstr ""
 
-#: lib/filehistorywidget.cpp:345 lib/kateconfigdialog.cpp:125
+#: lib/filehistorywidget.cpp:346 lib/kateconfigdialog.cpp:125
 #, kde-format
 msgid "Error"
 msgstr "အမှား"
 
-#: lib/filehistorywidget.cpp:345
+#: lib/filehistorywidget.cpp:346
 #, kde-format
 msgid "%1 doesn't exist in a git repo."
 msgstr ""
 
-#: lib/filehistorywidget.cpp:345
+#: lib/filehistorywidget.cpp:346
 #, kde-format
 msgid "Git"
 msgstr ""
 
-#: lib/filehistorywidget.cpp:353
+#: lib/filehistorywidget.cpp:354
 #, kde-format
 msgid "File History"
 msgstr ""
@@ -1935,7 +1935,7 @@ msgstr ""
 msgid "Opening Large File"
 msgstr "ကြီးမားသောဖိုင်လ်ဖွင့်နေသည်"
 
-#: lib/kateviewmanager.cpp:1161
+#: lib/kateviewmanager.cpp:1160
 #, kde-format
 msgid "This view may have unsaved work. Do you really want to close it?"
 msgstr ""
@@ -1966,61 +1966,61 @@ msgid_plural ""
 "switch to the Quick Open view by clicking here."
 msgstr[0] ""
 
-#: lib/kateviewspace.cpp:945
+#: lib/kateviewspace.cpp:952
 #, kde-format
 msgid "Close Tab"
 msgstr "တပ်ဘ်ပိတ်မည်"
 
-#: lib/kateviewspace.cpp:962
+#: lib/kateviewspace.cpp:969
 #, kde-format
 msgid "&Close Document"
 msgstr "&Cမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
 
-#: lib/kateviewspace.cpp:963
+#: lib/kateviewspace.cpp:970
 #, kde-format
 msgid "Close Other &Documents"
 msgstr "&Dအခြားမှတ်တမ်းပုံနှိပ်မူများ ပိတ်မည်"
 
-#: lib/kateviewspace.cpp:964
+#: lib/kateviewspace.cpp:971
 #, fuzzy, kde-format
 #| msgid "Close all documents"
 msgid "Close &All Documents"
 msgstr "မှတ်တမ်းပုံနှိပ်မူအားလုံး ပိတ်မည်"
 
-#: lib/kateviewspace.cpp:966
+#: lib/kateviewspace.cpp:973
 #, fuzzy, kde-format
 #| msgid "Close Document"
 msgid "D&etach Document"
 msgstr "မှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
 
-#: lib/kateviewspace.cpp:967
+#: lib/kateviewspace.cpp:974
 #, kde-format
 msgid "Opens the document in a new window and closes it in the current window"
 msgstr ""
 
-#: lib/kateviewspace.cpp:976
+#: lib/kateviewspace.cpp:983
 #, fuzzy, kde-format
 #| msgid "Compare with active document"
 msgid "Compare with Active Document"
 msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူနှင့် နှိုင်းယှဥ်မည်"
 
-#: lib/kateviewspace.cpp:980
+#: lib/kateviewspace.cpp:987
 #, kde-format
 msgid "Diff %1 .. %2"
 msgstr ""
 
-#: lib/kateviewspace.cpp:985
+#: lib/kateviewspace.cpp:992
 #, fuzzy, kde-format
 #| msgid "Compare with active document"
 msgid "Compare with Active Document Using"
 msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူနှင့် နှိုင်းယှဥ်မည်"
 
-#: lib/kateviewspace.cpp:1052
+#: lib/kateviewspace.cpp:1059
 #, kde-format
 msgid "Could not start program"
 msgstr "ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ"
 
-#: lib/kateviewspace.cpp:1053
+#: lib/kateviewspace.cpp:1060
 #, kde-format
 msgid "The selected program could not be started. Maybe it is not installed."
 msgstr "ရွေးထားသော ပရိုဂရမ်ကို မစတင်နိုင်ခဲ့ပါ။ တပ်ဆင်မထားရသေးခြင်းဖြစ်နိုင်သည်။"
