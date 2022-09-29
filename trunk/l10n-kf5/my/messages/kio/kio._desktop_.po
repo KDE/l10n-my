@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-26 00:55+0000\n"
+"POT-Creation-Date: 2022-09-29 00:56+0000\n"
 "PO-Revision-Date: 2021-12-04 03:31+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -128,12 +128,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:60
+#: src/kcms/webshortcuts/webshortcuts.desktop:61
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ ပြင်ဆင်မည်"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:109
+#: src/kcms/webshortcuts/webshortcuts.desktop:111
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -205,7 +205,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "စာသားဖိုင်လ်..."
 
-#: src/new_file_templates/EmptyFile.desktop:38
+#: src/new_file_templates/EmptyFile.desktop:39
 #: src/new_file_templates/TextFile.desktop:92
 msgctxt "Comment"
 msgid "Enter text filename:"
@@ -226,7 +226,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီသို့ လင့်ခ်ချိတ်ရန်..."
 
-#: src/new_file_templates/linkPath.desktop:48
+#: src/new_file_templates/linkPath.desktop:49
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr "လင့်ခ်ချိတ်ရမည် ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီ -"
@@ -336,7 +336,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "ArchWiki"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:51
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:52
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
 msgstr "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -396,7 +396,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "ခေဒီအီးဆိုင်ရာ ဆော့ဖ်လ်ဝဲလ်ပြစ်ချက်များ"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:50
+#: src/urifilters/ikws/searchproviders/bug.desktop:51
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -456,7 +456,7 @@ msgctxt "Name"
 msgid "CPlusPlus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:42
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:43
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://soundcloud.com/search?q=\\\\{@}"
@@ -472,7 +472,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr "ပိုက်သွန်အကိုးအကားလက်စွဲစာအုပ်"
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:41
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:42
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -551,7 +551,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr "DeepL"
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:51
+#: src/urifilters/ikws/searchproviders/deepl.desktop:52
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr "https://www.deepl.com/translator#any/any/\\\\{@}"
@@ -701,7 +701,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "ကျူတီ၄ ဒိုကူမန်တေးရှင်း"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:41
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:42
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -994,7 +994,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr "ကေဒီအီး အင်ဗန့်"
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:45
+#: src/urifilters/ikws/searchproviders/invent.desktop:46
 msgctxt "Query"
 msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgstr "https://invent.kde.org/search?search=\\\\{@}"
@@ -1007,7 +1007,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr "ကေဒီအီး အင်ဗန့်"
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:39
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:40
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1023,7 +1023,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr "ကေဒီအီး အင်ဗန့် ရီပိုစစ်တိုရီများ"
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:38
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:39
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1036,7 +1036,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr "ကေဒီအီး အင်ဗန့် ရီပိုစစ်တိုရီများ"
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:45
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:46
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
@@ -1120,7 +1120,7 @@ msgctxt "Name"
 msgid "KDE Store"
 msgstr "ကေဒီအီး ဖိုလ်ရမ်များ"
 
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:43
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:44
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1157,7 +1157,7 @@ msgctxt "Name"
 msgid "KDE Reddit"
 msgstr "ကေဒီအီး အင်ဗန့်"
 
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:41
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:42
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1170,7 +1170,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:41
+#: src/urifilters/ikws/searchproviders/krita.desktop:42
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1183,7 +1183,7 @@ msgctxt "Name"
 msgid "Learn CPP"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:41
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:42
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.flickr.com/search/?q=\\\\{@}"
@@ -1206,7 +1206,7 @@ msgctxt "Name"
 msgid "Linguee"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/linguee.desktop:41
+#: src/urifilters/ikws/searchproviders/linguee.desktop:42
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1243,7 +1243,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "ကျူတီ၄ ဒိုကူမန်တေးရှင်း"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:41
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:42
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
@@ -1372,7 +1372,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:40
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:41
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1405,7 +1405,7 @@ msgctxt "Name"
 msgid "ProtonDB"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/protondb.desktop:42
+#: src/urifilters/ikws/searchproviders/protondb.desktop:43
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1435,7 +1435,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "ကျူတီ၏ နောက်ဆုံးပေါ်အွန်လိုင်းဒိုကူမန်တေးရှင်း"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:42
+#: src/urifilters/ikws/searchproviders/qt5.desktop:43
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
 msgstr "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1448,7 +1448,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "ကျူတီ၏ နောက်ဆုံးပေါ်အွန်လိုင်းဒိုကူမန်တေးရှင်း"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:42
+#: src/urifilters/ikws/searchproviders/qt6.desktop:43
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1541,7 +1541,7 @@ msgctxt "Name"
 msgid "Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/reddit.desktop:42
+#: src/urifilters/ikws/searchproviders/reddit.desktop:43
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1590,7 +1590,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "ကျူတီ၄ ဒိုကူမန်တေးရှင်း"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:40
+#: src/urifilters/ikws/searchproviders/rust.desktop:41
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -1670,7 +1670,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "ဒေဘီယမ် ပတ်ကေ့ ရှာဖွေရန်"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:41
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:42
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://packages.debian.org/\\\\{@}"
@@ -1774,7 +1774,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr "အတိုကောက်စာလုံး ဒေတာဘေ့စ်"
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:41
+#: src/urifilters/ikws/searchproviders/wine.desktop:42
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1877,7 +1877,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:39
+#: src/urifilters/ikws/searchproviders/yandex.desktop:40
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://ctan.org/search?phrase=\\\\{@}"
@@ -1920,7 +1920,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr ""
 
-#: templates/kioworker/kioworker.kdevtemplate:23
+#: templates/kioworker/kioworker.kdevtemplate:24
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
