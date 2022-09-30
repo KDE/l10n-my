@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-26 00:41+0000\n"
+"POT-Creation-Date: 2022-09-30 00:40+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2733,7 +2733,7 @@ msgstr "အကြိုကြည့်မြင်ကွင်း ပြမည�
 msgid "Open Containing Folder"
 msgstr "ဖိုင်လ်ပါဝင်သောဖိုလ်ဒါကို ဖွင့်မည်"
 
-#: filewidgets/kdiroperator.cpp:2262 filewidgets/kfileplacesview.cpp:1123
+#: filewidgets/kdiroperator.cpp:2262 filewidgets/kfileplacesview.cpp:1122
 #, kde-format
 msgid "Properties"
 msgstr "ကိုယ်ပိုင်လက္ခဏာများ"
@@ -3123,89 +3123,89 @@ msgstr "'%1'ရယူအသုံးပြုနေစဥ် အမှားဖ�
 msgid "An error occurred while accessing '%1'"
 msgstr "'%1'ရယူအသုံးပြုနေစဥ် အမှားဖြစ်ပေါ်ခဲ့သည်"
 
-#: filewidgets/kfileplacesview.cpp:569
+#: filewidgets/kfileplacesview.cpp:568
 #, kde-format
 msgid "%1 (hidden)"
 msgstr "%1 (ဖွက်ထား)"
 
-#: filewidgets/kfileplacesview.cpp:1092
+#: filewidgets/kfileplacesview.cpp:1091
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
 msgstr "အမှိုက်ပုံးရှင်း"
 
-#: filewidgets/kfileplacesview.cpp:1110
+#: filewidgets/kfileplacesview.cpp:1109
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Mount"
 msgstr "တပ်ဆင်"
 
-#: filewidgets/kfileplacesview.cpp:1116
+#: filewidgets/kfileplacesview.cpp:1115
 #, fuzzy, kde-format
 #| msgid "Open %1 in tab"
 msgctxt "@item:inmenu"
 msgid "Open in New Tab"
 msgstr "%1ကို တပ်ဗ်တွင်ဖွင့်"
 
-#: filewidgets/kfileplacesview.cpp:1119
+#: filewidgets/kfileplacesview.cpp:1118
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Open in New Window"
 msgstr ""
 
-#: filewidgets/kfileplacesview.cpp:1128
+#: filewidgets/kfileplacesview.cpp:1127
 #, fuzzy, kde-format
 #| msgid "Add Entry..."
 msgctxt "@action:inmenu"
 msgid "Add Entry…"
 msgstr "စာရင်းမှတ်ချက်ထည့်မည်..."
 
-#: filewidgets/kfileplacesview.cpp:1134
+#: filewidgets/kfileplacesview.cpp:1133
 #, fuzzy, kde-format
 #| msgid "Edit"
 msgctxt "@action:inmenu"
 msgid "&Edit…"
 msgstr "တည်းဖြတ်"
 
-#: filewidgets/kfileplacesview.cpp:1139
+#: filewidgets/kfileplacesview.cpp:1138
 #, fuzzy, kde-format
 #| msgid "Remove"
 msgctxt "@action:inmenu"
 msgid "Remove"
 msgstr "ဖယ်ရှား"
 
-#: filewidgets/kfileplacesview.cpp:1143
+#: filewidgets/kfileplacesview.cpp:1142
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Hide"
 msgstr ""
 
-#: filewidgets/kfileplacesview.cpp:1151
+#: filewidgets/kfileplacesview.cpp:1150
 #, fuzzy, kde-format
 #| msgid "Hide Section"
 msgctxt "@item:inmenu"
 msgid "Hide Section '%1'"
 msgstr "အပိုင်းဖွက်ရန်"
 
-#: filewidgets/kfileplacesview.cpp:1151
+#: filewidgets/kfileplacesview.cpp:1150
 #, fuzzy, kde-format
 #| msgid "Hide Section"
 msgctxt "@item:inmenu"
 msgid "Hide Section"
 msgstr "အပိုင်းဖွက်ရန်"
 
-#: filewidgets/kfileplacesview.cpp:1159
+#: filewidgets/kfileplacesview.cpp:1158
 #, kde-format
 msgid "&Show All Entries"
 msgstr "&Sစာရင်းမှတ်ချက်များအားလုံးပြမည်"
 
-#: filewidgets/kfileplacesview.cpp:1164
+#: filewidgets/kfileplacesview.cpp:1163
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Icon Size"
 msgstr "အိုင်ကွန် အရွယ်အစား"
 
-#: filewidgets/kfileplacesview.cpp:1267
+#: filewidgets/kfileplacesview.cpp:1266
 #, kde-format
 msgctxt ""
 "@item:inmenu Auto set icon size based on available space inthe Places side-"
@@ -3213,25 +3213,25 @@ msgctxt ""
 msgid "Auto Resize"
 msgstr "အလိုအလျောက်အရွယ်ပြောင်း"
 
-#: filewidgets/kfileplacesview.cpp:1287
+#: filewidgets/kfileplacesview.cpp:1286
 #, kde-format
 msgctxt "Small icon size"
 msgid "Small (%1x%1)"
 msgstr "သေးငယ် (%1x%1)"
 
-#: filewidgets/kfileplacesview.cpp:1290
+#: filewidgets/kfileplacesview.cpp:1289
 #, kde-format
 msgctxt "Medium icon size"
 msgid "Medium (%1x%1)"
 msgstr "ပုံမှန် (%1x%1)"
 
-#: filewidgets/kfileplacesview.cpp:1293
+#: filewidgets/kfileplacesview.cpp:1292
 #, kde-format
 msgctxt "Large icon size"
 msgid "Large (%1x%1)"
 msgstr "ကြီး (%1x%1)"
 
-#: filewidgets/kfileplacesview.cpp:1296
+#: filewidgets/kfileplacesview.cpp:1295
 #, kde-format
 msgctxt "Huge icon size"
 msgid "Huge (%1x%1)"
@@ -4760,17 +4760,17 @@ msgstr "အမှိုက်ပုံးသို့ ပို့ရန်အ�
 msgid "The trash is full. Empty it or remove items manually."
 msgstr "အမှိုက်ပုံးပြည့်သွားပါပြီ။ အကုန်ရှင်းပစ်ပါ သို့မဟုတ် တစ်ခုချင်းဆီရှင်းပါ။"
 
-#: kcms/cookies/kcookiesmain.cpp:38
+#: kcms/cookies/kcookiesmain.cpp:37
 #, kde-format
 msgid "&Policy"
 msgstr "&Pပေါ်လစီ"
 
-#: kcms/cookies/kcookiesmain.cpp:43
+#: kcms/cookies/kcookiesmain.cpp:42
 #, kde-format
 msgid "&Management"
 msgstr "&Mစီမံမှု"
 
-#: kcms/cookies/kcookiesmain.cpp:82
+#: kcms/cookies/kcookiesmain.cpp:81
 #, kde-format
 msgid ""
 "<h1>Cookies</h1><p>Cookies contain information that KDE applications using "
@@ -5466,7 +5466,7 @@ msgstr ""
 "ကေဒီအီးပရိုဂရမ်းများ၏အကျင့်များကို သတ်မှတ်နိုင်သည်။ အချိန်ကုန်ချက်များ တွေ့ကြုံရလျှင် သို့မဟုတ် အင်တာနက်နှင့် "
 "ချိတ်ဆက်ရန် ဖုန်း-ဆ.သ.ရ-စက်ကို အသုံးပြုပါက သင်အနေဖြင့် ဤသတ်မှတ်ချက်များကို ချိန်ညှိရန် လိုသည်။"
 
-#: kcms/proxy/kproxydlg.cpp:194
+#: kcms/proxy/kproxydlg.cpp:193
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -5488,7 +5488,7 @@ msgstr ""
 "လိုက်နာမည်မဟုတ်ပါ။ အချို့အပ္ပလီကေးရှင်းများသညိ ကြားခံကို ပြင်ဆင်ရန် ၎င်းတို့၏ကိုယ်ပိုင်သတ်မှတ်ချက်များ "
 "ပေးထားသည်။"
 
-#: kcms/proxy/kproxydlg.cpp:546
+#: kcms/proxy/kproxydlg.cpp:545
 #, kde-format
 msgid ""
 "<h1>Proxy</h1><p>A proxy server is an intermediate program that sits between "
@@ -6274,23 +6274,23 @@ msgstr "'FindProxyForURL' သို့မဟုတ် 'FindProxyForURLEx' ရှ
 msgid "Got an invalid reply when calling %1 -> %2"
 msgstr "%1 -> %2 ခေါ်သည့်အခါ အတည်မပြုနိုင်သော ပြန်ကြားချက်ရရှိခဲ့သည်"
 
-#: kpasswdserver/kpasswdserver.cpp:514
+#: kpasswdserver/kpasswdserver.cpp:513
 #, kde-format
 msgid "Do you want to retry?"
 msgstr "နောက်တစ်ကြိမ်ကြိုးစားကြည့်ချင်သလား။"
 
-#: kpasswdserver/kpasswdserver.cpp:518
+#: kpasswdserver/kpasswdserver.cpp:517
 #, kde-format
 msgid "Retry Authentication"
 msgstr "ယုံကြည်မှုရယူခြင်း ပြန်ကြိုးစားမည်"
 
-#: kpasswdserver/kpasswdserver.cpp:521
+#: kpasswdserver/kpasswdserver.cpp:520
 #, kde-format
 msgctxt "@action:button filter-continue"
 msgid "Retry"
 msgstr "ပြန်ကြိုးစား"
 
-#: kpasswdserver/kpasswdserver.cpp:781
+#: kpasswdserver/kpasswdserver.cpp:780
 #, kde-format
 msgid "Authentication Dialog"
 msgstr "ယုံကြည်မှုရယူခြင်း အပြော-ဝင်းဒိုး"
