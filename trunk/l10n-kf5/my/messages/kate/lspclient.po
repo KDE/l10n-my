@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-30 00:48+0000\n"
+"POT-Creation-Date: 2022-10-02 00:49+0000\n"
 "PO-Revision-Date: 2021-09-19 13:41+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#: gotosymboldialog.cpp:157 lspclientsymbolview.cpp:252
+#: gotosymboldialog.cpp:157 lspclientsymbolview.cpp:250
 #, fuzzy, kde-format
 msgid "Filter..."
 msgstr "စစ်ထုတ်မည်..."
@@ -264,13 +264,13 @@ msgid "LSP"
 msgstr ""
 
 #: lspclientpluginview.cpp:955 lspclientpluginview.cpp:2457
-#: lspclientsymbolview.cpp:287
+#: lspclientsymbolview.cpp:285
 #, fuzzy, kde-format
 msgid "Expand All"
 msgstr "&Eတပ်ဘ်များဖြန့်မည်"
 
 #: lspclientpluginview.cpp:956 lspclientpluginview.cpp:2458
-#: lspclientsymbolview.cpp:288
+#: lspclientsymbolview.cpp:286
 #, fuzzy, kde-format
 msgid "Collapse All"
 msgstr "ပရောဂျက် အားလုံး"
@@ -507,37 +507,37 @@ msgstr ""
 "ဆာဗာအား ယုံကြည်ရမှုစစ်ဆေးရာ ကျရှုံးခဲ့သည်(%1).\n"
 "\n"
 
-#: lspclientsymbolview.cpp:240
+#: lspclientsymbolview.cpp:238
 #, fuzzy, kde-format
 msgid "Symbol Outline"
 msgstr "ဒေသတွင်းသုံးသင်္ကေတ သို့သွားမည်"
 
-#: lspclientsymbolview.cpp:278
+#: lspclientsymbolview.cpp:276
 #, fuzzy, kde-format
 msgid "Tree Mode"
 msgstr "သစ်ပင်ပုံစံမြင်ကွင်း"
 
-#: lspclientsymbolview.cpp:280
+#: lspclientsymbolview.cpp:278
 #, fuzzy, kde-format
 msgid "Automatically Expand Tree"
 msgstr "သစ်ပင်ပုံစံမြင်ကွင်း"
 
-#: lspclientsymbolview.cpp:282
+#: lspclientsymbolview.cpp:280
 #, kde-format
 msgid "Sort Alphabetically"
 msgstr "အက္ခရာစဥ်ဖြင့်စီမည်"
 
-#: lspclientsymbolview.cpp:284
+#: lspclientsymbolview.cpp:282
 #, fuzzy, kde-format
 msgid "Show Details"
 msgstr "နောက်ကွတ်ကီး၏အသေးစိတ်ပြမည်"
 
-#: lspclientsymbolview.cpp:439
+#: lspclientsymbolview.cpp:437
 #, kde-format
 msgid "Symbols"
 msgstr "သင်္ကေတများ"
 
-#: lspclientsymbolview.cpp:570
+#: lspclientsymbolview.cpp:568
 #, fuzzy, kde-format
 msgid "No LSP server for this document."
 msgstr "ဆာဗာ ယုံကြည်မှုရယူခြင်း"

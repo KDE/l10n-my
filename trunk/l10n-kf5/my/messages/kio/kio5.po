@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-30 00:40+0000\n"
+"POT-Creation-Date: 2022-10-02 00:43+0000\n"
 "PO-Revision-Date: 2021-12-07 13:26+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2733,7 +2733,7 @@ msgstr "အကြိုကြည့်မြင်ကွင်း ပြမည�
 msgid "Open Containing Folder"
 msgstr "ဖိုင်လ်ပါဝင်သောဖိုလ်ဒါကို ဖွင့်မည်"
 
-#: filewidgets/kdiroperator.cpp:2262 filewidgets/kfileplacesview.cpp:1122
+#: filewidgets/kdiroperator.cpp:2262 filewidgets/kfileplacesview.cpp:1165
 #, kde-format
 msgid "Properties"
 msgstr "ကိုယ်ပိုင်လက္ခဏာများ"
@@ -2941,43 +2941,43 @@ msgstr ""
 "<qt>လက်ရှိအပ္ပလီကေးရှင်း (%1) ကိုသုံးနေစဥ် စာရင်းမှတ်ချက်ကို ပြချင်ပါက ဤသတ်မှတ်ချက်ကို ရွေးပါ။<br /"
 "><br />မရွေးထားလျှင် အပ္ပလီကေးရှင်းအားလုံးတွင် ပြမည်။</qt>"
 
-#: filewidgets/kfileplacesitem.cpp:162
+#: filewidgets/kfileplacesitem.cpp:177
 #, kde-format
 msgctxt "@item"
 msgid "Places"
 msgstr "နေရာများ"
 
-#: filewidgets/kfileplacesitem.cpp:165
+#: filewidgets/kfileplacesitem.cpp:180
 #, kde-format
 msgctxt "@item"
 msgid "Remote"
 msgstr "အဝေး"
 
-#: filewidgets/kfileplacesitem.cpp:168
+#: filewidgets/kfileplacesitem.cpp:183
 #, kde-format
 msgctxt "@item The place group section name for recent dynamic lists"
 msgid "Recent"
 msgstr "လတ်တလော"
 
-#: filewidgets/kfileplacesitem.cpp:171
+#: filewidgets/kfileplacesitem.cpp:186
 #, kde-format
 msgctxt "@item"
 msgid "Search For"
 msgstr "ရှာရန်"
 
-#: filewidgets/kfileplacesitem.cpp:174
+#: filewidgets/kfileplacesitem.cpp:189
 #, kde-format
 msgctxt "@item"
 msgid "Devices"
 msgstr "စက်များ"
 
-#: filewidgets/kfileplacesitem.cpp:177
+#: filewidgets/kfileplacesitem.cpp:192
 #, kde-format
 msgctxt "@item"
 msgid "Removable Devices"
 msgstr "ဖြုတ်လို့ရသော စက်များ"
 
-#: filewidgets/kfileplacesitem.cpp:180
+#: filewidgets/kfileplacesitem.cpp:195
 #, kde-format
 msgctxt "@item"
 msgid "Tags"
@@ -3067,145 +3067,167 @@ msgctxt "KFile System Bookmarks"
 msgid "Audio"
 msgstr "အော်ဒီယို"
 
-#: filewidgets/kfileplacesmodel.cpp:1148
+#: filewidgets/kfileplacesmodel.cpp:1159
 #, fuzzy, kde-format
 #| msgid "Could not find the program '%1'"
 msgctxt "Placeholder is error message"
 msgid "Could not add to the Places panel: %1"
 msgstr "'%1'ပရိုဂရမ်ကို ရှာမတွေ့ပါ"
 
-#: filewidgets/kfileplacesmodel.cpp:1155
+#: filewidgets/kfileplacesmodel.cpp:1166
 #, fuzzy, kde-format
 #| msgid "A folder cannot be moved into itself"
 msgid "Only folders can be added to the Places panel."
 msgstr "ဖိုလ်ဒါအနေဖြင့် ၎င်း၏အတွင်းသို့ ၎င်းကို ရွေ့မရပါ"
 
-#: filewidgets/kfileplacesmodel.cpp:1414
+#: filewidgets/kfileplacesmodel.cpp:1430
+#, fuzzy, kde-format
+#| msgid "&Release '%1'"
+msgctxt "@action:inmenu"
+msgid "Releasing…"
+msgstr "&R '%1' လွှတ်သည်"
+
+#: filewidgets/kfileplacesmodel.cpp:1432
 #, fuzzy, kde-format
 #| msgid "&Release '%1'"
 msgctxt "@action:inmenu"
 msgid "&Release"
 msgstr "&R '%1' လွှတ်သည်"
 
-#: filewidgets/kfileplacesmodel.cpp:1416
+#: filewidgets/kfileplacesmodel.cpp:1436
+#, fuzzy, kde-format
+#| msgid "&Safely Remove '%1'"
+msgctxt "@action:inmenu"
+msgid "Safely Removing…"
+msgstr "&S '%1'ကို အထိအခိုက်မရှိစွာ ဖယ်ရှားရန်"
+
+#: filewidgets/kfileplacesmodel.cpp:1438
 #, fuzzy, kde-format
 #| msgid "&Safely Remove '%1'"
 msgctxt "@action:inmenu"
 msgid "&Safely Remove"
 msgstr "&S '%1'ကို အထိအခိုက်မရှိစွာ ဖယ်ရှားရန်"
 
-#: filewidgets/kfileplacesmodel.cpp:1419
+#: filewidgets/kfileplacesmodel.cpp:1443
+#, fuzzy, kde-format
+#| msgctxt "@title job"
+#| msgid "Unmounting"
+msgctxt "@action:inmenu"
+msgid "Unmounting…"
+msgstr "ဖြုတ်နေသည်"
+
+#: filewidgets/kfileplacesmodel.cpp:1445
 #, fuzzy, kde-format
 #| msgid "Unmount"
 msgctxt "@action:inmenu"
 msgid "&Unmount"
 msgstr "ဖြုတ်ရန်"
 
-#: filewidgets/kfileplacesmodel.cpp:1438
+#: filewidgets/kfileplacesmodel.cpp:1469
 #, fuzzy, kde-format
 #| msgid "&Reject"
 msgctxt "@action:inmenu"
 msgid "&Eject"
 msgstr "&Rငြင်းပယ်မည်"
 
-#: filewidgets/kfileplacesmodel.cpp:1474
+#: filewidgets/kfileplacesmodel.cpp:1505
 #, kde-format
 msgid "The device '%1' is not a disk and cannot be ejected."
 msgstr "'%1' စက်သည် မှတ်ဉာဏ်စက်မဟုတ်ပါ။ သို့ဖြစ်ပါ၍ ဖြုတ်မရပါ။"
 
-#: filewidgets/kfileplacesmodel.cpp:1509
+#: filewidgets/kfileplacesmodel.cpp:1540
 #, kde-format
 msgid "An error occurred while accessing '%1', the system responded: %2"
 msgstr "'%1'ရယူအသုံးပြုနေစဥ် အမှားဖြစ်ပေါ်ခဲ့သည်၊ စစ်စတမ်အကြောင်းပြန်ချက် - %2"
 
-#: filewidgets/kfileplacesmodel.cpp:1511
+#: filewidgets/kfileplacesmodel.cpp:1542
 #, kde-format
 msgid "An error occurred while accessing '%1'"
 msgstr "'%1'ရယူအသုံးပြုနေစဥ် အမှားဖြစ်ပေါ်ခဲ့သည်"
 
-#: filewidgets/kfileplacesview.cpp:568
+#: filewidgets/kfileplacesview.cpp:595
 #, kde-format
 msgid "%1 (hidden)"
 msgstr "%1 (ဖွက်ထား)"
 
-#: filewidgets/kfileplacesview.cpp:1091
+#: filewidgets/kfileplacesview.cpp:1132
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
 msgstr "အမှိုက်ပုံးရှင်း"
 
-#: filewidgets/kfileplacesview.cpp:1109
+#: filewidgets/kfileplacesview.cpp:1152
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Mount"
 msgstr "တပ်ဆင်"
 
-#: filewidgets/kfileplacesview.cpp:1115
+#: filewidgets/kfileplacesview.cpp:1158
 #, fuzzy, kde-format
 #| msgid "Open %1 in tab"
 msgctxt "@item:inmenu"
 msgid "Open in New Tab"
 msgstr "%1ကို တပ်ဗ်တွင်ဖွင့်"
 
-#: filewidgets/kfileplacesview.cpp:1118
+#: filewidgets/kfileplacesview.cpp:1161
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Open in New Window"
 msgstr ""
 
-#: filewidgets/kfileplacesview.cpp:1127
+#: filewidgets/kfileplacesview.cpp:1170
 #, fuzzy, kde-format
 #| msgid "Add Entry..."
 msgctxt "@action:inmenu"
 msgid "Add Entry…"
 msgstr "စာရင်းမှတ်ချက်ထည့်မည်..."
 
-#: filewidgets/kfileplacesview.cpp:1133
+#: filewidgets/kfileplacesview.cpp:1176
 #, fuzzy, kde-format
 #| msgid "Edit"
 msgctxt "@action:inmenu"
 msgid "&Edit…"
 msgstr "တည်းဖြတ်"
 
-#: filewidgets/kfileplacesview.cpp:1138
+#: filewidgets/kfileplacesview.cpp:1181
 #, fuzzy, kde-format
 #| msgid "Remove"
 msgctxt "@action:inmenu"
 msgid "Remove"
 msgstr "ဖယ်ရှား"
 
-#: filewidgets/kfileplacesview.cpp:1142
+#: filewidgets/kfileplacesview.cpp:1185
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Hide"
 msgstr ""
 
-#: filewidgets/kfileplacesview.cpp:1150
+#: filewidgets/kfileplacesview.cpp:1193
 #, fuzzy, kde-format
 #| msgid "Hide Section"
 msgctxt "@item:inmenu"
 msgid "Hide Section '%1'"
 msgstr "အပိုင်းဖွက်ရန်"
 
-#: filewidgets/kfileplacesview.cpp:1150
+#: filewidgets/kfileplacesview.cpp:1193
 #, fuzzy, kde-format
 #| msgid "Hide Section"
 msgctxt "@item:inmenu"
 msgid "Hide Section"
 msgstr "အပိုင်းဖွက်ရန်"
 
-#: filewidgets/kfileplacesview.cpp:1158
+#: filewidgets/kfileplacesview.cpp:1201
 #, kde-format
 msgid "&Show All Entries"
 msgstr "&Sစာရင်းမှတ်ချက်များအားလုံးပြမည်"
 
-#: filewidgets/kfileplacesview.cpp:1163
+#: filewidgets/kfileplacesview.cpp:1206
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Icon Size"
 msgstr "အိုင်ကွန် အရွယ်အစား"
 
-#: filewidgets/kfileplacesview.cpp:1266
+#: filewidgets/kfileplacesview.cpp:1309
 #, kde-format
 msgctxt ""
 "@item:inmenu Auto set icon size based on available space inthe Places side-"
@@ -3213,25 +3235,25 @@ msgctxt ""
 msgid "Auto Resize"
 msgstr "အလိုအလျောက်အရွယ်ပြောင်း"
 
-#: filewidgets/kfileplacesview.cpp:1286
+#: filewidgets/kfileplacesview.cpp:1329
 #, kde-format
 msgctxt "Small icon size"
 msgid "Small (%1x%1)"
 msgstr "သေးငယ် (%1x%1)"
 
-#: filewidgets/kfileplacesview.cpp:1289
+#: filewidgets/kfileplacesview.cpp:1332
 #, kde-format
 msgctxt "Medium icon size"
 msgid "Medium (%1x%1)"
 msgstr "ပုံမှန် (%1x%1)"
 
-#: filewidgets/kfileplacesview.cpp:1292
+#: filewidgets/kfileplacesview.cpp:1335
 #, kde-format
 msgctxt "Large icon size"
 msgid "Large (%1x%1)"
 msgstr "ကြီး (%1x%1)"
 
-#: filewidgets/kfileplacesview.cpp:1295
+#: filewidgets/kfileplacesview.cpp:1338
 #, kde-format
 msgctxt "Huge icon size"
 msgid "Huge (%1x%1)"
