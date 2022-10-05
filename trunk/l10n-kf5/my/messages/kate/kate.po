@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-10-05 00:49+0000\n"
-"PO-Revision-Date: 2021-11-25 22:00+0630\n"
+"PO-Revision-Date: 2022-10-05 20:28+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -39,10 +39,9 @@ msgid "Kate - Advanced Text Editor"
 msgstr "ကိတ် - အဆင့်မြင့်စာသားတည်းဖြတ်ကိရိယာ"
 
 #: kate/main.cpp:110 kwrite/main.cpp:89
-#, fuzzy, kde-format
-#| msgid "(c) 2000-2021 The Kate Authors"
+#, kde-format
 msgid "(c) 2000-2022 The Kate Authors"
-msgstr "(c) ၂၀၀၀-၂၀၂၁ ကိတ် ရေးသားသူများ"
+msgstr "(c) ၂၀၀၀-၂၀၂၂ ကိတ် ရေးသားသူများ"
 
 #: kate/main.cpp:156
 #, kde-format
@@ -62,23 +61,20 @@ msgstr "ကိတ်ကို အမည်မသိသော ဆက်ရှင�
 #: kate/main.cpp:167
 #, kde-format
 msgid ""
-"Force start of a new kate instance (is ignored if start is used and another "
-"kate instance already has the given session opened), forced if no parameters "
-"and no URLs are given at all."
+"Force start of a new kate instance (is ignored if start is used and another kate instance already has the "
+"given session opened), forced if no parameters and no URLs are given at all."
 msgstr ""
 
 #: kate/main.cpp:173
 #, kde-format
-msgid ""
-"If using an already running kate instance, block until it exits, if URLs "
-"given to open."
+msgid "If using an already running kate instance, block until it exits, if URLs given to open."
 msgstr ""
 
 #: kate/main.cpp:179
 #, kde-format
 msgid ""
-"Only try to reuse kate instance with this pid (is ignored if start is used "
-"and another kate instance already has the given session opened)."
+"Only try to reuse kate instance with this pid (is ignored if start is used and another kate instance already "
+"has the given session opened)."
 msgstr ""
 
 #: kate/main.cpp:180
@@ -99,7 +95,7 @@ msgstr "ကုတ်ဝှက်စနစ်"
 #: kate/main.cpp:190 kwrite/main.cpp:145
 #, kde-format
 msgid "Navigate to this line."
-msgstr ""
+msgstr "ဤစာကြောင်းသို့သွားမည်။"
 
 #: kate/main.cpp:190 kwrite/main.cpp:145
 #, kde-format
@@ -109,7 +105,7 @@ msgstr "စာကြောင်း"
 #: kate/main.cpp:195 kwrite/main.cpp:149
 #, kde-format
 msgid "Navigate to this column."
-msgstr ""
+msgstr "ဤတိုင်သို့သွားမည်။"
 
 #: kate/main.cpp:196 kwrite/main.cpp:149
 #, kde-format
@@ -129,7 +125,7 @@ msgstr ""
 #: kate/main.cpp:209 kwrite/main.cpp:161
 #, kde-format
 msgid "Documents to open."
-msgstr "ဖွင့်ရမည့် မှတ်တမ်းပုံနှိပ်မူများ။"
+msgstr "ဖွင့်ရမည့် မှတ်တမ်းစာအုပ်များ။"
 
 #: kate/main.cpp:209 kwrite/main.cpp:161
 #, kde-format
@@ -137,16 +133,14 @@ msgid "[urls...]"
 msgstr "[ယူအာအယ်...]"
 
 #: kwrite/main.cpp:85
-#, fuzzy, kde-format
-#| msgid "KWrite Author"
+#, kde-format
 msgid "KWrite"
-msgstr "ကေရိုက် ရေးသားသူ"
+msgstr "ကေရိုက်"
 
 #: kwrite/main.cpp:87
-#, fuzzy, kde-format
-#| msgid "Kate - Advanced Text Editor"
+#, kde-format
 msgid "KWrite - Text Editor"
-msgstr "ကိတ် - အဆင့်မြင့်စာသားတည်းဖြတ်ကိရိယာ"
+msgstr "ကေရိုက်- စာသားတည်းဖြတ်ကိရိယာ"
 
 #. i18n: ectx: Menu (file)
 #: lib/data/kateui.rc:6
@@ -156,10 +150,9 @@ msgstr "&Fဖိုင်လ်"
 
 #. i18n: ectx: Menu (file_file_actions)
 #: lib/data/kateui.rc:30
-#, fuzzy, kde-format
-#| msgid "Filter Sessions"
+#, kde-format
 msgid "File Actions"
-msgstr "လုပ်ငန်းဆောင်ရွက်မှုခန်းများ စစ်ထုတ်မည်"
+msgstr "ဖိုင်လ်လုပ်ဆောင်ချက်များ"
 
 #. i18n: ectx: Menu (edit)
 #: lib/data/kateui.rc:43
@@ -169,16 +162,15 @@ msgstr "&Eတည်းဖြတ်"
 
 #. i18n: ectx: Menu (selection)
 #: lib/data/kateui.rc:54
-#, fuzzy, kde-format
-#| msgid "Filter Sessions"
+#, kde-format
 msgid "&Selection"
-msgstr "လုပ်ငန်းဆောင်ရွက်မှုခန်းများ စစ်ထုတ်မည်"
+msgstr "&Sရွေးချယ်မှု"
 
 #. i18n: ectx: Menu (go)
 #: lib/data/kateui.rc:57
 #, kde-format
 msgid "&Go"
-msgstr ""
+msgstr "&Gသွား"
 
 #. i18n: ectx: Menu (view)
 #: lib/data/kateui.rc:73
@@ -208,7 +200,7 @@ msgstr "&Sဆက်တင်"
 #: lib/data/kateui.rc:134
 #, kde-format
 msgid "&Help"
-msgstr ""
+msgstr "&Hအကူအညီ"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: lib/data/kateui.rc:139
@@ -225,23 +217,22 @@ msgstr "&Sအခြေအနေပြတန်း တန်ဆာများ"
 #: lib/diff/diffeditor.cpp:146
 #, kde-format
 msgid "Change Style"
-msgstr ""
+msgstr "စတိုင်ပြောင်းမည်"
 
 #: lib/diff/diffeditor.cpp:148 lib/kateconfigdialog.cpp:291
 #, kde-format
 msgid "Side By Side"
-msgstr ""
+msgstr "ဘေးခြင်းကပ်ရပ်"
 
 #: lib/diff/diffeditor.cpp:151 lib/kateconfigdialog.cpp:292
-#, fuzzy, kde-format
-#| msgid "Modified"
+#, kde-format
 msgid "Unified"
-msgstr "မွမ်းမံခဲ့သည်"
+msgstr "တစ်စုတစ်စည်း"
 
 #: lib/diff/diffeditor.cpp:154 lib/kateconfigdialog.cpp:293
 #, kde-format
 msgid "Raw"
-msgstr ""
+msgstr "အကြမ်း"
 
 #: lib/diff/diffeditor.cpp:183
 #, kde-format
@@ -258,12 +249,12 @@ msgstr ""
 #, kde-format
 msgid "Discard Line"
 msgid_plural "Discard Lines"
-msgstr[0] ""
+msgstr[0] "လိုင်းပယ်မည်"
 
 #: lib/diff/diffeditor.cpp:200
 #, kde-format
 msgid "Discard Hunk"
-msgstr ""
+msgstr "စာပုဒ်ပယ်မည်"
 
 #: lib/diff/diffeditor.cpp:207
 #, kde-format
@@ -305,12 +296,12 @@ msgstr ""
 #: lib/filehistorywidget.cpp:346
 #, kde-format
 msgid "Git"
-msgstr ""
+msgstr "ဂစ်"
 
 #: lib/filehistorywidget.cpp:354
 #, kde-format
 msgid "File History"
-msgstr ""
+msgstr "ဖိုင်လ်မှတ်တမ်း"
 
 #: lib/kateapp.cpp:146
 #, kde-format
@@ -327,8 +318,8 @@ msgstr "ထိန်းသိမ်းသူ"
 msgid "Dominik Haumann"
 msgstr "ဒိုမင်နစ်ဟူမန်"
 
-#: lib/kateapp.cpp:147 lib/kateapp.cpp:150 lib/kateapp.cpp:151
-#: lib/kateapp.cpp:153 lib/kateapp.cpp:156 lib/kateapp.cpp:162
+#: lib/kateapp.cpp:147 lib/kateapp.cpp:150 lib/kateapp.cpp:151 lib/kateapp.cpp:153 lib/kateapp.cpp:156
+#: lib/kateapp.cpp:162
 #, kde-format
 msgid "Core Developer"
 msgstr "ပင်မအူတိုင် ပရိုဂရမ်မာ"
@@ -351,7 +342,7 @@ msgstr "ကာရဲဆာ့စ်"
 #: lib/kateapp.cpp:150
 #, kde-format
 msgid "Waqar Ahmed"
-msgstr ""
+msgstr "ဝါကွာအာမတ်"
 
 #: lib/kateapp.cpp:151
 #, kde-format
@@ -635,8 +626,7 @@ msgstr "ပရောဂျက်များပလပ်ဂင်သုံးထ
 
 #: lib/kateapp.cpp:418
 #, kde-format
-msgid ""
-"The file '%1' could not be opened: it is not a normal file, it is a folder."
+msgid "The file '%1' could not be opened: it is not a normal file, it is a folder."
 msgstr "ဖိုင်လ် '%1' ကို ဖွင့်မရပါ။ ယင်းသည် ရိုးရိုးဖိုင်လ်မဟုတ်၊ ဖိုလ်ဒါဖြစ်သည်။"
 
 #: lib/kateconfigdialog.cpp:51
@@ -702,18 +692,14 @@ msgstr "ပြင်ပမှမွမ်းမံထားသောဖိုင
 #: lib/kateconfigdialog.cpp:148
 #, kde-format
 msgid ""
-"If enabled, a modal dialog will be used to show all of the modified files. "
-"If not enabled, you will be individually asked what to do for each modified "
-"file only when that file's view receives focus."
-msgstr ""
-"ဖွင့်ထားလျှင် မွမ်းမံထားသောဖိုင်လ်အကုန်လုံးကို ပြရန် မော်ဒယ်ဒိုင်ယာလော့တစ်ခု ကိုသုံးမည်။ ပိတ်ထားလျှင် "
-"ဘာလုပ်ရမည်ဆိုသည်ကို သင့်အား တစ်ဖိုင်လ်ချင်းဆီကမေးမည်။"
+"If enabled, a modal dialog will be used to show all of the modified files. If not enabled, you will be "
+"individually asked what to do for each modified file only when that file's view receives focus."
+msgstr "ဖွင့်ထားလျှင် မွမ်းမံထားသောဖိုင်လ်အကုန်လုံးကို ပြရန် မော်ဒယ်ဒိုင်ယာလော့တစ်ခု ကိုသုံးမည်။ ပိတ်ထားလျှင် ဘာလုပ်ရမည်ဆိုသည်ကို သင့်အား တစ်ဖိုင်လ်ချင်းဆီကမေးမည်။"
 
 #: lib/kateconfigdialog.cpp:157
-#, fuzzy, kde-format
-#| msgid "Top Sidebar"
+#, kde-format
 msgid "&Sidebars"
-msgstr "ထိပ်ဘေးတန်"
+msgstr "&Sဘေးတန်"
 
 #: lib/kateconfigdialog.cpp:160
 #, kde-format
@@ -723,8 +709,7 @@ msgstr ""
 #: lib/kateconfigdialog.cpp:164
 #, kde-format
 msgid ""
-"When enabled the section size will be determined by the position of the "
-"tabs.\n"
+"When enabled the section size will be determined by the position of the tabs.\n"
 "This option does not affect the bottom sidebar."
 msgstr ""
 
@@ -751,20 +736,19 @@ msgstr "&Lတပ််ဘ်အရေအတွက်ကန့်သတ်မည�
 #: lib/kateconfigdialog.cpp:208
 #, kde-format
 msgid ""
-"A high limit can increase the window size, please enable 'Allow tab "
-"scrolling' to prevent it. Unlimited tabs are always scrollable."
+"A high limit can increase the window size, please enable 'Allow tab scrolling' to prevent it. Unlimited tabs "
+"are always scrollable."
 msgstr ""
 
 #: lib/kateconfigdialog.cpp:212
 #, kde-format
 msgid "&Auto hide tabs"
-msgstr ""
+msgstr "တပ်ဘ်များ &Aအလိုလိုဖွက်မည်"
 
 #: lib/kateconfigdialog.cpp:214
-#, fuzzy, kde-format
-#| msgid "When checked each tab will display a close button."
+#, kde-format
 msgid "When checked tabs will be hidden if only one document is open."
-msgstr "အမှန်ခြစ်ထားပါက တပ်ဘ်တစ်ချင်းဆီတွင် ပိတ်မည်-ခလုတ် ပြထားမည်"
+msgstr "အမှန်ခြစ်ထားပါက မှတ်တမ်းစာအုပ်တစ်ခုတည်းဖွင့်ထားလျှင် တပ်ဘ်မပြပါ။"
 
 #: lib/kateconfigdialog.cpp:218
 #, kde-format
@@ -789,12 +773,12 @@ msgstr "အမှန်ခြစ်ထားပါက တပ်ဘ်မျာ�
 #: lib/kateconfigdialog.cpp:230
 #, kde-format
 msgid "&Double click opens a new document"
-msgstr "&Dမောက့်စ်ကီးနှစ်ခါနှိပ်ချိန်တွင် မှတ်တမ်းပုံနှိပ်မူအသစ်ဖွင့်မည်"
+msgstr "&Dမောက့်စ်ကီးနှစ်ခါနှိပ်ချိန်တွင် မှတ်တမ်းစာအုပ်အသစ်ဖွင့်မည်"
 
 #: lib/kateconfigdialog.cpp:232
 #, kde-format
 msgid "When checked double click opens a new document."
-msgstr "အမှန်ခြစ်ထားပါက မောက့်စ်ကီးနှစ်ခါနှိပ်ချိန်တွင် မှတ်တမ်းပုံနှိပ်မူအသစ်ဖွင့်မည်။"
+msgstr "အမှန်ခြစ်ထားပါက မောက့်စ်ကီးနှစ်ခါနှိပ်ချိန်တွင် မှတ်တမ်းစာအုပ်အသစ်ဖွင့်မည်။"
 
 #: lib/kateconfigdialog.cpp:236
 #, kde-format
@@ -804,35 +788,32 @@ msgstr ""
 #: lib/kateconfigdialog.cpp:238
 #, kde-format
 msgid "When checked middle click closes a document."
-msgstr "အမှန်ခြစ်ထားပါက အလယ်ခလုတ်နှိပ်လျှင် မှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်။"
+msgstr "အမှန်ခြစ်ထားပါက အလယ်ခလုတ်နှိပ်လျှင် မှတ်တမ်းစာအုပ် ပိတ်မည်။"
 
 #: lib/kateconfigdialog.cpp:242
 #, kde-format
 msgid "Allow tab scrolling"
-msgstr ""
+msgstr "တပ်ဘ်လှိမ့်ဆွဲခြင်းခွင့်ပြုမည်"
 
 #: lib/kateconfigdialog.cpp:244
 #, kde-format
-msgid ""
-"When checked this will allow scrolling in tab bar when number of tabs is "
-"large."
+msgid "When checked this will allow scrolling in tab bar when number of tabs is large."
 msgstr ""
 
 #: lib/kateconfigdialog.cpp:248
 #, kde-format
 msgid "Elide tab text"
-msgstr ""
+msgstr "တပ်ဘ်စာသားဖြတ်ပြ"
 
 #: lib/kateconfigdialog.cpp:250
-#, fuzzy, kde-format
-#| msgid "When checked tabs take as much size as possible."
+#, kde-format
 msgid "When checked tab text might be elided if its too long."
-msgstr "အမှန်ခြစ်ထားပါက တပ်ဘ်များသည် ရနိုင်သမျှ နေရာယူမည်။"
+msgstr "အမှန်ခြစ်ထားပါက တပ်ဘ်ထဲရှိစာသားများ ရှည်ပါက ဖြတ်ပြမည်။"
 
 #: lib/kateconfigdialog.cpp:256
 #, kde-format
 msgid "&Mouse"
-msgstr ""
+msgstr "&Mမောက်(စ်)"
 
 #: lib/kateconfigdialog.cpp:261
 #, kde-format
@@ -840,16 +821,14 @@ msgid "&Backward button pressed:"
 msgstr ""
 
 #: lib/kateconfigdialog.cpp:266
-#, fuzzy, kde-format
-#| msgid "&Previous Tab"
+#, kde-format
 msgid "Previous tab"
-msgstr "&Pရှေ့တပ်ဘ်"
+msgstr "ယခင်တပ်ဘ်"
 
 #: lib/kateconfigdialog.cpp:266
-#, fuzzy, kde-format
-#| msgid "Go back"
+#, kde-format
 msgid "History back"
-msgstr "ပြန်လှည့်မည်"
+msgstr "မှတ်တမ်း ပြန်လှည့်ကြည့်မည်"
 
 #: lib/kateconfigdialog.cpp:272
 #, kde-format
@@ -857,26 +836,24 @@ msgid "&Forward button pressed:"
 msgstr ""
 
 #: lib/kateconfigdialog.cpp:277
-#, fuzzy, kde-format
-#| msgid "&Next Tab"
+#, kde-format
 msgid "Next tab"
-msgstr "&Nနောက်တပ်ဘ်"
+msgstr "နောက်တပ်ဘ်"
 
 #: lib/kateconfigdialog.cpp:277
-#, fuzzy, kde-format
-#| msgid "Go forward"
+#, kde-format
 msgid "History forward"
-msgstr "ရှေ့ဆက်သွားမည်"
+msgstr "မှတ်တမ်း ရှေ့ဆက်ကြည့်မည်"
 
 #: lib/kateconfigdialog.cpp:285
 #, kde-format
 msgid "Diff"
-msgstr ""
+msgstr "Diff"
 
 #: lib/kateconfigdialog.cpp:294
 #, kde-format
 msgid "Diff Style:"
-msgstr ""
+msgstr "Diff စတိုင်-"
 
 #: lib/kateconfigdialog.cpp:308
 #, kde-format
@@ -918,8 +895,7 @@ msgstr "အသုံးပြုသူတုံ့ပြန်ချက်"
 
 #: lib/kateconfigdialog.cpp:622
 #, kde-format
-msgid ""
-"You have unsaved changes. Do you want to apply the changes or discard them?"
+msgid "You have unsaved changes. Do you want to apply the changes or discard them?"
 msgstr "သင့်တွင် မသိမ်းဆည်းရသေးသော ပြောင်းလဲမှုများရှိသည်။ ယင်းတို့ကို သိမ်းမှာလား၊ စွန့်ပစ်မှာလား။"
 
 #: lib/kateconfigplugindialogpage.cpp:66
@@ -935,23 +911,21 @@ msgstr "ဖော်ပြချက်"
 #: lib/kateconfigplugindialogpage.cpp:69
 #, kde-format
 msgid ""
-"Here you can see all available Kate plugins. Those with a check mark are "
-"loaded, and will be loaded again the next time Kate is started."
+"Here you can see all available Kate plugins. Those with a check mark are loaded, and will be loaded again the "
+"next time Kate is started."
 msgstr ""
 
 #: lib/katedocmanager.cpp:264
 #, kde-format
 msgid ""
-"<p>The document '%1' has been modified, but not saved.</p><p>Do you want to "
-"save your changes or discard them?</p>"
-msgstr ""
-"<p>မှတ်တမ်းပုံနှိပ်မူ '%1' ကိုမွမ်းမံထားသော်လည်း မသိမ်းဆည်းရသေးပါ။</p><p>မွမ်းမံမှုများကို "
-"သိမ်းဆည်းမှာလား၊ စွန့်ပစ်မှာလား။</p>"
+"<p>The document '%1' has been modified, but not saved.</p><p>Do you want to save your changes or discard them?"
+"</p>"
+msgstr "<p>မှတ်တမ်းစာအုပ် '%1' ကိုမွမ်းမံထားသော်လည်း မသိမ်းဆည်းရသေးပါ။</p><p>မွမ်းမံမှုများကို သိမ်းဆည်းမှာလား၊ စွန့်ပစ်မှာလား။</p>"
 
 #: lib/katedocmanager.cpp:267
 #, kde-format
 msgid "Close Document"
-msgstr "မှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
+msgstr "မှတ်တမ်းစာအုပ် ပိတ်မည်"
 
 #: lib/katedocmanager.cpp:276
 #, kde-format
@@ -961,7 +935,7 @@ msgstr "အဖြစ်သိမ်းဆည်းမည်"
 #: lib/katedocmanager.cpp:294 lib/katemainwindow.cpp:583
 #, kde-format
 msgid "New file opened while trying to close Kate, closing aborted."
-msgstr "ကိတ် ကိုပိတ်ရန် ကြိုးစားစဥ် ဖိုင်လ်အသစ်ဖွင့်ခဲ့သောကြောင့် ပိတ်ခြင်းကို စွန့်ပယ်ခဲ့သည်။"
+msgstr "ကိတ် ကိုပိတ်ရန် ကြိုးစားစဉ် ဖိုင်လ်အသစ်ဖွင့်ခဲ့သောကြောင့် ပိတ်ခြင်းကို စွန့်ပယ်ခဲ့သည်။"
 
 #: lib/katedocmanager.cpp:294 lib/katemainwindow.cpp:583
 #, kde-format
@@ -1026,7 +1000,7 @@ msgstr "မြင်ကွင်းများအတွက် တပ်ဘ်�
 #: lib/katemainwindow.cpp:220
 #, kde-format
 msgid "Sho&w Path in Titlebar"
-msgstr "&wခေါင်းစဥ်တန်းတွင် လမ်းကြောင်း ပြမည်"
+msgstr "&wခေါင်းစဉ်တန်းတွင် လမ်းကြောင်း ပြမည်"
 
 #: lib/katemainwindow.cpp:223
 #, kde-format
@@ -1036,13 +1010,12 @@ msgstr ""
 #: lib/katemainwindow.cpp:225
 #, kde-format
 msgid "Show Navigation Bar"
-msgstr ""
+msgstr "လမ်းညွှန်တန်းပြမည်"
 
 #: lib/katemainwindow.cpp:235
-#, fuzzy, kde-format
-#| msgid "&Color Scheme"
+#, kde-format
 msgid "&Window Color Scheme"
-msgstr "&Cအရောင်အစီအစဥ်ပြပုံ"
+msgstr "&Wဝင်းဒိုး အရောင်အစီအစဉ်ပြပုံ"
 
 #: lib/katemainwindow.cpp:239
 #, kde-format
@@ -1082,18 +1055,16 @@ msgstr "အထုတ်"
 #: lib/katemainwindow.cpp:287
 #, kde-format
 msgid "Create a new document"
-msgstr "မှတ်တမ်းပုံနှိပ်မူအသစ် ဖန်တီးမည်"
+msgstr "မှတ်တမ်းစာအုပ်အသစ် ဖန်တီးမည်"
 
 #: lib/katemainwindow.cpp:290
 #, kde-format
 msgid "Open an existing document for editing"
-msgstr "ရှိပြီးသား မှတ်တမ်းပုံနှိပ်မူကို တည်းဖြတ်ရန်ဖွင့်မည်"
+msgstr "ရှိပြီးသား မှတ်တမ်းစာအုပ်ကို တည်းဖြတ်ရန်ဖွင့်မည်"
 
 #: lib/katemainwindow.cpp:295
 #, kde-format
-msgid ""
-"This lists files which you have opened recently, and allows you to easily "
-"open them again."
+msgid "This lists files which you have opened recently, and allows you to easily open them again."
 msgstr ""
 
 #: lib/katemainwindow.cpp:299
@@ -1104,7 +1075,7 @@ msgstr "&lအားလုံးသိမ်းဆည်းမည်"
 #: lib/katemainwindow.cpp:302
 #, kde-format
 msgid "Save all open, modified documents to disk."
-msgstr "ဖွင့်ထားသော၊ မွမ်းမံထားသော မှတ်တမ်းပုံနှိပ်မူအားလုံးကို ဒစ်စ်သို့ သိမ်းမည်။"
+msgstr "ဖွင့်ထားသော၊ မွမ်းမံထားသော မှတ်တမ်းစာအုပ်အားလုံးကို ဒစ်စ်သို့ သိမ်းမည်။"
 
 #: lib/katemainwindow.cpp:305
 #, kde-format
@@ -1114,13 +1085,12 @@ msgstr "&Rအကုန်ပြန်တွန်းတင်မည်"
 #: lib/katemainwindow.cpp:307
 #, kde-format
 msgid "Reload all open documents."
-msgstr "ဖွင့်ထားသော မှတ်တမ်းပုံနှိပ်မူအကုန် ပြန်တွန်းတင်မည်။"
+msgstr "ဖွင့်ထားသော မှတ်တမ်းစာအုပ်အကုန် ပြန်တွန်းတင်မည်။"
 
 #: lib/katemainwindow.cpp:311
-#, fuzzy, kde-format
-#| msgid "Location"
+#, kde-format
 msgid "Copy Location"
-msgstr "တည်နေရာ"
+msgstr "တည်နေရာကူးယူမည်"
 
 #: lib/katemainwindow.cpp:316 lib/katemainwindow.cpp:325
 #, kde-format
@@ -1162,7 +1132,7 @@ msgstr "ကိုယ်ပိုင်လက္ခဏာများ"
 #: lib/katemainwindow.cpp:355 lib/katemainwindow.cpp:357
 #, kde-format
 msgid "Compare"
-msgstr "နှိုင်းယှဥ်မည်"
+msgstr "နှိုင်းယှဉ်မည်"
 
 #: lib/katemainwindow.cpp:357
 #, kde-format
@@ -1182,14 +1152,13 @@ msgstr "သုံးခွင့်မရှိသည်များပိတ်
 #: lib/katemainwindow.cpp:364
 #, kde-format
 msgid ""
-"Close all documents in the file list that could not be reopened, because "
-"they are not accessible anymore."
-msgstr "စာရင်းမှ ပြန်ဖွင့်၍မရနိုင်သော မှတ်တမ်းပုံနှိပ်မူအားလုံးကို ပိတ်မည်"
+"Close all documents in the file list that could not be reopened, because they are not accessible anymore."
+msgstr "စာရင်းမှ ပြန်ဖွင့်၍မရနိုင်သော မှတ်တမ်းစာအုပ်အားလုံးကို ပိတ်မည်"
 
 #: lib/katemainwindow.cpp:368
 #, kde-format
 msgid "Close the current document."
-msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
+msgstr "လက်ရှိမှတ်တမ်းစာအုပ် ပိတ်မည်"
 
 #: lib/katemainwindow.cpp:371
 #, kde-format
@@ -1199,7 +1168,7 @@ msgstr "အခြားဟာများပိတ်မည်"
 #: lib/katemainwindow.cpp:373
 #, kde-format
 msgid "Close other open documents."
-msgstr "အခြားမှတ်တမ်းပုံနှိပ်မူများ ပိတ်မည်"
+msgstr "အခြားမှတ်တမ်းစာအုပ်များ ပိတ်မည်"
 
 #: lib/katemainwindow.cpp:376
 #, kde-format
@@ -1209,7 +1178,7 @@ msgstr "&eအားလုံးပိတ်မည်"
 #: lib/katemainwindow.cpp:378
 #, kde-format
 msgid "Close all open documents."
-msgstr "ဖွင့်ထားသော မှတ်တမ်းပုံနှိပ်မူအကုန် ပိတ်မည်။"
+msgstr "ဖွင့်ထားသော မှတ်တမ်းစာအုပ်အကုန် ပိတ်မည်။"
 
 #: lib/katemainwindow.cpp:383
 #, kde-format
@@ -1217,16 +1186,14 @@ msgid "Close this window"
 msgstr "ဤဝင်းဒိုးကို ပိတ်မည်"
 
 #: lib/katemainwindow.cpp:387
-#, fuzzy, kde-format
-#| msgid "&New Window"
+#, kde-format
 msgid "&New Window"
-msgstr "&Nဝင်းဒိုးအသစ်"
+msgstr "ဝင်းဒိုး &Nအသစ်"
 
 #: lib/katemainwindow.cpp:389
-#, fuzzy, kde-format
-#| msgid "Create a new document"
+#, kde-format
 msgid "Create a new window."
-msgstr "မှတ်တမ်းပုံနှိပ်မူအသစ် ဖန်တီးမည်"
+msgstr "ဝင်းဒိုးအသစ်ဖန်တီးမည်။"
 
 #: lib/katemainwindow.cpp:396
 #, kde-format
@@ -1236,8 +1203,8 @@ msgstr "&iဖြင့် ဖွင့်မည်"
 #: lib/katemainwindow.cpp:398
 #, kde-format
 msgid ""
-"Open the current document using another application registered for its file "
-"type, or an application of your choice."
+"Open the current document using another application registered for its file type, or an application of your "
+"choice."
 msgstr ""
 
 #: lib/katemainwindow.cpp:406
@@ -1252,8 +1219,7 @@ msgstr ""
 
 #: lib/katemainwindow.cpp:412
 #, kde-format
-msgid ""
-"Configure various aspects of this application and the editing component."
+msgid "Configure various aspects of this application and the editing component."
 msgstr ""
 
 #: lib/katemainwindow.cpp:416
@@ -1278,17 +1244,14 @@ msgid "&New Session"
 msgstr "&Nလုပ်ငန်းဆောင်ရွက်မှုခန်းအသစ်"
 
 #: lib/katemainwindow.cpp:446
-#, fuzzy, kde-format
-#| msgctxt "Menu entry Session->New Session"
-#| msgid "&New Session"
+#, kde-format
 msgid "&Recent Sessions"
-msgstr "&Nလုပ်ငန်းဆောင်ရွက်မှုခန်းအသစ်"
+msgstr "&Rလတ်တလော ဆက်ရှင်များ"
 
 #: lib/katemainwindow.cpp:451
-#, fuzzy, kde-format
-#| msgid "Sess&ions"
+#, kde-format
 msgid "&All Sessions"
-msgstr "&iဆက်ရှင်များ"
+msgstr "ဆက်ရှင် &Aအားလုံး"
 
 #: lib/katemainwindow.cpp:458
 #, kde-format
@@ -1308,12 +1271,12 @@ msgstr "&Aအဖြစ် ဆက်ရှင်ကိုသိမ်းဆည်
 #: lib/katemainwindow.cpp:480 lib/kateviewspace.cpp:58
 #, kde-format
 msgid "Go to Previous Location"
-msgstr ""
+msgstr "ယခင်နေရာသို့သွားမည်"
 
 #: lib/katemainwindow.cpp:488 lib/kateviewspace.cpp:71
 #, kde-format
 msgid "Go to Next Location"
-msgstr ""
+msgstr "နောက်နေရာသို့သွားမည်"
 
 #: lib/katemainwindow.cpp:495
 #, kde-format
@@ -1328,24 +1291,21 @@ msgstr ""
 #: lib/katemainwindow.cpp:511
 #, kde-format
 msgid "Close all documents"
-msgstr "မှတ်တမ်းပုံနှိပ်မူအားလုံး ပိတ်မည်"
+msgstr "မှတ်တမ်းစာအုပ်အားလုံး ပိတ်မည်"
 
 #: lib/katemainwindow.cpp:526
 #, kde-format
-msgid ""
-"This will close all open documents beside the current one. Are you sure you "
-"want to continue?"
+msgid "This will close all open documents beside the current one. Are you sure you want to continue?"
 msgstr ""
 
 #: lib/katemainwindow.cpp:527
 #, kde-format
 msgid "Close all documents beside current one"
-msgstr "လက်ရှိတစ်ခုမှလွဲ၍ ကျန်မှတ်တမ်းပုံနှိပ်မူအားလုံးပိတ်မည်"
+msgstr "လက်ရှိတစ်ခုမှလွဲ၍ ကျန်မှတ်တမ်းစာအုပ်အားလုံးပိတ်မည်"
 
 #: lib/katemainwindow.cpp:726
 #, kde-format
-msgid ""
-"This will hide the menu bar completely. You can show it again by typing %1."
+msgid "This will hide the menu bar completely. You can show it again by typing %1."
 msgstr ""
 
 #: lib/katemainwindow.cpp:729
@@ -1354,24 +1314,18 @@ msgid "Hide menu bar"
 msgstr "မီနူးတန်း ဖွက်ထားမည်"
 
 #: lib/katemainwindow.cpp:829
-#, fuzzy, kde-format
-#| msgid ""
-#| "You dropped the directory %1 into Kate. Do you want to load all files "
-#| "contained in it ?"
-msgid ""
-"You dropped the directory %1 into Kate. Do you want to open all files "
-"contained in it?"
+#, kde-format
+msgid "You dropped the directory %1 into Kate. Do you want to open all files contained in it?"
 msgstr "သင်သည် ဒါရိုက်ထရီ %1 ကို ကိတ် ထဲသို့ လွတ်ချခဲ့သည်။ ၎င်းအတွင်းရှိ ဖိုင်လ်များအားလုံး သင်ဖွင့်ချင်ပါသလား။"
 
 #: lib/katemainwindow.cpp:832
 #, kde-format
 msgctxt "@title:window"
 msgid "Open Files Recursively"
-msgstr ""
+msgstr "ဖိုင်လ်များကို ထပ်တလဲလဲဖွင့်မည်"
 
 #: lib/katemainwindow.cpp:833
-#, fuzzy, kde-format
-#| msgid "Open File"
+#, kde-format
 msgctxt "@action:button"
 msgid "Open All Files"
 msgstr "ဖိုင်လ်ဖွင့်မည်"
@@ -1389,23 +1343,22 @@ msgstr " [ဖတ်၍သာရ]"
 #: lib/katemainwindow.cpp:1330
 #, kde-format
 msgid "Diff %1"
-msgstr ""
+msgstr "Diff %1"
 
 #: lib/katemainwindow.cpp:1332
 #, kde-format
 msgid "Diff %1..%2"
-msgstr ""
+msgstr "Diff %1..%2"
 
 #: lib/katemdi.cpp:84
-#, fuzzy, kde-format
-#| msgid "Plugin Manager"
+#, kde-format
 msgid "Toolview Manager"
-msgstr "ပလပ်ဂင် မန်နေဂျာ"
+msgstr "ကိရိယာမြင်ကွင်းမန်နေဂျာ"
 
 #: lib/katemdi.cpp:102
 #, kde-format
 msgid "Sidebar Buttons"
-msgstr ""
+msgstr "ဘေးတန်းခလုတ်များ"
 
 #: lib/katemdi.cpp:105
 #, kde-format
@@ -1418,10 +1371,9 @@ msgid "Show Side&bars"
 msgstr "&bဘေးတန်းများ ပြမည်"
 
 #: lib/katemdi.cpp:115
-#, fuzzy, kde-format
-#| msgid "Tool &Views"
+#, kde-format
 msgid "Hide All Tool Views"
-msgstr "ကိရိယာ &Vမြင်ကွင်းများ"
+msgstr "ကိရိယာမြင်ကွင်းအားလုံးဖွက်မည်"
 
 #: lib/katemdi.cpp:162
 #, kde-format
@@ -1429,21 +1381,19 @@ msgid "Show %1"
 msgstr "%1 ပြမည်"
 
 #: lib/katemdi.cpp:173
-#, fuzzy, kde-format
-#| msgid "&Show close button"
+#, kde-format
 msgid "Show %1 Button"
-msgstr "&Sပိတ်ရန်ခလုတ်ပြမည်"
+msgstr "%1 ခလုတ်ပြမည်"
 
 #: lib/katemdi.cpp:984
-#, fuzzy, kde-format
-#| msgid "Configure ..."
+#, kde-format
 msgid "Configure..."
-msgstr "ပြင်ဆင်မည်..."
+msgstr "ပြင်ဆင်မည်…"
 
 #: lib/katemdi.cpp:988
 #, kde-format
 msgid "Hide Button"
-msgstr ""
+msgstr "ခလုတ်ဖွက်မည်"
 
 #: lib/katemdi.cpp:990
 #, kde-format
@@ -1451,30 +1401,29 @@ msgid "Move To"
 msgstr "သို့ရွေ့မည်"
 
 #: lib/katemdi.cpp:995
-#, fuzzy, kde-format
-#| msgid "Filter Sessions"
+#, kde-format
 msgid "Own Section"
-msgstr "လုပ်ငန်းဆောင်ရွက်မှုခန်းများ စစ်ထုတ်မည်"
+msgstr "ကိုယ်ပိုင်စာရေးသားခန်း"
 
 #: lib/katemdi.cpp:1001 lib/katemdi.cpp:1009
 #, kde-format
 msgid "One Down"
-msgstr ""
+msgstr "တစ်ခါချ"
 
 #: lib/katemdi.cpp:1003 lib/katemdi.cpp:1014
 #, kde-format
 msgid "One Right"
-msgstr ""
+msgstr "ညာတစ်ခါတိုး"
 
 #: lib/katemdi.cpp:1007
 #, kde-format
 msgid "One Up"
-msgstr ""
+msgstr "တစ်ခါတက်"
 
 #: lib/katemdi.cpp:1012
 #, kde-format
 msgid "One Left"
-msgstr ""
+msgstr "ဘယ်တစ်ခါတိုး"
 
 #: lib/katemdi.cpp:1021
 #, kde-format
@@ -1499,26 +1448,25 @@ msgstr "အောက်ဘေးတန်း"
 #: lib/katemdi.cpp:1408
 #, kde-format
 msgid ""
-"<qt>You are about to hide the sidebars. With hidden sidebars it is not "
-"possible to directly access the tool views with the mouse anymore, so if you "
-"need to access the sidebars again invoke <b>View &gt; Tool Views &gt; Show "
-"Sidebars</b> in the menu. It is still possible to show/hide the tool views "
-"with the assigned shortcuts.</qt>"
+"<qt>You are about to hide the sidebars. With hidden sidebars it is not possible to directly access the tool "
+"views with the mouse anymore, so if you need to access the sidebars again invoke <b>View &gt; Tool Views &gt; "
+"Show Sidebars</b> in the menu. It is still possible to show/hide the tool views with the assigned shortcuts.</"
+"qt>"
 msgstr ""
 
 #: lib/katemwmodonhddialog.cpp:58
 #, kde-format
 msgid "Documents Modified on Disk"
-msgstr "ဒစ်စ်ပေါ်တွင် ပြောင်းလဲသွားသော မှတ်တမ်းပုံနှိပ်မူများ"
+msgstr "ဒစ်စ်ပေါ်တွင် ပြောင်းလဲသွားသော မှတ်တမ်းစာအုပ်များ"
 
 #: lib/katemwmodonhddialog.cpp:74
 #, kde-format
 msgid ""
-"<qt>The documents listed below have changed on disk.<p>Select one or more at "
-"once, and press an action button until the list is empty.</p></qt>"
+"<qt>The documents listed below have changed on disk.<p>Select one or more at once, and press an action button "
+"until the list is empty.</p></qt>"
 msgstr ""
-"<qt>အောက်တွင်စာရင်းပြထားသော မှတ်တမ်းပုံနှိပ်မူများ ဒစ်စ်တွင် ပြောင်းလဲသွားခဲ့သည်။<p>တစ်ပြိုင်တည်း တစ်ခု "
-"သို့မဟုတ် တစ်ခုထက်ပို၍ ရွေးချယ်ပြီး စာရင်းမရှင်းမချင်း အက်ရှင်ခလုတ်နှိပ်ပါ။</p></qt>"
+"<qt>အောက်တွင်စာရင်းပြထားသော မှတ်တမ်းစာအုပ်များ ဒစ်စ်တွင် ပြောင်းလဲသွားခဲ့သည်။<p>တစ်ပြိုင်တည်း တစ်ခု သို့မဟုတ် တစ်ခုထက်ပို၍ ရွေးချယ်ပြီး "
+"စာရင်းမရှင်းမချင်း အက်ရှင်ခလုတ်နှိပ်ပါ။</p></qt>"
 
 #: lib/katemwmodonhddialog.cpp:84
 #, kde-format
@@ -1553,12 +1501,11 @@ msgstr "&Vခြားနားချက်များကြည့်မည်"
 #: lib/katemwmodonhddialog.cpp:106
 #, kde-format
 msgid ""
-"Calculates the difference between the editor contents and the disk file for "
-"the selected document, and shows the difference with the default "
-"application. Requires diff(1)."
+"Calculates the difference between the editor contents and the disk file for the selected document, and shows "
+"the difference with the default application. Requires diff(1)."
 msgstr ""
-"ရွေးထားသော မှတ်တမ်းပုံနှိပ်မူအတွက် တည်းဖြတ်ကိရိယာရှိ စာသားဒေတာများနှင့် ဒစ်စ်ဖိုင်လ်ရှိ စာသားဒေတာများ "
-"ခြားနားချက် ရှာဖွေ၍ မူလသတ်မှတ်ထားသော အပ္ပလီကေးရှင်းနှင့် ပြမည်။ diff(၁) လိုအပ်သည်။"
+"ရွေးထားသော မှတ်တမ်းစာအုပ်အတွက် တည်းဖြတ်ကိရိယာရှိ စာသားဒေတာများနှင့် ဒစ်စ်ဖိုင်လ်ရှိ စာသားဒေတာများ ခြားနားချက် ရှာဖွေ၍ မူလသတ်မှတ်ထားသော "
+"အပ္ပလီကေးရှင်းနှင့် ပြမည်။ diff(၁) လိုအပ်သည်။"
 
 #: lib/katemwmodonhddialog.cpp:117
 #, kde-format
@@ -1591,17 +1538,13 @@ msgid ""
 "Could not save the document \n"
 "'%1'"
 msgstr ""
-"မှတ်တမ်းပုံနှိပ်မူကို မသိမ်းဆည်းနိုင်ခဲ့ပါ\n"
+"မှတ်တမ်းစာအုပ်ကို မသိမ်းဆည်းနိုင်ခဲ့ပါ\n"
 "'%1'"
 
 #: lib/katemwmodonhddialog.cpp:329
 #, kde-format
-msgid ""
-"The diff command failed. Please make sure that diff(1) is installed and in "
-"your PATH."
-msgstr ""
-"အမိန့် diff မအောင်မြင်ခဲ့ပါ။ ကျေးဇူးပြု၍ diff(1) တပ်ဆင်ထားခြင်းရှိ၊ မရှိ နှင့် PATH ထဲတွင် ရှိ၊မရှိ "
-"စစ်ဆေးပါ။"
+msgid "The diff command failed. Please make sure that diff(1) is installed and in your PATH."
+msgstr "အမိန့် diff မအောင်မြင်ခဲ့ပါ။ ကျေးဇူးပြု၍ diff(1) တပ်ဆင်ထားခြင်းရှိ၊ မရှိ နှင့် PATH ထဲတွင် ရှိ၊မရှိ စစ်ဆေးပါ။"
 
 #: lib/katemwmodonhddialog.cpp:331
 #, kde-format
@@ -1625,10 +1568,9 @@ msgid "Copy to Clipboard"
 msgstr "ကလစ်ဘုတ်သို့ကူးယူမည်"
 
 #: lib/kateoutputview.cpp:184
-#, fuzzy, kde-format
-#| msgid "&Other..."
+#, kde-format
 msgid "Filter..."
-msgstr "&Oအခြား..."
+msgstr "စစ်ထုတ်…"
 
 #: lib/kateoutputview.cpp:197
 #, kde-format
@@ -1667,20 +1609,17 @@ msgstr "အဖြစ်သိမ်းဆည်းမည် (%1)"
 #: lib/katesavemodifieddialog.cpp:127
 #, kde-format
 msgid "Save Documents"
-msgstr "မှတ်တမ်းပုံနှိပ်မူများ သိမ်းဆည်းမည်"
+msgstr "မှတ်တမ်းစာအုပ်များ သိမ်းဆည်းမည်"
 
 #: lib/katesavemodifieddialog.cpp:135
 #, kde-format
-msgid ""
-"<qt>The following documents have been modified. Do you want to save them "
-"before closing?</qt>"
-msgstr ""
-"<qt>အောက်ပါမှတ်တမ်းပုံနှိပ်မူများကို မွမ်းမံခဲ့ပြီးဖြစ်သည်။ မပိတ်ခင် ၎င်းတို့ကို သိမ်းဆည်းချင်ပါသလား။</qt>"
+msgid "<qt>The following documents have been modified. Do you want to save them before closing?</qt>"
+msgstr "<qt>အောက်ပါမှတ်တမ်းစာအုပ်များကို မွမ်းမံခဲ့ပြီးဖြစ်သည်။ မပိတ်ခင် ၎င်းတို့ကို သိမ်းဆည်းချင်ပါသလား။</qt>"
 
 #: lib/katesavemodifieddialog.cpp:142
 #, kde-format
 msgid "Documents"
-msgstr "မှတ်တမ်းပုံနှိပ်မူများ"
+msgstr "မှတ်တမ်းစာအုပ်များ"
 
 #: lib/katesavemodifieddialog.cpp:142
 #, kde-format
@@ -1694,15 +1633,13 @@ msgstr "&lအားလုံးရွေးချယ်မည်"
 
 #: lib/katesavemodifieddialog.cpp:225
 #, kde-format
-msgid ""
-"Data you requested to be saved could not be written. Please choose how you "
-"want to proceed."
+msgid "Data you requested to be saved could not be written. Please choose how you want to proceed."
 msgstr ""
 
 #: lib/kateurlbar.cpp:1178
 #, kde-format
 msgid "Untitled"
-msgstr ""
+msgstr "ခေါင်းစဉ်မဲ့"
 
 #: lib/kateviewmanager.cpp:116
 #, kde-format
@@ -1730,12 +1667,11 @@ msgid "Move Document to New Vertical Split"
 msgstr ""
 
 #: lib/kateviewmanager.cpp:136
-#, fuzzy, kde-format
-#| msgid "Split the currently active view vertically into two views."
+#, kde-format
 msgid ""
-"Split the currently active view vertically into two views and move the "
-"currently active document to right view."
-msgstr "လက်ရှိ ကြည့်နေသော မြင်ကွင်းကို အထက်အောက် မြင်ကွင်းနှစ်ခုအဖြစ်ခွဲမည်။"
+"Split the currently active view vertically into two views and move the currently active document to right "
+"view."
+msgstr "လက်ရှိ ကြည့်နေသော မြင်ကွင်းကို ဘယ်ညာမြင်ကွင်းနှစ်ခုအဖြစ်ခွဲ၍ လက်ရှိကြည့်နေသောမှတ်တမ်းစာအုပ်ကို ညာဘက်မြင်ကွင်းသို့ရွှေ့မည်။"
 
 #: lib/kateviewmanager.cpp:141
 #, kde-format
@@ -1743,12 +1679,11 @@ msgid "Move Document to New Horizontal Split"
 msgstr ""
 
 #: lib/kateviewmanager.cpp:145
-#, fuzzy, kde-format
-#| msgid "Split the currently active view horizontally into two views."
+#, kde-format
 msgid ""
-"Split the currently active view horizontally into two views and move the "
-"currently active document to view below."
-msgstr "လက်ရှိ ကြည့်နေသော မြင်ကွင်းကို ဘယ်ညာမြင်ကွင်းနှစ်ခုအဖြစ်ခွဲမည်။"
+"Split the currently active view horizontally into two views and move the currently active document to view "
+"below."
+msgstr "လက်ရှိ ကြည့်နေသော မြင်ကွင်းကို အပေါ်အောက်မြင်ကွင်းနှစ်ခုအဖြစ်ခွဲ၍ လက်ရှိကြည့်နေသောမှတ်တမ်းစာအုပ်ကို အောက်မြင်ကွင်းသို့ရွှေ့မည်။"
 
 #: lib/kateviewmanager.cpp:150
 #, kde-format
@@ -1811,52 +1746,44 @@ msgid "Make the previous split view the active one."
 msgstr "ရှေ့ အခွဲ-မြင်ကွင်းကို သက်ဝင်စေမည်။"
 
 #: lib/kateviewmanager.cpp:194
-#, fuzzy, kde-format
-#| msgid "Next Split View"
+#, kde-format
 msgid "Left Split View"
-msgstr "နောက် အခွဲ-မြင်ကွင်း"
+msgstr "ဘယ်ဘက် အခွဲ-မြင်ကွင်း"
 
 #: lib/kateviewmanager.cpp:199
-#, fuzzy, kde-format
-#| msgid "Make the next split view the active one."
+#, kde-format
 msgid "Make the split view intuitively on the left the active one."
-msgstr "နောက် အခွဲ-မြင်ကွင်းကို သက်ဝင်စေမည်။"
+msgstr "အခွဲ-မြင်ကွင်းကို လက်ရှိမြင်ကွင်းဘယ်ဘက်ထားမည်။"
 
 #: lib/kateviewmanager.cpp:202
-#, fuzzy, kde-format
-#| msgid "Next Split View"
+#, kde-format
 msgid "Right Split View"
-msgstr "နောက် အခွဲ-မြင်ကွင်း"
+msgstr "ညာဘက် အခွဲ-မြင်ကွင်း"
 
 #: lib/kateviewmanager.cpp:207
-#, fuzzy, kde-format
-#| msgid "Make the next split view the active one."
+#, kde-format
 msgid "Make the split view intuitively on the right the active one."
-msgstr "နောက် အခွဲ-မြင်ကွင်းကို သက်ဝင်စေမည်။"
+msgstr "အခွဲ-မြင်ကွင်းကို လက်ရှိမြင်ကွင်းညာဘက်ထားမည်။"
 
 #: lib/kateviewmanager.cpp:210
-#, fuzzy, kde-format
-#| msgid "Split View"
+#, kde-format
 msgid "Upward Split View"
-msgstr "မြင်ကွင်းခွဲမည်"
+msgstr "အပေါ် အခွဲ-မြင်ကွင်း"
 
 #: lib/kateviewmanager.cpp:215
-#, fuzzy, kde-format
-#| msgid "Make the next split view the active one."
+#, kde-format
 msgid "Make the split view intuitively upward the active one."
-msgstr "နောက် အခွဲ-မြင်ကွင်းကို သက်ဝင်စေမည်။"
+msgstr "အခွဲ-မြင်ကွင်းကို လက်ရှိမြင်ကွင်းအပေါ်ထားမည်။"
 
 #: lib/kateviewmanager.cpp:218
-#, fuzzy, kde-format
-#| msgid "Split View"
+#, kde-format
 msgid "Downward Split View"
-msgstr "မြင်ကွင်းခွဲမည်"
+msgstr "အောက် အခွဲ-မြင်ကွင်း"
 
 #: lib/kateviewmanager.cpp:223
-#, fuzzy, kde-format
-#| msgid "Make the next split view the active one."
+#, kde-format
 msgid "Make the split view intuitively downward the active one."
-msgstr "နောက် အခွဲ-မြင်ကွင်းကို သက်ဝင်စေမည်။"
+msgstr "အခွဲ-မြင်ကွင်းကို လက်ရှိမြင်ကွင်းအောက်ထားမည်။"
 
 #: lib/kateviewmanager.cpp:226
 #, kde-format
@@ -1901,18 +1828,17 @@ msgstr ""
 #: lib/kateviewmanager.cpp:250
 #, kde-format
 msgid "Focus Navigation Bar"
-msgstr ""
+msgstr "လမ်းညွှန်တန်းကို အာရုံစိုက်မည်"
 
 #: lib/kateviewmanager.cpp:251
-#, fuzzy, kde-format
-#| msgid "Focus the next tab."
+#, kde-format
 msgid "Focus the navigation bar"
-msgstr "နောက်တပ်ဘ်ကို အာရုံစိုက်မည်။"
+msgstr "လမ်းညွှန်တန်းကို အာရုံစိုက်မည်"
 
 #: lib/kateviewmanager.cpp:258
 #, kde-format
 msgid "Welcome Page"
-msgstr ""
+msgstr "ကြိုဆိုမှုစာမျက်နှာ"
 
 #: lib/kateviewmanager.cpp:273
 #, kde-format
@@ -1927,13 +1853,11 @@ msgstr "ဖိုင်လ်ဖွင့်မည်"
 #: lib/kateviewmanager.cpp:336
 #, kde-format
 msgid ""
-"<p>You are attempting to open one or more large files:</p><ul>%1</ul><p>Do "
-"you want to proceed?</p><p><strong>Beware that kate may stop responding for "
-"some time when opening large files.</strong></p>"
+"<p>You are attempting to open one or more large files:</p><ul>%1</ul><p>Do you want to proceed?</"
+"p><p><strong>Beware that kate may stop responding for some time when opening large files.</strong></p>"
 msgstr ""
-"<p>အလွန်ကြီးမားသော ဖိုင်လ်တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသည်ကို ဖွင့်ရန် သင်လုပ်ဆောင်နေသည် -</p><ul>%1</"
-"ul><p>သင် ဆက်လုပ်ချင်ပါသလား။</p><p><strong>သတိထားရမည်က ဖိုင်လ်အကြီးများဖွင့်သောအခါ ကိတ်သည် "
-"ကာလတစ်ခုတိုင်အောင် တုံ့ပြန်မှုမရှိဘဲနေမည်။</strong></p>"
+"<p>အလွန်ကြီးမားသော ဖိုင်လ်တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသည်ကို ဖွင့်ရန် သင်လုပ်ဆောင်နေသည် -</p><ul>%1</ul><p>သင် ဆက်လုပ်ချင်ပါသလား။</"
+"p><p><strong>သတိထားရမည်က ဖိုင်လ်အကြီးများဖွင့်သောအခါ ကိတ်သည် ကာလတစ်ခုတိုင်အောင် တုံ့ပြန်မှုမရှိဘဲနေမည်။</strong></p>"
 
 #: lib/kateviewmanager.cpp:339
 #, kde-format
@@ -1964,11 +1888,11 @@ msgstr ""
 #: lib/kateviewspace.cpp:209
 #, kde-format
 msgid ""
-"Currently, there is one more document open. To see all open documents, "
-"switch to the Quick Open view by clicking here."
+"Currently, there is one more document open. To see all open documents, switch to the Quick Open view by "
+"clicking here."
 msgid_plural ""
-"Currently, there are %1 more documents open. To see all open documents, "
-"switch to the Quick Open view by clicking here."
+"Currently, there are %1 more documents open. To see all open documents, switch to the Quick Open view by "
+"clicking here."
 msgstr[0] ""
 
 #: lib/kateviewspace.cpp:975
@@ -1979,24 +1903,22 @@ msgstr "တပ်ဘ်ပိတ်မည်"
 #: lib/kateviewspace.cpp:992
 #, kde-format
 msgid "&Close Document"
-msgstr "&Cမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
+msgstr "&Cမှတ်တမ်းစာအုပ် ပိတ်မည်"
 
 #: lib/kateviewspace.cpp:993
 #, kde-format
 msgid "Close Other &Documents"
-msgstr "&Dအခြားမှတ်တမ်းပုံနှိပ်မူများ ပိတ်မည်"
+msgstr "&Dအခြားမှတ်တမ်းစာအုပ်များ ပိတ်မည်"
 
 #: lib/kateviewspace.cpp:994
-#, fuzzy, kde-format
-#| msgid "Close all documents"
+#, kde-format
 msgid "Close &All Documents"
-msgstr "မှတ်တမ်းပုံနှိပ်မူအားလုံး ပိတ်မည်"
+msgstr "မှတ်တမ်းစာအုပ် &Aအားလုံးပိတ်မည်"
 
 #: lib/kateviewspace.cpp:996
-#, fuzzy, kde-format
-#| msgid "Close Document"
+#, kde-format
 msgid "D&etach Document"
-msgstr "မှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
+msgstr "မှတ်တမ်းစာအုပ် &eခွဲမည်"
 
 #: lib/kateviewspace.cpp:997
 #, kde-format
@@ -2004,21 +1926,19 @@ msgid "Opens the document in a new window and closes it in the current window"
 msgstr ""
 
 #: lib/kateviewspace.cpp:1006
-#, fuzzy, kde-format
-#| msgid "Compare with active document"
+#, kde-format
 msgid "Compare with Active Document"
-msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူနှင့် နှိုင်းယှဥ်မည်"
+msgstr "သက်ဝင်နေသော မှတ်တမ်းစာအုပ်နှင့် နှိုင်းယှဉ်မည်"
 
 #: lib/kateviewspace.cpp:1010
 #, kde-format
 msgid "Diff %1 .. %2"
-msgstr ""
+msgstr "Diff %1 .. %2"
 
 #: lib/kateviewspace.cpp:1015
-#, fuzzy, kde-format
-#| msgid "Compare with active document"
+#, kde-format
 msgid "Compare with Active Document Using"
-msgstr "သက်ဝင်နေသော မှတ်တမ်းပုံနှိပ်မူနှင့် နှိုင်းယှဥ်မည်"
+msgstr "အောက်ပါကိုအသုံးပြု၍ သက်ဝင်နေသောမှတ်တမ်းစာအုပ်နှင့် နှိုင်းယှဉ်မည်"
 
 #: lib/kateviewspace.cpp:1082
 #, kde-format
@@ -2144,28 +2064,25 @@ msgstr "ဖျက်မည်"
 
 #: lib/session/katesessionmanager.cpp:105
 #, kde-format
-msgid ""
-"Internal error: there is more than one instance open for a given session."
+msgid "Internal error: there is more than one instance open for a given session."
 msgstr "စနစ်အတွင်းပိုင်းဆိုင်ရာ အမှား - ပေးထားသော ဆက်ရှင်တစ်ခုအတွက် ဆောင်ရွက်မှုများ တစ်ခုမကရှိနေသည်။"
 
 #: lib/session/katesessionmanager.cpp:112
 #, kde-format
-msgid ""
-"Session '%1' is already opened in another Kate instance. Switch to that or "
-"reopen in this instance?"
+msgid "Session '%1' is already opened in another Kate instance. Switch to that or reopen in this instance?"
 msgstr ""
 
 #: lib/session/katesessionmanager.cpp:114
 #, kde-format
 msgctxt "@action:button"
 msgid "Switch to Instance"
-msgstr ""
+msgstr "အင်းစတမ့်သို့ပြောင်း"
 
 #: lib/session/katesessionmanager.cpp:115
 #, kde-format
 msgctxt "@action:button"
 msgid "Reopen"
-msgstr ""
+msgstr "ပြန်ဖွင့်"
 
 #: lib/session/katesessionmanager.cpp:303
 #, kde-format
@@ -2230,10 +2147,9 @@ msgstr "&Mကိုယ်တိုင်ဆက်ရှင်ရွေးချ�
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: lib/ui/sessionconfigwidget.ui:47
-#, fuzzy, kde-format
-#| msgid "Application Shutdown Behavior"
+#, kde-format
 msgid "Application Startup/Shutdown Behavior"
-msgstr "အပ္ပလီကေးရှင်းပိတ်ချမှုဆိုင်ရာအမူအကျင့်"
+msgstr "အပ္ပလီကေးရှင်း စတင်၊ပိတ်ချမှုဆိုင်ရာအမူအကျင့်"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: lib/ui/sessionconfigwidget.ui:55
@@ -2263,14 +2179,13 @@ msgstr ""
 #: lib/ui/sessionconfigwidget.ui:95
 #, kde-format
 msgid ""
-"If enabled, the application will shutdown when the last file being edited is "
-"closed, otherwise a blank page will open so that you can start a new file."
+"If enabled, the application will shutdown when the last file being edited is closed, otherwise a blank page "
+"will open so that you can start a new file."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, modCloseAfterLast)
 #: lib/ui/sessionconfigwidget.ui:98
-#, fuzzy, kde-format
-#| msgid "Close Kate entirely when the last file is closed"
+#, kde-format
 msgid "Close the application entirely when the last file is closed"
 msgstr "နောက်ဆုံးကျန်နေသောဖိုင်လ်ကို ပိတ်ပြီးသည်နှင့် ကိတ်ကို ပိတ်ချမည်"
 
@@ -2284,9 +2199,8 @@ msgstr "ဆက်ရှင် အစိတ်အပိုင်းများ"
 #: lib/ui/sessionconfigwidget.ui:114
 #, kde-format
 msgid ""
-"The session contains the list of open documents, recently opened files list, "
-"bookmarks, cursor position etc. When the session is loaded all elements are "
-"restored."
+"The session contains the list of open documents, recently opened files list, bookmarks, cursor position etc. "
+"When the session is loaded all elements are restored."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
@@ -2298,9 +2212,7 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, restoreVC)
 #: lib/ui/sessionconfigwidget.ui:154
 #, kde-format
-msgid ""
-"Check this if you want all your views and frames restored each time you open "
-"the application."
+msgid "Check this if you want all your views and frames restored each time you open the application."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, restoreVC)
@@ -2313,9 +2225,8 @@ msgstr "&wဝင်းဒိုးပြင်ဆင်ချက်ပါဝင�
 #: lib/ui/sessionconfigwidget.ui:167
 #, kde-format
 msgid ""
-"Check this if you want document configuration like for example bookmarks to "
-"be saved past editor sessions. The configuration will be restored if the "
-"document has not changed when reopened."
+"Check this if you want document configuration like for example bookmarks to be saved past editor sessions. "
+"The configuration will be restored if the document has not changed when reopened."
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, saveMetaInfos)
@@ -2331,85 +2242,78 @@ msgid "Delete unused meta-information after:"
 msgstr "အသုံးမပြုသော အဓိပ္ပါယ်ဖွင့်ဆိုမှု-အချက်အလက်များကို ဖျက်မည် (အချိန်တစ်ခုကြာပြီးလျှင်) -"
 
 #: lib/welcomeview.cpp:69
-#, fuzzy, kde-format
-#| msgid "Location"
+#, kde-format
 msgid "&Copy Location"
-msgstr "တည်နေရာ"
+msgstr "တည်နေရာ &Cကူးယူမည်"
 
 #: lib/welcomeview.cpp:94
 #, kde-format
 msgctxt "recent items context menu"
 msgid "&Forget This Item"
-msgstr ""
+msgstr "ဤအိုင်တမ်ကို &Fမေ့ပစ်မည်"
 
 #: lib/welcomeview.cpp:123
 #, kde-format
 msgid "Welcome"
-msgstr ""
+msgstr "ကြိုဆိုပါ၏။"
 
 #. i18n: ectx: property (text), widget (QLabel, welcomeLabel)
 #: lib/welcomeview.cpp:126 lib/welcomeview.ui:158
 #, kde-format
 msgid "Welcome to Kate"
-msgstr ""
+msgstr "ကိတ်မှကြိုဆိုပါ၏"
 
 #: lib/welcomeview.cpp:126
 #, kde-format
 msgid "Welcome to KWrite"
-msgstr ""
+msgstr "ကေရိုက်မှကြိုဆိုပါ၏။"
 
 #: lib/welcomeview.cpp:176
-#, fuzzy, kde-format
-#| msgid "Close the current document."
+#, kde-format
 msgctxt "on welcome screen"
 msgid "No recent documents"
-msgstr "လက်ရှိမှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
+msgstr "လတ်တလောမှတ်တမ်းစာအုပ်များမရှိ"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, WelcomeView)
 #: lib/welcomeview.ui:17
 #, kde-format
 msgid "Form"
-msgstr ""
+msgstr "ဖောင်"
 
 #. i18n: ectx: property (text), widget (QPushButton, newDocumentButton)
 #: lib/welcomeview.ui:221
-#, fuzzy, kde-format
-#| msgid "Close Document"
+#, kde-format
 msgctxt "on welcome screen"
 msgid "New Document"
-msgstr "မှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
+msgstr "မှတ်တမ်းစာအုပ်အသစ်"
 
 #. i18n: ectx: property (text), widget (QPushButton, openDocumentButton)
 #: lib/welcomeview.ui:232
-#, fuzzy, kde-format
-#| msgid "Close Document"
+#, kde-format
 msgctxt "on welcome screen"
 msgid "Open Document..."
-msgstr "မှတ်တမ်းပုံနှိပ်မူ ပိတ်မည်"
+msgstr "မှတ်တမ်းစာအုပ်ဖွင့်…"
 
 #. i18n: ectx: property (text), widget (QPushButton, openFolderButton)
 #: lib/welcomeview.ui:243
-#, fuzzy, kde-format
-#| msgid "Open File"
+#, kde-format
 msgctxt "on welcome screen"
 msgid "Open Folder..."
-msgstr "ဖိုင်လ်ဖွင့်မည်"
+msgstr "ဖိုလ်ဒါဖွင့်…"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: lib/welcomeview.ui:372
-#, fuzzy, kde-format
-#| msgid "Reload all open documents."
+#, kde-format
 msgctxt "on welcome screen"
 msgid "Recent documents"
-msgstr "ဖွင့်ထားသော မှတ်တမ်းပုံနှိပ်မူအကုန် ပြန်တွန်းတင်မည်။"
+msgstr "လတ်တလောမှတ်တမ်းစာအုပ်များ"
 
 #. i18n: ectx: property (text), widget (QToolButton, forgetAllButton)
 #: lib/welcomeview.ui:382
-#, fuzzy, kde-format
-#| msgid "Clos&e All"
+#, kde-format
 msgctxt "on welcome screen (recent document list)"
 msgid "Forget All"
-msgstr "&eအားလုံးပိတ်မည်"
+msgstr "အားလုံးမေ့မည်"
 
 #~ msgid "Make Non-Persistent"
 #~ msgstr "မတည်မြဲစေမည်"
