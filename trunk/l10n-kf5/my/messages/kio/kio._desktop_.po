@@ -117,11 +117,11 @@ msgstr "SMBဝေမျှမှုများကို အသုံးပြ�
 #: src/kcms/smb/smb.desktop:159
 msgctxt "X-KDE-Keywords"
 msgid ""
-"SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,Broadcast,WINS,"
-"Share,Login,Passwords"
+"SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
+"Broadcast,WINS,Share,Login,Passwords"
 msgstr ""
-"SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,Broadcast,WINS,"
-"Share,Login,Passwords"
+"SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
+"Broadcast,WINS,Share,Login,Passwords"
 
 #: src/kcms/webshortcuts/webshortcuts.desktop:11
 msgctxt "Name"
@@ -136,11 +136,11 @@ msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလု�
 #: src/kcms/webshortcuts/webshortcuts.desktop:111
 msgctxt "X-KDE-Keywords"
 msgid ""
-"Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,Internet,"
-"Internet Filters,Network,Search Engines,Shortcuts"
+"Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
+"Internet,Internet Filters,Network,Search Engines,Shortcuts"
 msgstr ""
-"Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,Internet,"
-"Internet Filters,Network,Search Engines,Shortcuts"
+"Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
+"Internet,Internet Filters,Network,Search Engines,Shortcuts"
 
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.desktop:3
 msgctxt "Name"
@@ -265,8 +265,10 @@ msgstr "၇ဒီဂျစ်တယ်"
 
 #: src/urifilters/ikws/searchproviders/7digital.desktop:81
 msgctxt "Query"
-msgid "https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
-msgstr "https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
+msgid ""
+"https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
+msgstr ""
+"https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
 
 #: src/urifilters/ikws/searchproviders/acronym.desktop:3
 msgctxt "Name"
@@ -286,11 +288,11 @@ msgstr "အမေဇုန်"
 #: src/urifilters/ikws/searchproviders/amazon.desktop:80
 msgctxt "Query"
 msgid ""
-"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=\\\\{@}"
-"&x=0&y=0"
+"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords="
+"\\\\{@}&x=0&y=0"
 msgstr ""
-"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=\\\\{@}"
-"&x=0&y=0"
+"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords="
+"\\\\{@}&x=0&y=0"
 
 #: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:5
 msgctxt "Name"
@@ -369,10 +371,12 @@ msgstr "ဘိုလင်းဂတ်စ် အွန်လိုင်းဒ�
 msgctxt "Query"
 msgid ""
 "https://dict.tu-chemnitz.de/dings.cgi?"
-"lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}&iservice=&comment=&email"
+"lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
+"&iservice=&comment=&email"
 msgstr ""
 "https://dict.tu-chemnitz.de/dings.cgi?"
-"lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}&iservice=&comment=&email"
+"lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
+"&iservice=&comment=&email"
 
 #: src/urifilters/ikws/searchproviders/bing.desktop:3
 msgctxt "Name"
@@ -427,8 +431,10 @@ msgstr "ဆိုက်ဆီယာ - သိပ္ပံစာပေဆိုင
 
 #: src/urifilters/ikws/searchproviders/citeseer.desktop:95
 msgctxt "Query"
-msgid "https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
-msgstr "https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
+msgid ""
+"https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
+msgstr ""
+"https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
 
 #: src/urifilters/ikws/searchproviders/cpan.desktop:3
 msgctxt "Name"
@@ -437,8 +443,10 @@ msgstr "စီပန် - များပြားပါဝင်သော Perl 
 
 #: src/urifilters/ikws/searchproviders/cpan.desktop:95
 msgctxt "Query"
-msgid "https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
-msgstr "https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
+msgid ""
+"https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
+msgstr ""
+"https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
 
 #: src/urifilters/ikws/searchproviders/cplusplus.desktop:2
 msgctxt "Name"
@@ -668,8 +676,10 @@ msgstr "ဖီဒ်စတား"
 
 #: src/urifilters/ikws/searchproviders/feedster.desktop:97
 msgctxt "Query"
-msgid "https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
-msgstr "https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
+msgid ""
+"https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
+msgstr ""
+"https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/flatpak.desktop:2
 msgctxt "Name"
@@ -789,16 +799,18 @@ msgstr "ဂူးဂယ်အဆင့်မြင့်ရှာဖွေမှ
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
-"&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\\\{without,"
-"\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\\\{filetype,\"\"}"
-"&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt=\\\\{siteop,\"i\"}"
-"&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}&ie=UTF-8&oe=UTF-8"
+"&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\"
+"\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\"
+"\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt="
+"\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}"
+"&ie=UTF-8&oe=UTF-8"
 msgstr ""
 "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
-"&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\\\{without,"
-"\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\\\{filetype,\"\"}"
-"&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt=\\\\{siteop,\"i\"}"
-"&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}&ie=UTF-8&oe=UTF-8"
+"&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\"
+"\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\"
+"\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt="
+"\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}"
+"&ie=UTF-8&oe=UTF-8"
 
 #: src/urifilters/ikws/searchproviders/google_code.desktop:5
 msgctxt "Name"
@@ -848,9 +860,11 @@ msgstr "ဂူးဂယ် (ကံတက်နေပြီ)"
 #: src/urifilters/ikws/searchproviders/google_lucky.desktop:96
 msgctxt "Query"
 msgid ""
-"https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8"
+"https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
+"+Lucky&ie=UTF-8&oe=UTF-8"
 msgstr ""
-"https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8"
+"https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
+"+Lucky&ie=UTF-8&oe=UTF-8"
 
 #: src/urifilters/ikws/searchproviders/google_maps.desktop:3
 msgctxt "Name"
@@ -978,8 +992,6 @@ msgid "KDE Invent Issues"
 msgstr "ကေဒီအီး အင်ဗန့် အစ်ရှူး"
 
 #: src/urifilters/ikws/searchproviders/invent_issues.desktop:40
-#| msgctxt "Query"
-#| msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=issues&search=\\\\{@}"
 msgstr "https://invent.kde.org/search?scope=issues&search=\\\\{@}"
@@ -990,8 +1002,6 @@ msgid "KDE Invent Merge Requests"
 msgstr "ကေဒီအီး အင်ဗန့် ပေါင်းစပ်ရန်တောင်းဆိုချက်များ"
 
 #: src/urifilters/ikws/searchproviders/invent_mr.desktop:39
-#| msgctxt "Query"
-#| msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=merge_requests&search=\\\\{@}"
 msgstr "https://invent.kde.org/search?scope=merge_requests&search=\\\\{@}"
@@ -1080,8 +1090,6 @@ msgid "KDE Store"
 msgstr "ကေဒီအီး စတိုး"
 
 #: src/urifilters/ikws/searchproviders/kde_store.desktop:44
-#| msgctxt "Query"
-#| msgid "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 msgctxt "Query"
 msgid "https://store.kde.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr "https://store.kde.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1112,8 +1120,6 @@ msgid "KDE Reddit"
 msgstr "ကေဒီအီး ရက်ဒစ်"
 
 #: src/urifilters/ikws/searchproviders/kreddit.desktop:42
-#| msgctxt "Query"
-#| msgid "https://www.bing.com/search?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.reddit.com/r/kde/search/?q=\\\\{@}&restrict_sr=1"
 msgstr "https://www.reddit.com/r/kde/search/?q=\\\\{@}&restrict_sr=1"
@@ -1134,8 +1140,6 @@ msgid "Learn CPP"
 msgstr "စီပီပီ လေ့လာသင်ယူကြမယ်"
 
 #: src/urifilters/ikws/searchproviders/learncpp.desktop:42
-#| msgctxt "Query"
-#| msgid "https://www.flickr.com/search/?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.learncpp.com/gsearch/?q=\\\\{@}"
 msgstr "https://www.learncpp.com/gsearch/?q=\\\\{@}"
@@ -1156,8 +1160,6 @@ msgid "Linguee"
 msgstr "လင်ဂွီ"
 
 #: src/urifilters/ikws/searchproviders/linguee.desktop:42
-#| msgctxt "Query"
-#| msgid "https://www.bing.com/search?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.linguee.com/search?source=auto&query=\\\\{@}"
 msgstr "https://www.linguee.com/search?source=auto&query=\\\\{@}"
@@ -1180,7 +1182,8 @@ msgstr "မတ်တာခရောလ်လာ"
 #: src/urifilters/ikws/searchproviders/metacrawler.desktop:98
 msgctxt "Query"
 msgid "https://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
-msgstr "https://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
+msgstr ""
+"https://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:2
 msgctxt "Name"
@@ -1280,9 +1283,11 @@ msgstr "Telephonebook Search Provider"
 #: src/urifilters/ikws/searchproviders/nl-telephone.desktop:93
 msgctxt "Query"
 msgid ""
-"https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\\\{2}"
+"https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
+"\\{2}"
 msgstr ""
-"https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\\\{2}"
+"https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
+"\\{2}"
 
 #: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:2
 msgctxt "Name"
@@ -1301,8 +1306,10 @@ msgstr "အိုးပန်းဒက်စ်တော့ပ် ဒေါ့ �
 
 #: src/urifilters/ikws/searchproviders/opendesktop.desktop:80
 msgctxt "Query"
-msgid "https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
-msgstr "https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
+msgid ""
+"https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
+msgstr ""
+"https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/opensuse.desktop:2
 msgctxt "Name"
@@ -1310,8 +1317,6 @@ msgid "openSUSE Software"
 msgstr "အိုးပန်းဆူဆီ ဆော့ဖ်ဝဲလ်"
 
 #: src/urifilters/ikws/searchproviders/opensuse.desktop:41
-#| msgctxt "Query"
-#| msgid "http://freecode.com/search?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://software.opensuse.org/search?utf8=%E2%9C%93&q=\\\\{@}"
 msgstr "https://software.opensuse.org/search?utf8=%E2%9C%93&q=\\\\{@}"
@@ -1342,8 +1347,6 @@ msgid "ProtonDB"
 msgstr "ပရိုတွန်ဒီဘီ"
 
 #: src/urifilters/ikws/searchproviders/protondb.desktop:43
-#| msgctxt "Query"
-#| msgid "https://www.bing.com/search?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.protondb.com/search?q=\\\\{@}"
 msgstr "https://www.protondb.com/search?q=\\\\{@}"
@@ -1468,8 +1471,6 @@ msgid "Reddit"
 msgstr "ရက်ဒစ်"
 
 #: src/urifilters/ikws/searchproviders/reddit.desktop:43
-#| msgctxt "Query"
-#| msgid "https://www.bing.com/search?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.reddit.com/search/?q=\\\\{@}"
 msgstr "https://www.reddit.com/search/?q=\\\\{@}"
@@ -1532,11 +1533,11 @@ msgstr "စို့ဖေါ့ဂျ်"
 #: src/urifilters/ikws/searchproviders/sourceforge.desktop:97
 msgctxt "Query"
 msgid ""
-"https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\\\{exact,"
-"\"0\"}&words=\\\\{@}"
+"https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
+"\\{exact,\"0\"}&words=\\\\{@}"
 msgstr ""
-"https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\\\{exact,"
-"\"0\"}&words=\\\\{@}"
+"https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
+"\\{exact,\"0\"}&words=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/technorati.desktop:3
 msgctxt "Name"
@@ -1584,8 +1585,6 @@ msgid "Ubuntu Package Search"
 msgstr "ဥဘွန်းတု ပတ်ကေ့ ရှာဖွေရန်"
 
 #: src/urifilters/ikws/searchproviders/ubuntu.desktop:42
-#| msgctxt "Query"
-#| msgid "https://packages.debian.org/\\\\{@}"
 msgctxt "Query"
 msgid "https://packages.ubuntu.com/\\\\{@}"
 msgstr "https://packages.ubuntu.com/\\\\{@}"
@@ -1651,8 +1650,12 @@ msgstr "ဝစ်ကီယား"
 
 #: src/urifilters/ikws/searchproviders/wikia.desktop:80
 msgctxt "Query"
-msgid "https://www.wikia.com/Special:Search?search=\\\\{@}&wikia_search_submit=Search"
-msgstr "https://www.wikia.com/Special:Search?search=\\\\{@}&wikia_search_submit=Search"
+msgid ""
+"https://www.wikia.com/Special:Search?search=\\\\{@}"
+"&wikia_search_submit=Search"
+msgstr ""
+"https://www.wikia.com/Special:Search?search=\\\\{@}"
+"&wikia_search_submit=Search"
 
 #: src/urifilters/ikws/searchproviders/wikipedia.desktop:4
 msgctxt "Name"
@@ -1680,8 +1683,6 @@ msgid "WineHQ Database"
 msgstr "WineHQ ဒေတာဘေ့စ်"
 
 #: src/urifilters/ikws/searchproviders/wine.desktop:42
-#| msgctxt "Query"
-#| msgid "https://www.bing.com/search?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.winehq.org/search?q=\\\\{@}"
 msgstr "https://www.winehq.org/search?q=\\\\{@}"
@@ -1714,11 +1715,11 @@ msgstr "ယဟူး"
 #: src/urifilters/ikws/searchproviders/yahoo.desktop:83
 msgctxt "Query"
 msgid ""
-"https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\\\{@}"
-"&x=0&y=0&=Web+Search"
+"https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
+"\\{@}&x=0&y=0&=Web+Search"
 msgstr ""
-"https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\\\{@}"
-"&x=0&y=0&=Web+Search"
+"https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
+"\\{@}&x=0&y=0&=Web+Search"
 
 #: src/urifilters/ikws/searchproviders/yahoo_image.desktop:5
 msgctxt "Name"
@@ -1741,8 +1742,10 @@ msgstr "ယဟူး ဒေသတွင်း"
 
 #: src/urifilters/ikws/searchproviders/yahoo_local.desktop:79
 msgctxt "Query"
-msgid "https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
-msgstr "https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
+msgid ""
+"https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
+msgstr ""
+"https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
 
 #: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:5
 msgctxt "Name"
@@ -1753,12 +1756,12 @@ msgstr "ယဟူးစျေးဝယ်ထွက်"
 msgctxt "Query"
 msgid ""
 "https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
-"_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}&fr2=tab-"
-"video&fr=yfp-t-701"
+"_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}"
+"&fr2=tab-video&fr=yfp-t-701"
 msgstr ""
 "https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
-"_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}&fr2=tab-"
-"video&fr=yfp-t-701"
+"_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}"
+"&fr2=tab-video&fr=yfp-t-701"
 
 #: src/urifilters/ikws/searchproviders/yahoo_video.desktop:5
 msgctxt "Name"
@@ -1780,8 +1783,6 @@ msgid "Yandex"
 msgstr "ရန်ဒက်"
 
 #: src/urifilters/ikws/searchproviders/yandex.desktop:40
-#| msgctxt "Query"
-#| msgid "https://ctan.org/search?phrase=\\\\{@}"
 msgctxt "Query"
 msgid "https://yandex.ru/search/?text=\\\\{@}"
 msgstr "https://yandex.ru/search/?text=\\\\{@}"
@@ -1839,8 +1840,10 @@ msgstr "KIO Workerပုံစံပြား"
 #~ msgstr "ကေဒီအီး အသွင်အပြင်"
 
 #~ msgctxt "Query"
-#~ msgid "https://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
-#~ msgstr "https://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
+#~ msgid ""
+#~ "https://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
+#~ msgstr ""
+#~ "https://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
 
 #~ msgctxt "Query"
 #~ msgid "https://doc.qt.io/archives/qt-4.8/search-results.html?q=\\\\{@}"
