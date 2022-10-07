@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-18 00:49+0000\n"
+"POT-Creation-Date: 2022-10-07 00:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1110,15 +1110,6 @@ msgid ""
 msgstr ""
 
 #: content/products.md:0
-msgid "WikiToLearn"
-msgstr "လေ့လာရန်ဝီကီ"
-
-#: content/products.md:0
-msgid ""
-"Collaborative textbooks. Learn with the best. Create books. Share knowledge."
-msgstr ""
-
-#: content/products.md:0
 msgid "Frameworks"
 msgstr "မူဘောင်"
 
@@ -1329,6 +1320,9 @@ msgid ""
 "On this page, you can find different ways to find user support for KDE "
 "software provided by the community."
 msgstr ""
+
+#~ msgid "WikiToLearn"
+#~ msgstr "လေ့လာရန်ဝီကီ"
 
 #~ msgid "A powerful laptop for daily use or CPU-intensive work"
 #~ msgstr ""
