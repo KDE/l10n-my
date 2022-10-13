@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-20 00:55+0000\n"
+"POT-Creation-Date: 2022-10-13 00:58+0000\n"
 "PO-Revision-Date: 2021-09-20 02:05+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -18,6 +18,11 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "ကွတ်ကီးဘူး"
 
+#: src/kioworkers/remote/kdedmodule/remotedirnotify.json
+msgctxt "Name"
+msgid "Remote URL Change Notifier"
+msgstr ""
+
 #: src/kpac/proxyscout.json
 msgctxt "Name"
 msgid "Network Proxy Configuration"
@@ -27,6 +32,11 @@ msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင�
 msgctxt "Description"
 msgid "Stores network cookies"
 msgstr "ဆ.သ.ရ-ကွန်ရက်ဆိုင်ရာ ကွတ်ကီးများ သိမ်းဆည်းသည်"
+
+#: src/kioworkers/remote/kdedmodule/remotedirnotify.json
+msgctxt "Description"
+msgid "Provides change notification for network folders"
+msgstr ""
 
 #: src/kpac/proxyscout.json
 msgctxt "Description"

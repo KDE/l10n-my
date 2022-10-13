@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-07 00:56+0000\n"
+"POT-Creation-Date: 2022-10-13 00:56+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -141,16 +141,6 @@ msgid ""
 msgstr ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
 "Internet,Internet Filters,Network,Search Engines,Shortcuts"
-
-#: src/kioworkers/remote/kdedmodule/remotedirnotify.desktop:3
-msgctxt "Name"
-msgid "Remote URL Change Notifier"
-msgstr "အဝေး URL ပြောင်းလဲမှုအသိပေးသူ"
-
-#: src/kioworkers/remote/kdedmodule/remotedirnotify.desktop:78
-msgctxt "Comment"
-msgid "Provides change notification for network folders"
-msgstr "ကွန်ရက်ပေါ်မှဖိုလ်ဒါများပြောင်းလဲပါက အကြောင်းကြားသည်"
 
 #: src/kpac/proxyscout.notifyrc:3
 msgctxt "Comment"
@@ -1826,6 +1816,14 @@ msgstr "စီ++"
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "KIO Workerပုံစံပြား"
+
+#~ msgctxt "Name"
+#~ msgid "Remote URL Change Notifier"
+#~ msgstr "အဝေး URL ပြောင်းလဲမှုအသိပေးသူ"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides change notification for network folders"
+#~ msgstr "ကွန်ရက်ပေါ်မှဖိုလ်ဒါများပြောင်းလဲပါက အကြောင်းကြားသည်"
 
 #~ msgctxt "Comment"
 #~ msgid "Plugin for the KIO Drag-and-drop Popup Menu"

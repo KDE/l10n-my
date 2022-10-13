@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-11 00:51+0000\n"
+"POT-Creation-Date: 2022-10-13 00:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.0\n"
 
-#: config.yaml:0 content/_index.md:0
+#: config.yaml:0 content/_index.md:0 i18n/en.yaml:0
 msgid "Kate"
 msgstr "ကိတ်"
 
@@ -382,7 +382,7 @@ msgstr "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 #: content/get-it.md:40
 msgid ""
 "[Kate release (64bit) installer](https://download.kde.org/stable/release-"
-"service/21.12.3/windows/kate-21.12.3-1589-windows-msvc2019_64-cl.exe) *"
+"service/22.08.1/windows/kate-22.08.1-windows-msvc2019_64-cl.exe) *"
 msgstr ""
 
 #: content/get-it.md:41
