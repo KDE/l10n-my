@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-13 00:56+0000\n"
+"POT-Creation-Date: 2022-10-14 00:56+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1802,11 +1802,6 @@ msgctxt "Comment"
 msgid "Plugin for the Properties Dialog"
 msgstr "ကိုယ်ပိုင်လက္ခဏာများဆိုင်ရာ အပြော-ဝင်းဒိုးအတွက် ပလပ်ဂင်"
 
-#: src/widgets/kurifilterplugin.desktop:4
-msgctxt "Name"
-msgid "Enhanced Browsing Plugin"
-msgstr "စွမ်းရည်တိုးထားသော ရှောက်ကြည့်-ပလပ်ဂင်"
-
 #: templates/kioworker/kioworker.kdevtemplate:2
 msgctxt "Name"
 msgid "C++"
@@ -1816,6 +1811,10 @@ msgstr "စီ++"
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "KIO Workerပုံစံပြား"
+
+#~ msgctxt "Name"
+#~ msgid "Enhanced Browsing Plugin"
+#~ msgstr "စွမ်းရည်တိုးထားသော ရှောက်ကြည့်-ပလပ်ဂင်"
 
 #~ msgctxt "Name"
 #~ msgid "Remote URL Change Notifier"
