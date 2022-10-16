@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-15 00:57+0000\n"
+"POT-Creation-Date: 2022-10-16 01:00+0000\n"
 "PO-Revision-Date: 2021-09-15 04:53+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -125,11 +125,6 @@ msgstr "ရီပလီကုတ်"
 msgctxt "Name"
 msgid "Search & Replace"
 msgstr "ရှာပြီး အစားထိုးမည်"
-
-#: addons/sessionapplet/applet/metadata.json
-msgctxt "Name"
-msgid "Kate Sessions"
-msgstr "ကိတ် ဆက်ရှင်များ"
 
 #: addons/snippets/katesnippetsplugin.json
 msgctxt "Name"
@@ -276,11 +271,6 @@ msgctxt "Description"
 msgid "Search and replace in documents, folders, or projects"
 msgstr ""
 
-#: addons/sessionapplet/applet/metadata.json
-msgctxt "Description"
-msgid "Kate Session Launcher"
-msgstr "ကိတ် ဆက်ရှင် လောင်ချာ"
-
 #: addons/snippets/katesnippetsplugin.json
 msgctxt "Description"
 msgid "Manage your code snippets or download new ones"
@@ -317,7 +307,14 @@ msgctxt "Authors Name"
 msgid "Friedrich W. H. Kossebau"
 msgstr "ဖရက်ရစ် ဒဗျူ.အိပ်ချ်.ကိုဆက်ဘောက်"
 
-#: addons/sessionapplet/applet/metadata.json
-msgctxt "Authors Name"
-msgid "Joseph Wenninger"
-msgstr "ဂျိုးဆက်ဝမ်နင်ဂျာ"
+#~ msgctxt "Name"
+#~ msgid "Kate Sessions"
+#~ msgstr "ကိတ် ဆက်ရှင်များ"
+
+#~ msgctxt "Description"
+#~ msgid "Kate Session Launcher"
+#~ msgstr "ကိတ် ဆက်ရှင် လောင်ချာ"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Joseph Wenninger"
+#~ msgstr "ဂျိုးဆက်ဝမ်နင်ဂျာ"
