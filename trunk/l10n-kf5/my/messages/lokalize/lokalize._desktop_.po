@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-18 00:54+0000\n"
+"POT-Creation-Date: 2022-10-21 00:56+0000\n"
 "PO-Revision-Date: 2021-09-19 19:53+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,32 +18,32 @@ msgctxt "Comment"
 msgid "Computer-aided translation system"
 msgstr ""
 
-#: src/lokalize.notifyrc:58 src/org.kde.lokalize.desktop:2
+#: src/lokalize.notifyrc:57 src/org.kde.lokalize.desktop:2
 msgctxt "Name"
 msgid "Lokalize"
 msgstr ""
 
-#: src/lokalize.notifyrc:120
+#: src/lokalize.notifyrc:118
 msgctxt "Name"
 msgid "Error opening files"
 msgstr ""
 
-#: src/lokalize.notifyrc:177
+#: src/lokalize.notifyrc:174
 msgctxt "Name"
 msgid "Error opening files for synchronization"
 msgstr ""
 
-#: src/lokalize.notifyrc:232
+#: src/lokalize.notifyrc:228
 msgctxt "Name"
 msgid "No Qt Sql modules were found"
 msgstr ""
 
-#: src/lokalize.notifyrc:287
+#: src/lokalize.notifyrc:282
 msgctxt "Name"
 msgid "Scanning folders with source files..."
 msgstr ""
 
-#: src/org.kde.lokalize.desktop:70
+#: src/org.kde.lokalize.desktop:69
 msgctxt "GenericName"
 msgid "Computer-Aided Translation System"
 msgstr ""

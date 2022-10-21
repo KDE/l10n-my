@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-13 00:55+0000\n"
+"POT-Creation-Date: 2022-10-21 00:56+0000\n"
 "PO-Revision-Date: 2021-09-19 13:15+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,12 +18,12 @@ msgctxt "GenericName"
 msgid "KDE System Settings"
 msgstr ""
 
-#: app/kdesystemsettings.desktop:73
+#: app/kdesystemsettings.desktop:72
 msgctxt "Name"
 msgid "KDE System Settings"
 msgstr "ကေဒီအီးစစ်စတမ်ဆက်တင်များ"
 
-#: app/kdesystemsettings.desktop:138 app/systemsettings.desktop:189
+#: app/kdesystemsettings.desktop:136 app/systemsettings.desktop:187
 msgctxt "Comment"
 msgid "Configuration tools for your computer"
 msgstr ""
@@ -33,32 +33,32 @@ msgctxt "GenericName"
 msgid "System Settings"
 msgstr ""
 
-#: app/systemsettings.desktop:99
+#: app/systemsettings.desktop:98
 msgctxt "Name"
 msgid "System Settings"
 msgstr "စစ်စတမ်ဆက်တင်များ"
 
-#: app/systemsettings.desktop:247
+#: app/systemsettings.desktop:244
 msgctxt "Name"
 msgid "Global Theme"
 msgstr ""
 
-#: app/systemsettings.desktop:298
+#: app/systemsettings.desktop:294
 msgctxt "Name"
 msgid "Users"
 msgstr "အသုံးပြုသူများ"
 
-#: app/systemsettings.desktop:351
+#: app/systemsettings.desktop:346
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr "စခရင် သော့ခတ်ခြင်း"
 
-#: app/systemsettings.desktop:402
+#: app/systemsettings.desktop:397
 msgctxt "Name"
 msgid "Energy Saving"
 msgstr ""
 
-#: app/systemsettings.desktop:453
+#: app/systemsettings.desktop:447
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr ""
@@ -93,7 +93,7 @@ msgctxt "Name"
 msgid "Display and Monitor"
 msgstr ""
 
-#: categories/settings-hardware-display.desktop:77
+#: categories/settings-hardware-display.desktop:76
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr ""
@@ -203,23 +203,23 @@ msgctxt "X-KDE-Keywords"
 msgid "System Settings"
 msgstr ""
 
-#: icons/settings-icon-view.desktop:71
+#: icons/settings-icon-view.desktop:70
 msgctxt "Name"
 msgid "Icon View"
 msgstr "အိုင်ကွန် မြင်ကွင်း"
 
-#: icons/settings-icon-view.desktop:152
+#: icons/settings-icon-view.desktop:150
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
 
-#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:71
+#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:70
 msgctxt "Name"
 msgid "Sidebar View"
 msgstr "ဘေးတန်း မြင်ကွင်း"
 
-#: sidebar/package/metadata.desktop:57
-#: sidebar/settings-sidebar-view.desktop:126
+#: sidebar/package/metadata.desktop:56
+#: sidebar/settings-sidebar-view.desktop:124
 msgctxt "Comment"
 msgid "Categorized sidebar style"
 msgstr ""
