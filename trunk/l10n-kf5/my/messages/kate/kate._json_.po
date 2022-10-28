@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-16 01:00+0000\n"
+"POT-Creation-Date: 2022-10-28 00:58+0000\n"
 "PO-Revision-Date: 2021-09-15 04:53+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -107,6 +107,11 @@ msgstr "မှတ်တမ်းပုံနှိပ်မူ အကြို�
 msgctxt "Name"
 msgid "Project Plugin"
 msgstr "ပရောဂျက် ပလပ်ဂင်"
+
+#: addons/python/katepythonplugin.json
+msgctxt "Name"
+msgid "Python Scripting"
+msgstr ""
 
 #: addons/rainbow-parens/rainbowparens_plugin.json
 #, fuzzy
@@ -251,6 +256,11 @@ msgstr ""
 #: addons/project/kateprojectplugin.json
 msgctxt "Description"
 msgid "Integration with Git and other source control systems"
+msgstr ""
+
+#: addons/python/katepythonplugin.json
+msgctxt "Description"
+msgid "Plugin that allows Python scripting for Kate"
 msgstr ""
 
 #: addons/rainbow-parens/rainbowparens_plugin.json
