@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-06 00:49+0000\n"
+"POT-Creation-Date: 2022-11-02 00:54+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1067,6 +1067,18 @@ msgstr ""
 msgid ""
 "The Steam Deck is a portable console that runs the latest AAA games with the "
 "flexibility of a full PC."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Get it"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Fund it"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Art by"
 msgstr ""
 
 #~ msgid ""
