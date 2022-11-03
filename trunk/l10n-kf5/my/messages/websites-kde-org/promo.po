@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-07 00:51+0000\n"
+"POT-Creation-Date: 2022-11-03 00:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -273,6 +273,304 @@ msgid ""
 "other operating systems. A list of those is available on the [KDE Community "
 "wiki](https://community.kde.org/Distributions). You can also [buy devices "
 "with Plasma](/hardware)."
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "KDE for Creators"
+msgstr ""
+
+#: content/for/creators.md:0
+#, fuzzy
+#| msgid "KDE Applications"
+msgid "For Artists Using KDE Applications."
+msgstr "ကေဒီအီးအပ္ပလီကေးရှင်းများ"
+
+#: content/for/creators.md:0
+msgid "Summer portrait by RodMartin"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Page of Coins by Sylvia Ritter"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Artwork by RoseRedTiger"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Cordelia by MPetrelli"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Artwork by Sonny"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Flying cats by emilm"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Future? by Mato"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Blender"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "3D creation"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "/for/resources/blender_icon_512x512.png"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Inkscape"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Vector graphics"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "/for/resources/inkscape-logo.svg"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Scribus"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Publishing"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "/for/resources/Scribus_logo.svg"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Ossia score"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Media art"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "/for/resources/score-logo.png"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "LMMS"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Music creation"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "/for/resources/lmms-logo.svg"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Glaxnimate"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "2D vector animation"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "/for/resources/glaxnimate.svg"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "OpenToonz"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "2D animation"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "/for/resources/opentoonz-logo.svg"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Natron"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "VFX and Motion Graphics"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "/for/resources/natron.svg"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Krita - Digital Painting for Human Beings"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid ""
+"No trials.<br>No subscriptions.<br>No paywalled colors.<br>No limit to your "
+"creativity.<br>"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Analyze color and exposure of images using histograms"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Quickly find your best images using labels"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Color picker applet"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Capture color from your screen and keep track of them"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Neutral color support"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Plasma allows you to use a desaturated dark theme."
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Preview support for all your images"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid ""
+"Preview your artworks Krita files directly from the file manager and image "
+"viewer"
+msgstr ""
+
+#: content/for/creators.md:92
+msgid ""
+"Krita is a professional free and open source program for painters and "
+"graphic designers. It is made by artists who work to provide open, "
+"affordable and privacy-respecting art tools for everyone. With Krita, you "
+"can develop concept art, use texture and matte painting tools, and create "
+"high quality illustrations and comics."
+msgstr ""
+
+#: content/for/creators.md:94
+msgid "![Krita tools](/for/resources/pepperandcarrot.png)"
+msgstr ""
+
+#: content/for/creators.md:96
+msgid "Join the community"
+msgstr ""
+
+#: content/for/creators.md:98
+msgid ""
+"Join the [krita-artists.org](https://krita-artists.org) community to share "
+"your art with other artists."
+msgstr ""
+
+#: content/for/creators.md:106
+msgid "Kdenlive"
+msgstr ""
+
+#: content/for/creators.md:108
+msgid ""
+"Kdenlive allows you to use and arrange several audio and video tracks, each "
+"one can be locked or muted to your convenience."
+msgstr ""
+
+#: content/for/creators.md:118
+msgid "Use any audio / video format"
+msgstr ""
+
+#: content/for/creators.md:120
+msgid ""
+"Being based on the powerful FFmpeg libraries, Kdenlive can use almost any "
+"audio and video formats directly without the need to convert or re-encode "
+"your clips."
+msgstr ""
+
+#: content/for/creators.md:122
+msgid "Configurable interface and shortcuts"
+msgstr ""
+
+#: content/for/creators.md:124
+msgid ""
+"You can arrange and save your custom interface layouts to fit your workflow. "
+"Keyboard shortcuts can also be configured to match your preferences."
+msgstr ""
+
+#: content/for/creators.md:131
+msgid "Digikam"
+msgstr ""
+
+#: content/for/creators.md:133
+msgid "Professional Photo Management with the Power of Open Source"
+msgstr ""
+
+#: content/for/creators.md:137
+msgid "igikam support of raw files"
+msgstr ""
+
+#: content/for/creators.md:145
+msgid "KDE Plasma Desktop for Artists"
+msgstr ""
+
+#: content/for/creators.md:147
+msgid ""
+"[KDE Plasma](/plasma-desktop) is the ideal operating system for you with "
+"native support for drawing tablets and many small features tailored for "
+"artists."
+msgstr ""
+
+#: content/for/creators.md:153
+msgid ""
+"It is mainly about more options for the tablet settings, options to setup a "
+"neutral colored theme, thumbnails for your artwork source files and easier "
+"file type association and 'open with' menu, better support for multi monitor "
+"workflow and perfect desktop integration with my core application: Krita and "
+"Kdenlive."
+msgstr ""
+
+#: content/for/creators.md:155
+msgid ""
+"[David Revoy, Fedora 36 KDE Spin for a digital painting workstation](https://"
+"www.davidrevoy.com/article913/fedora-36-kde-spin-for-a-digital-painting-"
+"workstation-reasons-and-post-install-guide)"
+msgstr ""
+
+#: content/for/creators.md:162
+msgid "Kontrast"
+msgstr ""
+
+#: content/for/creators.md:164
+msgid ""
+"Make your design accessible, by making sure that the contrast is WGAC "
+"compliant."
+msgstr ""
+
+#: content/for/creators.md:168
+msgid ""
+"![Screenshot of Kontrast with a blue background and white foregreound](/for/"
+"resources/kontrast.png)"
+msgstr ""
+
+#: content/for/creators.md:174
+msgid "Other open source applications for you"
+msgstr ""
+
+#: content/for/creators.md:176
+msgid ""
+"Here are some other applications from other open source organizations to "
+"complement your workflow. You should also checkout our other [graphic "
+"related applications](https://apps.kde.org/categories/graphics)."
 msgstr ""
 
 #: content/for/kids.md:0
