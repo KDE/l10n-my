@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-03 00:51+0000\n"
+"POT-Creation-Date: 2022-11-04 00:50+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -552,7 +552,7 @@ msgstr ""
 
 #: content/for/creators.md:164
 msgid ""
-"Make your design accessible, by making sure that the contrast is WGAC "
+"Make your design accessible, by making sure that the contrast is WCAG "
 "compliant."
 msgstr ""
 
