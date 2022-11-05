@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-04 00:50+0000\n"
+"POT-Creation-Date: 2022-11-05 00:50+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -953,6 +953,74 @@ msgid "starting at US$199"
 msgstr "၁၉၉ဒေါ်လာမှ စျေးစသည်"
 
 #: content/hardware.md:0
+msgid "TUXEDO Computers"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "TUXEDO Computers builds tailor-made hardware decked out with Linux."
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"TUXEDO Computers are individually built notebook and desktop machines which "
+"are fully Linux compatible. All you need to do is unpack, connect, and "
+"switch on your TUXEDO and your Linux computer is ready to go.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"TUXEDO OS is the default operating system installed on all TUXEDO machines. "
+"Based on Ubuntu and powered by Plasma, it offers you the best experience and "
+"performance for your new laptop or desktop computer.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"All TUXEDO's computers are assembled and installed in-house, come with self-"
+"programmed driver packages for optimum hardware compatibility, and provided "
+"with support from TUXEDO's highly qualified technical staff, guaranteeing a "
+"smooth transition to your new Linux machine.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "/content/hardware/tuxedo-laptop.png"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "Infinity book S 17"
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"The ultra-slim big-screen workstation. Perfect for 3D rendering, software\n"
+"development, deep learning, and AAA gaming.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "From €1214"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "Infinity Book pro"
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"A high-performance ultra-mobile 14\" laptop with up to 16 hours of battery "
+"life.\n"
+"With its 3K High Resolution display it's perfect for coding and content "
+"creation.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "From €1634"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "https://www.tuxedocomputers.com/en"
+msgstr ""
+
+#: content/hardware.md:0
 msgid "Hardware sellers and services with KDE Plasma as an option"
 msgstr ""
 
@@ -962,17 +1030,17 @@ msgid ""
 "an option:"
 msgstr ""
 
-#: content/hardware.md:132
+#: content/hardware.md:156
 msgid "Shells"
 msgstr ""
 
-#: content/hardware.md:134
+#: content/hardware.md:158
 msgid ""
 "Sign up for KDE Neon on Shells and access all the power and security of "
 "KDE's Plasma desktop from anywhere."
 msgstr ""
 
-#: content/hardware.md:136
+#: content/hardware.md:160
 msgid ""
 "Shells lets you transform any device into a powerful, secure Plasma machine, "
 "allowing you to work, code, or play on your laptop, smart TV or phone. "
@@ -980,7 +1048,7 @@ msgid ""
 "Shells virtual desktop in the cloud."
 msgstr ""
 
-#: content/hardware.md:138
+#: content/hardware.md:162
 msgid ""
 "<a href=\"https://www.shells.com/pricing?"
 "special=kde&_a=kdeorg&utm_source=web&utm_medium=lp&utm_campaign=kde-org-"
@@ -990,15 +1058,15 @@ msgstr ""
 "special=kde&_a=kdeorg&utm_source=web&utm_medium=lp&utm_campaign=kde-org-"
 "hardware\"><img src=\"/content/hardware/shells.png\" /></a>"
 
-#: content/hardware.md:140
+#: content/hardware.md:164
 msgid "<small>Shell makes a donation to KDE when you use this link.</small>"
 msgstr "<small>ဤလင့်ခ်ကို အသုံးပြုသည့်အခါ ကေဒီအီးကို လှူဒါန်းသွားမည်။</small>"
 
-#: content/hardware.md:144
+#: content/hardware.md:168
 msgid "Slimbook"
 msgstr "စလင်းဘွတ်ခ်"
 
-#: content/hardware.md:146
+#: content/hardware.md:170
 msgid ""
 "SLIMBOOK was born in 2015 with the idea of being the best brand in the "
 "computer market with GNU / Linux (although it is also verified the absolute "
@@ -1008,43 +1076,15 @@ msgid ""
 "at the OpenExpo Europe 2018."
 msgstr ""
 
-#: content/hardware.md:154
+#: content/hardware.md:178
 msgid "Star Labs"
 msgstr "စတားလပ်ဘ်"
 
-#: content/hardware.md:156
+#: content/hardware.md:180
 msgid ""
 "Star Labs offers a range of laptops designed and built specifically for "
 "Linux. Two version of their laptop are offered: the Star Lite Mk III 11-inch "
 "and the Star LabTop Mk IV 13-inch."
-msgstr ""
-
-#: content/hardware.md:162
-msgid "Tuxedo"
-msgstr ""
-
-#: content/hardware.md:164
-msgid "Tuxedo builds tailor-made hardware and all this with Linux!"
-msgstr ""
-
-#: content/hardware.md:166
-msgid ""
-"TUXEDO Computers are individually built computers/PCs and notebooks which "
-"are fully Linux compatible, i. e. Linux hardware in tailor-made suit."
-msgstr ""
-
-#: content/hardware.md:168
-msgid ""
-"All TUXEDO devices are delivered in such a way that you only have to unpack, "
-"connect and switch them on. All the computers and notebooks are assembled "
-"and installed in-house, not outsourced."
-msgstr ""
-
-#: content/hardware.md:170
-msgid ""
-"They provide you with self-programmed driver packages, support, installation "
-"scripts and everything around our hardware, so that every hardware component "
-"really works."
 msgstr ""
 
 #: content/plasma-desktop.md:0 content/products.md:0
