@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2018-11-17 03:40+0100\n"
+"POT-Creation-Date: 2022-11-13 00:49+0000\n"
 "PO-Revision-Date: 2021-09-15 05:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -103,7 +103,7 @@ msgstr ""
 
 #. (itstool) path: ul/li
 #: org.kde.kate.appdata.xml:28
-msgid "Wide protocol support (http, ftp, ssh, webdav etc.) using kioslaves"
+msgid "Wide protocol support (http, ftp, ssh, webdav etc.)"
 msgstr ""
 
 #. (itstool) path: ul/li
