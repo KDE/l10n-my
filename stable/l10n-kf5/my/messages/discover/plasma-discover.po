@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-27 02:11+0000\n"
+"POT-Creation-Date: 2022-11-15 02:45+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -255,7 +255,7 @@ msgstr "ထည့်သွင်းမည်"
 
 #: discover/qml/AddSourceDialog.qml:70 discover/qml/DiscoverWindow.qml:262
 #: discover/qml/InstallApplicationButton.qml:41
-#: discover/qml/ProgressView.qml:104 discover/qml/SourcesPage.qml:181
+#: discover/qml/ProgressView.qml:111 discover/qml/SourcesPage.qml:181
 #: discover/qml/UpdatesPage.qml:247 discover/qml/WebflowDialog.qml:39
 #, kde-format
 msgid "Cancel"
@@ -784,19 +784,19 @@ msgstr "အလုပ်များ (%1%)"
 msgid "Tasks"
 msgstr "အလုပ်များ"
 
-#: discover/qml/ProgressView.qml:97
+#: discover/qml/ProgressView.qml:104
 #, kde-format
 msgctxt "TransactioName - TransactionStatus: speed, remaining time"
 msgid "%1 - %2: %3, %4 remaining"
 msgstr "%1 - %2: %3၊ %4 ကျန်"
 
-#: discover/qml/ProgressView.qml:98
+#: discover/qml/ProgressView.qml:105
 #, kde-format
 msgctxt "TransactioName - TransactionStatus: speed"
 msgid "%1 - %2: %3"
 msgstr "%1 - %2: %3"
 
-#: discover/qml/ProgressView.qml:99
+#: discover/qml/ProgressView.qml:106
 #, kde-format
 msgctxt "TransactioName - TransactionStatus"
 msgid "%1 - %2"
