@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-10 00:47+0000\n"
+"POT-Creation-Date: 2022-11-18 00:46+0000\n"
 "PO-Revision-Date: 2021-09-19 20:01+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -258,7 +258,7 @@ msgstr "%1 အဝေးရီပိုစစ်တိုရီအသစ်ကိ
 msgid "Add"
 msgstr "ထည့်သွင်းမည်"
 
-#: discover/qml/AddSourceDialog.qml:70 discover/qml/DiscoverWindow.qml:255
+#: discover/qml/AddSourceDialog.qml:70 discover/qml/DiscoverWindow.qml:257
 #: discover/qml/InstallApplicationButton.qml:41
 #: discover/qml/ProgressView.qml:104 discover/qml/SourcesPage.qml:179
 #: discover/qml/UpdatesPage.qml:267 discover/qml/WebflowDialog.qml:39
@@ -648,70 +648,95 @@ msgctxt "@title:group"
 msgid "Highest-Rated Developer Tools"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:42
+#: discover/qml/DiscoverWindow.qml:43
 #, kde-format
 msgid "Running as <em>root</em> is discouraged and unnecessary."
 msgstr "<em>root</em> အဖြစ်မောင်းနှင်ခြင်းသည် မလိုအပ်၍ အားမပေးပါ။"
 
-#: discover/qml/DiscoverWindow.qml:54
+#: discover/qml/DiscoverWindow.qml:56
 #, kde-format
 msgid "&Home"
 msgstr "&Hအိမ်"
 
-#: discover/qml/DiscoverWindow.qml:64
+#: discover/qml/DiscoverWindow.qml:66
 #, kde-format
 msgid "&Search"
 msgstr "&Sရှာဖွေမည်"
 
-#: discover/qml/DiscoverWindow.qml:72
+#: discover/qml/DiscoverWindow.qml:74
 #, kde-format
 msgid "&Installed"
 msgstr "&Iတပ်ဆင်ပြီး"
 
-#: discover/qml/DiscoverWindow.qml:79
+#: discover/qml/DiscoverWindow.qml:81
 #, kde-format
 msgid "Fetching &updates…"
 msgstr "&uအပ်ဒိတ်များရယူနေသည်…"
 
-#: discover/qml/DiscoverWindow.qml:79
+#: discover/qml/DiscoverWindow.qml:81
 #, kde-format
 msgid "&Up to date"
 msgstr "&Uနောက်ဆုံးပေါ်"
 
-#: discover/qml/DiscoverWindow.qml:79
+#: discover/qml/DiscoverWindow.qml:81
 #, kde-format
 msgctxt "Update section name"
 msgid "&Update (%1)"
 msgstr "&Uအပ်ဒိတ် (%1)"
 
-#: discover/qml/DiscoverWindow.qml:86
+#: discover/qml/DiscoverWindow.qml:88
 #, kde-format
 msgid "&About"
 msgstr "&Aအကြောင်း"
 
-#: discover/qml/DiscoverWindow.qml:94
+#: discover/qml/DiscoverWindow.qml:96
 #, kde-format
 msgid "S&ettings"
 msgstr "&eဆက်တင်များ"
 
-#: discover/qml/DiscoverWindow.qml:144 discover/qml/DiscoverWindow.qml:329
+#: discover/qml/DiscoverWindow.qml:146 discover/qml/DiscoverWindow.qml:325
+#: discover/qml/DiscoverWindow.qml:435
 #, kde-format
 msgid "Error"
 msgstr "အမှား"
 
-#: discover/qml/DiscoverWindow.qml:148
+#: discover/qml/DiscoverWindow.qml:150
 #, kde-format
 msgid "Unable to find resource: %1"
 msgstr "ရင်းမြစ်ကိုမရှာနိုင်ခဲ့ပါ - %1"
 
-#: discover/qml/DiscoverWindow.qml:242 discover/qml/SourcesPage.qml:169
+#: discover/qml/DiscoverWindow.qml:244 discover/qml/SourcesPage.qml:169
 #, kde-format
 msgid "Proceed"
 msgstr "ဆက်လုပ်မည်"
 
-#: discover/qml/DiscoverWindow.qml:299
+#: discover/qml/DiscoverWindow.qml:302
 #, kde-format
 msgid "Report this issue"
+msgstr ""
+
+#: discover/qml/DiscoverWindow.qml:325
+#, fuzzy, kde-format
+#| msgid "Votes: %1 out of %2"
+msgid "Error %1 of %2"
+msgstr "မဲများ- %2 ထဲက %1"
+
+#: discover/qml/DiscoverWindow.qml:372
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Previous"
+msgstr ""
+
+#: discover/qml/DiscoverWindow.qml:385
+#, fuzzy, kde-format
+#| msgid "Show contents"
+msgctxt "@action:button"
+msgid "Show Next"
+msgstr "ပါဝင်အကြောင်းအရာများ ပြမည်"
+
+#: discover/qml/DiscoverWindow.qml:401 discover/qml/UpdatesPage.qml:98
+#, kde-format
+msgid "Copy to Clipboard"
 msgstr ""
 
 #: discover/qml/Feedback.qml:12
@@ -1040,11 +1065,6 @@ msgstr ""
 msgid ""
 "If you would like to report the update issue to your distribution's "
 "packagers, include this information:"
-msgstr ""
-
-#: discover/qml/UpdatesPage.qml:98
-#, kde-format
-msgid "Copy to Clipboard"
 msgstr ""
 
 #: discover/qml/UpdatesPage.qml:102

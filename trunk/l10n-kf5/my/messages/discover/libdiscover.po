@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-17 00:47+0000\n"
+"POT-Creation-Date: 2022-11-18 00:46+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -102,50 +102,50 @@ msgctxt "Category"
 msgid "Dummy Category"
 msgstr "အတု အမျိုးအစား"
 
-#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:10
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:8
 #, kde-format
 msgctxt "Category"
 msgid "dummy"
 msgstr "အတု"
 
-#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:18
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:15
 #, kde-format
 msgctxt "Category"
 msgid "dummy addons"
 msgstr "အတု အက်အွန်များ"
 
-#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:27
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:23
 #, kde-format
 msgctxt "Category"
 msgid "dummy 1"
 msgstr "အတု ၁"
 
-#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:35
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:30
 #, kde-format
 msgctxt "Category"
 msgid "dummy with stuff"
 msgstr "အတုပစ္စည်း"
 
-#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:42
-#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:57
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:37
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:52
 #, kde-format
 msgctxt "Category"
 msgid "dummy 2.1"
 msgstr "အတု ၂.၁"
 
-#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:50
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:45
 #, kde-format
 msgctxt "Category"
 msgid "dummy with quite some stuff"
 msgstr "အတုပစ္စည်းများ"
 
-#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:66
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:61
 #, kde-format
 msgctxt "Category"
 msgid "dummy 3"
 msgstr "အတု ၃"
 
-#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:76
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:71
 #, kde-format
 msgctxt "Category"
 msgid "dummy 4"
