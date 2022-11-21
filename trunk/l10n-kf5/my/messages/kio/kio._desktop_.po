@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-16 00:56+0000\n"
+"POT-Creation-Date: 2022-11-21 00:55+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1807,7 +1807,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr "စီ++"
 
-#: templates/kioworker/kioworker.kdevtemplate:34
+#: templates/kioworker/kioworker.kdevtemplate:36
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "KIO Workerပုံစံပြား"
