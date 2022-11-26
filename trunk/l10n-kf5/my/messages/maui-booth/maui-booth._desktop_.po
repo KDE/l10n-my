@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-08 09:47+0000\n"
+"POT-Creation-Date: 2022-11-26 00:55+0000\n"
 "PO-Revision-Date: 2021-09-15 21:20+0630\n"
 "Last-Translator: \n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -13,17 +13,17 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#: src/org.maui.booth.desktop:8
+#: org.kde.booth.desktop:8
 msgctxt "Name"
 msgid "Booth"
 msgstr "ဘု"
 
-#: src/org.maui.booth.desktop:35
+#: org.kde.booth.desktop:35
 msgctxt "Comment"
 msgid "Convergent camera app"
 msgstr "ကွန်ဗားဂျန့်ကင်မရာအပ်"
 
-#: src/org.maui.booth.desktop:65
+#: org.kde.booth.desktop:65
 msgctxt "GenericName"
 msgid "Camera App"
 msgstr "ကင်မရာအပ်"
