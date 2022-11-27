@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-01-30 02:51+0100\n"
+"POT-Creation-Date: 2022-11-26 00:45+0000\n"
 "PO-Revision-Date: 2021-09-15 21:19+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -13,21 +13,21 @@ msgstr ""
 "X-Generator: Poedit 2.2.1\n"
 
 #. (itstool) path: component/name
-#: org.maui.booth.appdata.xml:6
+#: org.kde.booth.appdata.xml:6
 msgid "Booth"
 msgstr "ဘု"
 
 #. (itstool) path: component/summary
-#: org.maui.booth.appdata.xml:7
+#: org.kde.booth.appdata.xml:7
 msgid "Take pictures and videos"
 msgstr "ဓါတ်ပုံနှင့် ဗီဒီယို ရိုက်မယ်"
 
 #. (itstool) path: description/p
-#: org.maui.booth.appdata.xml:9
+#: org.kde.booth.appdata.xml:9
 msgid "Booth is a convergent camera app."
 msgstr "ဘုသည် ကွန်ဗားဂျန့်ဖြစ်သော ကင်မရာအပ်တစ်ခု ဖြစ်သည်။"
 
 #. (itstool) path: screenshot/caption
-#: org.maui.booth.appdata.xml:16
+#: org.kde.booth.appdata.xml:16
 msgid "Booth camera app"
 msgstr "ဘု ကင်မရာအပ်"
