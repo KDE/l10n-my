@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-07 00:52+0000\n"
+"POT-Creation-Date: 2022-12-12 00:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -24973,6 +24973,20 @@ msgstr ""
 
 #: content/fundraisers/yearend2022/thanks_paypal.md:5
 msgid "Thank you very much for your donation to the Year End 2022 fundraiser!"
+msgstr ""
+
+#: content/fundraisers/yearend2022/thanks_paypal.md:7
+msgid ""
+"Download your \"I Donated\" badge, display it on your social media accounts, "
+"blog posts or website, and help us spread the word!"
+msgstr ""
+
+#: content/fundraisers/yearend2022/thanks_paypal.md:9
+msgid "![Katie \"I Donated\" badge.](badge_katie.png)"
+msgstr ""
+
+#: content/fundraisers/yearend2022/thanks_paypal.md:11
+msgid "![Konqi \"I Donated\" badge.](badge_konqi.png)"
 msgstr ""
 
 #~ msgid "KDE Gear 21.04.1"
