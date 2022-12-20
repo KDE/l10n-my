@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-29 02:33+0000\n"
+"POT-Creation-Date: 2022-12-20 02:33+0000\n"
 "PO-Revision-Date: 2021-09-27 23:44+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -837,6 +837,43 @@ msgstr "ဖလက်ပတ်ခ် ရီပိုစစ်တိုရီ ယ�
 #, kde-format
 msgid "Adding remote '%1' in %2 from %3"
 msgstr "%3 မှ %2 တွင် အဝေး '%1' ထည့်သွင်းနေသည်"
+
+#: libdiscover/backends/FlatpakBackend/qml/FlatpakOldBeta.qml:20
+#, kde-format
+msgctxt "@label %1 is the name of an application"
+msgid ""
+"This development version of %1 is outdated. Using the stable version is "
+"highly recommended."
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/qml/FlatpakOldBeta.qml:20
+#, kde-format
+msgctxt "@label %1 is the name of an application"
+msgid "A more stable version of %1 is available."
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/qml/FlatpakOldBeta.qml:44
+#, kde-format
+msgctxt "@action: button %1 is the name of a Flatpak repo"
+msgid "View Stable Version on %1"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/qml/FlatpakRemoveData.qml:16
+#, kde-format
+msgid "%1 is not installed but it still has data present."
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/qml/FlatpakRemoveData.qml:23
+#, kde-format
+msgid "Delete settings and user data"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/qml/PermissionsList.qml:18
+#: libdiscover/backends/PackageKitBackend/qml/PackageKitPermissions.qml:16
+#, kde-format
+msgctxt "%1 is the name of the application"
+msgid "Permissions for %1"
+msgstr ""
 
 #: libdiscover/backends/FwupdBackend/FwupdSourcesBackend.cpp:38
 #, kde-format
@@ -1967,6 +2004,32 @@ msgstr[0] ""
 "ဤလုပ်ဆောင်ချက်သည် အောက်ပါပတ်ကေ့ချ်များကို ဖယ်ရှားမည်-\n"
 "%2"
 
+#: libdiscover/backends/PackageKitBackend/qml/DependenciesButton.qml:12
+#, fuzzy, kde-format
+#| msgid "Resolving dependencies…"
+msgid "Show Dependencies…"
+msgstr "မှီခိုပရိုဂရမ်များ ဖြေရှင်းနေသည်"
+
+#: libdiscover/backends/PackageKitBackend/qml/DependenciesButton.qml:32
+#, kde-format
+msgid "Dependencies for package: %1"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/qml/PackageKitPermissions.qml:24
+#, kde-format
+msgid "Full Access"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/qml/PackageKitPermissions.qml:25
+#, kde-format
+msgid "Can access everything on the system"
+msgstr ""
+
+#: libdiscover/backends/RpmOstreeBackend/qml/RemoteRefsButton.qml:15
+#, kde-format
+msgid "Switch to %1 %2"
+msgstr ""
+
 #: libdiscover/backends/RpmOstreeBackend/rpm-ostree-backend-categories.xml:4
 #, kde-format
 msgctxt "Category"
@@ -2003,15 +2066,41 @@ msgstr ""
 msgid "Current rpm-ostree transaction in progress:"
 msgstr ""
 
-#: libdiscover/backends/SnapBackend/SnapBackend.cpp:43
+#: libdiscover/backends/SnapBackend/qml/ChannelsButton.qml:15
 #, kde-format
-msgid "Snap"
-msgstr "စနပ်"
+msgid "Channels…"
+msgstr ""
 
+#: libdiscover/backends/SnapBackend/qml/ChannelsButton.qml:23
+#, kde-format
+msgid "%1 channels"
+msgstr ""
+
+#: libdiscover/backends/SnapBackend/qml/ChannelsButton.qml:31
 #: libdiscover/backends/SnapBackend/SnapResource.cpp:353
 #, kde-format
 msgid "%1 - %2"
 msgstr "%1 - %2"
+
+#: libdiscover/backends/SnapBackend/qml/ChannelsButton.qml:34
+#, kde-format
+msgid "Switch"
+msgstr ""
+
+#: libdiscover/backends/SnapBackend/qml/PermissionsButton.qml:14
+#, kde-format
+msgid "Configure permissions…"
+msgstr ""
+
+#: libdiscover/backends/SnapBackend/qml/PermissionsButton.qml:22
+#, kde-format
+msgid "Permissions for %1"
+msgstr ""
+
+#: libdiscover/backends/SnapBackend/SnapBackend.cpp:43
+#, kde-format
+msgid "Snap"
+msgstr "စနပ်"
 
 #: libdiscover/backends/SnapBackend/SnapTransaction.cpp:51
 #, kde-format
