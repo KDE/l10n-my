@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-okular-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-21 00:50+0000\n"
+"POT-Creation-Date: 2022-12-22 00:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1063,6 +1063,18 @@ msgid ""
 "The 22.08 version of Okular has been released. This release contains various "
 "minor fixes and feature enhacements. You can check the full changelog at "
 "https://kde.org/announcements/changelogs/gear/22.08.0/#okular. Okular 22.08 "
+"is a recommended update for everyone using Okular."
+msgstr ""
+
+#: content/news/Okular_22.12_released.md:0
+msgid "Okular 22.12 released"
+msgstr ""
+
+#: content/news/Okular_22.12_released.md:5
+msgid ""
+"The 22.12 version of Okular has been released. This release contains various "
+"minor fixes and feature enhacements. You can check the full changelog at "
+"https://kde.org/announcements/changelogs/gear/22.12.0/#okular. Okular 22.12 "
 "is a recommended update for everyone using Okular."
 msgstr ""
 
