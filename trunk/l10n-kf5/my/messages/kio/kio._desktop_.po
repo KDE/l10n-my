@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-29 01:02+0000\n"
+"POT-Creation-Date: 2022-12-30 08:54+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -187,7 +187,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "ဖိုင်လ်အလွတ်…"
 
-#: src/new_file_templates/EmptyFile.desktop:42
+#: src/new_file_templates/EmptyFile.desktop:43
 #: src/new_file_templates/TextFile.desktop:92
 msgctxt "Comment"
 msgid "Enter text filename:"
