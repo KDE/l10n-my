@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-02 01:17+0000\n"
+"POT-Creation-Date: 2023-01-08 01:07+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -113,12 +113,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:61
+#: src/kcms/webshortcuts/webshortcuts.desktop:62
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ ပြင်ဆင်မည်"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:111
+#: src/kcms/webshortcuts/webshortcuts.desktop:113
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -187,7 +187,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "ဖိုင်လ်အလွတ်…"
 
-#: src/new_file_templates/EmptyFile.desktop:43
+#: src/new_file_templates/EmptyFile.desktop:44
 #: src/new_file_templates/TextFile.desktop:92
 msgctxt "Comment"
 msgid "Enter text filename:"
@@ -208,7 +208,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီသို့ လင့်ခ်ချိတ်ရန်..."
 
-#: src/new_file_templates/linkPath.desktop:50
+#: src/new_file_templates/linkPath.desktop:51
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr "လင့်ခ်ချိတ်ရမည် ဖိုင်လ် သို့မဟုတ် ဒါရိုက်ထရီ -"
@@ -1119,7 +1119,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr "Krita လက်စွဲစာအုပ်"
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:46
+#: src/urifilters/ikws/searchproviders/krita.desktop:47
 msgctxt "Query"
 msgid "https://docs.krita.org/en/search.html?q=\\\\{@}"
 msgstr "https://docs.krita.org/en/search.html?q=\\\\{@}"
@@ -1306,7 +1306,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr "အိုးပန်းဆူဆီ ဆော့ဖ်ဝဲလ်"
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:44
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:45
 msgctxt "Query"
 msgid "https://software.opensuse.org/search?utf8=%E2%9C%93&q=\\\\{@}"
 msgstr "https://software.opensuse.org/search?utf8=%E2%9C%93&q=\\\\{@}"
