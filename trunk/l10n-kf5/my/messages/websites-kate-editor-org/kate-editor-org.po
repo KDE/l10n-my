@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-15 00:50+0000\n"
+"POT-Creation-Date: 2023-01-09 00:59+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -375,17 +375,19 @@ msgid ""
 "apps/9NWMW7BB59HW)"
 msgstr "[မိုက်ခရိုဆော့ဖ်စတိုးရှိ ကိတ်](https://www.microsoft.com/store/apps/9NWMW7BB59HW)"
 
-#: content/get-it.md:39
-msgid "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
-msgstr "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
-
-#: content/get-it.md:41
+#: content/get-it.md:40
 msgid ""
 "[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/Windows"
 "%2064-bit/job/Kate_Nightly_win64/) **"
 msgstr ""
 "[ကိတ်ညစဥ် (၆၄ဘစ်) တပ်ဆင်ဖိုင်လ်](https://binary-factory.kde.org/view/Windows%2064-bit/"
 "job/Kate_Nightly_win64/) **"
+
+#: content/get-it.md:41
+#, fuzzy
+#| msgid "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
+msgid "[Kate via Chocolatey](https://chocolatey.org/packages/kate) \\*\\*\\*"
+msgstr "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 
 #: content/get-it.md:42
 msgid "[Build it](/build-it/#windows) from source."
@@ -452,6 +454,12 @@ msgstr ""
 "\\*\\* The **ညစဥ်** ပတ်ကေ့ချ်များကို ဇစ်မြစ်ကုတ်မှ နေ့စဥ်ကွန်ပိုင်းလုပ်ထားသည်။ ထို့ကြောင့် ယင်းတို့သည် "
 "တည်ငြိမ်မှုမရှိဘဲ ဆော့ဖ်ဝဲလ်ပြစ်ချက်များ သို့မဟုတ် တစ်ဝက်တစ်ပျက် စွမ်းဆောင်ရည်များ ပါဝင်သည်။ ယင်းတို့ကို "
 "စမ်းသပ်ရန်အတွက်သာ သုံးရန် အကြုံပြုသည်။"
+
+#: content/get-it.md:66
+msgid ""
+"\\*\\*\\* The Chocolatey packages are developed independently from KDE. It "
+"may or may not be up to date."
+msgstr ""
 
 #: content/mascot.md:0
 msgid "Kate's Mascot"
