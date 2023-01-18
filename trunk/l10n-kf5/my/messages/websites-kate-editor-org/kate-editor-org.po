@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-09 00:59+0000\n"
+"POT-Creation-Date: 2023-01-18 01:01+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -322,19 +322,26 @@ msgid "Get Kate"
 msgstr "ကိတ်ကိုရယူမည်"
 
 #: content/get-it.md:15
-msgid "Linux & Unices"
-msgstr "လင်းနပ်စ် နှင့် ယူနစ်စ်များ"
+msgid "Linux"
+msgstr ""
 
 #: content/get-it.md:17
+#, fuzzy
+#| msgid ""
+#| "Install [Kate](https://apps.kde.org/en/kate) or [KWrite](https://apps.kde."
+#| "org/en/kwrite) from [your distribution](https://kde.org/distributions/)"
 msgid ""
 "Install [Kate](https://apps.kde.org/en/kate) or [KWrite](https://apps.kde."
-"org/en/kwrite) from [your distribution](https://kde.org/distributions/)"
+"org/en/kwrite) from [your distribution](https://kde.org/distributions/)."
 msgstr ""
 "[သင်၏ဒစ်စထရီဗျူးရှင်း](https://kde.org/distributions/) မှ [ကိတ်](https://apps.kde.org/"
 "en/kate) သို့မဟုတ် [ကေရိုက်](https://apps.kde.org/en/kwrite) တပ်ဆင်မည်"
 
 #: content/get-it.md:21
-msgid "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
+#, fuzzy
+#| msgid "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
+msgid ""
+"Install [Kate's Snap package from Snapcraft](https://snapcraft.io/kate)."
 msgstr "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
 
 #: content/get-it.md:25
@@ -343,8 +350,8 @@ msgstr "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
 #| "[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/"
 #| "job/Kate_Release_appimage/) *"
 msgid ""
-"[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/"
-"Kate_Release_appimage-centos7/) *"
+"Download [the release 64-bit AppImage for Kate](https://binary-factory.kde."
+"org/job/Kate_Release_appimage-centos7/). *"
 msgstr ""
 "[Kate's release (64bit) AppImage package](https://binary-factory.kde.org/job/"
 "Kate_Release_appimage/) *"
@@ -355,69 +362,86 @@ msgstr ""
 #| "[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/"
 #| "job/Kate_Nightly_appimage/) **"
 msgid ""
-"[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/"
-"Kate_Nightly_appimage-centos7/) **"
+"Download [the nightly 64-bit AppImage for Kate](https://binary-factory.kde."
+"org/job/Kate_Nightly_appimage-centos7/). **"
 msgstr ""
 "[Kate's nightly (64bit) AppImage package](https://binary-factory.kde.org/job/"
 "Kate_Nightly_appimage/) **"
 
-#: content/get-it.md:27
-msgid "[Build it](/build-it/#linux) from source."
-msgstr "[Build it](/build-it/#linux) မူရင်းမှ။"
-
-#: content/get-it.md:33
+#: content/get-it.md:32
 msgid "Windows"
 msgstr "ဝင်းဒိုးများ"
 
-#: content/get-it.md:35
+#: content/get-it.md:34
+#, fuzzy
+#| msgid ""
+#| "[Kate in the Microsoft Store](https://www.microsoft.com/store/"
+#| "apps/9NWMW7BB59HW)"
 msgid ""
-"[Kate in the Microsoft Store](https://www.microsoft.com/store/"
-"apps/9NWMW7BB59HW)"
+"Install [Kate from the Microsoft Store](https://www.microsoft.com/store/"
+"apps/9NWMW7BB59HW)."
 msgstr "[မိုက်ခရိုဆော့ဖ်စတိုးရှိ ကိတ်](https://www.microsoft.com/store/apps/9NWMW7BB59HW)"
 
-#: content/get-it.md:40
+#: content/get-it.md:39
+#, fuzzy
+#| msgid ""
+#| "[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/"
+#| "Windows%2064-bit/job/Kate_Nightly_win64/) **"
 msgid ""
-"[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/Windows"
-"%2064-bit/job/Kate_Nightly_win64/) **"
+"Download [the nightly Kate 64-bit installer](https://binary-factory.kde.org/"
+"view/Windows%2064-bit/job/Kate_Nightly_win64/). **"
 msgstr ""
 "[ကိတ်ညစဥ် (၆၄ဘစ်) တပ်ဆင်ဖိုင်လ်](https://binary-factory.kde.org/view/Windows%2064-bit/"
 "job/Kate_Nightly_win64/) **"
 
-#: content/get-it.md:41
+#: content/get-it.md:40
 #, fuzzy
 #| msgid "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
-msgid "[Kate via Chocolatey](https://chocolatey.org/packages/kate) \\*\\*\\*"
+msgid ""
+"Install [Kate via Chocolatey](https://chocolatey.org/packages/kate). \\*\\*"
+"\\*"
 msgstr "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 
-#: content/get-it.md:42
-msgid "[Build it](/build-it/#windows) from source."
-msgstr "[Build it](/build-it/#windows) မူရင်းမှ။"
-
-#: content/get-it.md:48
+#: content/get-it.md:46
 msgid "macOS"
 msgstr "macOS"
 
-#: content/get-it.md:50
+#: content/get-it.md:48
+#, fuzzy
+#| msgid ""
+#| "[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/"
+#| "Kate_Release_macos/) *"
 msgid ""
-"[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/"
-"Kate_Release_macos/) *"
+"Download the [Kate release installer](https://binary-factory.kde.org/view/"
+"MacOS/job/Kate_Release_macos/). *"
 msgstr ""
 "[Kate release installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Release_macos/) *"
 
-#: content/get-it.md:51
+#: content/get-it.md:49
+#, fuzzy
+#| msgid ""
+#| "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
+#| "Kate_Nightly_macos/) **"
 msgid ""
-"[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
-"Kate_Nightly_macos/) **"
+"Download the [Kate nightly installer](https://binary-factory.kde.org/view/"
+"MacOS/job/Kate_Nightly_macos/). **"
 msgstr ""
 "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Nightly_macos/) **"
 
-#: content/get-it.md:52
-msgid "[Build it](/build-it/#mac) from source."
-msgstr "[Build it](/build-it/#mac) မူရင်းမှ။"
+#: content/get-it.md:55
+msgid "Source Code"
+msgstr ""
 
-#: content/get-it.md:59
+#: content/get-it.md:57
+msgid ""
+"The [source code for Kate](https://invent.kde.org/utilities/kate) is "
+"available on KDE’s GitLab instance. For detailed instructions on how to "
+"build Kate from source, check the [Build it](/build-it) page."
+msgstr ""
+
+#: content/get-it.md:64
 msgid ""
 "**About the releases:** <br> [Kate](https://apps.kde.org/en/kate) and "
 "[KWrite](https://apps.kde.org/en/kwrite) are part of [KDE Applications]"
@@ -439,13 +463,13 @@ msgstr ""
 "kde-frameworks-5.0/) မှထုတ်ပေးသည်။ ထုတ်ဝေမှုအသစ်များကို [ဤနေရာ](https://kde.org/"
 "announcements/) တွင် ကြေညာသည်။"
 
-#: content/get-it.md:62
+#: content/get-it.md:67
 msgid ""
 "\\* The **release** packages contain the latest version of Kate and KDE "
 "Frameworks."
 msgstr "\\* ကေဒီအီးမူဘောင်များနှင့် ကိတ်၏နောက်ဆုံးပေါ်ဗာရှင်းတို့သည် **ထုတ်ဝေမှု** ပတ်ကေ့ချ်တွင် ပါဝင်သည်။"
 
-#: content/get-it.md:64
+#: content/get-it.md:69
 msgid ""
 "\\*\\* The **nightly** packages are automatically compiled daily from source "
 "code, therefore they may be unstable and contain bugs or incomplete "
@@ -455,7 +479,7 @@ msgstr ""
 "တည်ငြိမ်မှုမရှိဘဲ ဆော့ဖ်ဝဲလ်ပြစ်ချက်များ သို့မဟုတ် တစ်ဝက်တစ်ပျက် စွမ်းဆောင်ရည်များ ပါဝင်သည်။ ယင်းတို့ကို "
 "စမ်းသပ်ရန်အတွက်သာ သုံးရန် အကြုံပြုသည်။"
 
-#: content/get-it.md:66
+#: content/get-it.md:71
 msgid ""
 "\\*\\*\\* The Chocolatey packages are developed independently from KDE. It "
 "may or may not be up to date."
@@ -869,8 +893,20 @@ msgstr "KWriteကိုတပ်ဆင်မည်"
 
 #. %1 link
 #: i18n/en.yaml:0
-msgid "[Kate release (64bit) installer](%1)"
+msgid "[Download the release Kate 64-bit installer](%1)"
 msgstr ""
+
+#~ msgid "Linux & Unices"
+#~ msgstr "လင်းနပ်စ် နှင့် ယူနစ်စ်များ"
+
+#~ msgid "[Build it](/build-it/#linux) from source."
+#~ msgstr "[Build it](/build-it/#linux) မူရင်းမှ။"
+
+#~ msgid "[Build it](/build-it/#windows) from source."
+#~ msgstr "[Build it](/build-it/#windows) မူရင်းမှ။"
+
+#~ msgid "[Build it](/build-it/#mac) from source."
+#~ msgstr "[Build it](/build-it/#mac) မူရင်းမှ။"
 
 #~ msgid ""
 #~ "[Kate release (64bit) installer](https://binary-factory.kde.org/view/"
