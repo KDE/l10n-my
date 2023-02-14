@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-24 01:07+0000\n"
+"POT-Creation-Date: 2023-02-14 01:06+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -59,32 +59,32 @@ msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr "Cookies,Browsing,Internet,WWW,Network,Policy,Domains,ကွတ်ကီး"
 
-#: src/kcms/netpref/netpref.desktop:14
+#: src/kcms/netpref/netpref.desktop:15
 msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "ချိတ်ဆက်မှုဆိုင်ရာ နှစ်သက်-သတ်မှတ်ချက်များ"
 
-#: src/kcms/netpref/netpref.desktop:105
+#: src/kcms/netpref/netpref.desktop:106
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr "အချိန်ကုန်ပမာဏစသော ဆ.သ.ရ-ကွန်ရက်ဆိုင်ရာယေဘုယျနှစ်သက်-သတ်မှတ်ချက်များပြင်ဆင်မည်"
 
-#: src/kcms/netpref/netpref.desktop:196
+#: src/kcms/netpref/netpref.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr "timeout,iopref,netpref,network preferences,ftp"
 
-#: src/kcms/proxy/proxy.desktop:14
+#: src/kcms/proxy/proxy.desktop:15
 msgctxt "Name"
 msgid "Proxy"
 msgstr "ကြားခံ"
 
-#: src/kcms/proxy/proxy.desktop:108
+#: src/kcms/proxy/proxy.desktop:109
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "အသုံးပြုသော ကြားခံဆာဗာများပြင်ဆင်မည်"
 
-#: src/kcms/proxy/proxy.desktop:201
+#: src/kcms/proxy/proxy.desktop:202
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr "Proxy,Proxy server,Firewall,Squid,ကြားခံ"
@@ -108,17 +108,17 @@ msgstr ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
 "Broadcast,WINS,Share,Login,Passwords"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:11
+#: src/kcms/webshortcuts/webshortcuts.desktop:12
 msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:63
+#: src/kcms/webshortcuts/webshortcuts.desktop:64
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "ဝက်ဘ်ရှာဖွေ-သော့ချက်စာလုံးများ ပြင်ဆင်မည်"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:115
+#: src/kcms/webshortcuts/webshortcuts.desktop:116
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
