@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-25 00:51+0000\n"
+"POT-Creation-Date: 2023-02-15 01:03+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -14,15 +14,15 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.0\n"
 
-#: content/announcements/frameworks/5/5.0.md:0
+#: content/announcements/frameworks/5/5.0.0.md:0
 msgid "KDE Ships First Release of Frameworks 5."
 msgstr "ကေဒီအီးသည် မူဘောင်များ ၅ ၏ပထမဆုံးထုတ်ဝေမှုကို တင်ပို့ခဲ့သည်။"
 
-#: content/announcements/frameworks/5/5.0.md:0
+#: content/announcements/frameworks/5/5.0.0.md:0
 msgid "First release of KDE Frameworks 5"
 msgstr "ကေဒီအီးမူဘောင်များ ၅ ၏ပထမဆုံးထုတ်ဝေမှု"
 
-#: content/announcements/frameworks/5/5.0.md:12
+#: content/announcements/frameworks/5/5.0.0.md:13
 msgid ""
 "July 7th, 2014. The KDE Community is proud to announce KDE Frameworks 5.0. "
 "Frameworks 5 is the next generation of KDE libraries, modularized and "
@@ -45,7 +45,7 @@ msgstr ""
 "platform ဖြစ်၍ မှီခိုပရိုဂရမ်အနည်းငယ်သာ လိုအပ်သောကြောင့် တည်ဆောက်ရာတွင် လွယ်ကူပြီး "
 "မည်သည့်ကျူတီအပ္ပလီကေးရှင်းသို့ ထည့်သွင်းနိုင်သည်။"
 
-#: content/announcements/frameworks/5/5.0.md:14
+#: content/announcements/frameworks/5/5.0.0.md:15
 msgid ""
 "The KDE Frameworks represent an effort to rework the powerful KDE Platform 4 "
 "libraries into a set of independent, cross platform modules that will be "
@@ -63,7 +63,7 @@ msgstr ""
 "အလွယ်တကူရရှိစေနိုင်ခဲ့သည်။ ကေဒီအီးမှ ခေါင်းဆောင်၍ မူဘောင်များကို ပြင်လွယ်ပြောင်းလွယ်လိုင်စင်(အယ်ဂျီပီအယ်)နှင့် "
 "တိုးတက်မှုပြုလုပ်ခဲ့သည်။"
 
-#: content/announcements/frameworks/5/5.0.md:16
+#: content/announcements/frameworks/5/5.0.0.md:17
 msgid ""
 "The Frameworks have a clear dependency structure, divided into Categories "
 "and Tiers. The Categories refer to runtime dependencies:"
@@ -71,11 +71,11 @@ msgstr ""
 "မူဘောင်များတွင် မြင်သာသော မှီခိုပရိုဂရမ်ဖွဲ့စည်းမှုရှိသည်။ ၎င်းကို အမျိုးအစားနှင့် အတန်းအစားများအဖြစ် "
 "ခွဲထားသည်။ အမျိုးအစားများသည် လုပ်ဆောင်ချိန်မှီခိုပရိုဂရမ်းများကို ဆိုလိုသည် -"
 
-#: content/announcements/frameworks/5/5.0.md:18
+#: content/announcements/frameworks/5/5.0.0.md:19
 msgid "<strong>Functional</strong> elements have no runtime dependencies."
 msgstr "<strong>ဖန်ရှင်နယ်</strong> ကုတ်စင်များ ၌ လုပ်ဆောင်ချိတ်မှီခိုပရိုဂရမ်များ မရှိပါ။"
 
-#: content/announcements/frameworks/5/5.0.md:19
+#: content/announcements/frameworks/5/5.0.0.md:20
 msgid ""
 "<strong>Integration</strong> designates code that may require runtime "
 "dependencies for integration depending on what the OS or platform offers."
@@ -83,11 +83,11 @@ msgstr ""
 "<strong>ပေါင်းစည်းလုပ်ဆောင်မှု</strong> သည် မောင်းနှင်စနစ် သို့မဟုတ် ပလက်ဖောင်းပေါ်မူတည်၍ "
 "ပေါင်းစည်ရန် အတွက် လုပ်ဆောင်ချိန်မှီခိုပရိုဂရမ်များလိုအပ်သော ကုတ်ကို သတ်မှတ်သည်။"
 
-#: content/announcements/frameworks/5/5.0.md:20
+#: content/announcements/frameworks/5/5.0.0.md:21
 msgid "<strong>Solutions</strong> have mandatory runtime dependencies."
 msgstr "<strong>ဖြေရှင်းချက်များ</strong> တွင် လုံးဝလိုအပ်သော လုပ်ဆောင်ချိန်မှီခိုပရိုဂရမ်များ ရှိသည်။"
 
-#: content/announcements/frameworks/5/5.0.md:22
+#: content/announcements/frameworks/5/5.0.0.md:23
 msgid ""
 "The <strong>Tiers</strong> refer to compile-time dependencies on other "
 "Frameworks. Tier 1 Frameworks have no dependencies within Frameworks and "
@@ -101,7 +101,7 @@ msgstr ""
 "မူဘောင်များပေါ်သာ မှီခိုသည်။ အတန်းအစား ၃ မူဘောင်များသည် အခြားအတန်းအစား ၃ မူဘောင်များနှင့် "
 "အတန်းအစား ၂၊၁ မူဘောင်များပေါ် မှီခိုသည်။"
 
-#: content/announcements/frameworks/5/5.0.md:24
+#: content/announcements/frameworks/5/5.0.0.md:25
 msgid ""
 "The transition from Platform to Frameworks has been in progress for over 3 "
 "years, guided by top KDE technical contributors. Learn more about Frameworks "
@@ -111,11 +111,11 @@ msgstr ""
 "သုံးနှစ်ကျော်ကြာခဲ့ပြီးဖြစ်သည်။ မူဘောင်များ ၅ <a href='%[1]s'>ကို ယခင်နှစ်က ဤအာတီကယ်တွင် "
 "ဖတ်ရှုလေ့လာပါ</a>။"
 
-#: content/announcements/frameworks/5/5.0.md:26
+#: content/announcements/frameworks/5/5.0.0.md:27
 msgid "Highlights"
 msgstr "အထူးဖော်ပြချက်များ"
 
-#: content/announcements/frameworks/5/5.0.md:28
+#: content/announcements/frameworks/5/5.0.0.md:29
 msgid ""
 "There are over 50 Frameworks currently available. Browse the complete set <a "
 "href='%[1]s'>in the online API documentation</a>. Below an impression of "
@@ -125,7 +125,7 @@ msgstr ""
 "ရှောက်ကြည့်ပါ။ အောက်တွင် မူဘောင်များမှ ကျူတီအပ္ပလီကေးရှင်းပရိုးရမ်မာများထံ ပေးသော "
 "လုပ်ဆောင်ချက်များအချို့၏ အမြင်များ ဖော်ပြထားသည်။"
 
-#: content/announcements/frameworks/5/5.0.md:30
+#: content/announcements/frameworks/5/5.0.0.md:31
 msgid ""
 "<strong>KArchive</strong> offers support for many popular compression codecs "
 "in a self-contained, featureful and easy-to-use file archiving and "
@@ -133,7 +133,7 @@ msgid ""
 "archiving function in your Qt-based application!"
 msgstr ""
 
-#: content/announcements/frameworks/5/5.0.md:32
+#: content/announcements/frameworks/5/5.0.0.md:33
 msgid ""
 "<strong>ThreadWeaver</strong> offers a high-level API to manage threads "
 "using job- and queue-based interfaces. It allows easy scheduling of thread "
@@ -142,7 +142,7 @@ msgid ""
 "threads."
 msgstr ""
 
-#: content/announcements/frameworks/5/5.0.md:34
+#: content/announcements/frameworks/5/5.0.0.md:35
 msgid ""
 "<strong>KConfig</strong> is a Framework to deal with storing and retrieving "
 "configuration settings. It features a group-oriented API. It works with INI "
@@ -150,7 +150,7 @@ msgid ""
 "XML files."
 msgstr ""
 
-#: content/announcements/frameworks/5/5.0.md:36
+#: content/announcements/frameworks/5/5.0.0.md:37
 msgid ""
 "<strong>Solid</strong> offers hardware detection and can inform an "
 "application about storage devices and volumes, CPU, battery status, power "
@@ -158,22 +158,22 @@ msgid ""
 "partitions, power and networking, running daemons are required."
 msgstr ""
 
-#: content/announcements/frameworks/5/5.0.md:38
+#: content/announcements/frameworks/5/5.0.0.md:39
 msgid ""
 "<strong>KI18n</strong> adds Gettext support to applications, making it "
 "easier to integrate the translation workflow of Qt applications in the "
 "general translation infrastructure of many projects."
 msgstr ""
 
-#: content/announcements/frameworks/5/5.1.md:0
+#: content/announcements/frameworks/5/5.1.0.md:0
 msgid "KDE Ships Second Release of Frameworks 5."
 msgstr ""
 
-#: content/announcements/frameworks/5/5.1.md:0
+#: content/announcements/frameworks/5/5.1.0.md:0
 msgid "Second release of KDE Frameworks 5"
 msgstr ""
 
-#: content/announcements/frameworks/5/5.1.md:12
+#: content/announcements/frameworks/5/5.1.0.md:13
 msgid ""
 "August 7th, 2014. KDE today announces the second release of KDE Frameworks "
 "5. In line with the planned release policy for KDE Frameworks this release "
