@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-02-14 01:06+0000\n"
+"POT-Creation-Date: 2023-02-18 01:07+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -89,17 +89,17 @@ msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr "Proxy,Proxy server,Firewall,Squid,ကြားခံ"
 
-#: src/kcms/smb/smb.desktop:12
+#: src/kcms/smb/smb.desktop:14
 msgctxt "Name"
 msgid "Windows Shares"
 msgstr "ဝင်းဒိုးစ် ဝေမျှမှုများ"
 
-#: src/kcms/smb/smb.desktop:104
+#: src/kcms/smb/smb.desktop:106
 msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr "SMBဝေမျှမှုများကို အသုံးပြုခွင့်ရရန်သုံးရသော ထောက်ခံလက်မှတ်"
 
-#: src/kcms/smb/smb.desktop:162
+#: src/kcms/smb/smb.desktop:164
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
