@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-20 01:05+0000\n"
+"POT-Creation-Date: 2023-02-28 01:07+0000\n"
 "PO-Revision-Date: 2021-09-19 13:15+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -188,41 +188,19 @@ msgctxt "Name"
 msgid "Window Management"
 msgstr "ဝင်းဒိုးစီမံမှု"
 
-#: core/infocenterexternalapp.desktop:6
-msgctxt "Name"
-msgid "Info Center External Application"
-msgstr ""
-
-#: core/systemsettingsexternalapp.desktop:4
-msgctxt "Name"
-msgid "System Settings External Application"
-msgstr ""
-
-#: icons/settings-icon-view.desktop:6 sidebar/settings-sidebar-view.desktop:6
-msgctxt "X-KDE-Keywords"
-msgid "System Settings"
-msgstr ""
-
-#: icons/settings-icon-view.desktop:70
-msgctxt "Name"
-msgid "Icon View"
-msgstr "အိုင်ကွန် မြင်ကွင်း"
-
-#: icons/settings-icon-view.desktop:150
-msgctxt "Comment"
-msgid "The KDE 4 icon view style"
-msgstr ""
-
-#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:70
+#: sidebar/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Sidebar View"
 msgstr "ဘေးတန်း မြင်ကွင်း"
 
 #: sidebar/package/metadata.desktop:57
-#: sidebar/settings-sidebar-view.desktop:125
 msgctxt "Comment"
 msgid "Categorized sidebar style"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Icon View"
+#~ msgstr "အိုင်ကွန် မြင်ကွင်း"
 
 #~ msgctxt "Name"
 #~ msgid "Icons"
