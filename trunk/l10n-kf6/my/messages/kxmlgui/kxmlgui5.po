@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kxmlgui\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-21 00:55+0000\n"
+"POT-Creation-Date: 2023-03-01 21:29+0000\n"
 "PO-Revision-Date: 2021-09-20 02:06+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -56,32 +56,32 @@ msgctxt "@title:window"
 msgid "About %1"
 msgstr "%1 အကြောင်း"
 
-#: kaboutapplicationdialog.cpp:98 kaboutplugindialog.cpp:91
+#: kaboutapplicationdialog.cpp:88 kaboutplugindialog.cpp:84
 #, kde-format
 msgctxt "@title:tab"
 msgid "About"
 msgstr "အကြောင်း"
 
-#: kaboutapplicationdialog.cpp:104
+#: kaboutapplicationdialog.cpp:94
 #, kde-format
 msgctxt "@title:tab"
 msgid "Components"
 msgstr ""
 
-#: kaboutapplicationdialog.cpp:114 kaboutplugindialog.cpp:99
+#: kaboutapplicationdialog.cpp:104 kaboutplugindialog.cpp:92
 #, kde-format
 msgctxt "@title:tab"
 msgid "Author"
 msgid_plural "Authors"
 msgstr[0] "ကုတ်ရေးသားသူ"
 
-#: kaboutapplicationdialog.cpp:121 kaboutplugindialog.cpp:106
+#: kaboutapplicationdialog.cpp:111 kaboutplugindialog.cpp:99
 #, kde-format
 msgctxt "@title:tab"
 msgid "Thanks To"
 msgstr "အောက်ပါသို့ ကျေးဇူတင်သည်"
 
-#: kaboutapplicationdialog.cpp:128 kaboutplugindialog.cpp:112
+#: kaboutapplicationdialog.cpp:118 kaboutplugindialog.cpp:105
 #, kde-format
 msgctxt "@title:tab"
 msgid "Translation"
@@ -647,30 +647,30 @@ msgstr "<h2>အရှိန်တင်စက်များ ဖယ်ရှာ�
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>အရှိန်တင်စက်များ ထည့်ပြီးပါပြီ (သင်သိလိုပါကသိစေရန်)</h2>"
 
-#: kedittoolbar.cpp:332
+#: kedittoolbar.cpp:327
 #, kde-format
 msgctxt "@title:window"
 msgid "Change Text"
 msgstr "စာသားပြောင်းလဲရန်"
 
-#: kedittoolbar.cpp:342
+#: kedittoolbar.cpp:337
 #, kde-format
 msgid "Icon te&xt:"
 msgstr "&xဝတ္တူ-မြင်ကွင်း စာသား -"
 
-#: kedittoolbar.cpp:347
+#: kedittoolbar.cpp:342
 #, kde-format
 msgctxt "@option:check"
 msgid "&Hide text when toolbar shows text alongside icons"
 msgstr ""
 
-#: kedittoolbar.cpp:596
+#: kedittoolbar.cpp:591
 #, kde-format
 msgctxt "@title:window"
 msgid "Configure Toolbars"
 msgstr "ကရိယာတန်းများပြင်ဆင်မည်"
 
-#: kedittoolbar.cpp:659
+#: kedittoolbar.cpp:654
 #, kde-format
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
@@ -679,17 +679,17 @@ msgstr ""
 "ဤအပ္ပလီကေးရှင်း၏ကိရိယာတန်းအားလုံးကို ယင်းတို့၏ မူလသတ်မှတ်ချက်များသို့ ပြန်သတ်မှတ်မည်လား။ ပြောင်းလဲမှုများသည် "
 "လက်ငင်းသက်ဝင်မည်ဖြစ်သည်။"
 
-#: kedittoolbar.cpp:660
+#: kedittoolbar.cpp:655
 #, kde-format
 msgid "Reset Toolbars"
 msgstr "ကရိယာတန်းများ ပြန်သတ်မှတ်မည်"
 
-#: kedittoolbar.cpp:661
+#: kedittoolbar.cpp:656
 #, kde-format
 msgid "Reset"
 msgstr "မူလအခြေအနေသို့ ပြန်သတ်မှတ်ရန်"
 
-#: kedittoolbar.cpp:989
+#: kedittoolbar.cpp:975
 #, kde-format
 msgid "&Toolbar:"
 msgstr "&Tကရိယာတန်း -"
@@ -701,66 +701,66 @@ msgstr "&Tကရိယာတန်း -"
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1005
+#: kedittoolbar.cpp:991
 #, kde-format
 msgid "A&vailable actions:"
 msgstr "ရရှိနိုင်သော လုပ်ဆောင်ချက်များ -"
 
-#: kedittoolbar.cpp:1026 kedittoolbar.cpp:1051
+#: kedittoolbar.cpp:1012 kedittoolbar.cpp:1037
 #, kde-format
 msgid "Filter"
 msgstr "စစ်ထုတ်"
 
-#: kedittoolbar.cpp:1029
+#: kedittoolbar.cpp:1015
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr "ယခု လုပ်ဆောင်ချက်များ -"
 
-#: kedittoolbar.cpp:1054
+#: kedittoolbar.cpp:1040
 #, kde-format
 msgctxt "@action:button"
 msgid "Change &Icon..."
 msgstr "&Iဝတ္တူ-မြင်ကွင်း ပြောင်းလဲ..."
 
-#: kedittoolbar.cpp:1063
+#: kedittoolbar.cpp:1049
 #, kde-format
 msgctxt "@action:button"
 msgid "Change Te&xt..."
 msgstr "&xစာသားပြောင်းလဲ..."
 
-#: kedittoolbar.cpp:1205
+#: kedittoolbar.cpp:1191
 #, kde-format
 msgid "--- separator ---"
 msgstr "--- ကန့်ထားမှု ---"
 
-#: kedittoolbar.cpp:1206
+#: kedittoolbar.cpp:1192
 #, kde-format
 msgid "--- expanding spacer ---"
 msgstr "--- နေရာယူမှု ပိုတိုးနေသည် ---"
 
-#: kedittoolbar.cpp:1228
+#: kedittoolbar.cpp:1214
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1256
+#: kedittoolbar.cpp:1242
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
-#: kedittoolbar.cpp:1258
+#: kedittoolbar.cpp:1244
 #, kde-format
 msgid "<Merge>"
 msgstr "<ပေါင်းစပ်>"
 
-#: kedittoolbar.cpp:1260
+#: kedittoolbar.cpp:1246
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<%1နှင့်ပေါင်းစပ်>"
 
-#: kedittoolbar.cpp:1270
+#: kedittoolbar.cpp:1256
 #, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
@@ -769,24 +769,23 @@ msgstr ""
 "ဤအရာသည် လုပ်ဆောင်မှုစာရင်းရှင်ဖြစ်သည်။ လုပ်ဆောင်ချက်များ နေရာရွေ့၍ရသည်။ ဒါပေမဲ့ ဖယ်ရှားလိုက်လျှင် "
 "ပြန်ထည့်လို့ရမည်မဟုတ်ပါ။"
 
-#: kedittoolbar.cpp:1271
+#: kedittoolbar.cpp:1257
 #, kde-format
 msgid "ActionList: %1"
 msgstr "လုပ်ဆောင်မှုစာရင်း - %1"
 
-#: kedittoolbar.cpp:1372 kedittoolbar.cpp:1397
+#: kedittoolbar.cpp:1358 kedittoolbar.cpp:1383
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1625
+#: kedittoolbar.cpp:1611
 #, kde-format
 msgid "Change Icon"
 msgstr "ဝတ္တူ-မြင်ကွင်း ပြောင်းလဲရန်"
 
-#. i18n: ectx: Menu (help)
-#: khelpmenu.cpp:146 ui_standards.rc:179
+#: khelpmenu.cpp:146
 #, kde-format
 msgid "&Help"
 msgstr "&Hအကူအညီ"
@@ -796,7 +795,7 @@ msgstr "&Hအကူအညီ"
 msgid "About %1"
 msgstr "%1 အကြောင်း"
 
-#: kkeysequencewidget.cpp:149
+#: kkeysequencewidget.cpp:144
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -804,19 +803,19 @@ msgid ""
 "Example for Ctrl+A: hold the Ctrl key and press A."
 msgstr ""
 
-#: kkeysequencewidget.cpp:172
+#: kkeysequencewidget.cpp:167
 #, kde-format
 msgctxt "%1 is the number of conflicts"
 msgid "Shortcut Conflict"
 msgid_plural "Shortcut Conflicts"
 msgstr[0] "ဖြတ်လမ်းအငြင်းပွားမှု"
 
-#: kkeysequencewidget.cpp:176
+#: kkeysequencewidget.cpp:171
 #, kde-format
 msgid "Shortcut '%1' for action '%2'\n"
 msgstr "လုပ်ဆောင်ချက် '%2' အတွက် ဖြတ်လမ်း '%1'\n"
 
-#: kkeysequencewidget.cpp:181
+#: kkeysequencewidget.cpp:176
 #, kde-format
 msgctxt "%1 is the number of ambiguous shortcut clashes (hidden)"
 msgid ""
@@ -829,20 +828,20 @@ msgid_plural ""
 "%3"
 msgstr[0] ""
 
-#: kkeysequencewidget.cpp:191 kkeysequencewidget.cpp:300
-#: kkeysequencewidget.cpp:362
+#: kkeysequencewidget.cpp:186 kkeysequencewidget.cpp:293
+#: kkeysequencewidget.cpp:355
 #, kde-format
 msgctxt "@action:button"
 msgid "Reassign"
 msgstr "ပြန်လည်ခန့်အပ်"
 
-#: kkeysequencewidget.cpp:196
+#: kkeysequencewidget.cpp:191
 #, kde-format
 msgctxt "@title:window"
 msgid "Shortcut conflict"
 msgstr "အမြန်ခလုတ်အငြင်းပွားဖွယ်ဖြစ်သည်"
 
-#: kkeysequencewidget.cpp:198
+#: kkeysequencewidget.cpp:193
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
@@ -850,13 +849,13 @@ msgid ""
 msgstr ""
 "<qt>'%1' ကီးတွဲကို <b>%2</b> လုပ်ဆောင်ချက်မှ အသုံးပြုပြီးဖြစ်သည်။<br>အခြားတစ်ခုရွေးပါ။</qt>"
 
-#: kkeysequencewidget.cpp:280
+#: kkeysequencewidget.cpp:273
 #, fuzzy, kde-format
 #| msgid "Shortcut '%1' in Application %2 for action %3\n"
 msgid "Shortcut '%1' in Application '%2' for action '%3'\n"
 msgstr "အပ္ပလီကေးရှင်း %2 တွင် လုပ်ဆောင်ချက် %3 အတွက် ဖြတ်လမ်း %1\n"
 
-#: kkeysequencewidget.cpp:289
+#: kkeysequencewidget.cpp:282
 #, kde-format
 msgctxt ""
 "%1 is the number of conflicts (hidden), %2 is the key sequence of the "
@@ -866,19 +865,19 @@ msgid_plural ""
 "The shortcut '%2' conflicts with the following key combinations:\n"
 msgstr[0] "ဖြတ်လမ်း '%2' သည် အောက်ပါကီးတွဲနှင့် တိုက်နေသည်-\n"
 
-#: kkeysequencewidget.cpp:296
+#: kkeysequencewidget.cpp:289
 #, kde-format
 msgctxt "%1 is the number of shortcuts with which there is a conflict"
 msgid "Conflict with Registered Global Shortcut"
 msgid_plural "Conflict with Registered Global Shortcuts"
 msgstr[0] "စာရင်းသွင်းထားသည့် အများနှင့်သက်ဆိုင်သောအမြန်ခလုတ်ဖြင့် အငြင်းပွားဖွယ်ဖြစ်သည်"
 
-#: kkeysequencewidget.cpp:309
+#: kkeysequencewidget.cpp:302
 #, kde-format
 msgid "Reserved Shortcut"
 msgstr "သုံးစွဲရန်သိမ်း၍ထားသော အမြန်ခလုတ်"
 
-#: kkeysequencewidget.cpp:311
+#: kkeysequencewidget.cpp:304
 #, kde-format
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
@@ -889,13 +888,13 @@ msgstr ""
 "အမြန်ခလုတ်အဖြစ်သုံးမရပါ။\n"
 "အခြားတစ်ခုရွေးချယ်ပါ။"
 
-#: kkeysequencewidget.cpp:354
+#: kkeysequencewidget.cpp:347
 #, kde-format
 msgctxt "@title:window"
 msgid "Conflict with Standard Application Shortcut"
 msgstr "သမာရိုးကျအမြန်ခလုတ်နှင့် အငြင်းပွားဖွယ်ဖြစ်သည်"
 
-#: kkeysequencewidget.cpp:356
+#: kkeysequencewidget.cpp:349
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -903,13 +902,13 @@ msgid ""
 "Do you really want to use it as a global shortcut as well?"
 msgstr ""
 
-#: kkeysequencewidget.cpp:400
+#: kkeysequencewidget.cpp:393
 #, kde-format
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "တင်သွင်းမှု"
 
-#: kkeysequencewidget.cpp:402 kshortcuteditwidget.cpp:51
+#: kkeysequencewidget.cpp:395 kshortcuteditwidget.cpp:51
 #, kde-format
 msgctxt "No shortcut defined"
 msgid "None"
@@ -921,13 +920,13 @@ msgctxt "@title:window"
 msgid "License Agreement"
 msgstr "လိုင်စင်သဘောတူညီချက်"
 
-#: kmainwindow.cpp:277
+#: kmainwindow.cpp:272
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "ဇေယျာလွင်"
 
-#: kmainwindow.cpp:278
+#: kmainwindow.cpp:273
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
@@ -1118,104 +1117,43 @@ msgctxt "@title:window"
 msgid "Configure Keyboard Shortcuts"
 msgstr "ကီးဘုတ်အမြန်ခလုတ်များပြင်ဆင်မည်"
 
-#. i18n: ectx: property (whatsThis), widget (KTreeWidgetSearchLineWidget, searchFilter)
-#: kshortcutsdialog.ui:16
-#, kde-format
-msgid ""
-"Search interactively for shortcut names (e.g. Copy) or combination of keys "
-"(e.g. Ctrl+C) by typing them here."
-msgstr "အမြန်ခလုတ်အမည်များ(သာဓက။ ။ကူးယူ) သို့မဟုတ် ကီးတွဲများ(သာဓက။ ။ Ctrl+C) ရိုက်သွင်းပြီးရှာဖွေရန်"
-
-#. i18n: ectx: property (whatsThis), widget (QTreeWidget, list)
-#: kshortcutsdialog.ui:23
-#, kde-format
-msgid ""
-"Here you can see a list of key bindings, i.e. associations between actions "
-"(e.g. 'Copy') shown in the left column and keys or combination of keys (e.g. "
-"Ctrl+V) shown in the right column."
-msgstr "ကီးတွဲများ စာရင်း မြင်ရမည်။"
-
-#. i18n: ectx: property (text), widget (QTreeWidget, list)
-#: kshortcutsdialog.ui:33
-#, kde-format
-msgid "Action"
-msgstr "လုပ်ဆောင်ချက်"
-
-#. i18n: ectx: property (text), widget (QTreeWidget, list)
-#: kshortcutsdialog.ui:38
-#, kde-format
-msgid "Shortcut"
-msgstr "အမြန်ခလုတ်"
-
-#. i18n: ectx: property (text), widget (QTreeWidget, list)
-#: kshortcutsdialog.ui:43
-#, kde-format
-msgid "Alternate"
-msgstr "အခြား"
-
-#. i18n: ectx: property (text), widget (QTreeWidget, list)
-#: kshortcutsdialog.ui:48
-#, kde-format
-msgid "Global"
-msgstr "အများနှင့်သက်ဆိုင်သော"
-
-#. i18n: ectx: property (text), widget (QTreeWidget, list)
-#: kshortcutsdialog.ui:53
-#, kde-format
-msgid "Global Alternate"
-msgstr "အများနှင့်သက်ဆိုင်သောအခြား"
-
-#. i18n: ectx: property (text), widget (QTreeWidget, list)
-#: kshortcutsdialog.ui:58
-#, kde-format
-msgid "Mouse Button Gesture"
-msgstr "မောက့်စ် ခလုတ် လက်ဟန်"
-
-#. i18n: ectx: property (text), widget (QTreeWidget, list)
-#: kshortcutsdialog.ui:63
-#, kde-format
-msgid "Mouse Shape Gesture"
-msgstr "မောက့်စ် ပုံစံ လက်ဟန်"
-
-#: kshortcutseditor.cpp:557
+#: kshortcutseditor.cpp:536
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1အတွက် အမြန်ခလုတ်များ"
 
-#. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:577 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:556
 #, kde-format
 msgid "Main:"
 msgstr "ပင်မ -"
 
-#. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:578 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:557
 #, kde-format
 msgid "Alternate:"
 msgstr "အခြား -"
 
-#: kshortcutseditor.cpp:579
+#: kshortcutseditor.cpp:558
 #, kde-format
 msgid "Global:"
 msgstr "အများနှင့်သက်ဆိုင်သော -"
 
-#: kshortcutseditor.cpp:580
+#: kshortcutseditor.cpp:559
 #, kde-format
 msgid "Global alternate:"
 msgstr "အများနှင့်သက်ဆိုင်သောအခြား -"
 
-#: kshortcutseditor.cpp:596
+#: kshortcutseditor.cpp:575
 #, kde-format
 msgid "Action Name"
 msgstr "လုပ်ဆောင်ချက်အမည်"
 
-#: kshortcutseditor.cpp:600
+#: kshortcutseditor.cpp:579
 #, kde-format
 msgid "Shortcuts"
 msgstr "အမြန်ခလုတ်များ"
 
-#: kshortcutseditor.cpp:604
+#: kshortcutseditor.cpp:583
 #, kde-format
 msgid "Description"
 msgstr "ဖော်ပြချက်"
@@ -1304,109 +1242,109 @@ msgid ""
 "contain a proper translation."
 msgstr "အရင်သုံးသော ဘာသာစကားများတွင် သင့်တော်သည့် ဘာသာပြန်ချက်မရှိလျှင် ဤဘာသာစကားကိုအသုံးပြုမည်။"
 
-#: ktoolbar.cpp:300 ktoolbar.cpp:307
+#: ktoolbar.cpp:298 ktoolbar.cpp:305
 #, kde-format
 msgctxt "@title:menu"
 msgid "Toolbar Settings"
 msgstr "ကရိယာတန်းဆိုင်ရာ သတ်မှတ်ချက်များ"
 
-#: ktoolbar.cpp:302
+#: ktoolbar.cpp:300
 #, kde-format
 msgctxt "@title:menu"
 msgid "Show Text"
 msgstr "စာသားပြရန်"
 
-#: ktoolbar.cpp:309
+#: ktoolbar.cpp:307
 #, kde-format
 msgctxt "Toolbar orientation"
 msgid "Orientation"
 msgstr "ရုပ်ပြမျက်နှာပြင်လှည့်မှု"
 
-#: ktoolbar.cpp:311
+#: ktoolbar.cpp:309
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Top"
 msgstr "ထိပ်"
 
-#: ktoolbar.cpp:315
+#: ktoolbar.cpp:313
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Left"
 msgstr "ဘယ်"
 
-#: ktoolbar.cpp:318
+#: ktoolbar.cpp:316
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Right"
 msgstr "ညာ"
 
-#: ktoolbar.cpp:321
+#: ktoolbar.cpp:319
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "အောက်"
 
-#: ktoolbar.cpp:332
+#: ktoolbar.cpp:330
 #, kde-format
 msgid "Text Position"
 msgstr "စာသားတည်နေရာ"
 
-#: ktoolbar.cpp:334
+#: ktoolbar.cpp:332
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Icons Only"
 msgstr "ဝတ္တူ-မြင်ကွင်းတစ်ခုတည်း"
 
-#: ktoolbar.cpp:337
+#: ktoolbar.cpp:335
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Text Only"
 msgstr "စာသားတစ်ခုတည်း"
 
-#: ktoolbar.cpp:340
+#: ktoolbar.cpp:338
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Text Alongside Icons"
 msgstr "ဝတ္တူ-မြင်ကွင်းဘေး စာသားထားရန်"
 
-#: ktoolbar.cpp:343
+#: ktoolbar.cpp:341
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Text Under Icons"
 msgstr "ဝတ္တူ-မြင်ကွင်းအောက် စာသားထားရန်"
 
-#: ktoolbar.cpp:354
+#: ktoolbar.cpp:352
 #, kde-format
 msgid "Icon Size"
 msgstr "ဝတ္တူ-မြင်ကွင်း အရွယ်အစား"
 
-#: ktoolbar.cpp:356
+#: ktoolbar.cpp:354
 #, kde-format
 msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr "မူလသတ်မှတ်ချက်"
 
-#: ktoolbar.cpp:376 ktoolbar.cpp:400
+#: ktoolbar.cpp:374 ktoolbar.cpp:398
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "သေးငယ် (%1x%2)"
 
-#: ktoolbar.cpp:378 ktoolbar.cpp:402
+#: ktoolbar.cpp:376 ktoolbar.cpp:400
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "ပုံမှန် (%1x%2)"
 
-#: ktoolbar.cpp:380 ktoolbar.cpp:404
+#: ktoolbar.cpp:378 ktoolbar.cpp:402
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "ကြီး (%1x%2)"
 
-#: ktoolbar.cpp:382 ktoolbar.cpp:406
+#: ktoolbar.cpp:380 ktoolbar.cpp:404
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "အလွန်ကြီး (%1x%2)"
 
-#: ktoolbar.cpp:432
+#: ktoolbar.cpp:430
 #, kde-format
 msgid "Lock Toolbar Positions"
 msgstr "ကရိယာတန်းတည်နေရာများကိုအသေထားမည်"
@@ -1479,7 +1417,7 @@ msgstr "စာသားမရှိ"
 msgid "Find Action…"
 msgstr "လုပ်ဆောင်ချက်"
 
-#: kxmlguiwindow.cpp:535
+#: kxmlguiwindow.cpp:528
 #, kde-format
 msgid ""
 "There are two actions (%1, %2) that want to use the same shortcut (%3). This "
@@ -1490,71 +1428,74 @@ msgstr ""
 "ဖြစ်ဖို့များသည်။ ကျေးဇူးပြု၍ <a href='https://bugs.kde.org'>bugs.kde.org</a> တွင် "
 "အစီရင်ခံပါ"
 
-#: kxmlguiwindow.cpp:540
+#: kxmlguiwindow.cpp:533
 #, kde-format
 msgid "Ambiguous Shortcuts"
 msgstr "အငြင်းပွားဖွယ်ရှိသည့်အမြန်ခလုတ်များ"
 
-#. i18n: ectx: Menu (file)
-#: ui_standards.rc:5
-#, kde-format
-msgid "&File"
-msgstr "&Fဖိုင်လ်"
+#~ msgid ""
+#~ "Search interactively for shortcut names (e.g. Copy) or combination of "
+#~ "keys (e.g. Ctrl+C) by typing them here."
+#~ msgstr ""
+#~ "အမြန်ခလုတ်အမည်များ(သာဓက။ ။ကူးယူ) သို့မဟုတ် ကီးတွဲများ(သာဓက။ ။ Ctrl+C) ရိုက်သွင်းပြီးရှာဖွေရန်"
 
-#. i18n: ectx: Menu (game)
-#: ui_standards.rc:34
-#, kde-format
-msgid "&Game"
-msgstr "&Gဂိမ်း"
+#~ msgid ""
+#~ "Here you can see a list of key bindings, i.e. associations between "
+#~ "actions (e.g. 'Copy') shown in the left column and keys or combination of "
+#~ "keys (e.g. Ctrl+V) shown in the right column."
+#~ msgstr "ကီးတွဲများ စာရင်း မြင်ရမည်။"
 
-#. i18n: ectx: Menu (edit)
-#: ui_standards.rc:61
-#, kde-format
-msgid "&Edit"
-msgstr "&Eတည်းဖြတ်"
+#~ msgid "Action"
+#~ msgstr "လုပ်ဆောင်ချက်"
 
-#. i18n: ectx: Menu (move)
-#: ui_standards.rc:84
-#, kde-format
-msgctxt "@title:menu Game move"
-msgid "&Move"
-msgstr "&Mရွေ့"
+#~ msgid "Shortcut"
+#~ msgstr "အမြန်ခလုတ်"
 
-#. i18n: ectx: Menu (view)
-#: ui_standards.rc:102
-#, kde-format
-msgid "&View"
-msgstr "&Vမြင်ကွင်း"
+#~ msgid "Alternate"
+#~ msgstr "အခြား"
 
-#. i18n: ectx: Menu (go)
-#: ui_standards.rc:121
-#, kde-format
-msgid "&Go"
-msgstr "&Gသွားရန်"
+#~ msgid "Global"
+#~ msgstr "အများနှင့်သက်ဆိုင်သော"
 
-#. i18n: ectx: Menu (bookmarks)
-#: ui_standards.rc:142
-#, kde-format
-msgid "&Bookmarks"
-msgstr "&Bစာမျက်နှာမှတ်သားချက်များ"
+#~ msgid "Global Alternate"
+#~ msgstr "အများနှင့်သက်ဆိုင်သောအခြား"
 
-#. i18n: ectx: Menu (tools)
-#: ui_standards.rc:148
-#, kde-format
-msgid "&Tools"
-msgstr "&Tကရိယာများ"
+#~ msgid "Mouse Button Gesture"
+#~ msgstr "မောက့်စ် ခလုတ် လက်ဟန်"
 
-#. i18n: ectx: Menu (settings)
-#: ui_standards.rc:152
-#, kde-format
-msgid "&Settings"
-msgstr "&Sသတ်မှတ်ချက်များ"
+#~ msgid "Mouse Shape Gesture"
+#~ msgstr "မောက့်စ် ပုံစံ လက်ဟန်"
 
-#. i18n: ectx: ToolBar (mainToolBar)
-#: ui_standards.rc:197
-#, kde-format
-msgid "Main Toolbar"
-msgstr "အဓိကကရိယာတန်း"
+#~ msgid "&File"
+#~ msgstr "&Fဖိုင်လ်"
+
+#~ msgid "&Game"
+#~ msgstr "&Gဂိမ်း"
+
+#~ msgid "&Edit"
+#~ msgstr "&Eတည်းဖြတ်"
+
+#~ msgctxt "@title:menu Game move"
+#~ msgid "&Move"
+#~ msgstr "&Mရွေ့"
+
+#~ msgid "&View"
+#~ msgstr "&Vမြင်ကွင်း"
+
+#~ msgid "&Go"
+#~ msgstr "&Gသွားရန်"
+
+#~ msgid "&Bookmarks"
+#~ msgstr "&Bစာမျက်နှာမှတ်သားချက်များ"
+
+#~ msgid "&Tools"
+#~ msgstr "&Tကရိယာများ"
+
+#~ msgid "&Settings"
+#~ msgstr "&Sသတ်မှတ်ချက်များ"
+
+#~ msgid "Main Toolbar"
+#~ msgstr "အဓိကကရိယာတန်း"
 
 #~ msgid "Open Command Bar"
 #~ msgstr "အမိန့်တန်းဖွင့်ရန်"
