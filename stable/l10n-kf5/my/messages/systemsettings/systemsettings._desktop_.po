@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-20 02:49+0000\n"
+"POT-Creation-Date: 2023-03-03 03:08+0000\n"
 "PO-Revision-Date: 2021-09-19 13:15+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -38,27 +38,27 @@ msgctxt "Name"
 msgid "System Settings"
 msgstr "စစ်စတမ်ဆက်တင်များ"
 
-#: app/systemsettings.desktop:245
+#: app/systemsettings.desktop:246
 msgctxt "Name"
 msgid "Global Theme"
 msgstr ""
 
-#: app/systemsettings.desktop:296
+#: app/systemsettings.desktop:298
 msgctxt "Name"
 msgid "Users"
 msgstr "အသုံးပြုသူများ"
 
-#: app/systemsettings.desktop:349
+#: app/systemsettings.desktop:352
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr "စခရင် သော့ခတ်ခြင်း"
 
-#: app/systemsettings.desktop:401
+#: app/systemsettings.desktop:405
 msgctxt "Name"
 msgid "Energy Saving"
 msgstr ""
 
-#: app/systemsettings.desktop:452
+#: app/systemsettings.desktop:457
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr ""
@@ -218,8 +218,8 @@ msgctxt "Name"
 msgid "Sidebar View"
 msgstr "ဘေးတန်း မြင်ကွင်း"
 
-#: sidebar/package/metadata.desktop:57
-#: sidebar/settings-sidebar-view.desktop:125
+#: sidebar/package/metadata.desktop:58
+#: sidebar/settings-sidebar-view.desktop:126
 msgctxt "Comment"
 msgid "Categorized sidebar style"
 msgstr ""
