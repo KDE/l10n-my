@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-02 01:29+0000\n"
+"POT-Creation-Date: 2023-03-03 00:55+0000\n"
 "PO-Revision-Date: 2021-09-19 13:52+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -289,7 +289,7 @@ msgctxt "Name"
 msgid "Cache"
 msgstr ""
 
-#: settings/konqhtml/cache/khtml_cache.desktop:88
+#: settings/konqhtml/cache/khtml_cache.desktop:87
 msgctxt "Comment"
 msgid "Configure the use of Cache"
 msgstr ""
