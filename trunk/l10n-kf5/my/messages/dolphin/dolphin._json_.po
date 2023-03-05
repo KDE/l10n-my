@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-15 01:05+0000\n"
+"POT-Creation-Date: 2023-03-05 01:06+0000\n"
 "PO-Revision-Date: 2021-09-16 00:03+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -36,29 +36,26 @@ msgctxt "Name"
 msgid "View Modes"
 msgstr "မြင်ကွင်းထုံးနည်းများ"
 
-#: src/settings/kcm/kcmdolphingeneral.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure general file manager settings"
-msgctxt "Description"
-msgid "Configure general file manager settings"
-msgstr "ဖိုင်လ်မန်နေဂျာ ယေဘုယျဆက်တင် ပြင်ဆင်မည်"
+#~| msgctxt "Comment"
+#~| msgid "Configure general file manager settings"
+#~ msgctxt "Description"
+#~ msgid "Configure general file manager settings"
+#~ msgstr "ဖိုင်လ်မန်နေဂျာ ယေဘုယျဆက်တင် ပြင်ဆင်မည်"
 
-#: src/settings/kcm/kcmdolphinnavigation.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure file manager navigation"
-msgctxt "Description"
-msgid "Configure file manager navigation"
-msgstr "ဖိုင်လ်မန်နေဂျာ လမ်းညွှန် ပြင်ဆင်မည်"
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager navigation"
+#~ msgctxt "Description"
+#~ msgid "Configure file manager navigation"
+#~ msgstr "ဖိုင်လ်မန်နေဂျာ လမ်းညွှန် ပြင်ဆင်မည်"
 
-#: src/settings/kcm/kcmdolphinviewmodes.json
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure file manager view modes"
-msgctxt "Description"
-msgid "Configure file manager view modes"
-msgstr "ဖိုင်လ်မန်နေဂျာ မြင်ကွင်းထုံးနည်းများ ပြင်ဆင်မည်"
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager view modes"
+#~ msgctxt "Description"
+#~ msgid "Configure file manager view modes"
+#~ msgstr "ဖိုင်လ်မန်နေဂျာ မြင်ကွင်းထုံးနည်းများ ပြင်ဆင်မည်"
 
 #~ msgctxt "Name"
 #~ msgid "Icons"
