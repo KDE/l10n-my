@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-10 00:52+0000\n"
+"POT-Creation-Date: 2023-03-12 00:50+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -322,19 +322,11 @@ msgid "3D creation"
 msgstr ""
 
 #: content/for/creators.md:0
-msgid "/for/resources/blender_icon_512x512.png"
-msgstr ""
-
-#: content/for/creators.md:0
 msgid "Inkscape"
 msgstr ""
 
 #: content/for/creators.md:0
 msgid "Vector graphics"
-msgstr ""
-
-#: content/for/creators.md:0
-msgid "/for/resources/inkscape-logo.svg"
 msgstr ""
 
 #: content/for/creators.md:0
@@ -346,19 +338,11 @@ msgid "Publishing"
 msgstr ""
 
 #: content/for/creators.md:0
-msgid "/for/resources/Scribus_logo.svg"
-msgstr ""
-
-#: content/for/creators.md:0
 msgid "Ossia score"
 msgstr ""
 
 #: content/for/creators.md:0
 msgid "Media art"
-msgstr ""
-
-#: content/for/creators.md:0
-msgid "/for/resources/score-logo.png"
 msgstr ""
 
 #: content/for/creators.md:0
@@ -370,19 +354,11 @@ msgid "Music creation"
 msgstr ""
 
 #: content/for/creators.md:0
-msgid "/for/resources/lmms-logo.svg"
-msgstr ""
-
-#: content/for/creators.md:0
 msgid "Glaxnimate"
 msgstr ""
 
 #: content/for/creators.md:0
 msgid "2D vector animation"
-msgstr ""
-
-#: content/for/creators.md:0
-msgid "/for/resources/glaxnimate.svg"
 msgstr ""
 
 #: content/for/creators.md:0
@@ -394,19 +370,11 @@ msgid "2D animation"
 msgstr ""
 
 #: content/for/creators.md:0
-msgid "/for/resources/opentoonz-logo.svg"
-msgstr ""
-
-#: content/for/creators.md:0
 msgid "Natron"
 msgstr ""
 
 #: content/for/creators.md:0
 msgid "VFX and Motion Graphics"
-msgstr ""
-
-#: content/for/creators.md:0
-msgid "/for/resources/natron.svg"
 msgstr ""
 
 #: content/for/creators.md:0
@@ -427,7 +395,7 @@ msgstr ""
 msgid "Quickly find your best images using labels"
 msgstr ""
 
-#: content/for/creators.md:0
+#: content/for/creators.md:0 content/for/scientists.md:0
 msgid "Color picker applet"
 msgstr ""
 
@@ -435,19 +403,19 @@ msgstr ""
 msgid "Capture color from your screen and keep track of them"
 msgstr ""
 
-#: content/for/creators.md:0
+#: content/for/creators.md:0 content/for/scientists.md:0
 msgid "Neutral color support"
 msgstr ""
 
-#: content/for/creators.md:0
+#: content/for/creators.md:0 content/for/scientists.md:0
 msgid "Plasma allows you to use a desaturated dark theme."
 msgstr ""
 
-#: content/for/creators.md:0
+#: content/for/creators.md:0 content/for/scientists.md:0
 msgid "Preview support for all your images"
 msgstr ""
 
-#: content/for/creators.md:0
+#: content/for/creators.md:0 content/for/scientists.md:0
 msgid ""
 "Preview your artworks Krita files directly from the file manager and image "
 "viewer"
@@ -562,7 +530,7 @@ msgid ""
 "resources/kontrast.png)"
 msgstr ""
 
-#: content/for/creators.md:174
+#: content/for/creators.md:174 content/for/scientists.md:191
 msgid "Other open source applications for you"
 msgstr ""
 
@@ -620,6 +588,346 @@ msgstr "၆နှစ်မှ၉၉နှစ်ထိ ကလေးများ�
 #: content/for/kids.md:0
 msgid "Games"
 msgstr "ဂိမ်းများ"
+
+#: content/for/scientists.md:0
+msgid "KDE for Scientists"
+msgstr ""
+
+#: content/for/scientists.md:0
+#, fuzzy
+#| msgid "KDE Applications"
+msgid "For Scientists Using KDE Applications."
+msgstr "ကေဒီအီးအပ္ပလီကေးရှင်းများ"
+
+#: content/for/scientists.md:0
+msgid "PyMOL"
+msgstr ""
+
+#: content/for/scientists.md:0
+msgid "Molecular visualization system"
+msgstr ""
+
+#: content/for/scientists.md:0
+msgid "Coq"
+msgstr ""
+
+#: content/for/scientists.md:0
+msgid "Formal proof management system"
+msgstr ""
+
+#: content/for/scientists.md:0
+msgid "FreeCAD"
+msgstr ""
+
+#: content/for/scientists.md:0
+msgid "Parametric 3D CAD modeler"
+msgstr ""
+
+#: content/for/scientists.md:0
+msgid "Scilab"
+msgstr ""
+
+#: content/for/scientists.md:0
+msgid "Numerical computation"
+msgstr ""
+
+#: content/for/scientists.md:0
+msgid ""
+"### Rich command processing\n"
+"\n"
+"Cantor allows you to run commands from your favorite mathematical "
+"programming language assisted by syntax highlighting and tab-completion for "
+"functions, reserved words and variables. See the output of your work "
+"directly in the worksheet or export to PDF, LaTeX, plain-text, and Jupyter "
+"notebooks!\n"
+msgstr ""
+
+#: content/for/scientists.md:0
+msgid ""
+"### Quick variables management\n"
+"\n"
+"Manage all your variables from the built-in side panel. See the values, "
+"size, and type of variables utilized in the environment at a glance. In "
+"addition, it is possible to change the variables values from the side "
+"panel.\n"
+msgstr ""
+
+#: content/for/scientists.md:0
+msgid "Capture colors from your screen and keep track of them"
+msgstr ""
+
+#: content/for/scientists.md:56
+msgid "LabPlot - Scientific plotting and data analysis"
+msgstr ""
+
+#: content/for/scientists.md:60
+msgid ""
+"LabPlot is a professional free and open source program for data scientists. "
+"It provides high-quality data visualization and plotting with few clicks. "
+"It's a reliable and easy data analysis and statistics tool that requires no "
+"coding."
+msgstr ""
+
+#: content/for/scientists.md:62
+msgid "![LabPlot tools](/for/resources/labplot.png)"
+msgstr ""
+
+#: content/for/scientists.md:68
+msgid "Cantor"
+msgstr ""
+
+#: content/for/scientists.md:70
+msgid ""
+"Cantor is an application that lets you use your favorite mathematical "
+"programming language from within an easy-to-use worksheet interface."
+msgstr ""
+
+#: content/for/scientists.md:72
+msgid ""
+"Currently Cantor supports 10 backends: Julia, KAlgebra, Lua, Maxima, Octave, "
+"Python, Qalculate, R, Sage, and Scilab."
+msgstr ""
+
+#: content/for/scientists.md:76
+msgid "![](https://cantor.kde.org/assets/img/screenshot.png)"
+msgstr ""
+
+#: content/for/scientists.md:84
+#, fuzzy
+#| msgid "Learn about Plasma"
+msgid "Powered by Plasma"
+msgstr "ပလက်စမာအကြောင်း လေ့လာပါ"
+
+#: content/for/scientists.md:85
+msgid "ALBA Synchrotron in Barcelona, Spain"
+msgstr ""
+
+#: content/for/scientists.md:87
+msgid ""
+"Plasma runs on the computers in one of Europe’s largest research facilities "
+"powering the majority of control desktop."
+msgstr ""
+
+#: content/for/scientists.md:89
+msgid ""
+"Currently, the control room runs Debian 9 with Plasma. Almost everything in "
+"the controls section runs Linux."
+msgstr ""
+
+#: content/for/scientists.md:91
+msgid ""
+"We are a scientific paper factory, so we use Kile and Okular all the time. "
+"In the controls section, we use Kate and KWrite quite often. Of course, "
+"there are also the Emacs people and the Vim users..."
+msgstr ""
+
+#: content/for/scientists.md:93
+msgid ""
+"[Sergi Blanch-Torné](https://dot.kde.org/2019/07/19/powered-plasma-alba-"
+"synchrotron-barcelona-spain)"
+msgstr ""
+
+#: content/for/scientists.md:95
+msgid ""
+"![Computers in the control room, powered by Plasma. Photo by Sergi Blanch-"
+"Torné.](https://dot.kde.org/sites/dot.kde.org/files/plasma-alba-controlroom-"
+"computers.jpg)"
+msgstr ""
+
+#: content/for/scientists.md:97
+msgid ""
+"[Read the full interview on KDE News website](https://dot.kde.org/2019/07/19/"
+"powered-plasma-alba-synchrotron-barcelona-spain)"
+msgstr ""
+
+#: content/for/scientists.md:99
+msgid "Nasa Control Room"
+msgstr ""
+
+#: content/for/scientists.md:101
+msgid ""
+"Nasa uses KDE 4.10 in their control room, during the InSight landing on Mars "
+"stream."
+msgstr ""
+
+#: content/for/scientists.md:103
+msgid ""
+"![In the wild, KDE on NASA Control Room](https://25years.kde.org/assets/img/"
+"gallery/inthewild_nasa.jpg)"
+msgstr ""
+
+#: content/for/scientists.md:105
+msgid "NERC's Space Geodesy Facility"
+msgstr ""
+
+#: content/for/scientists.md:107
+msgid ""
+"The facility fires lasers at satellites to check their position to a high "
+"degree of precision. Scientists use a wide range of KDE software products on "
+"their workstations, including Plasma and Konsole. ([Source](https://youtu.be/"
+"vdvIY0CJaXw))"
+msgstr ""
+
+#: content/for/scientists.md:111
+msgid "LIGO Hanford Observatory"
+msgstr ""
+
+#: content/for/scientists.md:113
+msgid ""
+"KDE 4 at LIGO (Laser Interferometer Gravitational-Wave Observatory) Hanford "
+"Observatory. ([Source](https://twitter.com/LIGOWA/"
+"status/1068552370013913089))"
+msgstr ""
+
+#: content/for/scientists.md:115
+msgid ""
+"![KDE 4 at LIGO Hanford Observatory](https://25years.kde.org/assets/img/"
+"gallery/inthewild_ligo.jpg)"
+msgstr ""
+
+#: content/for/scientists.md:121
+msgid "RKWard"
+msgstr ""
+
+#: content/for/scientists.md:123
+msgid "RKWard is an easy-to-use and easily extensible IDE/GUI for R."
+msgstr ""
+
+#: content/for/scientists.md:127
+msgid "![](https://rkward.kde.org/assets/img/screenshot_main.png)"
+msgstr ""
+
+#: content/for/scientists.md:129
+msgid "Features"
+msgstr ""
+
+#: content/for/scientists.md:131
+msgid "Spreadsheet-like data editor"
+msgstr ""
+
+#: content/for/scientists.md:132
+msgid "Syntax highlighting, code folding and code completion"
+msgstr ""
+
+#: content/for/scientists.md:133
+msgid "Data importing (e.g. SPSS, Stata and CSV)"
+msgstr ""
+
+#: content/for/scientists.md:134
+msgid "Plot previewing and browsable history"
+msgstr ""
+
+#: content/for/scientists.md:135
+msgid "R package management"
+msgstr ""
+
+#: content/for/scientists.md:136
+msgid "Workspace browser"
+msgstr ""
+
+#: content/for/scientists.md:137
+msgid "GUI dialogs for all kinds of statistics and plots"
+msgstr ""
+
+#: content/for/scientists.md:143
+#, fuzzy
+#| msgid "Star Labs"
+msgid "KStars"
+msgstr "စတားလပ်ဘ်"
+
+#: content/for/scientists.md:145
+msgid ""
+"KStars is freely licensed, open source, cross-platform Astronomy Software "
+"created by KDE."
+msgstr ""
+
+#: content/for/scientists.md:147
+msgid ""
+"KStars provides an accurate graphical simulation of the night sky from any "
+"location on Earth, and at any date and time. The display includes up to 100 "
+"million stars, 13,000 deep-sky objects,all 8 planets, the Sun and Moon, and "
+"thousands of comets, asteroids, supernovae, and satellites."
+msgstr ""
+
+#: content/for/scientists.md:149
+msgid ""
+"For students and teachers, it supports adjustable simulation speeds in order "
+"to view phenomena that happen over long timescales, the KStars "
+"Astrocalculator to predict conjunctions, and many common astronomical "
+"calculations."
+msgstr ""
+
+#: content/for/scientists.md:151
+msgid ""
+"For astronomy aficionados, it comes with a database of commonly available "
+"telescopes and the capacity of controlling your kit directly from inside the "
+"program."
+msgstr ""
+
+#: content/for/scientists.md:155
+msgid ""
+"![Screenshot of KStars showing the milky way](/for/resources/kstars.png)"
+msgstr ""
+
+#: content/for/scientists.md:161
+msgid "Kile"
+msgstr ""
+
+#: content/for/scientists.md:163
+msgid ""
+"Kile is a user-friendly TeX/LaTeX editor that compiles, converts and shows "
+"your document with one click. It's optimized for writing (La)Tex documents "
+"and auto-completes (La)TeX commands."
+msgstr ""
+
+#: content/for/scientists.md:165
+msgid ""
+"Navigation is also easy, as Kile constructs a list of all the chapters in "
+"your document and then lets you use the list to jump to the corresponding "
+"section."
+msgstr ""
+
+#: content/for/scientists.md:167
+msgid ""
+"You can also click in the viewer and jump to the corresponding LaTeX line in "
+"the editor, or jump from the editor to the corresponding page in the viewer."
+msgstr ""
+
+#: content/for/scientists.md:171
+msgid "![Screenshot of Kile](/for/resources/kile.png)"
+msgstr ""
+
+#: content/for/scientists.md:177
+msgid "KBibTex"
+msgstr ""
+
+#: content/for/scientists.md:179
+msgid ""
+"KBibTeX is a reference management application which can be used to collect "
+"TeX/LaTeX bibliographies and export them in various formats. It provides "
+"integration with Kile and LyX."
+msgstr ""
+
+#: content/for/scientists.md:181
+msgid ""
+"KBibText supports importing data from various bibliography file formats such "
+"as BibTeX, RIS and ISI, and exporting data to PDF, PostScript, RTF, and "
+"HTML. Additionally, KBibTex searches for bibliography entries in online "
+"databases (e.g. Google Scholar, ACM, IEEE, arXiv, etc.)."
+msgstr ""
+
+#: content/for/scientists.md:185
+msgid ""
+"![Screenshot of KBibTex](https://cdn.kde.org/screenshots/kbibtex/kbibtex-kf5."
+"png)"
+msgstr ""
+
+#: content/for/scientists.md:193
+msgid ""
+"Here are more applications from other open source organizations to "
+"complement your workflow. Also check out our [education-related applications]"
+"(https://apps.kde.org/categories/education/)."
+msgstr ""
 
 #: content/hardware.md:0
 #, fuzzy
