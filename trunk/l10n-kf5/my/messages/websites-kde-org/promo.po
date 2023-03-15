@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-12 00:50+0000\n"
+"POT-Creation-Date: 2023-03-15 00:50+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -500,7 +500,7 @@ msgstr ""
 
 #: content/for/creators.md:153
 msgid ""
-"It is mainly about more options for the tablet settings, options to setup a "
+"It is mainly about more options for the tablet settings, options to set up a "
 "neutral colored theme, thumbnails for your artwork source files and easier "
 "file type association and 'open with' menu, better support for multi monitor "
 "workflow and perfect desktop integration with my core application: Krita and "
@@ -526,7 +526,7 @@ msgstr ""
 
 #: content/for/creators.md:168
 msgid ""
-"![Screenshot of Kontrast with a blue background and white foregreound](/for/"
+"![Screenshot of Kontrast with a blue background and white foreground](/for/"
 "resources/kontrast.png)"
 msgstr ""
 
@@ -537,7 +537,7 @@ msgstr ""
 #: content/for/creators.md:176
 msgid ""
 "Here are some other applications from other open source organizations to "
-"complement your workflow. You should also checkout our other [graphic "
+"complement your workflow. You should also check out our other [graphic "
 "related applications](https://apps.kde.org/categories/graphics)."
 msgstr ""
 
@@ -684,8 +684,8 @@ msgstr ""
 
 #: content/for/scientists.md:72
 msgid ""
-"Currently Cantor supports 10 backends: Julia, KAlgebra, Lua, Maxima, Octave, "
-"Python, Qalculate, R, Sage, and Scilab."
+"Currently, Cantor supports 10 backends: Julia, KAlgebra, Lua, Maxima, "
+"Octave, Python, Qalculate, R, Sage, and Scilab."
 msgstr ""
 
 #: content/for/scientists.md:76
@@ -845,7 +845,7 @@ msgstr ""
 msgid ""
 "KStars provides an accurate graphical simulation of the night sky from any "
 "location on Earth, and at any date and time. The display includes up to 100 "
-"million stars, 13,000 deep-sky objects,all 8 planets, the Sun and Moon, and "
+"million stars, 13,000 deep-sky objects, all 8 planets, the Sun and Moon, and "
 "thousands of comets, asteroids, supernovae, and satellites."
 msgstr ""
 
@@ -866,7 +866,7 @@ msgstr ""
 
 #: content/for/scientists.md:155
 msgid ""
-"![Screenshot of KStars showing the milky way](/for/resources/kstars.png)"
+"![Screenshot of KStars showing the Milky Way](/for/resources/kstars.png)"
 msgstr ""
 
 #: content/for/scientists.md:161
@@ -1391,8 +1391,8 @@ msgstr "စတားလပ်ဘ်"
 #: content/hardware.md:180
 msgid ""
 "Star Labs offers a range of laptops designed and built specifically for "
-"Linux. Two version of their laptop are offered: the Star Lite Mk III 11-inch "
-"and the Star LabTop Mk IV 13-inch."
+"Linux. Two versions of their laptop are offered: the Star Lite Mk III 11-"
+"inch and the Star LabTop Mk IV 13-inch."
 msgstr ""
 
 #: content/plasma-desktop.md:0 content/products.md:0
@@ -1441,8 +1441,8 @@ msgid ""
 "The Plasma Launcher lets you quickly and easily launch applications, but it "
 "can do much more -- convenient tasks like bookmarking applications, "
 "searching for documents as you type, or navigating to common places help you "
-"getting straight to the point. With a history of recently started programs "
-"and opened files, you can return to where you left off. It even remembers "
+"get straight to the point. With a history of recently started programs and "
+"opened files, you can return to where you left off. It even remembers "
 "previously entered search terms so you don't have to."
 msgstr ""
 
@@ -1460,7 +1460,7 @@ msgstr ""
 
 #: content/plasma-desktop.md:0
 msgid ""
-"Connect to your WiFi network; change the volume; switch to the next song or "
+"Connect to your Wi-Fi network; change the volume; switch to the next song or "
 "pause a video; access an external device; change the screen layout. All "
 "these and a lot more--directly from the system tray.\n"
 "To conserve the focus on what you're currently doing, any icon can be hidden "
@@ -1546,7 +1546,7 @@ msgid "Professional Applications"
 msgstr "ပရော်ဖက်ရှင်နယ် အပ္ပလီကေးရှင်းများ"
 
 #: content/plasma-desktop.md:0
-msgid "Screenshot of KDenlive in Plasma"
+msgid "Screenshot of Kdenlive in Plasma"
 msgstr ""
 
 #: content/plasma-desktop.md:0
