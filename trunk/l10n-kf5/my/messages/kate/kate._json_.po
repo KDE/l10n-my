@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-02-28 01:09+0000\n"
+"POT-Creation-Date: 2023-04-05 00:57+0000\n"
 "PO-Revision-Date: 2021-09-15 04:53+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -113,6 +113,11 @@ msgstr ""
 msgctxt "Name"
 msgid "LSP Client"
 msgstr "အယ်အက်စ်ပီ ပရိုဂရမ်"
+
+#: addons/openlink/OpenLinkPlugin.json
+msgctxt "Name"
+msgid "Open Link"
+msgstr ""
 
 #: addons/preview/ktexteditorpreview.json
 msgctxt "Name"
@@ -275,6 +280,11 @@ msgstr ""
 #: addons/lspclient/lspclientplugin.json
 msgctxt "Description"
 msgid "Language Server Protocol Client"
+msgstr ""
+
+#: addons/openlink/OpenLinkPlugin.json
+msgctxt "Description"
+msgid "Highlight and open links"
 msgstr ""
 
 #: addons/preview/ktexteditorpreview.json
