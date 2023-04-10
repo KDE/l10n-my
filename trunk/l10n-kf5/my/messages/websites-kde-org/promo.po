@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-15 00:50+0000\n"
+"POT-Creation-Date: 2023-04-10 00:50+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -741,12 +741,12 @@ msgid ""
 msgstr ""
 
 #: content/for/scientists.md:99
-msgid "Nasa Control Room"
+msgid "NASA Control Room"
 msgstr ""
 
 #: content/for/scientists.md:101
 msgid ""
-"Nasa uses KDE 4.10 in their control room, during the InSight landing on Mars "
+"NASA uses KDE 4.10 in their control room, during the InSight landing on Mars "
 "stream."
 msgstr ""
 
