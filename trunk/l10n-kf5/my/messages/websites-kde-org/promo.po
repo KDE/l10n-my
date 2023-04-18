@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-04-10 00:50+0000\n"
+"POT-Creation-Date: 2023-04-18 00:50+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1877,11 +1877,13 @@ msgid ""
 msgstr ""
 
 #: content/support/_index.md:0
-msgid "KDE Forums"
+msgid "KDE Discuss"
 msgstr ""
 
 #: content/support/_index.md:0
-msgid "Chat with other KDE users who may be able to help"
+msgid ""
+"Chat with KDE developers and users who may be able to help. KDE Discuss "
+"replaces the old [KDE Forums](https://forum.kde.org/)."
 msgstr ""
 
 #: content/support/_index.md:0
