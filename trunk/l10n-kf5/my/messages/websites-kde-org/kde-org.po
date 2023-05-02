@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-07 00:51+0000\n"
+"POT-Creation-Date: 2023-05-02 00:52+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1005,6 +1005,29 @@ msgstr ""
 "release-service/{{ .Get \"version\" }}/src)။ ကွန်ပိုင်းလုပ်ခြင်းနှင့် တပ်ဆင်ခြင်းဆိုင်ရာ "
 "ညွှန်ကြားချက်များကို [ကေဒီအီးဂီယာ {{ .Get \"version\" }} သတင်းစာမျက်နှာ](/info/releases-"
 "{{ .Get \"version\" }}) တွင် ရယူနိုင်သည်။"
+
+#: i18n/en.yaml:0
+msgid "Full changelog here"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Where to get KDE Apps"
+msgstr ""
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid ""
+"Although we fully support distributions that ship our software, KDE Gear %1 "
+"apps will also be available on these Linux app stores shortly:"
+msgstr ""
+
+#. %1 link
+#: i18n/en.yaml:0
+msgid ""
+"If you'd like to help us get more KDE applications into the app stores, "
+"support more app stores and get the apps better integrated into our "
+"development process, come say hi in our [All About the Apps chat room](%1)."
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
