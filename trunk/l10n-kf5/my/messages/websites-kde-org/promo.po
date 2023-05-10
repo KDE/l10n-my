@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-04-18 00:50+0000\n"
+"POT-Creation-Date: 2023-05-10 00:50+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -220,24 +220,41 @@ msgid ""
 msgstr ""
 
 #: content/distributions.md:0
+msgid "Other Distributions"
+msgstr ""
+
+#: content/distributions.md:0
+msgid ""
+"You can install KDE applications and Plasma in other Linux distributions and "
+"other operating systems. A list of those is available on the [KDE Community "
+"wiki](https://community.kde.org/Distributions)."
+msgstr ""
+
+#: content/distributions.md:0
 msgid ""
 "This page lists some of the most popular Linux distributions with pre-"
 "installed KDE software.  We recommend that you familiarize yourself with the "
 "descriptions on the project sites in order to get a more complete picture."
 msgstr ""
 
-#: content/distributions.md:64
-msgid "Install using ROSA Image Writer for:"
+#: content/distributions.md:69
+msgid "Installation Instructions"
 msgstr ""
 
-#: content/distributions.md:66
+#: content/distributions.md:71
+msgid ""
+"You can install any of these Linux distributions by using ROSA Image Writer "
+"for:"
+msgstr ""
+
+#: content/distributions.md:73
 msgid ""
 "[Windows](http://wiki.rosalab.ru/ru/images/6/62/RosaImageWriter-2.6.2-win."
 "zip)"
 msgstr ""
 "[ဝင်းဒိုးစ်](http://wiki.rosalab.ru/ru/images/6/62/RosaImageWriter-2.6.2-win.zip)"
 
-#: content/distributions.md:67
+#: content/distributions.md:74
 msgid ""
 "[Linux 32-bit](http://wiki.rosalab.ru/ru/images/4/45/RosaImageWriter-2.6.2-"
 "lin-i686.tar.xz)"
@@ -245,7 +262,7 @@ msgstr ""
 "[လင်းနစ် ၃၂-ဘစ်](http://wiki.rosalab.ru/ru/images/4/45/RosaImageWriter-2.6.2-"
 "lin-i686.tar.xz)"
 
-#: content/distributions.md:68
+#: content/distributions.md:75
 msgid ""
 "[Linux 64-bit](http://wiki.rosalab.ru/ru/images/7/7f/RosaImageWriter-2.6.2-"
 "lin-x86_64.tar.xz)"
@@ -253,7 +270,7 @@ msgstr ""
 "[လင်းနစ် ၆၄-ဘစ်](http://wiki.rosalab.ru/ru/images/7/7f/RosaImageWriter-2.6.2-"
 "lin-x86_64.tar.xz)"
 
-#: content/distributions.md:69
+#: content/distributions.md:76
 msgid ""
 "[Mac OS X](http://wiki.rosalab.ru/ru/images/3/33/RosaImageWriter-2.6.2-osx."
 "dmg)"
@@ -261,18 +278,14 @@ msgstr ""
 "[မက် အိုအက်စ် အိပ်စ်](http://wiki.rosalab.ru/ru/images/3/33/RosaImageWriter-2.6.2-"
 "osx.dmg)"
 
-#: content/distributions.md:71
+#: content/distributions.md:78
 msgid ""
-"The distribution should also contain installation instructions and a quick-"
+"Each distribution should also contain installation instructions and a quick-"
 "start guide."
 msgstr ""
 
-#: content/distributions.md:73
-msgid ""
-"You can install KDE applications and Plasma in other Linux distributions and "
-"other operating systems. A list of those is available on the [KDE Community "
-"wiki](https://community.kde.org/Distributions). You can also [buy devices "
-"with Plasma](/hardware)."
+#: content/distributions.md:80
+msgid "You can also [buy devices with Plasma](/hardware)."
 msgstr ""
 
 #: content/for/creators.md:0
