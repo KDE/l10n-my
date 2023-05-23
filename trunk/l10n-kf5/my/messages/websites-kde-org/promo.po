@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-10 00:50+0000\n"
+"POT-Creation-Date: 2023-05-23 00:50+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -543,7 +543,7 @@ msgid ""
 "resources/kontrast.png)"
 msgstr ""
 
-#: content/for/creators.md:174 content/for/scientists.md:191
+#: content/for/creators.md:174 content/for/scientists.md:195
 msgid "Other open source applications for you"
 msgstr ""
 
@@ -759,21 +759,36 @@ msgstr ""
 
 #: content/for/scientists.md:101
 msgid ""
-"NASA uses KDE 4.10 in their control room, during the InSight landing on Mars "
-"stream."
+"NASA has been using KDE since the early days. The image below is a still "
+"from the documentary \"Goodnight Oppy\" (available on Amazon Prime). You can "
+"see NASA engineers using KDE 3 during the [Spirit Mars rover](https://www."
+"nasa.gov/mission_pages/mer/index.html) landing in 2003."
 msgstr ""
 
 #: content/for/scientists.md:103
+msgid ""
+"![NASA using KDE 3 during the 2003 Spirit landing](/for/resources/nasa_oppy."
+"png)"
+msgstr ""
+
+#: content/for/scientists.md:105
+msgid ""
+"... And NASA continues to use KDE to this day. In this image we see KDE 4.10 "
+"being used in the NASA control room during the stream of [InSight's](https://"
+"mars.nasa.gov/insight/) landing on Mars."
+msgstr ""
+
+#: content/for/scientists.md:107
 msgid ""
 "![In the wild, KDE on NASA Control Room](https://25years.kde.org/assets/img/"
 "gallery/inthewild_nasa.jpg)"
 msgstr ""
 
-#: content/for/scientists.md:105
+#: content/for/scientists.md:109
 msgid "NERC's Space Geodesy Facility"
 msgstr ""
 
-#: content/for/scientists.md:107
+#: content/for/scientists.md:111
 msgid ""
 "The facility fires lasers at satellites to check their position to a high "
 "degree of precision. Scientists use a wide range of KDE software products on "
@@ -781,80 +796,80 @@ msgid ""
 "vdvIY0CJaXw))"
 msgstr ""
 
-#: content/for/scientists.md:111
+#: content/for/scientists.md:115
 msgid "LIGO Hanford Observatory"
 msgstr ""
 
-#: content/for/scientists.md:113
+#: content/for/scientists.md:117
 msgid ""
 "KDE 4 at LIGO (Laser Interferometer Gravitational-Wave Observatory) Hanford "
 "Observatory. ([Source](https://twitter.com/LIGOWA/"
 "status/1068552370013913089))"
 msgstr ""
 
-#: content/for/scientists.md:115
+#: content/for/scientists.md:119
 msgid ""
 "![KDE 4 at LIGO Hanford Observatory](https://25years.kde.org/assets/img/"
 "gallery/inthewild_ligo.jpg)"
 msgstr ""
 
-#: content/for/scientists.md:121
+#: content/for/scientists.md:125
 msgid "RKWard"
 msgstr ""
 
-#: content/for/scientists.md:123
+#: content/for/scientists.md:127
 msgid "RKWard is an easy-to-use and easily extensible IDE/GUI for R."
 msgstr ""
 
-#: content/for/scientists.md:127
+#: content/for/scientists.md:131
 msgid "![](https://rkward.kde.org/assets/img/screenshot_main.png)"
 msgstr ""
 
-#: content/for/scientists.md:129
+#: content/for/scientists.md:133
 msgid "Features"
 msgstr ""
 
-#: content/for/scientists.md:131
+#: content/for/scientists.md:135
 msgid "Spreadsheet-like data editor"
 msgstr ""
 
-#: content/for/scientists.md:132
+#: content/for/scientists.md:136
 msgid "Syntax highlighting, code folding and code completion"
 msgstr ""
 
-#: content/for/scientists.md:133
+#: content/for/scientists.md:137
 msgid "Data importing (e.g. SPSS, Stata and CSV)"
 msgstr ""
 
-#: content/for/scientists.md:134
+#: content/for/scientists.md:138
 msgid "Plot previewing and browsable history"
 msgstr ""
 
-#: content/for/scientists.md:135
+#: content/for/scientists.md:139
 msgid "R package management"
 msgstr ""
 
-#: content/for/scientists.md:136
+#: content/for/scientists.md:140
 msgid "Workspace browser"
 msgstr ""
 
-#: content/for/scientists.md:137
+#: content/for/scientists.md:141
 msgid "GUI dialogs for all kinds of statistics and plots"
 msgstr ""
 
-#: content/for/scientists.md:143
+#: content/for/scientists.md:147
 #, fuzzy
 #| msgid "Star Labs"
 msgid "KStars"
 msgstr "စတားလပ်ဘ်"
 
-#: content/for/scientists.md:145
+#: content/for/scientists.md:149
 msgid ""
 "KStars is freely licensed, open source, cross-platform Astronomy Software "
 "created by KDE."
 msgstr ""
 
-#: content/for/scientists.md:147
+#: content/for/scientists.md:151
 msgid ""
 "KStars provides an accurate graphical simulation of the night sky from any "
 "location on Earth, and at any date and time. The display includes up to 100 "
@@ -862,7 +877,7 @@ msgid ""
 "thousands of comets, asteroids, supernovae, and satellites."
 msgstr ""
 
-#: content/for/scientists.md:149
+#: content/for/scientists.md:153
 msgid ""
 "For students and teachers, it supports adjustable simulation speeds in order "
 "to view phenomena that happen over long timescales, the KStars "
@@ -870,58 +885,58 @@ msgid ""
 "calculations."
 msgstr ""
 
-#: content/for/scientists.md:151
+#: content/for/scientists.md:155
 msgid ""
 "For astronomy aficionados, it comes with a database of commonly available "
 "telescopes and the capacity of controlling your kit directly from inside the "
 "program."
 msgstr ""
 
-#: content/for/scientists.md:155
+#: content/for/scientists.md:159
 msgid ""
 "![Screenshot of KStars showing the Milky Way](/for/resources/kstars.png)"
 msgstr ""
 
-#: content/for/scientists.md:161
+#: content/for/scientists.md:165
 msgid "Kile"
 msgstr ""
 
-#: content/for/scientists.md:163
+#: content/for/scientists.md:167
 msgid ""
 "Kile is a user-friendly TeX/LaTeX editor that compiles, converts and shows "
 "your document with one click. It's optimized for writing (La)Tex documents "
 "and auto-completes (La)TeX commands."
 msgstr ""
 
-#: content/for/scientists.md:165
+#: content/for/scientists.md:169
 msgid ""
 "Navigation is also easy, as Kile constructs a list of all the chapters in "
 "your document and then lets you use the list to jump to the corresponding "
 "section."
 msgstr ""
 
-#: content/for/scientists.md:167
+#: content/for/scientists.md:171
 msgid ""
 "You can also click in the viewer and jump to the corresponding LaTeX line in "
 "the editor, or jump from the editor to the corresponding page in the viewer."
 msgstr ""
 
-#: content/for/scientists.md:171
+#: content/for/scientists.md:175
 msgid "![Screenshot of Kile](/for/resources/kile.png)"
 msgstr ""
 
-#: content/for/scientists.md:177
+#: content/for/scientists.md:181
 msgid "KBibTex"
 msgstr ""
 
-#: content/for/scientists.md:179
+#: content/for/scientists.md:183
 msgid ""
 "KBibTeX is a reference management application which can be used to collect "
 "TeX/LaTeX bibliographies and export them in various formats. It provides "
 "integration with Kile and LyX."
 msgstr ""
 
-#: content/for/scientists.md:181
+#: content/for/scientists.md:185
 msgid ""
 "KBibText supports importing data from various bibliography file formats such "
 "as BibTeX, RIS and ISI, and exporting data to PDF, PostScript, RTF, and "
@@ -929,13 +944,13 @@ msgid ""
 "databases (e.g. Google Scholar, ACM, IEEE, arXiv, etc.)."
 msgstr ""
 
-#: content/for/scientists.md:185
+#: content/for/scientists.md:189
 msgid ""
 "![Screenshot of KBibTex](https://cdn.kde.org/screenshots/kbibtex/kbibtex-kf5."
 "png)"
 msgstr ""
 
-#: content/for/scientists.md:193
+#: content/for/scientists.md:197
 msgid ""
 "Here are more applications from other open source organizations to "
 "complement your workflow. Also check out our [education-related applications]"
