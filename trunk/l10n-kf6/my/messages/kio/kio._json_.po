@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-01 21:33+0000\n"
+"POT-Creation-Date: 2023-06-06 02:13+0000\n"
 "PO-Revision-Date: 2021-09-20 02:05+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -12,34 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: src/kcms/cookies/kcm_cookies.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Cookie Jar"
-msgctxt "Name"
-msgid "Cookies"
-msgstr "ကွတ်ကီးဘူး"
-
-#: src/kcms/netpref/kcm_netpref.json
-msgctxt "Name"
-msgid "Connection Preferences"
-msgstr ""
-
-#: src/kcms/proxy/kcm_proxy.json
-msgctxt "Name"
-msgid "Proxy"
-msgstr ""
-
-#: src/kcms/smb/kcm_smb.json
-msgctxt "Name"
-msgid "Windows Shares"
-msgstr ""
-
-#: src/kcms/webshortcuts/kcm_webshortcuts.json
-msgctxt "Name"
-msgid "Web Search Keywords"
-msgstr ""
 
 #: src/kioworkers/http/kcookiejar/kcookiejar.json
 msgctxt "Name"
@@ -51,40 +23,10 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr ""
 
-#: src/kioworkers/trash/kcmtrash.json
-msgctxt "Name"
-msgid "Trash"
-msgstr ""
-
 #: src/kpac/proxyscout.json
 msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင်ချက်"
-
-#: src/kcms/cookies/kcm_cookies.json
-msgctxt "Description"
-msgid "Configure the way cookies work"
-msgstr ""
-
-#: src/kcms/netpref/kcm_netpref.json
-msgctxt "Description"
-msgid "Configure generic network preferences, like timeout values"
-msgstr ""
-
-#: src/kcms/proxy/kcm_proxy.json
-msgctxt "Description"
-msgid "Configure the proxy servers used"
-msgstr ""
-
-#: src/kcms/smb/kcm_smb.json
-msgctxt "Description"
-msgid "Credentials used to access SMB shares"
-msgstr ""
-
-#: src/kcms/webshortcuts/kcm_webshortcuts.json
-msgctxt "Description"
-msgid "Configure web search keywords"
-msgstr ""
 
 #: src/kioworkers/http/kcookiejar/kcookiejar.json
 msgctxt "Description"
@@ -96,11 +38,6 @@ msgctxt "Description"
 msgid "Provides change notification for network folders"
 msgstr ""
 
-#: src/kioworkers/trash/kcmtrash.json
-msgctxt "Description"
-msgid "Configure trash settings"
-msgstr ""
-
 #: src/kpac/proxyscout.json
 msgctxt "Description"
 msgid "Automatic proxy configuration"
@@ -110,6 +47,13 @@ msgstr "ဆ.သ.ရ-ကွန်ရက်ကြားခံအလိုအလျ
 msgctxt "trash ExtraNames"
 msgid "Original Path;Deletion Date"
 msgstr "နဂိုလမ်းကြောင်း;ဖျက်ရန်သတ်မှတ်ထားသောရက်စွဲ;Original Path;Deletion Data"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Cookie Jar"
+#~ msgctxt "Name"
+#~ msgid "Cookies"
+#~ msgstr "ကွတ်ကီးဘူး"
 
 #~ msgctxt "Name"
 #~ msgid "KIOExec Daemon"
