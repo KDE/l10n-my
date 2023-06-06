@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-30 00:50+0000\n"
+"POT-Creation-Date: 2023-06-06 00:50+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2115,10 +2115,9 @@ msgstr ""
 
 #: content/support/_index.md:0
 msgid ""
-"Community support is available in <a href=\"https://webchat.kde.org/#/room/"
-"#kde:kde.org\">the KDE Matrix Room</a>. See the <a href=\"https://community."
-"kde.org/Matrix#Rooms\">List of KDE Matrix Rooms</a> for more specific "
-"channels."
+"Community support is available in <a href=\"https://go.kde.org/matrix/#/#kde:"
+"kde.org\">the KDE Matrix Room</a>. See the <a href=\"https://community.kde."
+"org/Matrix#Rooms\">List of KDE Matrix Rooms</a> for more specific channels."
 msgstr ""
 
 #: content/support/_index.md:0
