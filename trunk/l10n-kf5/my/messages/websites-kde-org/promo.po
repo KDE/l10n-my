@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-10 00:51+0000\n"
+"POT-Creation-Date: 2023-06-22 00:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -177,17 +177,6 @@ msgid ""
 msgstr ""
 
 #: content/distributions.md:0
-msgid "Alt Workstation K"
-msgstr ""
-
-#: content/distributions.md:0
-msgid ""
-"Alt Workstation K is a Russian distribution for organizing end-user "
-"workstations and is suitable for use in an office environment as well as at "
-"home. This product comes with commercial support."
-msgstr ""
-
-#: content/distributions.md:0
 msgid "Fedora KDE"
 msgstr "ဖဲဒိုရာ ကေဒီအီး"
 
@@ -209,17 +198,6 @@ msgid ""
 msgstr ""
 
 #: content/distributions.md:0
-msgid "ROSA"
-msgstr ""
-
-#: content/distributions.md:0
-msgid ""
-"ROSA Desktop is a Russian Linux distribution featuring a customised KDE "
-"desktop and the working environment. This product comes with commercial "
-"support."
-msgstr ""
-
-#: content/distributions.md:0
 msgid "Other Distributions"
 msgstr ""
 
@@ -237,24 +215,24 @@ msgid ""
 "descriptions on the project sites in order to get a more complete picture."
 msgstr ""
 
-#: content/distributions.md:69
+#: content/distributions.md:59
 msgid "Installation Instructions"
 msgstr ""
 
-#: content/distributions.md:71
+#: content/distributions.md:61
 msgid ""
 "You can install any of these Linux distributions by using ROSA Image Writer "
 "for:"
 msgstr ""
 
-#: content/distributions.md:73
+#: content/distributions.md:63
 msgid ""
 "[Windows](http://wiki.rosalab.ru/ru/images/6/62/RosaImageWriter-2.6.2-win."
 "zip)"
 msgstr ""
 "[ဝင်းဒိုးစ်](http://wiki.rosalab.ru/ru/images/6/62/RosaImageWriter-2.6.2-win.zip)"
 
-#: content/distributions.md:74
+#: content/distributions.md:64
 msgid ""
 "[Linux 32-bit](http://wiki.rosalab.ru/ru/images/4/45/RosaImageWriter-2.6.2-"
 "lin-i686.tar.xz)"
@@ -262,7 +240,7 @@ msgstr ""
 "[လင်းနစ် ၃၂-ဘစ်](http://wiki.rosalab.ru/ru/images/4/45/RosaImageWriter-2.6.2-"
 "lin-i686.tar.xz)"
 
-#: content/distributions.md:75
+#: content/distributions.md:65
 msgid ""
 "[Linux 64-bit](http://wiki.rosalab.ru/ru/images/7/7f/RosaImageWriter-2.6.2-"
 "lin-x86_64.tar.xz)"
@@ -270,7 +248,7 @@ msgstr ""
 "[လင်းနစ် ၆၄-ဘစ်](http://wiki.rosalab.ru/ru/images/7/7f/RosaImageWriter-2.6.2-"
 "lin-x86_64.tar.xz)"
 
-#: content/distributions.md:76
+#: content/distributions.md:66
 msgid ""
 "[Mac OS X](http://wiki.rosalab.ru/ru/images/3/33/RosaImageWriter-2.6.2-osx."
 "dmg)"
@@ -278,13 +256,13 @@ msgstr ""
 "[မက် အိုအက်စ် အိပ်စ်](http://wiki.rosalab.ru/ru/images/3/33/RosaImageWriter-2.6.2-"
 "osx.dmg)"
 
-#: content/distributions.md:78
+#: content/distributions.md:68
 msgid ""
 "Each distribution should also contain installation instructions and a quick-"
 "start guide."
 msgstr ""
 
-#: content/distributions.md:80
+#: content/distributions.md:70
 msgid "You can also [buy devices with Plasma](/hardware)."
 msgstr ""
 
