@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
-"POT-Creation-Date: 2019-05-28 03:26+0200\n"
+"POT-Creation-Date: 2023-06-29 02:07+0000\n"
 "PO-Revision-Date: 2021-09-13 03:24+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -14,12 +14,12 @@ msgstr ""
 
 #. (itstool) path: component/name
 #. (itstool) path: component/summary
-#: org.kde.discover.appdata.xml:6 org.kde.discover.appdata.xml:7
+#: org.kde.discover.appdata.xml:7 org.kde.discover.appdata.xml:8
 msgid "Discover"
 msgstr "ဒစ်(စ)ကာဗာ"
 
 #. (itstool) path: description/p
-#: org.kde.discover.appdata.xml:9
+#: org.kde.discover.appdata.xml:10
 msgid ""
 "Discover helps you find and install applications, games, and tools. You can "
 "search or browse by category, and look at screenshots and read reviews to "
@@ -30,7 +30,7 @@ msgstr ""
 "ကြိုက်နှစ်သက်ရာ အပ်များ ရွေးနိုင်သည်။"
 
 #. (itstool) path: description/p
-#: org.kde.discover.appdata.xml:10
+#: org.kde.discover.appdata.xml:11
 msgid ""
 "With Discover, you can manage software from multiple sources, including your "
 "operating system's software repository, Flatpak repos, the Snap store, or "
@@ -41,7 +41,7 @@ msgstr ""
 "appimagesများ။"
 
 #. (itstool) path: description/p
-#: org.kde.discover.appdata.xml:11
+#: org.kde.discover.appdata.xml:12
 msgid ""
 "Finally, Discover also allows you to find, install, and manage add-ons for "
 "Plasma and all your favorite KDE apps!"
@@ -50,6 +50,6 @@ msgstr ""
 "စီမံခြင်း လုပ်ငန်းများကို လုပ်ဆောင်စေနိုင်သည်။"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.discover.appdata.xml:16
+#: org.kde.discover.appdata.xml:17
 msgid "Plasma Discover"
 msgstr "ပလက်စမာ ဒစ်(စ)ကာဗာ"
