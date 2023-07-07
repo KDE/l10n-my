@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-07-06 01:07+0000\n"
+"POT-Creation-Date: 2023-07-07 00:54+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1451,12 +1451,6 @@ msgid ""
 "makes collecting all the information about your travel inside a single "
 "application easy and straightforward. KDE Itinerary is available for [Plasma "
 "Mobile](https://plasma-mobile.org/) and Android."
-msgstr ""
-
-#: content/for/travelers.md:35 content/for/travelers.md:120
-msgid ""
-"[![Get it from F-Droid](https://apps.kde.org/store_badges/fdroid/en.svg)]"
-"(https://community.kde.org/Android/FDroid)"
 msgstr ""
 
 #: content/for/travelers.md:41
