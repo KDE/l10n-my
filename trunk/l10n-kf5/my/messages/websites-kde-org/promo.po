@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-07-07 00:54+0000\n"
+"POT-Creation-Date: 2023-07-09 01:08+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2544,7 +2544,7 @@ msgid "[Thank Yous](/thanks) Those who have helped KDE."
 msgstr "[Thank Yous](/thanks) ကေဒီအီးကိုကူညီခဲ့ကြသူများ။"
 
 #: content/support/_index.md:0
-msgid "Support & Information"
+msgid "Help & Support for KDE Software"
 msgstr ""
 
 #: content/support/_index.md:0
@@ -2552,34 +2552,39 @@ msgid "Documentation"
 msgstr ""
 
 #: content/support/_index.md:0
-msgid "Handbook"
+msgid ""
+"These resources can help you learn how to get the most out of KDE software."
+msgstr ""
+
+#: content/support/_index.md:0
+msgid "General Information"
 msgstr ""
 
 #: content/support/_index.md:0
 msgid ""
-"[Program documentation](https://docs.kde.org/) for many KDE applications"
+"General information about KDE applications and products from a user "
+"perspective can be found here:"
 msgstr ""
 
 #: content/support/_index.md:0
-msgid "KDE for System Administrators"
-msgstr ""
-
-#: content/support/_index.md:0
-msgid ""
-"The KDE for System Administrators document provides system administrators "
-"who are deploying KDE software in their organisation with all the "
-"information they need concerning KDE software."
-msgstr ""
-
-#: content/support/_index.md:0
-msgid "KDE Userbase"
+msgid "For Users"
 msgstr ""
 
 #: content/support/_index.md:0
 msgid ""
-"Information on many KDE applications and products. [Userbase](https://"
-"userbase.kde.org) is the home for KDE users and enthusiasts. It provides "
-"information for end users on how to use KDE applications."
+"KDE apps include their own official documentation, available offline. You "
+"can access it using the \"[application name] Handbook\" menu item in KDE "
+"apps, or by pressing the F1 key. You can also find it online here:"
+msgstr ""
+
+#: content/support/_index.md:0
+msgid "For System Administrators"
+msgstr ""
+
+#: content/support/_index.md:0
+msgid ""
+"System administrators deploying KDE software in their organization can find "
+"relevant information here:"
 msgstr ""
 
 #: content/support/_index.md:0
@@ -2588,18 +2593,24 @@ msgstr ""
 
 #: content/support/_index.md:0
 msgid ""
-"These <a href=\"https://userbase.kde.org/Asking_Questions\">tips on asking "
-"questions</a> should help you get useful answers."
+"These resources can help if you're experiencing an issue with KDE software. "
+"If you've purchased a product running KDE software, first contact the "
+"company that sold the product, as they may offer a warranty and professional "
+"support. Otherwise, read on to learn how to get support from the KDE "
+"community. Keep in mind that any such support is provided with no warranty, "
+"by passionate volunteers. Please be kind and read through [tips on asking "
+"questions](https://userbase.kde.org/Asking_Questions) to learn how to ask "
+"for help in a way that maximizes the chances of a positive outcome."
 msgstr ""
 
 #: content/support/_index.md:0
-msgid "KDE Discuss"
+msgid "Discussion Forum"
 msgstr ""
 
 #: content/support/_index.md:0
 msgid ""
-"Chat with KDE developers and users who may be able to help. KDE Discuss "
-"replaces the old [KDE Forums](https://forum.kde.org/)."
+"For general KDE questions, or to get help with an issue if you're not sure "
+"whether it might be a bug in the software, ask here first:"
 msgstr ""
 
 #: content/support/_index.md:0
@@ -2608,80 +2619,69 @@ msgstr ""
 
 #: content/support/_index.md:0
 msgid ""
-"Community support is available in <a href=\"https://go.kde.org/matrix/#/#kde:"
-"kde.org\">the KDE Matrix Room</a>. See the <a href=\"https://community.kde."
-"org/Matrix#Rooms\">List of KDE Matrix Rooms</a> for more specific channels."
+"Real-time support is also available in [KDE's Matrix rooms](https://go.kde."
+"org/matrix/#/#kde:kde.org). You can see the [list of rooms here](https://"
+"community.kde.org/Matrix#Rooms)."
 msgstr ""
 
 #: content/support/_index.md:0
-msgid "Mailing Lists"
-msgstr ""
-
-#: content/support/_index.md:0
-msgid "Often a direct way to get in touch with the development community"
-msgstr ""
-
-#: content/support/_index.md:0
-msgid "International"
-msgstr ""
-
-#: content/support/_index.md:0
-msgid "International Pages"
+msgid "KDE in your country"
 msgstr ""
 
 #: content/support/_index.md:0
 msgid ""
-"If you are interested in viewing the KDE Home page and other attached pages "
-"in a language other than English, you can choose from the list at <a href=\"/"
-"support/international\">KDE International</a>."
+"Country-specific websites containing information about KDE software in a "
+"language other than English can be found here:"
 msgstr ""
 
 #: content/support/_index.md:0
-msgid "Security and Bug Reporting"
-msgstr ""
-
-#: content/support/_index.md:0
-msgid "Report an Issue or Bug"
+msgid "Account Issues"
 msgstr ""
 
 #: content/support/_index.md:0
 msgid ""
-"Developers work best fixing bugs if accurate and detailed information is "
-"provided"
+"If you're having a problem logging into one of your KDE accounts or creating "
+"a new one, submit a [sysadmin ticket](https://go.kde.org/u/systickets) about "
+"it. If you can't log into the account needed to see that page, [send an "
+"email to KDE's sysadmins](sysadmin@kde.org)."
 msgstr ""
 
 #: content/support/_index.md:0
-msgid "Security Advisories"
+msgid "Security issues and bug reports"
+msgstr ""
+
+#: content/support/_index.md:0
+msgid "These resources can help you report issues and defects in KDE software."
+msgstr ""
+
+#: content/support/_index.md:0
+msgid "Security Issues"
 msgstr ""
 
 #: content/support/_index.md:0
 msgid ""
-"Information for users and administrators with important security "
-"information. It is highly advised you keep your software up-to-date."
+"If you believe you've discovered a security issue in KDE software, report it "
+"here. You can also find an up-to-date list of security advisories to be "
+"aware of."
 msgstr ""
 
 #: content/support/_index.md:0
-msgid "KDE e.V. Trusted IT Consulting Firms"
+msgid "Software Bugs"
 msgstr ""
 
 #: content/support/_index.md:0
 msgid ""
-"In KDE we take pride in being a free software community and having an open, "
-"free and fair development process.\n"
-"\n"
-"However, we also understand that sometimes companies and institutions main "
-"priority is not learning the processes of our community and they just want "
-"issue solved or a feature implemented.\n"
-"\n"
-"For this reason, we are offering a list of consultants that have expertise "
-"in dealing with the KDE Community and we know will help get your project "
-"landed in KDE as best as possible.\n"
+"If you believe you've discovered a bug in KDE software, report it here. If "
+"you're not sure that the issue is in fact a bug (maybe it could be a local "
+"setup or configuration issue, or an issue with an update from your operating "
+"system), it's best to [discuss it on the forum](https://discuss.kde.org) "
+"first, and others can help you determine if it's a bug or not."
 msgstr ""
 
-#: content/support/_index.md:55
+#: content/support/_index.md:45
 msgid ""
-"On this page, you can find different ways to find user support for KDE "
-"software provided by the community."
+"This page lists different ways to get help and support when using KDE "
+"software."
 msgstr ""
 
 #~ msgid "KDE Neon"
