@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-16 00:50+0000\n"
+"POT-Creation-Date: 2023-07-11 00:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -238,6 +238,10 @@ msgid "Plasma Sprint"
 msgstr ""
 
 #: i18n/en.yaml:0
+msgid "Augsburg, Germany"
+msgstr ""
+
+#: i18n/en.yaml:0
 msgid "Berlin, Germany"
 msgstr ""
 
@@ -271,6 +275,30 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Barcelona"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "England"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Akademy 2022"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "FOSDEM"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Brussels"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Brazil"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Prague"
 msgstr ""
 
 #. %1 link
