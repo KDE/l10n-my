@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-13 00:55+0000\n"
+"POT-Creation-Date: 2023-07-14 00:56+0000\n"
 "PO-Revision-Date: 2021-09-19 13:22+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Shelf"
 msgstr "စာအုပ်စင်"
 
-#: org.kde.shelf.desktop:34
+#: org.kde.shelf.desktop:35
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Document Viewer"
@@ -26,7 +26,7 @@ msgctxt "Comment"
 msgid "Document viewer"
 msgstr "မှတ်တမ်းပုံနှိပ်မူကြည့်ရှုကိရိယာ"
 
-#: org.kde.shelf.desktop:62
+#: org.kde.shelf.desktop:64
 msgctxt "GenericName"
 msgid "Document Viewer"
 msgstr "မှတ်တမ်းပုံနှိပ်မူကြည့်ရှုကိရိယာ"

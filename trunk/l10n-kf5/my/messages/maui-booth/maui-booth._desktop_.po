@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-13 00:55+0000\n"
+"POT-Creation-Date: 2023-07-14 00:56+0000\n"
 "PO-Revision-Date: 2021-09-15 21:20+0630\n"
 "Last-Translator: \n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -18,12 +18,12 @@ msgctxt "Name"
 msgid "Booth"
 msgstr "ဘု"
 
-#: org.kde.booth.desktop:37
+#: org.kde.booth.desktop:38
 msgctxt "Comment"
 msgid "Convergent camera app"
 msgstr "ကွန်ဗားဂျန့်ကင်မရာအပ်"
 
-#: org.kde.booth.desktop:69
+#: org.kde.booth.desktop:71
 msgctxt "GenericName"
 msgid "Camera App"
 msgstr "ကင်မရာအပ်"
