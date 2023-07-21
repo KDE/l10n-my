@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-26 02:16+0000\n"
+"POT-Creation-Date: 2023-07-21 02:24+0000\n"
 "PO-Revision-Date: 2021-09-13 03:11+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -119,6 +119,14 @@ msgstr "မအောင်မြင်သော အော့ဖ်လိုင�
 msgctxt "Name"
 msgid "Restart is Required"
 msgstr "စစ်စတမ်ပြန်စတင်ရန်လိုအပ်သည်"
+
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:610
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Updates Available"
+msgctxt "Name"
+msgid "Upgrade available"
+msgstr "အပ်ဒိတ်များရရှိနေပါပြီ"
 
 #~ msgctxt "Name"
 #~ msgid "Software Update"
