@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-17 00:59+0000\n"
+"POT-Creation-Date: 2023-08-10 00:55+0000\n"
 "PO-Revision-Date: 2021-09-19 13:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -31,6 +31,11 @@ msgstr "ဂစ်"
 #: hg/fileviewhgplugin.json
 msgctxt "Name"
 msgid "Mercurial"
+msgstr ""
+
+#: makefileactions/makefileactions.json
+msgctxt "Name"
+msgid "Makefile Actions"
 msgstr ""
 
 #: mountiso/mountisoaction.json
