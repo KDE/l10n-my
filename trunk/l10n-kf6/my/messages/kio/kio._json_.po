@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-06 02:13+0000\n"
+"POT-Creation-Date: 2023-08-14 02:03+0000\n"
 "PO-Revision-Date: 2021-09-20 02:05+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -13,11 +13,6 @@ msgstr ""
 "X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: src/kioworkers/http/kcookiejar/kcookiejar.json
-msgctxt "Name"
-msgid "Cookie Jar"
-msgstr "ကွတ်ကီးဘူး"
-
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Name"
 msgid "Remote URL Change Notifier"
@@ -27,11 +22,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင်ချက်"
-
-#: src/kioworkers/http/kcookiejar/kcookiejar.json
-msgctxt "Description"
-msgid "Stores network cookies"
-msgstr "ဆ.သ.ရ-ကွန်ရက်ဆိုင်ရာ ကွတ်ကီးများ သိမ်းဆည်းသည်"
 
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Description"
@@ -47,6 +37,14 @@ msgstr "ဆ.သ.ရ-ကွန်ရက်ကြားခံအလိုအလျ
 msgctxt "trash ExtraNames"
 msgid "Original Path;Deletion Date"
 msgstr "နဂိုလမ်းကြောင်း;ဖျက်ရန်သတ်မှတ်ထားသောရက်စွဲ;Original Path;Deletion Data"
+
+#~ msgctxt "Name"
+#~ msgid "Cookie Jar"
+#~ msgstr "ကွတ်ကီးဘူး"
+
+#~ msgctxt "Description"
+#~ msgid "Stores network cookies"
+#~ msgstr "ဆ.သ.ရ-ကွန်ရက်ဆိုင်ရာ ကွတ်ကီးများ သိမ်းဆည်းသည်"
 
 #, fuzzy
 #~| msgctxt "Name"
