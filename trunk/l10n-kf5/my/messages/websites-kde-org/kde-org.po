@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-07-11 00:51+0000\n"
+"POT-Creation-Date: 2023-09-20 00:48+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1150,6 +1150,11 @@ msgid ""
 "You make KDE Gear possible with your support and donations. Help us keep "
 "improving and building apps by using the donation form."
 msgstr ""
+
+#: i18n/en.yaml:0
+#, fuzzy
+msgid "Support Plasma 6!"
+msgstr "ကေဒီအီးပလက်စမာ {{ .Get \"maj_min\" }}"
 
 #~ msgid ""
 #~ "KDE today announces the release of KDE Frameworks {{ .Get \"version\" }}."
