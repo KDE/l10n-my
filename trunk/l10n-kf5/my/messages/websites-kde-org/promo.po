@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-08-17 00:49+0000\n"
+"POT-Creation-Date: 2023-09-23 00:47+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1913,46 +1913,19 @@ msgid "Kubuntu Focus Systems"
 msgstr ""
 
 #: content/hardware.md:0
-msgid "The KDE Linux Systems You've Always Wanted"
+msgid "No IT? No Problem. US-Based, Ships Worldwide."
 msgstr ""
 
 #: content/hardware.md:0
 msgid ""
-"Officially branded Kubuntu systems\n"
-"designed to work out-of-the-box, featuring the beautiful and\n"
-"intuitive KDE desktop with industry-standard Ubuntu® 22.04 LTS.\n"
+"The Focus team optimizes for the hardware and validates all major upgrades\n"
+"to help ensure your daily driver just keeps working. Tested components\n"
+"include KDE Plasma, Curated Apps, Kernels, Devices, GPU drivers, and AI\n"
+"libraries. Free shipping to US and Canada.\n"
 msgstr ""
 
 #: content/hardware.md:0
-msgid "https://kfocus.org/img/hosted/kfocus-systems-med-80p.jpg"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "Focus XE"
-msgstr ""
-
-#: content/hardware.md:0
-msgid ""
-"A high-performance, ultra-mobile 14.0\" laptop. Perfect for coding,\n"
-"content creation, and devops wherever you go.\n"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "From $845"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "Focus M2"
-msgstr ""
-
-#: content/hardware.md:0
-msgid ""
-"The ultimate trim-and-light 15.6\" workstation. Perfect for deep\n"
-"learning, rendering, simulations, development, and AAA games.\n"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "From $1895"
+msgid "https://kfocus.org/img/hosted/kfocus-systems-med-80p.webp"
 msgstr ""
 
 #: content/hardware.md:0
@@ -1961,12 +1934,44 @@ msgstr ""
 
 #: content/hardware.md:0
 msgid ""
-"Big capability in an amazingly compact 4.5\" package. Perfect for\n"
-"coding, content creation, and devops from your desk, couch, or a nook.\n"
+"Replace your tower with quiet power. Blazing performance in an amazingly\n"
+"compact 4.6\" package and Intel reliability. Drive up to 4 x 4K displays.\n"
+"Great for coding, compiling, creating, and DevOps.\n"
 msgstr ""
 
 #: content/hardware.md:0
-msgid "From $695"
+msgid "From $595"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "Focus M2"
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"Get the ultimate portable 15.6\" or 17.3\" Linux workstation with a 24c/32t\n"
+"5.4 GHz i9-13900HX. GPU choices range from the RTX 4060 up to the RTX 4090\n"
+"with 16 GB VRAM. Configured for AI and ML pipelines. Also perfect for\n"
+"rendering, Kubernetes, web development, and AAA games.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "From $1895"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "Focus Ir14"
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"Enjoy a premium feel with this 14.0\", 8-core, all-alloy laptop. Highlights\n"
+"include a brilliant 450-nit 16:10 display, no-flex keyboard, and dual NVMe\n"
+"4.0 drives. Great for DevOps, coding, and creating.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "From $895"
 msgstr ""
 
 #: content/hardware.md:0
@@ -2092,17 +2097,17 @@ msgid ""
 "an option:"
 msgstr ""
 
-#: content/hardware.md:156
+#: content/hardware.md:161
 msgid "Shells"
 msgstr ""
 
-#: content/hardware.md:158
+#: content/hardware.md:163
 msgid ""
 "Sign up for KDE Neon on Shells and access all the power and security of "
 "KDE's Plasma desktop from anywhere."
 msgstr ""
 
-#: content/hardware.md:160
+#: content/hardware.md:165
 msgid ""
 "Shells lets you transform any device into a powerful, secure Plasma machine, "
 "allowing you to work, code, or play on your laptop, smart TV or phone. "
@@ -2110,7 +2115,7 @@ msgid ""
 "Shells virtual desktop in the cloud."
 msgstr ""
 
-#: content/hardware.md:162
+#: content/hardware.md:167
 msgid ""
 "<a href=\"https://www.shells.com/pricing?"
 "special=kde&_a=kdeorg&utm_source=web&utm_medium=lp&utm_campaign=kde-org-"
@@ -2120,15 +2125,15 @@ msgstr ""
 "special=kde&_a=kdeorg&utm_source=web&utm_medium=lp&utm_campaign=kde-org-"
 "hardware\"><img src=\"/content/hardware/shells.png\" /></a>"
 
-#: content/hardware.md:164
+#: content/hardware.md:169
 msgid "<small>Shell makes a donation to KDE when you use this link.</small>"
 msgstr "<small>ဤလင့်ခ်ကို အသုံးပြုသည့်အခါ ကေဒီအီးကို လှူဒါန်းသွားမည်။</small>"
 
-#: content/hardware.md:168
+#: content/hardware.md:173
 msgid "Slimbook"
 msgstr "စလင်းဘွတ်ခ်"
 
-#: content/hardware.md:170
+#: content/hardware.md:175
 msgid ""
 "SLIMBOOK was born in 2015 with the idea of being the best brand in the "
 "computer market with GNU / Linux (although it is also verified the absolute "
@@ -2138,11 +2143,11 @@ msgid ""
 "at the OpenExpo Europe 2018."
 msgstr ""
 
-#: content/hardware.md:178
+#: content/hardware.md:183
 msgid "Star Labs"
 msgstr "စတားလပ်ဘ်"
 
-#: content/hardware.md:180
+#: content/hardware.md:185
 msgid ""
 "Star Labs offers a range of laptops designed and built specifically for "
 "Linux. Two versions of their laptop are offered: the Star Lite Mk III 11-"
