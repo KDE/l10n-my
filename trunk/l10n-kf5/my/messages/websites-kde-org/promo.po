@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-09-23 00:47+0000\n"
+"POT-Creation-Date: 2023-09-24 00:46+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -54,6 +54,34 @@ msgstr "၂၀၂၀ အစီအရင်ခံစာ"
 #| msgid "2018 report"
 msgid "2021 report"
 msgstr "၂၀၁၈ အစီအရင်ခံစာ"
+
+#: content/community/donations/_index.md:0
+msgid "Donate"
+msgstr "လှူဒါန်းမည်"
+
+#: content/community/donations/_index.md:0
+msgid "Other Way to Donate"
+msgstr ""
+
+#: content/community/donations/_index.md:0
+msgid ""
+"We also support direct bank transfer in the EU, Personal Check on the US, "
+"donation matching via Benevity and GitHub Sponsors."
+msgstr ""
+
+#: content/community/donations/_index.md:0
+#, fuzzy
+#| msgid "Learn about Plasma"
+msgid "(Powered by PayPal)"
+msgstr "ပလက်စမာအကြောင်း လေ့လာပါ"
+
+#: content/community/donations/_index.md:0
+msgid "One Time Donations"
+msgstr ""
+
+#: content/community/donations/_index.md:0
+msgid "Recurring Donations"
+msgstr ""
 
 #: content/community/donations/_index.md:0
 msgid "Support An Engaged Community"
@@ -119,10 +147,6 @@ msgid ""
 "members also have their logos added to the KDE website and many printed "
 "promotional materials."
 msgstr ""
-
-#: content/community/donations/_index.md:0
-msgid "Donate"
-msgstr "လှူဒါန်းမည်"
 
 #: content/distributions.md:0
 msgid "Distributions with Plasma and KDE Applications"
