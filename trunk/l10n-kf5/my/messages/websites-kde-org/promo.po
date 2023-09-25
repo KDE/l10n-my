@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-09-24 00:46+0000\n"
+"POT-Creation-Date: 2023-09-25 00:45+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -24,8 +24,8 @@ msgstr "ကေဒီအီးကို လှူဒါန်း၍ ထောက�
 
 #: content/community/donations/_index.md:0
 msgid ""
-"Help us create software that gives you full freedom, protects your privacy "
-"and be a part of a great community"
+"Help us create software that gives you full freedom and protects your "
+"privacy, and be a part of a great community"
 msgstr ""
 
 #: content/community/donations/_index.md:0
@@ -65,8 +65,9 @@ msgstr ""
 
 #: content/community/donations/_index.md:0
 msgid ""
-"We also support direct bank transfer in the EU, Personal Check on the US, "
-"donation matching via Benevity and GitHub Sponsors."
+"We also support donations via direct bank transfer in the EU, personal check "
+"in the US, donation matching via Benevity, and [GitHub Sponsors](https://"
+"github.com/sponsors/KDE/)."
 msgstr ""
 
 #: content/community/donations/_index.md:0
@@ -76,7 +77,7 @@ msgid "(Powered by PayPal)"
 msgstr "ပလက်စမာအကြောင်း လေ့လာပါ"
 
 #: content/community/donations/_index.md:0
-msgid "One Time Donations"
+msgid "One-Time Donations"
 msgstr ""
 
 #: content/community/donations/_index.md:0
@@ -1062,6 +1063,47 @@ msgstr ""
 
 #: content/for/kids.md:23
 msgid "![](https://cdn.kde.org/screenshots/gcompris/gcompris.png)"
+msgstr ""
+
+#: content/for/kids.md:29
+msgid ""
+"Ada & Zangemann - A tale of software, skateboards, and raspberry ice cream"
+msgstr ""
+
+#: content/for/kids.md:31
+msgid ""
+"This illustrated book tells the story of the famous inventor Zangemann and "
+"the girl Ada, a curious tinkerer. Ada begins to experiment with hardware and "
+"software, and in the process realises how crucial it is for her and others "
+"to control technology."
+msgstr ""
+
+#: content/for/kids.md:33
+msgid ""
+"![A three way power adaptor, a tin of paint, a pair of pliers, a mouse, a "
+"soldering iron, a phone, and a keyboard form a circle with a thin white "
+"curly line. Inside the circle, Ada and Zangemann face each other. Zangemann "
+"is an old man with glasses and Ada is a young girl with curly black hair.]"
+"(https://pics.fsfe.org/uploads/medium/94/f4/aec90b9dfe2e0f5073003fca5d05.png)"
+msgstr ""
+
+#: content/for/kids.md:35
+msgid "The book is currently available:"
+msgstr ""
+
+#: content/for/kids.md:37
+msgid ""
+"[in English by the publisher No Starch Press](https://nostarch.com/ada-"
+"zangemann) and can be ordered from your preferred book store world-wide with "
+"the ISBN 978-1-718-50320-5."
+msgstr ""
+
+#: content/for/kids.md:38
+msgid ""
+"[in German by the publisher O'Reilly Germany / Dpunkt Verlag (affiliate link "
+"- the FSFE gets 12%)](https://oreilly.de/produkt/ada-und-zangemann/?"
+"ref=10022) and can be ordered from your preferred book store with the ISBN "
+"978-3-96009-190-5."
 msgstr ""
 
 #: content/for/scientists.md:0
