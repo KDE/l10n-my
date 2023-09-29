@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-18 01:01+0000\n"
+"POT-Creation-Date: 2023-09-29 00:45+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -893,7 +893,7 @@ msgstr "KWriteကိုတပ်ဆင်မည်"
 
 #. %1 link
 #: i18n/en.yaml:0
-msgid "[Download the release Kate 64-bit installer](%1)"
+msgid "[Download the release Kate 64-bit installer](%1) *"
 msgstr ""
 
 #~ msgid "Linux & Unices"
