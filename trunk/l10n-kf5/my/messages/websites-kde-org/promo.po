@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-09-29 00:45+0000\n"
+"POT-Creation-Date: 2023-09-30 00:45+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -542,7 +542,7 @@ msgstr ""
 msgid "More open-source applications for activists"
 msgstr ""
 
-#: content/for/activists.md:183 content/for/gamers.md:133
+#: content/for/activists.md:183 content/for/gamers.md:134
 msgid ""
 "Here are some other applications from other open-source organizations that "
 "might interest you:"
@@ -1085,11 +1085,35 @@ msgstr ""
 msgid "Real-Time Strategy game"
 msgstr ""
 
-#: content/for/gamers.md:46
+#: content/for/gamers.md:0
+msgid "org.kde.granatier"
+msgstr ""
+
+#: content/for/gamers.md:0
+msgid "org.kde.kapman"
+msgstr ""
+
+#: content/for/gamers.md:0
+msgid "org.kde.kmines"
+msgstr ""
+
+#: content/for/gamers.md:0
+msgid "org.kde.knights"
+msgstr ""
+
+#: content/for/gamers.md:0
+msgid "org.kde.kpat"
+msgstr ""
+
+#: content/for/gamers.md:0
+msgid "org.kde.kmahjongg"
+msgstr ""
+
+#: content/for/gamers.md:47
 msgid "KDE Plasma on the Steam Deck"
 msgstr ""
 
-#: content/for/gamers.md:48
+#: content/for/gamers.md:49
 msgid ""
 "Play your entire gaming library with this portable console that has the "
 "flexibility of a PC. The Steam Deck runs KDE Plasma optimized to play the "
@@ -1097,22 +1121,22 @@ msgid ""
 "keyboard, and mouse for a full Plasma-based desktop PC experience."
 msgstr ""
 
-#: content/for/gamers.md:50
+#: content/for/gamers.md:51
 msgid ""
 "![Steam deck showing Plasma desktop](/content/hardware/steam-deck-large.png)"
 msgstr ""
 
-#: content/for/gamers.md:52
+#: content/for/gamers.md:53
 msgid ""
 "Learn how KDE contributed to the Steam Deck success, by watching the "
 "[following talk](https://tube.kockatoo.org/w/vovzT9bWHFHjBecxPr1V2X)."
 msgstr ""
 
-#: content/for/gamers.md:60
+#: content/for/gamers.md:61
 msgid "Proton and ProtonDB"
 msgstr ""
 
-#: content/for/gamers.md:62
+#: content/for/gamers.md:63
 msgid ""
 "Proton is a new tool released by Valve Software and integrated with Steam "
 "Play. Proton makes playing Windows games on Linux as simple as hitting the "
@@ -1122,14 +1146,14 @@ msgid ""
 "install and maintain themselves."
 msgstr ""
 
-#: content/for/gamers.md:64
+#: content/for/gamers.md:65
 msgid ""
 "[ProtonDB](https://www.protondb.com/) is a crowdsourced Linux game "
 "compatibility reports database containing reports about more than twenty "
 "thousands games."
 msgstr ""
 
-#: content/for/gamers.md:66
+#: content/for/gamers.md:67
 msgid ""
 "<div class=\"row\">\n"
 "  <div class=\"col-6 col-md-3 mb-4 text-left\"><span class=\"d-inline-block"
@@ -1143,11 +1167,11 @@ msgid ""
 "</div>\n"
 msgstr ""
 
-#: content/for/gamers.md:78
+#: content/for/gamers.md:79
 msgid "Bottles"
 msgstr ""
 
-#: content/for/gamers.md:80
+#: content/for/gamers.md:81
 msgid ""
 "Not developed by KDE but, still very helpful, Bottles is a free and open "
 "source software that uses environments to help you easily manage and run "
@@ -1156,15 +1180,15 @@ msgid ""
 "play your favorite games, as if you were on Windows."
 msgstr ""
 
-#: content/for/gamers.md:82
+#: content/for/gamers.md:83
 msgid "![](https://usebottles.com/uploads/bottle-creation.png)"
 msgstr ""
 
-#: content/for/gamers.md:90
+#: content/for/gamers.md:91
 msgid "Explore our collection of classic games"
 msgstr ""
 
-#: content/for/gamers.md:92
+#: content/for/gamers.md:93
 msgid ""
 "Missing playing Solitaire? Not anymore, thanks to [KPatience](https://apps."
 "kde.org/kpat/) and the rest of the KDE Games. These games don't have DLC, "
@@ -1172,23 +1196,23 @@ msgid ""
 "meant to be."
 msgstr ""
 
-#: content/for/gamers.md:95
+#: content/for/gamers.md:96
 msgid ""
 "![Screenshot of kpatience showing cards on a table](https://cdn.kde.org/"
 "screenshots/kpatience/kpatience.png)"
 msgstr ""
 
-#: content/for/gamers.md:103
+#: content/for/gamers.md:104
 #, fuzzy
 #| msgid "Plasma logo"
 msgid "Plasma for gamers"
 msgstr "ပလက်စမာ လိုဂို"
 
-#: content/for/gamers.md:109
+#: content/for/gamers.md:110
 msgid "Moddable"
 msgstr ""
 
-#: content/for/gamers.md:111
+#: content/for/gamers.md:112
 msgid ""
 "Plasma is completely moddable with various extension points. Create new "
 "styles, change the color scheme of your apps, write a custom task switcher, "
@@ -1196,49 +1220,49 @@ msgid ""
 "compositor effects."
 msgstr ""
 
-#: content/for/gamers.md:119
+#: content/for/gamers.md:120
 msgid "Lightweight"
 msgstr ""
 
-#: content/for/gamers.md:121
+#: content/for/gamers.md:122
 msgid ""
 "Plasma is light on your computer resources, giving more power for your "
 "games. Monitor your system memory and CPU usage, with Plasma System Monitor."
 msgstr ""
 
-#: content/for/gamers.md:123
+#: content/for/gamers.md:124
 msgid ""
 "You can even extend Plasma System Monitor to monitor your [solar panels]"
 "(https://github.com/kbroulik/qalphacloud) if you want."
 msgstr ""
 
-#: content/for/gamers.md:131
+#: content/for/gamers.md:132
 msgid "More open-source applications for gamers"
 msgstr ""
 
-#: content/for/gamers.md:142
+#: content/for/gamers.md:143
 msgid "Get your new hardware with Plasma pre-installed"
 msgstr ""
 
-#: content/for/gamers.md:144
+#: content/for/gamers.md:145
 msgid ""
 "Check out some of the devices available from our partners, from portable "
 "gaming consoles to powerful PCs:"
 msgstr ""
 
-#: content/for/gamers.md:148
+#: content/for/gamers.md:149
 msgid "![](/content/hardware/tuxedo-laptop.png)"
 msgstr ""
 
-#: content/for/gamers.md:150
+#: content/for/gamers.md:151
 msgid "![](https://kde.slimbook.es/assets/img/duo-ok.png)"
 msgstr ""
 
-#: content/for/gamers.md:152
+#: content/for/gamers.md:153
 msgid "![](https://kfocus.org/img/hosted/kfocus-systems-med-80p.webp)"
 msgstr ""
 
-#: content/for/gamers.md:158
+#: content/for/gamers.md:159
 msgid ""
 "This site has no affiliation with Valve Software. All game images and logos "
 "are property of their respective owners."
