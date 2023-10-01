@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-09-30 00:45+0000\n"
+"POT-Creation-Date: 2023-10-01 00:45+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1083,30 +1083,6 @@ msgstr ""
 
 #: content/for/gamers.md:0
 msgid "Real-Time Strategy game"
-msgstr ""
-
-#: content/for/gamers.md:0
-msgid "org.kde.granatier"
-msgstr ""
-
-#: content/for/gamers.md:0
-msgid "org.kde.kapman"
-msgstr ""
-
-#: content/for/gamers.md:0
-msgid "org.kde.kmines"
-msgstr ""
-
-#: content/for/gamers.md:0
-msgid "org.kde.knights"
-msgstr ""
-
-#: content/for/gamers.md:0
-msgid "org.kde.kpat"
-msgstr ""
-
-#: content/for/gamers.md:0
-msgid "org.kde.kmahjongg"
 msgstr ""
 
 #: content/for/gamers.md:47
