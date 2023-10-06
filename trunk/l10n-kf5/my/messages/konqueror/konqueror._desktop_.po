@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-09-25 00:48+0000\n"
+"POT-Creation-Date: 2023-10-06 00:48+0000\n"
 "PO-Revision-Date: 2021-09-19 13:52+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#: kfmclient.desktop:10 kfmclient_dir.desktop:11 kfmclient_html.desktop:9
+#: kfmclient.desktop:10 kfmclient_dir.desktop:14 kfmclient_html.desktop:9
 #: kfmclient_war.desktop:9 konqbrowser.desktop:7 org.kde.konqueror.desktop:4
 msgctxt "Name"
 msgid "Konqueror"
