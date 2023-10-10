@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-09 00:45+0000\n"
+"POT-Creation-Date: 2023-10-09 00:58+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1158,6 +1158,28 @@ msgstr "ကေဒီအီးပလက်စမာ {{ .Get \"maj_min\" }}"
 
 #: i18n/en.yaml:0
 msgid "New Supporting Members"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Goal: 500 members"
+msgstr ""
+
+#. %1 %2 %3 %4 numbers of days, hours, minutes, seconds
+#: i18n/en.yaml:0
+msgid "%1d %2h %3m %4s"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "EXPIRED"
+msgstr ""
+
+#. %1 a number
+#: i18n/en.yaml:0
+msgid "%1 members<sup>*</sup>"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "<sup>*</sup>Updated daily."
 msgstr ""
 
 #~ msgid ""
