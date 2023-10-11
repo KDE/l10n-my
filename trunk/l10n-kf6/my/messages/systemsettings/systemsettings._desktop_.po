@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-10 01:51+0000\n"
+"POT-Creation-Date: 2023-10-11 02:11+0000\n"
 "PO-Revision-Date: 2021-09-19 13:15+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -79,7 +79,7 @@ msgctxt "Name"
 msgid "Text & Fonts"
 msgstr ""
 
-#: categories/settings-appearance-themes.desktop:8
+#: categories/settings-appearance-themes.desktop:9
 msgctxt "Name"
 msgid "Colors & Themes"
 msgstr ""
