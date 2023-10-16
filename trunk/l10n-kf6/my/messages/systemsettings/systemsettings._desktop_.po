@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-14 01:53+0000\n"
+"POT-Creation-Date: 2023-10-16 01:44+0000\n"
 "PO-Revision-Date: 2021-09-19 13:15+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -109,7 +109,7 @@ msgctxt "Name"
 msgid "Display & Monitor"
 msgstr ""
 
-#: categories/settings-hardware-display.desktop:30
+#: categories/settings-hardware-display.desktop:31
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr ""
