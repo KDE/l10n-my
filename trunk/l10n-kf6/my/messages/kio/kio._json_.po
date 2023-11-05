@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-08-14 02:03+0000\n"
+"POT-Creation-Date: 2023-11-05 01:14+0000\n"
 "PO-Revision-Date: 2021-09-20 02:05+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -18,25 +18,23 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr ""
 
-#: src/kpac/proxyscout.json
-msgctxt "Name"
-msgid "Network Proxy Configuration"
-msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင်ချက်"
-
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Description"
 msgid "Provides change notification for network folders"
 msgstr ""
 
-#: src/kpac/proxyscout.json
-msgctxt "Description"
-msgid "Automatic proxy configuration"
-msgstr "ဆ.သ.ရ-ကွန်ရက်ကြားခံအလိုအလျောက်ပြင်ဆင်ချက်"
-
 #: src/kioworkers/trash/trash.json
 msgctxt "trash ExtraNames"
 msgid "Original Path;Deletion Date"
 msgstr "နဂိုလမ်းကြောင်း;ဖျက်ရန်သတ်မှတ်ထားသောရက်စွဲ;Original Path;Deletion Data"
+
+#~ msgctxt "Name"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင်ချက်"
+
+#~ msgctxt "Description"
+#~ msgid "Automatic proxy configuration"
+#~ msgstr "ဆ.သ.ရ-ကွန်ရက်ကြားခံအလိုအလျောက်ပြင်ဆင်ချက်"
 
 #~ msgctxt "Name"
 #~ msgid "Cookie Jar"

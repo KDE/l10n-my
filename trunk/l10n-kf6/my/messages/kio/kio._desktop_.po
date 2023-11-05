@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-04 16:56+0000\n"
+"POT-Creation-Date: 2023-11-05 01:13+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -22,41 +22,6 @@ msgstr "Rootအဖြစ်ဆောင်ရွက်သည်။"
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr "လုပ်ဆောင်ချက်ပြီးမြောက်ရန် rootအခွင့်အာဏာလိုအပ်သည်။"
-
-#: src/kpac/proxyscout.notifyrc:3
-msgctxt "Comment"
-msgid "Network Proxy Configuration"
-msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင်ချက်"
-
-#: src/kpac/proxyscout.notifyrc:72
-msgctxt "Name"
-msgid "Invalid Proxy Script"
-msgstr "မမှန်ကန်သော ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်"
-
-#: src/kpac/proxyscout.notifyrc:140
-msgctxt "Comment"
-msgid "The downloaded proxy configuration script is invalid"
-msgstr "ဒေါင်းလုတ်ဆွဲထားသောကြားခံပြင်ဆင်မှုညွှန်ကြားချက်သည် မမှန်ကန်ပါ"
-
-#: src/kpac/proxyscout.notifyrc:212
-msgctxt "Name"
-msgid "Script Download Error"
-msgstr "ညွှန်ကြားချက်ဒေါင်းလုတ်ရယူမှုဆိုင်ရာအမှား"
-
-#: src/kpac/proxyscout.notifyrc:280
-msgctxt "Comment"
-msgid "The proxy configuration script could not be downloaded"
-msgstr "ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်အား ဒေါင်းလုတ်ဆွဲမရပါ"
-
-#: src/kpac/proxyscout.notifyrc:353
-msgctxt "Name"
-msgid "Script Evaluation Error"
-msgstr "ညွှန်ကြားချက်ဆောင်ရွက်ခြင်းဆိုင်ရာအမှား"
-
-#: src/kpac/proxyscout.notifyrc:420
-msgctxt "Comment"
-msgid "There was an error executing the proxy configuration script"
-msgstr "ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်အား ဆောင်ရွက်ရာတွင် အမှားဖြစ်ပေါ်ခဲ့သည်"
 
 #: src/new_file_templates/Directory.desktop:2
 msgctxt "Name"
@@ -1706,6 +1671,34 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "KIO Workerပုံစံပြား"
+
+#~ msgctxt "Comment"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "ဆ.သ.ရ-ကွန်ရက် ကြားခံ ပြင်ဆင်ချက်"
+
+#~ msgctxt "Name"
+#~ msgid "Invalid Proxy Script"
+#~ msgstr "မမှန်ကန်သော ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်"
+
+#~ msgctxt "Comment"
+#~ msgid "The downloaded proxy configuration script is invalid"
+#~ msgstr "ဒေါင်းလုတ်ဆွဲထားသောကြားခံပြင်ဆင်မှုညွှန်ကြားချက်သည် မမှန်ကန်ပါ"
+
+#~ msgctxt "Name"
+#~ msgid "Script Download Error"
+#~ msgstr "ညွှန်ကြားချက်ဒေါင်းလုတ်ရယူမှုဆိုင်ရာအမှား"
+
+#~ msgctxt "Comment"
+#~ msgid "The proxy configuration script could not be downloaded"
+#~ msgstr "ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်အား ဒေါင်းလုတ်ဆွဲမရပါ"
+
+#~ msgctxt "Name"
+#~ msgid "Script Evaluation Error"
+#~ msgstr "ညွှန်ကြားချက်ဆောင်ရွက်ခြင်းဆိုင်ရာအမှား"
+
+#~ msgctxt "Comment"
+#~ msgid "There was an error executing the proxy configuration script"
+#~ msgstr "ကြားခံပြင်ဆင်မှုညွှန်ကြားချက်အား ဆောင်ရွက်ရာတွင် အမှားဖြစ်ပေါ်ခဲ့သည်"
 
 #~ msgctxt "Query"
 #~ msgid ""
