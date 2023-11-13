@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-12 01:42+0000\n"
+"POT-Creation-Date: 2023-11-13 01:42+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -277,7 +277,7 @@ msgctxt "Name"
 msgid "Codeberg"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/codeberg.desktop:25
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:26
 msgctxt "Query"
 msgid ""
 "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
@@ -1203,7 +1203,7 @@ msgctxt "Name"
 msgid "PyPI"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/pypi.desktop:24
+#: src/urifilters/ikws/searchproviders/pypi.desktop:25
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://vimeo.com/search?q=\\\\{@}"
