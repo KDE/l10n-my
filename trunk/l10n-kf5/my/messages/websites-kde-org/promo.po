@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:42+0000\n"
+"POT-Creation-Date: 2023-12-02 00:44+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1339,6 +1339,13 @@ msgid ""
 "- the FSFE gets 12%)](https://oreilly.de/produkt/ada-und-zangemann/?"
 "ref=10022) and can be ordered from your preferred book store with the ISBN "
 "978-3-96009-190-5."
+msgstr ""
+
+#: content/for/kids.md:39
+msgid ""
+"[in french by the publisher C&F édition](https://cfeditions.com/ada/) and "
+"can be ordered from your preferred book store with the ISBN "
+"978-2-37662-075-4."
 msgstr ""
 
 #: content/for/scientists.md:0
