@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-07 02:48+0000\n"
+"POT-Creation-Date: 2023-12-13 01:39+0000\n"
 "PO-Revision-Date: 2021-09-15 05:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -28,12 +28,12 @@ msgctxt "Name"
 msgid "Kate"
 msgstr "ကိတ်"
 
-#: apps/kate/data/org.kde.kate.desktop:132
+#: apps/kate/data/org.kde.kate.desktop:133
 msgctxt "Comment"
 msgid "KDE Advanced Text Editor"
 msgstr "ကိတ် အဆင့်မြင့်စာသားတည်းဖြတ်ကိရိယာ"
 
-#: apps/kate/data/org.kde.kate.desktop:194
+#: apps/kate/data/org.kde.kate.desktop:196
 msgctxt "Keywords"
 msgid "text;txt;editor;programming;programmer;development;developer;code;"
 msgstr ""
@@ -43,17 +43,17 @@ msgctxt "GenericName"
 msgid "Text Editor"
 msgstr "စာသားတည်းဖြတ်ကိရိယာ"
 
-#: apps/kwrite/data/org.kde.kwrite.desktop:65
+#: apps/kwrite/data/org.kde.kwrite.desktop:66
 msgctxt "Name"
 msgid "KWrite"
 msgstr "ကေရိုက်"
 
-#: apps/kwrite/data/org.kde.kwrite.desktop:127
+#: apps/kwrite/data/org.kde.kwrite.desktop:129
 msgctxt "Comment"
 msgid "KDE Text Editor"
 msgstr "ကိတ် စာသားတည်းဖြတ်ကိရိယာ"
 
-#: apps/kwrite/data/org.kde.kwrite.desktop:187
+#: apps/kwrite/data/org.kde.kwrite.desktop:190
 msgctxt "Keywords"
 msgid "text;txt;editor;note;notepad;"
 msgstr ""
