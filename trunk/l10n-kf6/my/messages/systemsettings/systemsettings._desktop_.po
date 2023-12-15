@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-13 01:39+0000\n"
+"POT-Creation-Date: 2023-12-15 01:41+0000\n"
 "PO-Revision-Date: 2021-09-19 13:15+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -46,28 +46,28 @@ msgctxt "Name"
 msgid "System Settings"
 msgstr "စစ်စတမ်ဆက်တင်များ"
 
-#: app/systemsettings.desktop:271
+#: app/systemsettings.desktop:272
 msgctxt "Name"
 msgid "Global Theme"
 msgstr ""
 
-#: app/systemsettings.desktop:327
+#: app/systemsettings.desktop:328
 msgctxt "Name"
 msgid "Users"
 msgstr "အသုံးပြုသူများ"
 
-#: app/systemsettings.desktop:385
+#: app/systemsettings.desktop:386
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr "စခရင် သော့ခတ်ခြင်း"
 
-#: app/systemsettings.desktop:442
+#: app/systemsettings.desktop:443
 #: categories/settings-hardware-powermanagement.desktop:8
 msgctxt "Name"
 msgid "Energy Saving"
 msgstr ""
 
-#: app/systemsettings.desktop:498
+#: app/systemsettings.desktop:499
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr ""
