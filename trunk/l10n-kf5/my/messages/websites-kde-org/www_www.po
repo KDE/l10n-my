@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-08 00:44+0000\n"
+"POT-Creation-Date: 2023-12-17 00:44+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -20490,7 +20490,7 @@ msgstr ""
 #: content/fundraisers/yearend2016/thanks_paypal.md:9
 msgid ""
 "Remember you can become a \"KDE Supporting Member\" by doing recurring "
-"donations. Learn more at https://relate.kde.org."
+"donations. Learn more at https://kde.org/community/donations/."
 msgstr ""
 
 #: content/fundraisers/yearend2014/thanks_paypal.md:11
