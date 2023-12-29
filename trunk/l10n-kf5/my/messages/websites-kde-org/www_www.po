@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-25 00:43+0000\n"
+"POT-Creation-Date: 2023-12-29 00:43+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -20483,7 +20483,7 @@ msgid "Our Goal"
 msgstr ""
 
 #: content/fundraisers/plasma6member.md:59
-msgid "<span style=\"color: red; weight: bold;\">GOAL REACHED!</span>"
+msgid "<span style=\"color: red; weight: bold;\">FIRST GOAL REACHED!</span>"
 msgstr ""
 
 #: content/fundraisers/plasma6member.md:61
