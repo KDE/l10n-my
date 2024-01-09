@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-02 00:44+0000\n"
+"POT-Creation-Date: 2024-01-09 00:43+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -42,10 +42,6 @@ msgid ""
 msgstr ""
 
 #: content/community/donations/_index.md:0
-msgid "2019 report"
-msgstr "၂၀၁၉ အစီအရင်ခံစာ"
-
-#: content/community/donations/_index.md:0
 msgid "2020 report"
 msgstr "၂၀၂၀ အစီအရင်ခံစာ"
 
@@ -54,6 +50,12 @@ msgstr "၂၀၂၀ အစီအရင်ခံစာ"
 #| msgid "2018 report"
 msgid "2021 report"
 msgstr "၂၀၁၈ အစီအရင်ခံစာ"
+
+#: content/community/donations/_index.md:0
+#, fuzzy
+#| msgid "2020 report"
+msgid "2022 report"
+msgstr "၂၀၂၀ အစီအရင်ခံစာ"
 
 #: content/community/donations/_index.md:0
 msgid "Donate"
@@ -3254,6 +3256,9 @@ msgid ""
 "This page lists different ways to get help and support when using KDE "
 "software."
 msgstr ""
+
+#~ msgid "2019 report"
+#~ msgstr "၂၀၁၉ အစီအရင်ခံစာ"
 
 #~ msgid "KDE Neon"
 #~ msgstr "ကေဒီအီး နီယွန်"
