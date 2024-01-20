@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-19 01:42+0000\n"
+"POT-Creation-Date: 2024-01-20 01:37+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -570,7 +570,7 @@ msgid "You can give us feedback and get updates on our social media channels:"
 msgstr ""
 
 #: i18n/en.yaml:0
-msgid "Discuss KDE on the [KDE Forums](https://https://discuss.kde.org/)."
+msgid "Discuss KDE on the [KDE Forums](https://discuss.kde.org/)."
 msgstr ""
 
 #: i18n/en.yaml:0
