@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-20 01:37+0000\n"
+"POT-Creation-Date: 2024-02-07 01:36+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -223,82 +223,6 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "What is KDE?"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Group photo of LaKademy 2018"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Salvador, Brazil"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Plasma Sprint"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Augsburg, Germany"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Berlin, Germany"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Kdenlive Sprint"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Paris, France"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Delhi, India"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Google Summer of Code Students"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "KDE GSoC students group photo"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Florianopolis, Brazil"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "KDE Connect Sprint"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Barcelona"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "England"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Akademy 2022"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "FOSDEM"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Brussels"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Brazil"
-msgstr ""
-
-#: i18n/en.yaml:0
-msgid "Prague"
 msgstr ""
 
 #. %1 link

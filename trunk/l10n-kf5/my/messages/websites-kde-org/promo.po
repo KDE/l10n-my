@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-09 00:43+0000\n"
+"POT-Creation-Date: 2024-02-07 01:36+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -13,6 +13,76 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.0\n"
+
+#: content/_index.md:0
+msgid "Ubuntu Summit 2022"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Prague"
+msgstr ""
+
+#: content/_index.md:0
+msgid "State of Open Con"
+msgstr ""
+
+#: content/_index.md:0
+msgid "London - England"
+msgstr ""
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Plasma"
+msgid "Plasma Sprint"
+msgstr "ပလက်စမာ"
+
+#: content/_index.md:0
+msgid "Augsburg - Germany"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Latinoware"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Brazil"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Fosdem"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Brussels - Belgium"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Google Summer of Code Students"
+msgstr ""
+
+#: content/_index.md:0
+msgid "KDE Goals"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Thessaloniki - Greece"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Akademy 2022"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Barcelona"
+msgstr ""
+
+#: content/_index.md:0
+msgid "KDE Conf India 2023"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Pune, Maharashtra"
+msgstr ""
 
 #: content/announcements/_index.md:0
 msgid "Announcements"
