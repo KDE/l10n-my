@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-11-05 12:38+0000\n"
+"POT-Creation-Date: 2024-02-13 01:41+0000\n"
 "PO-Revision-Date: 2021-09-14 18:11+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -12,18 +12,23 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.1\n"
 
-#. (itstool) path: component/name
+#. (itstool) path: component/developer_name
 #: org.kde.lokalize.appdata.xml:6
+msgid "KDE"
+msgstr ""
+
+#. (itstool) path: component/name
+#: org.kde.lokalize.appdata.xml:7
 msgid "Lokalize"
 msgstr "လိုကယ်လိုက်ဇ်"
 
 #. (itstool) path: component/summary
-#: org.kde.lokalize.appdata.xml:7
+#: org.kde.lokalize.appdata.xml:8
 msgid "Computer-aided translation system"
 msgstr "ကွန်ပြူတာအကူအညီဖြင့် ဘာသာပြန်မှု စနစ်"
 
 #. (itstool) path: description/p
-#: org.kde.lokalize.appdata.xml:9
+#: org.kde.lokalize.appdata.xml:10
 msgid ""
 "Lokalize is the localization tool for KDE software and other free and open "
 "source software. It is also a general computer-aided translation system "
