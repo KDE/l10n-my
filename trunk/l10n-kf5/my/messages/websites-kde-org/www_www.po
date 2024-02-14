@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-13 01:42+0000\n"
+"POT-Creation-Date: 2024-02-14 01:41+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -3583,6 +3583,12 @@ msgstr ""
 
 #: content/announcements/megarelease/6/_index.md:0
 #, fuzzy
+#| msgid "Release Parties"
+msgid "Released %s"
+msgstr "ထုတ်ဝေမှု ပါတီများ"
+
+#: content/announcements/megarelease/6/_index.md:0
+#, fuzzy
 #| msgid "Plasma 5"
 msgid "Plasma 6"
 msgstr "ပလက်စမာ ၅"
@@ -3804,7 +3810,7 @@ msgid "Plasma Search"
 msgstr "ပလက်စမာ ၅"
 
 #: content/announcements/megarelease/6/_index.md:0
-msgid "Plasma Search lets you use a custom search ordering.\n"
+msgid "Plasma Search now lets you use a custom search result ordering.\n"
 msgstr ""
 
 #: content/announcements/megarelease/6/_index.md:0
@@ -4404,6 +4410,12 @@ msgstr ""
 #: content/announcements/megarelease/6/_index.md:0
 msgid "Easily toggle clip effects in the timeline"
 msgstr ""
+
+#: content/announcements/megarelease/6/_index.md:0
+#, fuzzy
+#| msgid "For developers"
+msgid "For Developers"
+msgstr "ပရိုဂရမ်မာများအတွက်"
 
 #: content/announcements/megarelease/6/_index.md:0
 msgid ""
@@ -22039,9 +22051,6 @@ msgstr ""
 
 #~ msgid "The KDE Plasma Workspaces 4.11"
 #~ msgstr "ကေဒီအီးပလက်စမာ အလုပ်နေရာများ ၄.၁၁"
-
-#~ msgid "Release Parties"
-#~ msgstr "ထုတ်ဝေမှု ပါတီများ"
 
 #~ msgid "About these release announcements"
 #~ msgstr "ထိုထုတ်ဝေမှုကြေညာချက်များအကြောင်း"
