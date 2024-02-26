@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-08 01:41+0000\n"
+"POT-Creation-Date: 2024-02-26 01:40+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2440,65 +2440,60 @@ msgstr ""
 
 #: content/hardware.md:0
 msgid ""
-"The Linux ultrabook with a Ryzen 5700U processor and KDE's full-featured "
-"Plasma\n"
-"desktop running on KDE Neon and with access to hundreds of Open Source "
-"programs and utilities.\n"
+"The KDE Slimbook V with its Ryzen 7 7840HS processor gives you a better\n"
+"performance while running your applications. KDE Neon, with the new Plasma "
+"6\n"
+"desktop provides the best environment and the widest range of programs for\n"
+"all your personal and professional computing needs, while at the same time\n"
+"protecting your privacy and giving you full control.\n"
 msgstr ""
 
 #: content/hardware.md:0
-msgid "Picture of the two slimbook models"
+msgid "Picture of the two Slimbook models"
 msgstr ""
 
 #: content/hardware.md:0
-msgid "Choose your size"
-msgstr "အရွယ်အစားရွေးပါ"
-
-#: content/hardware.md:0
-msgid "KDE Slimbook 14”"
-msgstr "ကေဒီအီး စလင်းဘွတ်ခ် ၁၄”"
+msgid "Specs"
+msgstr ""
 
 #: content/hardware.md:0
 #, fuzzy
 #| msgid "AMD Ryzen 7 4800 H"
-msgid "AMD Ryzen 7 5700 U"
+msgid "AMD Ryzen 7 7840HS"
 msgstr "အေအမ်ဒီ ရိုင်ဇန် ၇ ၄၈၀၀ အိပ်ချ်"
 
 #: content/hardware.md:0
-msgid "14-inch IPS LED display with 1920 by 1080 resolution at 60Hz"
-msgstr "၆၀ဟာ့ဇ် ၁၉၂၀-၁၀၈၀ ရီဆိုလူးရှင်းရှိသော ၁၄လက်မ အိုင်ပီအက်စ် အယ်အီးဒီ ဒစ်(စ)ပလေး"
-
-#: content/hardware.md:0
-msgid "Up to 2TB storage SSD"
-msgstr "၂ တယ်ရာဘိုက် အက်စ်အက်စ်ဒီ ထိ"
-
-#: content/hardware.md:0
-msgid "Up to 64GB memory"
-msgstr "၆၄ ဂစ်ဂါဘိုက်မန်မိုရီ ထိ"
-
-#: content/hardware.md:0
-msgid "47‑watt‑hour battery"
-msgstr "၄၇ ဝပ်-နာရီ ဘက်ထရီ"
-
-#: content/hardware.md:0
-msgid "1 kg"
-msgstr "၁ ကီလိုဂရမ်"
-
-#: content/hardware.md:0
-msgid "KDE Slimbook 15.6”"
-msgstr "ကေဒီအီး စလင်းဘွတ်ခ် ၁၅.၆”"
-
-#: content/hardware.md:0
-msgid "15.6-inch IPS LED display with 1920 by 1080 resolution at 60Hz"
+#, fuzzy
+#| msgid "15.6-inch IPS LED display with 1920 by 1080 resolution at 60Hz"
+msgid ""
+"16-inch IPS LED display with 2560 by 1600 resolution at 165 Hz and sRGB 100%"
 msgstr "၆၀ဟာ့ဇ် ၁၉၂၀-၁၀၈၀ ရီဆိုလူးရှင်းရှိသော ၁၅.၆လက်မ အိုင်ပီအက်စ် အယ်အီးဒီ ဒစ်(စ)ပလေး"
 
 #: content/hardware.md:0
-msgid "92‑watt‑hour battery"
-msgstr "၉၂ ဝပ်-နာရီ ဘက်ထရီ"
+#, fuzzy
+#| msgid "Up to 2TB storage SSD"
+msgid "Up to 8 TB storage NVME PCIE 4.0"
+msgstr "၂ တယ်ရာဘိုက် အက်စ်အက်စ်ဒီ ထိ"
 
 #: content/hardware.md:0
-msgid "1.5 kg"
-msgstr "၁.၅ ကီလိုဂရမ်"
+#, fuzzy
+#| msgid "Up to 64GB memory"
+msgid "Up to 64GB 5600 MHz non-soldered memory"
+msgstr "၆၄ ဂစ်ဂါဘိုက်မန်မိုရီ ထိ"
+
+#: content/hardware.md:0
+msgid "720p webcam with physical switch"
+msgstr ""
+
+#: content/hardware.md:0
+#, fuzzy
+#| msgid "47‑watt‑hour battery"
+msgid "68‑watt‑hour battery"
+msgstr "၄၇ ဝပ်-နာရီ ဘက်ထရီ"
+
+#: content/hardware.md:0
+msgid "1.86 kg"
+msgstr ""
 
 #: content/hardware.md:0
 msgid "Configure"
@@ -3326,6 +3321,27 @@ msgid ""
 "This page lists different ways to get help and support when using KDE "
 "software."
 msgstr ""
+
+#~ msgid "Choose your size"
+#~ msgstr "အရွယ်အစားရွေးပါ"
+
+#~ msgid "KDE Slimbook 14”"
+#~ msgstr "ကေဒီအီး စလင်းဘွတ်ခ် ၁၄”"
+
+#~ msgid "14-inch IPS LED display with 1920 by 1080 resolution at 60Hz"
+#~ msgstr "၆၀ဟာ့ဇ် ၁၉၂၀-၁၀၈၀ ရီဆိုလူးရှင်းရှိသော ၁၄လက်မ အိုင်ပီအက်စ် အယ်အီးဒီ ဒစ်(စ)ပလေး"
+
+#~ msgid "1 kg"
+#~ msgstr "၁ ကီလိုဂရမ်"
+
+#~ msgid "KDE Slimbook 15.6”"
+#~ msgstr "ကေဒီအီး စလင်းဘွတ်ခ် ၁၅.၆”"
+
+#~ msgid "92‑watt‑hour battery"
+#~ msgstr "၉၂ ဝပ်-နာရီ ဘက်ထရီ"
+
+#~ msgid "1.5 kg"
+#~ msgstr "၁.၅ ကီလိုဂရမ်"
 
 #~ msgid "2019 report"
 #~ msgstr "၂၀၁၉ အစီအရင်ခံစာ"
