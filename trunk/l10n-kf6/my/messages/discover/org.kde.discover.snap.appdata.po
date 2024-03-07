@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
-"POT-Creation-Date: 2018-01-10 05:09+0100\n"
+"POT-Creation-Date: 2024-03-07 00:38+0000\n"
 "PO-Revision-Date: 2021-09-13 03:28+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -13,16 +13,16 @@ msgstr ""
 "X-Generator: Poedit 2.2.1\n"
 
 #. (itstool) path: component/name
-#: org.kde.discover.snap.appdata.xml:4
+#: org.kde.discover.snap.appdata.xml:5
 msgid "Snap backend"
 msgstr "စနပ် အုတ်မြစ်ပရိုဂရမ်"
 
 #. (itstool) path: component/summary
-#: org.kde.discover.snap.appdata.xml:5
+#: org.kde.discover.snap.appdata.xml:6
 msgid "Integrates Snap applications into Discover"
 msgstr "စနပ် အပ္ပလီကေးရှင်းများကို ဒစ်(စ)ကာဗာနှင့် ပူးပေါင်းဆက်နွယ်ပေးသည်"
 
 #. (itstool) path: component/developer_name
-#: org.kde.discover.snap.appdata.xml:9
+#: org.kde.discover.snap.appdata.xml:10
 msgid "Aleix Pol Gonzalez"
 msgstr "အဲလက်ပိုဂွန်ဇလက်"
