@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-04 01:37+0000\n"
+"POT-Creation-Date: 2024-03-07 01:35+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -341,7 +341,7 @@ msgstr ""
 #: content/build-it.md:37
 #, fuzzy
 #| msgid "Install KWrite on"
-msgid "Install KDE Builder"
+msgid "Install kdesrc-build"
 msgstr "KWriteကိုတပ်ဆင်မည်"
 
 #: content/build-it.md:39
@@ -350,19 +350,19 @@ msgstr ""
 
 #: content/build-it.md:47
 msgid ""
-"For later ease of use, best symlink the kde-builder script to some folder "
+"For later ease of use, best symlink the kdesrc-build script to some folder "
 "inside your path, e.g. if you have some user local bin:"
 msgstr ""
 
 #: content/build-it.md:53
-msgid "Configuring KDE Builder"
+msgid "Configuring kdesrc-build"
 msgstr ""
 
 #: content/build-it.md:55
 msgid ""
-"kde-builder has some setup pass that can configure stuff for you, see [this "
-"introduction](https://community.kde.org/Get_Involved/development/"
-"Set_up_a_development_environment#Install_kde-builder)."
+"kdesrc-build has some setup pass that can configure stuff for you, see [this "
+"introduction](https://community.kde.org/Get_Involved/"
+"development#Set_up_kdesrc-build)."
 msgstr ""
 
 #: content/build-it.md:57
@@ -454,7 +454,7 @@ msgstr ""
 
 #: content/build-it.md:117
 msgid ""
-"**kde-builder** provides some initial setup mode to install the needed "
+"**kdesrc-build** provides some initial setup mode to install the needed "
 "packages for several common distributions to start developing. This is "
 "helpful if you are not sure if all needed development packages are installed "
 "on your system and you don't want to take care of this yourself manually. "
@@ -465,8 +465,9 @@ msgstr ""
 
 #: content/build-it.md:126
 msgid ""
-"We already created a **.config/kde-builderrc**, that will be left untouched. "
-"For the further usage you don't need to modify your shell settings either."
+"We already created a **.config/kdesrc-buildrc**, that will be left "
+"untouched. For the further usage you don't need to modify your shell "
+"settings either."
 msgstr ""
 
 #: content/build-it.md:129
@@ -587,7 +588,7 @@ msgstr ""
 
 #: content/build-it.md:211
 msgid ""
-"![](/post/2021/2021-02-07-kde-builder-and-kate/images/kate-project-startup."
+"![](/post/2021/2021-02-07-kdesrc-build-and-kate/images/kate-project-startup."
 "png)"
 msgstr ""
 
@@ -608,7 +609,7 @@ msgstr ""
 
 #: content/build-it.md:219
 msgid ""
-"![](/post/2021/2021-02-07-kde-builder-and-kate/images/kate-project-lsp.png)"
+"![](/post/2021/2021-02-07-kdesrc-build-and-kate/images/kate-project-lsp.png)"
 msgstr ""
 
 #: content/build-it.md:221
@@ -619,13 +620,14 @@ msgstr ""
 
 #: content/build-it.md:223
 msgid ""
-"![](/post/2021/2021-02-07-kde-builder-and-kate/images/kate-project-search."
+"![](/post/2021/2021-02-07-kdesrc-build-and-kate/images/kate-project-search."
 "png)"
 msgstr ""
 
 #: content/build-it.md:225
 msgid ""
-"![](/post/2021/2021-02-07-kde-builder-and-kate/images/kate-project-build.png)"
+"![](/post/2021/2021-02-07-kdesrc-build-and-kate/images/kate-project-build."
+"png)"
 msgstr ""
 
 #: content/build-it.md:228
