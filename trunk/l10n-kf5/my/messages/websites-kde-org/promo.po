@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-27 01:39+0000\n"
+"POT-Creation-Date: 2024-03-18 02:01+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1499,7 +1499,7 @@ msgid ""
 "coding."
 msgstr ""
 
-#: content/for/scientists.md:62
+#: content/for/scientists.md:62 content/for/students.md:67
 msgid "![LabPlot tools](/for/resources/labplot.png)"
 msgstr ""
 
@@ -1715,31 +1715,31 @@ msgid ""
 "![Screenshot of KStars showing the Milky Way](/for/resources/kstars.png)"
 msgstr ""
 
-#: content/for/scientists.md:165 content/for/students.md:97
+#: content/for/scientists.md:165 content/for/students.md:110
 msgid "Kile"
 msgstr ""
 
-#: content/for/scientists.md:167 content/for/students.md:99
+#: content/for/scientists.md:167 content/for/students.md:112
 msgid ""
 "Kile is a user-friendly TeX/LaTeX editor that compiles, converts and shows "
 "your document with one click. It's optimized for writing (La)Tex documents "
 "and auto-completes (La)TeX commands."
 msgstr ""
 
-#: content/for/scientists.md:169 content/for/students.md:101
+#: content/for/scientists.md:169 content/for/students.md:114
 msgid ""
 "Navigation is also easy, as Kile constructs a list of all the chapters in "
 "your document and then lets you use the list to jump to the corresponding "
 "section."
 msgstr ""
 
-#: content/for/scientists.md:171 content/for/students.md:103
+#: content/for/scientists.md:171 content/for/students.md:116
 msgid ""
 "You can also click in the viewer and jump to the corresponding LaTeX line in "
 "the editor, or jump from the editor to the corresponding page in the viewer."
 msgstr ""
 
-#: content/for/scientists.md:175 content/for/students.md:107
+#: content/for/scientists.md:175 content/for/students.md:120
 msgid "![Screenshot of Kile](/for/resources/kile.png)"
 msgstr ""
 
@@ -1886,10 +1886,22 @@ msgid "![](https://cdn.kde.org/screenshots/okular/okular-annotation.png)"
 msgstr ""
 
 #: content/for/students.md:61
+msgid "LabPlot - math plotting and science data analysis"
+msgstr ""
+
+#: content/for/students.md:65
+msgid ""
+"LabPlot is a free and open source program that allows you to create high-"
+"quality data visualizations and plot simple and complex functions with few "
+"clicks. It's a reliable and easy to use data analysis tool great for "
+"statistics, calculus and science."
+msgstr ""
+
+#: content/for/students.md:74
 msgid "Francis"
 msgstr ""
 
-#: content/for/students.md:63
+#: content/for/students.md:76
 msgid ""
 "Francis uses the [pomodoro technique](https://en.wikipedia.org/wiki/"
 "Pomodoro_Technique) to help you better manage your time and be more "
@@ -1897,43 +1909,43 @@ msgid ""
 "breaks."
 msgstr ""
 
-#: content/for/students.md:67
+#: content/for/students.md:80
 msgid "![](https://cdn.kde.org/screenshots/francis/main.png)"
 msgstr ""
 
-#: content/for/students.md:73
+#: content/for/students.md:86
 msgid "Marknote"
 msgstr ""
 
-#: content/for/students.md:75
+#: content/for/students.md:88
 msgid ""
 "Marknote is a simple and easy-to-use note-taking application that uses "
 "markdown files to capture your ideas."
 msgstr ""
 
-#: content/for/students.md:79
+#: content/for/students.md:92
 msgid "![](https://i.imgur.com/tJba9pK.png.png)"
 msgstr ""
 
-#: content/for/students.md:85
+#: content/for/students.md:98
 msgid "KWordQuiz"
 msgstr ""
 
-#: content/for/students.md:87
+#: content/for/students.md:100
 msgid ""
 "KWordQuiz is a word memorization app providing multiple learning modes: "
 "flashcards, \"questions and answers\", and multiple-choice questions."
 msgstr ""
 
-#: content/for/students.md:91
+#: content/for/students.md:104
 msgid "![](https://cdn.kde.org/screenshots/kwordquiz/home.png)"
 msgstr ""
 
-#: content/for/students.md:113
+#: content/for/students.md:126
 msgid "Mentorship Program"
 msgstr ""
 
-#: content/for/students.md:115
+#: content/for/students.md:128
 msgid ""
 "KDE's mentorship programs give you the chance to acquire first-hand "
 "experience contributing to a free software project. In the process, you'll "
@@ -1942,7 +1954,7 @@ msgid ""
 "to jump-start your career in the tech industry!"
 msgstr ""
 
-#: content/for/students.md:117
+#: content/for/students.md:130
 msgid ""
 "Since 2013, the KDE Student Program has been running [Season of KDE](https://"
 "season.kde.org), a program similar to, but not quite the same as Google "
@@ -1951,7 +1963,7 @@ msgid ""
 "to the KDE ecosystem."
 msgstr ""
 
-#: content/for/students.md:123
+#: content/for/students.md:136
 msgid ""
 "Organized by Google, [Google Summer of Code](https://summerofcode.withgoogle."
 "com/) is a global, online program focused on bringing new contributors into "
@@ -1959,7 +1971,7 @@ msgid ""
 "Code for every year of its existence."
 msgstr ""
 
-#: content/for/students.md:127
+#: content/for/students.md:140
 msgid ""
 "In the past few years, SoK and GSoC participants have not only contributed "
 "new application features, but have also developed the KDE Continuous "
@@ -1968,30 +1980,30 @@ msgid ""
 "and done much, much more."
 msgstr ""
 
-#: content/for/students.md:134
+#: content/for/students.md:147
 msgid "![](konqis.png)"
 msgstr ""
 
-#: content/for/students.md:136
+#: content/for/students.md:149
 msgid "Some other open-source mentorship programs you might want to check out:"
 msgstr ""
 
-#: content/for/students.md:138
+#: content/for/students.md:151
 msgid "[Outreachy Internship](https://www.outreachy.org/)"
 msgstr ""
 
-#: content/for/students.md:139
+#: content/for/students.md:152
 msgid ""
 "[Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)"
 msgstr ""
 
-#: content/for/students.md:140
+#: content/for/students.md:153
 msgid ""
 "[Youth Hacking 4 Freedom](https://fsfe.org/activities/yh4f/index.en.html) "
 "from the FSFE"
 msgstr ""
 
-#: content/for/students.md:141
+#: content/for/students.md:154
 msgid "[Rails Girls](https://railsgirlssummerofcode.org/)"
 msgstr ""
 
