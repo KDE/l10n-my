@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-05-19 00:47+0000\n"
+"POT-Creation-Date: 2024-03-19 00:39+0000\n"
 "PO-Revision-Date: 2021-09-21 12:18+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -98,7 +98,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.zanshin.metainfo.xml:27
+#: org.kde.zanshin.metainfo.xml:28
 msgid "Zanshin main window"
 msgstr "ဇန်ရှင် ပင်မဝင်းဒိုး"
 
