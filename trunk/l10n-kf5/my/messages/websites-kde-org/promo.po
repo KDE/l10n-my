@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-19 01:43+0000\n"
+"POT-Creation-Date: 2024-03-20 01:42+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2335,7 +2335,7 @@ msgid "Operating system pre-installed:"
 msgstr ""
 
 #: content/hardware.md:0
-msgid "SteamOS 3.0 (Arch Linux based)"
+msgid "SteamOS 3 (Arch Linux based)"
 msgstr ""
 
 #: content/hardware.md:0
@@ -2367,7 +2367,7 @@ msgid "Display:"
 msgstr "ဒစ်(စ)ပလေး -"
 
 #: content/hardware.md:0
-msgid "1200 x 800 7” IPS LCD"
+msgid "1200 x 800 7” IPS LCD or 1200 x 800 7.4” HDR OLED"
 msgstr ""
 
 #: content/hardware.md:0
@@ -2377,7 +2377,7 @@ msgstr "မှတ်ဉာဏ်နေရာ -"
 #: content/hardware.md:0
 #, fuzzy
 #| msgid "Up to 2TB storage SSD"
-msgid "Up to 512 GB SSD"
+msgid "Up to 1 TB SSD"
 msgstr "၂ တယ်ရာဘိုက် အက်စ်အက်စ်ဒီ ထိ"
 
 #: content/hardware.md:0
