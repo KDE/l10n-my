@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-16 01:41+0000\n"
+"POT-Creation-Date: 2024-03-22 01:38+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -431,6 +431,10 @@ msgstr ""
 msgid ""
 "A massive release, containing improvements to dozens of components, widgets, "
 "and the desktop behavior in general."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ". "
 msgstr ""
 
 #: i18n/en.yaml:0
