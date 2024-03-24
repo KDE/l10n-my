@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-10 01:59+0000\n"
+"POT-Creation-Date: 2024-03-24 01:40+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -707,11 +707,23 @@ msgid ""
 "Install [Kate's Snap package from Snapcraft](https://snapcraft.io/kate)."
 msgstr "[Kate's Snap package in Snapcraft](https://snapcraft.io/kate)"
 
-#: content/get-it.md:29
+#: content/get-it.md:25
+#, fuzzy
+#| msgid ""
+#| "[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/"
+#| "Windows%2064-bit/job/Kate_Nightly_win64/) **"
+msgid ""
+"Download [the nightly 64-bit AppImage for Kate](https://cdn.kde.org/ci-"
+"builds/utilities/kate/master/linux/). **"
+msgstr ""
+"[ကိတ်ညစဥ် (၆၄ဘစ်) တပ်ဆင်ဖိုင်လ်](https://binary-factory.kde.org/view/Windows%2064-bit/"
+"job/Kate_Nightly_win64/) **"
+
+#: content/get-it.md:31
 msgid "Windows"
 msgstr "ဝင်းဒိုးများ"
 
-#: content/get-it.md:31
+#: content/get-it.md:33
 #, fuzzy
 #| msgid ""
 #| "[Kate in the Microsoft Store](https://www.microsoft.com/store/"
@@ -721,7 +733,7 @@ msgid ""
 "apps/9NWMW7BB59HW)."
 msgstr "[မိုက်ခရိုဆော့ဖ်စတိုးရှိ ကိတ်](https://www.microsoft.com/store/apps/9NWMW7BB59HW)"
 
-#: content/get-it.md:35
+#: content/get-it.md:37
 #, fuzzy
 #| msgid ""
 #| "[Kate nightly (64bit) installer](https://binary-factory.kde.org/view/"
@@ -733,7 +745,7 @@ msgstr ""
 "[ကိတ်ညစဥ် (၆၄ဘစ်) တပ်ဆင်ဖိုင်လ်](https://binary-factory.kde.org/view/Windows%2064-bit/"
 "job/Kate_Nightly_win64/) **"
 
-#: content/get-it.md:36
+#: content/get-it.md:38
 #, fuzzy
 #| msgid "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 msgid ""
@@ -741,11 +753,11 @@ msgid ""
 "\\*"
 msgstr "[Kate via Chocolatey](https://chocolatey.org/packages/kate)"
 
-#: content/get-it.md:42
+#: content/get-it.md:44
 msgid "macOS"
 msgstr "macOS"
 
-#: content/get-it.md:44
+#: content/get-it.md:46
 #, fuzzy
 #| msgid ""
 #| "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
@@ -757,7 +769,7 @@ msgstr ""
 "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Nightly_macos/) **"
 
-#: content/get-it.md:45
+#: content/get-it.md:47
 #, fuzzy
 #| msgid ""
 #| "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
@@ -769,18 +781,18 @@ msgstr ""
 "[Kate nightly installer](https://binary-factory.kde.org/view/MacOS/job/"
 "Kate_Nightly_macos/) **"
 
-#: content/get-it.md:51
+#: content/get-it.md:53
 msgid "Source Code"
 msgstr ""
 
-#: content/get-it.md:53
+#: content/get-it.md:55
 msgid ""
 "The [source code for Kate](https://invent.kde.org/utilities/kate) is "
 "available on KDE’s GitLab instance. For detailed instructions on how to "
 "build Kate from source, check the [Build it](/build-it) page."
 msgstr ""
 
-#: content/get-it.md:60
+#: content/get-it.md:62
 msgid ""
 "**About the releases:** <br> [Kate](https://apps.kde.org/en/kate) and "
 "[KWrite](https://apps.kde.org/en/kwrite) are part of [KDE Applications]"
@@ -802,13 +814,13 @@ msgstr ""
 "kde-frameworks-5.0/) မှထုတ်ပေးသည်။ ထုတ်ဝေမှုအသစ်များကို [ဤနေရာ](https://kde.org/"
 "announcements/) တွင် ကြေညာသည်။"
 
-#: content/get-it.md:63
+#: content/get-it.md:65
 msgid ""
 "\\* The **release** packages contain the latest version of Kate and KDE "
 "Frameworks."
 msgstr "\\* ကေဒီအီးမူဘောင်များနှင့် ကိတ်၏နောက်ဆုံးပေါ်ဗာရှင်းတို့သည် **ထုတ်ဝေမှု** ပတ်ကေ့ချ်တွင် ပါဝင်သည်။"
 
-#: content/get-it.md:65
+#: content/get-it.md:67
 msgid ""
 "\\*\\* The **nightly** packages are automatically compiled daily from source "
 "code, therefore they may be unstable and contain bugs or incomplete "
@@ -818,7 +830,7 @@ msgstr ""
 "တည်ငြိမ်မှုမရှိဘဲ ဆော့ဖ်ဝဲလ်ပြစ်ချက်များ သို့မဟုတ် တစ်ဝက်တစ်ပျက် စွမ်းဆောင်ရည်များ ပါဝင်သည်။ ယင်းတို့ကို "
 "စမ်းသပ်ရန်အတွက်သာ သုံးရန် အကြုံပြုသည်။"
 
-#: content/get-it.md:67
+#: content/get-it.md:69
 msgid ""
 "\\*\\*\\* The Chocolatey packages are developed independently from KDE. It "
 "may or may not be up to date."
