@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2022-11-13 00:49+0000\n"
+"POT-Creation-Date: 2024-03-29 00:39+0000\n"
 "PO-Revision-Date: 2021-09-15 05:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -130,3 +130,23 @@ msgstr "ဂျာဗားစခရစ် သုံး၍ ညွှန်ကြ�
 #: org.kde.kate.appdata.xml:41
 msgid "Editing code with Kate"
 msgstr "ကိတ်ဖြင့် ကုတ်တည်းဖြတ်ခြင်း"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kate.appdata.xml:45
+msgid "Kate with some Git based project"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kate.appdata.xml:49
+msgid "Kate with split view"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kate.appdata.xml:53
+msgid "Kate in dark mode"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kate.appdata.xml:57
+msgid "Create a new Git branch with Kate"
+msgstr ""
