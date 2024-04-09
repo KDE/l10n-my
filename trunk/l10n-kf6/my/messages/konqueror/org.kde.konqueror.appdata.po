@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-11-05 12:32+0000\n"
+"POT-Creation-Date: 2024-04-09 00:38+0000\n"
 "PO-Revision-Date: 2021-09-19 13:58+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -13,60 +13,60 @@ msgstr ""
 "X-Generator: Poedit 2.2.1\n"
 
 #. (itstool) path: component/name
-#: org.kde.konqueror.appdata.xml:6
+#: org.kde.konqueror.appdata.xml:9
 msgid "Konqueror"
 msgstr "ကွန်ကွာရာ"
 
 #. (itstool) path: component/summary
-#: org.kde.konqueror.appdata.xml:7
+#: org.kde.konqueror.appdata.xml:10
 msgid "KDE File Manager &amp; Web Browser"
 msgstr ""
 
 #. (itstool) path: description/p
-#: org.kde.konqueror.appdata.xml:9
+#: org.kde.konqueror.appdata.xml:12
 msgid ""
 "Konqueror is KDE's Webbrowser and swiss-army-knife for any kind of file-"
 "management and file previewing."
 msgstr ""
 
 #. (itstool) path: description/p
-#: org.kde.konqueror.appdata.xml:10
+#: org.kde.konqueror.appdata.xml:13
 msgid "Features:"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.konqueror.appdata.xml:12
+#: org.kde.konqueror.appdata.xml:15
 msgid "Webbrowsing using KHTML or KDEWebKit as rendering engines"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.konqueror.appdata.xml:13
+#: org.kde.konqueror.appdata.xml:16
 msgid ""
 "File management using most of Dolphin's features (including version-control, "
 "service menus and the basic UI)"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.konqueror.appdata.xml:14
+#: org.kde.konqueror.appdata.xml:17
 msgid "File management on ftp and sftp servers"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.konqueror.appdata.xml:15
+#: org.kde.konqueror.appdata.xml:18
 msgid ""
 "Full featured FTP-client (you can split views to display local and remote "
 "folders and previews in the same window)"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.konqueror.appdata.xml:16
+#: org.kde.konqueror.appdata.xml:19
 msgid ""
 "Embedded applications to preview files (e.g. Okular and Calligra for "
 "documents, Gwenview for pictures, KTextEditor for text-files)"
 msgstr ""
 
 #. (itstool) path: ul/li
-#: org.kde.konqueror.appdata.xml:17
+#: org.kde.konqueror.appdata.xml:20
 msgid ""
 "Different kinds of plugins: Service-menus, KParts (embedded applications), "
 "KIO (accessing files using special protocols like http or ftp) and KPart-"
