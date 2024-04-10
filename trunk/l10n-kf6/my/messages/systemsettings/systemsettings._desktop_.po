@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-17 00:42+0000\n"
+"POT-Creation-Date: 2024-04-10 00:43+0000\n"
 "PO-Revision-Date: 2021-09-19 13:15+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -155,13 +155,16 @@ msgid "Disks & Cameras"
 msgstr ""
 
 #: categories/settings-network.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Network"
 msgctxt "Name"
-msgid "Internet"
-msgstr ""
+msgid "Networking"
+msgstr "ဆ.သ.ရ-ကွန်ရက်"
 
 #: categories/settings-network-networksettings.desktop:8
 msgctxt "Name"
-msgid "Wi-Fi & Networking"
+msgid "Wi-Fi & Internet"
 msgstr ""
 
 #: categories/settings-personalization.desktop:8
@@ -227,10 +230,6 @@ msgstr "ဝင်းဒိုးစီမံမှု"
 #~ msgctxt "Name"
 #~ msgid "Removable Storage"
 #~ msgstr "ဖြုတ်၊တပ်၍ရသော မှတ်ဉာဏ်သိမ်းကိရိယာ"
-
-#~ msgctxt "Name"
-#~ msgid "Network"
-#~ msgstr "ဆ.သ.ရ-ကွန်ရက်"
 
 #~ msgctxt "Name"
 #~ msgid "Settings"
