@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-20 01:42+0000\n"
+"POT-Creation-Date: 2024-04-11 01:44+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -132,14 +132,15 @@ msgid "Donate"
 msgstr "လှူဒါန်းမည်"
 
 #: content/community/donations/_index.md:0
-msgid "Other Way to Donate"
+msgid "Other Ways to Donate"
 msgstr ""
 
 #: content/community/donations/_index.md:0
 msgid ""
-"We also support donations via direct bank transfer in the EU, personal check "
-"in the US, donation matching via Benevity, and [GitHub Sponsors](https://"
-"github.com/sponsors/KDE/)."
+"We also accept donations with [custom monthly amounts](https://donorbox.org/"
+"kde-community), direct bank transfer in the EU, personal check in the US, "
+"matching via Benevity, and [GitHub Sponsors](https://github.com/sponsors/"
+"KDE/)."
 msgstr ""
 
 #: content/community/donations/_index.md:0
