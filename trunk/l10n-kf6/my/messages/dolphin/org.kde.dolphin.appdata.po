@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-02-24 00:39+0000\n"
+"POT-Creation-Date: 2024-04-12 00:39+0000\n"
 "PO-Revision-Date: 2021-09-16 00:20+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -19,8 +19,8 @@ msgstr "လင်းပိုင်"
 
 #. (itstool) path: component/summary
 #: org.kde.dolphin.appdata.xml:8
-msgid "File Manager"
-msgstr "ဖိုင်လ်မန်နေဂျာ"
+msgid "Manage your files"
+msgstr ""
 
 #. (itstool) path: description/p
 #: org.kde.dolphin.appdata.xml:10
@@ -82,3 +82,6 @@ msgstr "လင်းပိုင်တွင် မြှပ်သွင်း-�
 #: org.kde.dolphin.appdata.xml:31
 msgid "Dolphin lets you configure your file manager exactly how you want"
 msgstr "လင်းပိုင်သည် ဖိုင်လ်မန်နေဂျာကို သင်ကြိုက်သလို ပြင်ဆင်ခွင့်ပေးထားသည်"
+
+#~ msgid "File Manager"
+#~ msgstr "ဖိုင်လ်မန်နေဂျာ"
