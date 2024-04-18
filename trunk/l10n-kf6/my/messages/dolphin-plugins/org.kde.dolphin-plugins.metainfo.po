@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-11-09 01:39+0000\n"
+"POT-Creation-Date: 2024-04-18 00:39+0000\n"
 "PO-Revision-Date: 2021-09-17 16:50+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -20,7 +20,7 @@ msgstr "လင်းပိုင်ပလပ်ဂင်များ"
 #. (itstool) path: component/summary
 #: org.kde.dolphin-plugins.metainfo.xml:8
 msgid ""
-"Dolphin integration for revision control systems, Dropbox, and disk images."
+"Dolphin integration for revision control systems, Dropbox, and disk images"
 msgstr ""
 
 #. (itstool) path: description/p
