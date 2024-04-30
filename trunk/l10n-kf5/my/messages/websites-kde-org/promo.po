@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-04-11 01:44+0000\n"
+"POT-Creation-Date: 2024-04-30 01:45+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2186,8 +2186,8 @@ msgstr ""
 
 #: content/for/travelers.md:101
 msgid ""
-"It is rare that a train or bus depart or arrive on time. Itinerary keeps you "
-"updated when delays are announced."
+"It is rare that a train or bus departs or arrives on time. Itinerary keeps "
+"you updated when delays are announced."
 msgstr ""
 
 #: content/for/travelers.md:103
