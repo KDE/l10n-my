@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-04-30 01:45+0000\n"
+"POT-Creation-Date: 2024-05-06 01:46+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -221,6 +221,12 @@ msgid ""
 "members also have their logos added to the KDE website and many printed "
 "promotional materials."
 msgstr ""
+
+#: content/community/donations/_index.md:0
+#, fuzzy
+#| msgid "Donate"
+msgid "❤️ Donate"
+msgstr "လှူဒါန်းမည်"
 
 #: content/distributions.md:0
 msgid "Distributions with Plasma and KDE Applications"
