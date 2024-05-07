@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-06 01:46+0000\n"
+"POT-Creation-Date: 2024-05-07 01:45+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -104,11 +104,11 @@ msgstr "ပိုက်ဆံတွေ ဘယ်ရောက်သွားလ�
 
 #: content/community/donations/_index.md:0
 msgid ""
-"Your generous donation helps to pay salaries for employees and contractors "
-"who participate amongst the wider KDE Community to create, document, and "
-"promote KDE software. It also helps to pay for the cost of hosting "
-"conferences and development sprints, server infrastructure, and legal fees "
-"incurred defending free software."
+"Your generous donation helps to pay salaries for [employees and contractors]"
+"(https://ev.kde.org/corporate/staffcontractors/) who participate amongst the "
+"wider KDE Community to create, document, and promote KDE software. It also "
+"helps to pay for the cost of hosting conferences and development sprints, "
+"server infrastructure, and legal fees incurred defending free software."
 msgstr ""
 
 #: content/community/donations/_index.md:0
