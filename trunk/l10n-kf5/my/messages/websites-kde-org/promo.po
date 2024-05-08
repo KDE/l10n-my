@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-07 01:45+0000\n"
+"POT-Creation-Date: 2024-05-08 01:53+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -184,9 +184,10 @@ msgstr "ကေဒီအီး အီး.ဗွီ. အကြောင်း"
 #: content/community/donations/_index.md:0
 msgid ""
 "KDE e.V. is the non-profit organization behind the KDE community. It is "
-"based in Germany and thus donations are tax deductible in Germany. If you "
-"live in another EU country your donation might also be tax deductible. "
-"Please consult your tax advisor for details."
+"based in Germany and thus donations are tax deductible in Germany ([see "
+"details in German](https://ev.kde.org/donations-taxes-de/)). If you live in "
+"another EU country your donation might also be tax deductible. Please "
+"consult your tax advisor for details."
 msgstr ""
 
 #: content/community/donations/_index.md:0
@@ -220,6 +221,16 @@ msgid ""
 "development? In addition to making great software possible, supporting "
 "members also have their logos added to the KDE website and many printed "
 "promotional materials."
+msgstr ""
+
+#: content/community/donations/_index.md:0
+msgid "Receipts (Spendenquittungen)"
+msgstr ""
+
+#: content/community/donations/_index.md:0
+msgid ""
+"If you need a receipt (\"Spendenquittung\") for your donation, please "
+"contact the [KDE e.V. treasurer](kde-ev-treasurer@kde.org)."
 msgstr ""
 
 #: content/community/donations/_index.md:0
