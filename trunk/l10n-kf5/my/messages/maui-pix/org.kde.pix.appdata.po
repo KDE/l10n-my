@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2023-11-05 12:29+0000\n"
+"POT-Creation-Date: 2024-06-07 01:42+0000\n"
 "PO-Revision-Date: 2021-09-19 13:25+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -23,7 +23,7 @@ msgid "Image Gallery"
 msgstr "ပုံရိပ်ခင်းကျင်းပြတိုက်"
 
 #. (itstool) path: description/p
-#: org.kde.pix.appdata.xml:9
+#: org.kde.pix.appdata.xml:13
 msgid ""
 "Pix is an image gallery and image viewer. Pix can be used to open images "
 "with other applications like an image editor, add tags to the files, add "
@@ -31,6 +31,6 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.pix.appdata.xml:17
+#: org.kde.pix.appdata.xml:22
 msgid "The Pix music player"
 msgstr ""
