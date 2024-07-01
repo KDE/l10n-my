@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-24 01:40+0000\n"
+"POT-Creation-Date: 2024-07-01 01:46+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -418,7 +418,7 @@ msgid ""
 msgstr ""
 
 #: content/build-it.md:93
-msgid "Create .kateproject files"
+msgid ".kateproject files creation"
 msgstr ""
 
 #: content/build-it.md:96
@@ -427,25 +427,25 @@ msgstr ""
 
 #: content/build-it.md:100
 msgid ""
-"This ensures you get not only Ninja build files (nifty as this will e.g. "
-"automatically use multiple cores for compiles) but in addition .kateproject "
-"files inside the build directories for later use, too. With these files, the "
-"project plugin of Kate will know what to do, e.g. where the source directory "
-"for the compile is and which build commands it should use for the build "
-"plugin."
+"These lines in the configuration above ensure you get not only Ninja build "
+"files (nifty as this will e.g. automatically use multiple cores for "
+"compiles), but in addition .kateproject files inside the build directories "
+"for later use, too. With these files, the project plugin of Kate will know "
+"what to do, e.g. where the source directory for the compile is and which "
+"build commands it should use for the build plugin."
 msgstr ""
 
 #: content/build-it.md:103
-msgid "Ensure LSP integration works"
+msgid "LSP integration"
 msgstr ""
 
 #: content/build-it.md:111
 msgid ""
-"This ensures CMake will generate the **compile_commands.json** files that "
-"are required for clangd based LSP integration. Beside just generating them "
-"inside the build directory the linking option will symlink them back to your "
-"source directories. This allows zero-configuration usage of the LSP plugin "
-"inside Kate (and other editors)."
+"These lines ensure CMake will generate the **compile_commands.json** files "
+"that are required for clangd based LSP integration. Besides just generating "
+"them inside the build directory, the linking option will symlink them back "
+"to your source directories. This allows zero-configuration usage of the LSP "
+"plugin inside Kate (and other editors)."
 msgstr ""
 
 #: content/build-it.md:115
