@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-07-15 00:45+0000\n"
+"POT-Creation-Date: 2024-07-26 00:45+0000\n"
 "PO-Revision-Date: 2021-09-20 02:30+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -14,18 +14,26 @@ msgstr ""
 "X-Generator: Poedit 3.0\n"
 
 #: templates/akonadiresource/akonadiresource.kdevtemplate:2
-#: templates/akonadiserializer/akonadiserializer.kdevtemplate:2
 msgctxt "Name"
-msgid "C++"
-msgstr "စီ++"
+msgid "Akonadi Resource"
+msgstr ""
 
-#: templates/akonadiresource/akonadiresource.kdevtemplate:50
+#: templates/akonadiresource/akonadiresource.kdevtemplate:3
 msgctxt "Comment"
 msgid "Akonadi Resource Template. A template for an Akonadi PIM data resource"
 msgstr "အကွန်နဒီ ရင်းမြစ်တန်းပလိတ်။ အကွန်နဒီ ပီအိုင်အမ် ဒေတာ ရင်းမြစ်အတွက် တန်းပလိတ်တစ်ခု"
 
-#: templates/akonadiserializer/akonadiserializer.kdevtemplate:50
+#: templates/akonadiserializer/akonadiserializer.kdevtemplate:2
+msgctxt "Name"
+msgid "Akonadi Serializer"
+msgstr ""
+
+#: templates/akonadiserializer/akonadiserializer.kdevtemplate:3
 msgctxt "Comment"
 msgid ""
 "Akonadi Serializer Template. A template for an Akonadi data serializer plugin"
 msgstr "အကွန်နဒီ စီရီရယ်လိုက်ဇာ တန်းပလိတ်။ အကွန်နဒီဒေတာစီရီရယ်လိုက်ဇာပလပ်ဂင်အတွက် တန်းပလိတ်တစ်ခု"
+
+#~ msgctxt "Name"
+#~ msgid "C++"
+#~ msgstr "စီ++"
