@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-07-20 01:46+0000\n"
+"POT-Creation-Date: 2024-08-10 01:57+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -384,10 +384,8 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"A detailed listing of all Frameworks and other third party Qt libraries is "
-"at [inqlude.org](https://inqlude.org), the curated archive of Qt libraries. "
-"A complete list with API documentation is on [api.kde.org](https://api.kde."
-"org/frameworks)."
+"A detailed listing of all Frameworks with API documentation is on [api.kde."
+"org](https://api.kde.org/frameworks)."
 msgstr ""
 
 #: i18n/en.yaml:0
