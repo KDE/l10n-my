@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-08-29 01:48+0000\n"
+"POT-Creation-Date: 2024-09-05 01:46+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1321,7 +1321,7 @@ msgid "![](/content/hardware/tuxedo-laptop.png)"
 msgstr ""
 
 #: content/for/gamers.md:151
-msgid "![](https://kde.slimbook.es/assets/img/duo-ok.png)"
+msgid "![](https://kde.slimbook.es/assets/img/main_header.png)"
 msgstr ""
 
 #: content/for/gamers.md:153
