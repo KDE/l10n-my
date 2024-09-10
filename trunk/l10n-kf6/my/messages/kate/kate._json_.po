@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-03-30 00:46+0000\n"
-"PO-Revision-Date: 2021-09-15 04:53+0630\n"
+"PO-Revision-Date: 2024-09-09 16:38+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
@@ -11,12 +11,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.5\n"
 
 #: addons/backtracebrowser/katebacktracebrowserplugin.json
 msgctxt "Name"
 msgid "Backtrace Browser"
-msgstr ""
+msgstr "နောက်ကြောင်းလိုက်ဘရောက်ဇာ"
 
 #: addons/close-except-like/katecloseexceptplugin.json
 msgctxt "Name"
@@ -26,7 +26,7 @@ msgstr ""
 #: addons/cmake-tools/cmaketoolsplugin.json
 msgctxt "Name"
 msgid "CMake Tools"
-msgstr ""
+msgstr "CMakeကိရိယာများ"
 
 #: addons/colorpicker/katecolorpickerplugin.json
 msgctxt "Name"
@@ -36,12 +36,12 @@ msgstr "အရောင်ရွေးကိရိယာ"
 #: addons/compiler-explorer/ce_plugin.json
 msgctxt "Name"
 msgid "Compiler Explorer"
-msgstr ""
+msgstr "စက်ကုဒ်ပြောင်းကိရိယာ ကြည့်ရှု"
 
 #: addons/eslint/EslintPlugin.json
 msgctxt "Name"
 msgid "ESLint"
-msgstr ""
+msgstr "ESLint"
 
 #: addons/externaltools/externaltoolsplugin.json
 msgctxt "Name"
@@ -54,22 +54,19 @@ msgid "File System Browser"
 msgstr "ဖိုင်စနစ်ဘရောက်ဇာ"
 
 #: addons/filetree/katefiletreeplugin.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Document Tree View"
 msgctxt "Name"
 msgid "Documents Tree"
-msgstr "မှတ်တမ်းပုံနှိပ်မူပြသစ်ပင်ပုံစံမြင်ကွင်း"
+msgstr "မှတ်တမ်းပုံနှိပ်မူများအစဉ်"
 
 #: addons/format/FormatPlugin.json
 msgctxt "Name"
 msgid "Formatting"
-msgstr ""
+msgstr "စာစီပုံစံချသည်"
 
 #: addons/gdbplugin/kategdbplugin.json
 msgctxt "Name"
 msgid "Kate Debugger"
-msgstr ""
+msgstr "ကိတ်ပြစ်ချက်ရှာဖွေကိရိယာ"
 
 #: addons/git-blame/kategitblameplugin.json
 msgctxt "Name"
@@ -77,12 +74,9 @@ msgid "Git Blame"
 msgstr "ဂစ် ဘလိမ်း"
 
 #: addons/katebuild-plugin/katebuildplugin.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Build Plugin"
 msgctxt "Name"
 msgid "Build & Run"
-msgstr "တည်ဆောက်မှု ပလပ်ဂင်"
+msgstr "တည်ဆောက် & မောင်းနှင်"
 
 #: addons/kate-ctags/katectagsplugin.json
 msgctxt "Name"
@@ -97,20 +91,17 @@ msgstr "အက်စ်ကျူအယ် ပလပ်ဂင်"
 #: addons/keyboardmacros/keyboardmacrosplugin.json
 msgctxt "Name"
 msgid "Keyboard Macros"
-msgstr ""
+msgstr "ကီးဘုတ်အကူညွှန်ကြားစာများ"
 
 #: addons/konsole/katekonsoleplugin.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Terminal Tool View"
 msgctxt "Name"
 msgid "Terminal"
-msgstr "တာမီနယ်ကိရိယာမြင်ကွင်း"
+msgstr "တာမီနယ်"
 
 #: addons/latexunicodecompletion/latexcompletionplugin.json
 msgctxt "Name"
 msgid "LaTeX completion"
-msgstr ""
+msgstr "LaTeX ကူရေးပေးခြင်း"
 
 #: addons/lspclient/lspclientplugin.json
 msgctxt "Name"
@@ -120,7 +111,7 @@ msgstr "အယ်အက်စ်ပီ ပရိုဂရမ်"
 #: addons/openlink/OpenLinkPlugin.json
 msgctxt "Name"
 msgid "Open Link"
-msgstr ""
+msgstr "လင့်ခ်ဖွင့်"
 
 #: addons/preview/ktexteditorpreview.json
 msgctxt "Name"
@@ -133,17 +124,14 @@ msgid "Project Plugin"
 msgstr "ပရောဂျက် ပလပ်ဂင်"
 
 #: addons/rainbow-parens/rainbowparens_plugin.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Color Picker"
 msgctxt "Name"
 msgid "Colored Brackets"
-msgstr "အရောင်ရွေးကိရိယာ"
+msgstr "အရောင်ကွင်းများ"
 
 #: addons/rbql/RBQLPlugin.json
 msgctxt "Name"
 msgid "Rainbow CSV"
-msgstr ""
+msgstr "Rainbow CSV"
 
 #: addons/replicode/katereplicodeplugin.json
 msgctxt "Name"
@@ -156,12 +144,9 @@ msgid "Search & Replace"
 msgstr "ရှာပြီး အစားထိုးမည်"
 
 #: addons/snippets/katesnippetsplugin.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Snippets Tool View"
 msgctxt "Name"
 msgid "Snippets"
-msgstr "စာအတိုအထွာများ ကိရိယာမြင်ကွင်း"
+msgstr "စာအတိုအထွာများ"
 
 #: addons/symbolviewer/katesymbolviewerplugin.json
 msgctxt "Name"
@@ -176,32 +161,32 @@ msgstr "မှတ်တမ်းပုံနှိပ်မူ ပြောင�
 #: addons/textfilter/textfilterplugin.json
 msgctxt "Name"
 msgid "Text Filter"
-msgstr ""
+msgstr "စာသားရွေးထုတ်"
 
 #: addons/xmlcheck/katexmlcheck.json
 msgctxt "Name"
 msgid "XML Validation"
-msgstr ""
+msgstr "XML မှန်ကန်ကြောင်းစစ်ဆေးခြင်း"
 
 #: addons/xmltools/katexmltools.json
 msgctxt "Name"
 msgid "XML Completion"
-msgstr ""
+msgstr "XMLကူရေးပေးခြင်း"
 
 #: addons/backtracebrowser/katebacktracebrowserplugin.json
 msgctxt "Description"
 msgid "C/C++ Backtrace navigation tool view"
-msgstr ""
+msgstr "C/C++ နောက်ကြောင်းလိုက်ကိရိယာမြင်ကွင်း"
 
 #: addons/close-except-like/katecloseexceptplugin.json
 msgctxt "Description"
 msgid "Close group of documents based on a common path or file extension"
-msgstr ""
+msgstr "တူညီသောဖိုင်နေရာ သို့ ဖိုင်အဆုံးသတ်အမည်ပေါ်မူတည်၍ မှတ်တမ်းစာအုပ်များအုပ်စုကို ပိတ်မည်"
 
 #: addons/cmake-tools/cmaketoolsplugin.json
 msgctxt "Description"
 msgid "CMake plugin for kate"
-msgstr ""
+msgstr "ကိတ်အတွက် CMake ပလပ်ဂင်"
 
 #: addons/colorpicker/katecolorpickerplugin.json
 msgctxt "Description"
@@ -213,7 +198,7 @@ msgstr ""
 #: addons/compiler-explorer/ce_plugin.json
 msgctxt "Description"
 msgid "View generated asm for C/C++ code"
-msgstr ""
+msgstr "C/C++ ကုဒ်အတွက်ထုတ်ထားသော asmများကိုကြည့်မည်"
 
 #: addons/eslint/EslintPlugin.json
 msgctxt "Description"
@@ -233,17 +218,17 @@ msgstr ""
 #: addons/filetree/katefiletreeplugin.json
 msgctxt "Description"
 msgid "Displays the open documents in a file tree"
-msgstr ""
+msgstr "ဖွင့်ထားသောမှတ်တမ်းစာအုပ်များကို သစ်ပင်ပုံစံဖြင့် စီပြမည်"
 
 #: addons/format/FormatPlugin.json
 msgctxt "Description"
 msgid "Plugin for formatting code"
-msgstr ""
+msgstr "ကုဒ်ကို စာစီပုံစံချရန်အတွက် ကိရိယာ"
 
 #: addons/gdbplugin/kategdbplugin.json
 msgctxt "Description"
 msgid "Provides debugger integration"
-msgstr ""
+msgstr "ပြစ်ချက်ရှာဖွေစနစ် လုပ်ဆောင်ပေးသည်"
 
 #: addons/git-blame/kategitblameplugin.json
 msgctxt "Description"
@@ -253,12 +238,12 @@ msgstr ""
 #: addons/katebuild-plugin/katebuildplugin.json
 msgctxt "Description"
 msgid "Build, parse output and run applications"
-msgstr ""
+msgstr "တည်ဆောက်၊ ရလဒ်များကို ဖတ်၍ အပ္ပလီကေးရှင်းများကို မောင်းနှင်မည်"
 
 #: addons/kate-ctags/katectagsplugin.json
 msgctxt "Description"
 msgid "Look up definitions/declarations with CTags"
-msgstr ""
+msgstr "CTagsသုံးထားသော ကုဒ်ကျေညာချက်၊အဓိပ္ပာယ်ရေးသားချက်များကို ရှာဖွေမည်"
 
 #: addons/katesql/katesql.json
 msgctxt "Description"
@@ -301,12 +286,9 @@ msgid "Integration with Git and other source control systems"
 msgstr ""
 
 #: addons/rainbow-parens/rainbowparens_plugin.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Color Picker"
 msgctxt "Description"
 msgid "Colored brackets for readability"
-msgstr "အရောင်ရွေးကိရိယာ"
+msgstr "ဖတ်၍လွယ်ကူစေရန် ကွင်းများကိုအရောင်ခြယ်မည်"
 
 #: addons/rbql/RBQLPlugin.json
 msgctxt "Description"
@@ -341,12 +323,12 @@ msgstr ""
 #: addons/textfilter/textfilterplugin.json
 msgctxt "Description"
 msgid "Process text using terminal commands"
-msgstr ""
+msgstr "တာမီနယ်ညွှန်ကြားကုတ်များအသုံးပြု၍ စာသားဖတ်မည်"
 
 #: addons/xmlcheck/katexmlcheck.json
 msgctxt "Description"
 msgid "Validates XML files using xmllint"
-msgstr ""
+msgstr "XMLဖိုင်များကိုxmllintသုံး၍မှန်ကန်ကြောင်းစစ်ဆေးမည်"
 
 #: addons/xmltools/katexmltools.json
 msgctxt "Description"

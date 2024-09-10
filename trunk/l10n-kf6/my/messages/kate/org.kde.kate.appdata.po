@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2024-06-19 00:41+0000\n"
-"PO-Revision-Date: 2021-09-15 05:16+0630\n"
+"PO-Revision-Date: 2024-09-10 15:48+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.5\n"
 
 #. (itstool) path: component/name
 #: org.kde.kate.appdata.xml:7
@@ -25,11 +25,10 @@ msgstr "အဆင့်မြင့်စာသားတည်းဖြတ်က
 #. (itstool) path: description/p
 #: org.kde.kate.appdata.xml:10
 msgid ""
-"Kate is a multi-document, multi-view text editor by KDE. It features stuff "
-"like codefolding, syntaxhighlighting, dynamic word wrap, an embedded "
-"console, an extensive plugin interface and some preliminary scripting "
-"support."
-msgstr ""
+"Kate is a multi-document, multi-view text editor by KDE. It features stuff like "
+"codefolding, syntaxhighlighting, dynamic word wrap, an embedded console, an extensive "
+"plugin interface and some preliminary scripting support."
+msgstr "ကိတ်သည် မှတ်တမ်းစာအုပ်များ၊ မြင်ကွင်းများ တစ်ပြိုင်တည်း တည်းဖြတ်နိုင်သော စာသားတည်းဖြတ်ကိရိယာတစ်ခုဖြစ်သည်။"
 
 #. (itstool) path: description/p
 #: org.kde.kate.appdata.xml:14
@@ -119,7 +118,7 @@ msgstr "စိတ်ကြိုက်ပြင်ဆင်နိုင်သေ
 #. (itstool) path: ul/li
 #: org.kde.kate.appdata.xml:32
 msgid "Integrated command line"
-msgstr ""
+msgstr "ပေါင်းစပ်ထားသောအမိန့်ပေးတာမီနယ်"
 
 #. (itstool) path: ul/li
 #: org.kde.kate.appdata.xml:33
@@ -134,19 +133,19 @@ msgstr "ကိတ်ဖြင့် ကုတ်တည်းဖြတ်ခြ�
 #. (itstool) path: screenshot/caption
 #: org.kde.kate.appdata.xml:47
 msgid "Kate with some Git based project"
-msgstr ""
+msgstr "Gitအသုံးပြုပရောဂျက်ဖွင့်ပြထားသောကိတ်"
 
 #. (itstool) path: screenshot/caption
 #: org.kde.kate.appdata.xml:51
 msgid "Kate with split view"
-msgstr ""
+msgstr "မြင်ကွင်းအခွဲသုံးပြထားသောကိတ်"
 
 #. (itstool) path: screenshot/caption
 #: org.kde.kate.appdata.xml:55
 msgid "Kate in dark mode"
-msgstr ""
+msgstr "အမှောင်ပုံစံသုံးထားသောကိတ်"
 
 #. (itstool) path: screenshot/caption
 #: org.kde.kate.appdata.xml:59
 msgid "Create a new Git branch with Kate"
-msgstr ""
+msgstr "Gitကုဒ်အခွဲကို ကိတ်ဖြင့်ဖန်တီးမည်"

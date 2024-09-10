@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-07 00:44+0000\n"
-"PO-Revision-Date: 2021-09-15 05:27+0630\n"
+"PO-Revision-Date: 2024-09-09 16:19+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
 "Language: my\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.5\n"
 
 #: addons/snippets/ktexteditor_codesnippets_core.knsrc:2
 msgctxt "Name"
@@ -36,7 +36,7 @@ msgstr "ကိတ် အဆင့်မြင့်စာသားတည်း�
 #: apps/kate/data/org.kde.kate.desktop:196
 msgctxt "Keywords"
 msgid "text;txt;editor;programming;programmer;development;developer;code;"
-msgstr ""
+msgstr "စာသား;စာ;ပရိုဂရရမ်မင်း;ပရိုဂရမ်မာ;ဆော့ဖ်ဝဲလ်ရေး;ဒယ်ဗလိုဗာ;ကုဒ်;"
 
 #: apps/kwrite/data/org.kde.kwrite.desktop:2
 msgctxt "GenericName"
@@ -56,7 +56,7 @@ msgstr "ကိတ် စာသားတည်းဖြတ်ကိရိယာ"
 #: apps/kwrite/data/org.kde.kwrite.desktop:191
 msgctxt "Keywords"
 msgid "text;txt;editor;note;notepad;"
-msgstr ""
+msgstr "စာသား;စာ;အယ်ဒီတာ;နုတ်;မှတ်စု;"
 
 #~ msgctxt "Name"
 #~ msgid "Kate Sessions"
