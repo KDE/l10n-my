@@ -120,8 +120,10 @@ msgstr[0] ""
 
 #: MatchModel.cpp:592
 #, kde-format
-msgid "<b><i>One match (%3) found in all open projects (common parent: %2)</i></b>"
-msgid_plural "<b><i>%1 matches (%3) found in all open projects (common parent: %2)</i></b>"
+msgid ""
+"<b><i>One match (%3) found in all open projects (common parent: %2)</i></b>"
+msgid_plural ""
+"<b><i>%1 matches (%3) found in all open projects (common parent: %2)</i></b>"
 msgstr[0] ""
 
 #: MatchModel.cpp:706 MatchModel.cpp:708
@@ -187,8 +189,9 @@ msgstr "ရှာမည်"
 #: search.ui:50
 #, kde-format
 msgctxt ""
-"Checked here refers to the items  on the list below that can have a checkmark or not. It's not about any "
-"verification or similar, plainly about user interface"
+"Checked here refers to the items  on the list below that can have a "
+"checkmark or not. It's not about any verification or similar, plainly about "
+"user interface"
 msgid "Replace Checked"
 msgstr "အစားထိုးမှုစစ်ဆေးမှုအမှတ်အသား"
 
@@ -216,8 +219,8 @@ msgstr "စာလုံးအကြီးအသေးကိုက်ညီမှ
 #: search.ui:134
 #, kde-format
 msgid ""
-"<html><head/><body><p>Enable regular expressions. Find help for regex syntax by using the buttons in the "
-"search and replace text fields.</p></body></html>"
+"<html><head/><body><p>Enable regular expressions. Find help for regex syntax "
+"by using the buttons in the search and replace text fields.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, expandResults)
@@ -534,7 +537,9 @@ msgstr ""
 
 #: SearchPlugin.cpp:354
 #, kde-format
-msgid "This will cut all highlighted search match lines from the current document to the clipboard"
+msgid ""
+"This will cut all highlighted search match lines from the current document "
+"to the clipboard"
 msgstr ""
 
 #: SearchPlugin.cpp:359
@@ -544,17 +549,22 @@ msgstr ""
 
 #: SearchPlugin.cpp:361
 #, kde-format
-msgid "This will copy all highlighted search match lines in the current document to the clipboard"
+msgid ""
+"This will copy all highlighted search match lines in the current document to "
+"the clipboard"
 msgstr ""
 
 #: SearchPlugin.cpp:394
 #, kde-format
-msgid "Comma separated list of file types to search in. Example: \"*.cpp,*.h\"\n"
+msgid ""
+"Comma separated list of file types to search in. Example: \"*.cpp,*.h\"\n"
 msgstr ""
 
 #: SearchPlugin.cpp:395
 #, kde-format
-msgid "Comma separated list of files and directories to exclude from the search. Example: \"build*\""
+msgid ""
+"Comma separated list of files and directories to exclude from the search. "
+"Example: \"build*\""
 msgstr ""
 
 #: SearchPlugin.cpp:397

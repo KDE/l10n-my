@@ -31,8 +31,8 @@ msgstr ""
 #: plugin_katetextfilter.cpp:152
 #, kde-format
 msgid ""
-"You are not allowed to execute arbitrary external applications. If you want to "
-"be able to do this, contact your system administrator."
+"You are not allowed to execute arbitrary external applications. If you want "
+"to be able to do this, contact your system administrator."
 msgstr ""
 "ပြင်ပအပ္ပလီကေးရှင်းများကို သင့်အနေဖြင့်မောင်းနှင်ခွင့်မရှိပါ။ ခွင့်တောင်းရန် စနစ်အုပ်ချုပ်ရေးမှူးကို ဆက်သွယ်ပါ။"
 
@@ -54,11 +54,11 @@ msgstr "အသုံးပြုနည်း - textfilter အမိန့်"
 #: plugin_katetextfilter.cpp:249
 #, kde-format
 msgid ""
-"<qt><p>Usage: <code>textfilter COMMAND</code></p><p>Replace the selection with "
-"the output of the specified shell command.</p></qt>"
+"<qt><p>Usage: <code>textfilter COMMAND</code></p><p>Replace the selection "
+"with the output of the specified shell command.</p></qt>"
 msgstr ""
-"<qt><p>အသုံးပြုပုံ <code>textfilter COMMAND</code></p><p>Replace the selection with "
-"the output of the specified shell command.</p></qt>"
+"<qt><p>အသုံးပြုပုံ <code>textfilter COMMAND</code></p><p>Replace the selection "
+"with the output of the specified shell command.</p></qt>"
 
 #: plugin_katetextfilter.cpp:265
 #, kde-format
@@ -99,8 +99,8 @@ msgstr ""
 #: textfilterwidget.ui:57
 #, kde-format
 msgid ""
-"If checked, an output from STDOUT and STDERR will be merged and no errors will "
-"be reported.\n"
+"If checked, an output from STDOUT and STDERR will be merged and no errors "
+"will be reported.\n"
 "Otherwise, STDERR will be displayed as a passive message."
 msgstr ""
 

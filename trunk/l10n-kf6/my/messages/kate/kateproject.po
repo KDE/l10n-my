@@ -122,7 +122,8 @@ msgstr "သက်ဝင် ကုဒ်အခွဲ - %1"
 msgid "Commit Changes"
 msgstr "ပြောင်းလဲမှုများပေးပို့မည်"
 
-#: gitcommitdialog.cpp:73 gitcommitdialog.cpp:119 gitwidget.cpp:261 gitwidget.cpp:1056
+#: gitcommitdialog.cpp:73 gitcommitdialog.cpp:119 gitwidget.cpp:261
+#: gitwidget.cpp:1056
 #, kde-format
 msgid "Commit"
 msgstr "ပေးပို့မည်"
@@ -196,13 +197,11 @@ msgstr "မွမ်းမံခဲ့သည်"
 
 #: gitwidget.cpp:269
 #, kde-format
-#| msgid "Git push"
 msgid "Git Push"
 msgstr "Git Push"
 
 #: gitwidget.cpp:282
 #, kde-format
-#| msgid "Git pull"
 msgid "Git Pull"
 msgstr "Git Pull"
 
@@ -406,7 +405,8 @@ msgstr "အကုန် ပစ်ပယ်မည်"
 msgid "Open .gitignore"
 msgstr ".gitignore ဖွင့်မည်"
 
-#: gitwidget.cpp:1195 gitwidget.cpp:1242 gitwidget.cpp:1290 kateprojectconfigpage.cpp:90 kateprojectconfigpage.cpp:102
+#: gitwidget.cpp:1195 gitwidget.cpp:1242 gitwidget.cpp:1290
+#: kateprojectconfigpage.cpp:90 kateprojectconfigpage.cpp:102
 #, kde-format
 msgid "Show Diff"
 msgstr "Diff ပြ"
@@ -524,7 +524,9 @@ msgstr "ရီပိုစစ်တိုရီများ အလိုအလ�
 
 #: kateprojectconfigpage.cpp:26
 #, kde-format
-msgid "Project plugin is able to autoload repository working copies and build trees when there is no .kateproject file defined yet."
+msgid ""
+"Project plugin is able to autoload repository working copies and build trees "
+"when there is no .kateproject file defined yet."
 msgstr ""
 
 #: kateprojectconfigpage.cpp:29
@@ -591,7 +593,9 @@ msgstr "အညွှန်းဖိုင်လ်များအတွက်ဒ
 
 #: kateprojectconfigpage.cpp:65
 #, kde-format
-msgid "The system temporary directory is used if not specified, which may overflow for very large repositories"
+msgid ""
+"The system temporary directory is used if not specified, which may overflow "
+"for very large repositories"
 msgstr ""
 
 #: kateprojectconfigpage.cpp:72
@@ -602,7 +606,8 @@ msgstr ""
 
 #: kateprojectconfigpage.cpp:73
 #, kde-format
-msgid "Project plugin is able to perform some operations across multiple projects"
+msgid ""
+"Project plugin is able to perform some operations across multiple projects"
 msgstr ""
 
 #: kateprojectconfigpage.cpp:74
@@ -701,16 +706,20 @@ msgstr "ကုဒ်စိစစ်မှု - %1"
 #: kateprojectinfoviewcodeanalysis.cpp:100
 #, kde-format
 msgid ""
-"'%1' is not installed on your system, %2.<br/><br/>%3. The tool will be run on all project files which match this list of file extensions:<br/><b>"
-"%4</b>"
+"'%1' is not installed on your system, %2.<br/><br/>%3. The tool will be run "
+"on all project files which match this list of file extensions:<br/><b>%4</b>"
 msgstr ""
 
 #: kateprojectinfoviewcodeanalysis.cpp:110
 #, kde-format
-msgid "Using %1 installed at: %2.<br/><br/>%3. The tool will be run on all project files which match this list of file extensions:<br/><b>%4</b>"
+msgid ""
+"Using %1 installed at: %2.<br/><br/>%3. The tool will be run on all project "
+"files which match this list of file extensions:<br/><b>%4</b>"
 msgstr ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:152 kateprojectinfoviewcodeanalysis.cpp:212 kateprojectinfoviewcodeanalysis.cpp:216
+#: kateprojectinfoviewcodeanalysis.cpp:152
+#: kateprojectinfoviewcodeanalysis.cpp:212
+#: kateprojectinfoviewcodeanalysis.cpp:216
 #, kde-format
 msgid "CodeAnalysis"
 msgstr "ကုဒ်စိစစ်မှု"
@@ -718,8 +727,9 @@ msgstr "ကုဒ်စိစစ်မှု"
 #: kateprojectinfoviewcodeanalysis.cpp:207
 #, kde-format
 msgctxt ""
-"Message to the user that analysis finished. %1 is the name of the program that did the analysis, %2 is a number. e.g., [clang-tidy]Analysis on 5 "
-"files finished"
+"Message to the user that analysis finished. %1 is the name of the program "
+"that did the analysis, %2 is a number. e.g., [clang-tidy]Analysis on 5 files "
+"finished"
 msgid "[%1]Analysis on %2 file finished."
 msgid_plural "[%1]Analysis on %2 files finished."
 msgstr[0] "[%1] ဖိုင်%2ခု ကို စိစစ်မှု ပြီးပါပြီ။"
@@ -791,10 +801,14 @@ msgstr ""
 
 #: kateprojectplugin.cpp:611
 #, kde-format
-msgid "Full path to current project excluding the file name, with native path separator (backslash on Windows)."
+msgid ""
+"Full path to current project excluding the file name, with native path "
+"separator (backslash on Windows)."
 msgstr ""
 
-#: kateprojectplugin.cpp:728 kateprojectpluginview.cpp:72 kateprojectpluginview.cpp:243 kateprojectviewtree.cpp:159 kateprojectviewtree.cpp:189
+#: kateprojectplugin.cpp:728 kateprojectpluginview.cpp:72
+#: kateprojectpluginview.cpp:243 kateprojectviewtree.cpp:159
+#: kateprojectviewtree.cpp:189
 #, kde-format
 msgid "Project"
 msgstr "ပရောဂျက်"

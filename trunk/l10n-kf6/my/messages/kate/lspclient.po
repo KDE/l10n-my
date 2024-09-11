@@ -23,8 +23,8 @@ msgstr ""
 msgid "Filter..."
 msgstr "စစ်ထုတ်မည်…"
 
-#: lspclientconfigpage.cpp:99 lspclientconfigpage.cpp:104 lspclientpluginview.cpp:470
-#: lspclientpluginview.cpp:611
+#: lspclientconfigpage.cpp:99 lspclientconfigpage.cpp:104
+#: lspclientpluginview.cpp:470 lspclientpluginview.cpp:611
 #, kde-format
 msgid "LSP Client"
 msgstr "LSPပရိုဂရမ်ငယ်"
@@ -67,8 +67,9 @@ msgstr "LSPဆာဗာစတင်ခွင့်တောင်းလာပါ
 #: lspclientplugin.cpp:227
 #, kde-format
 msgid ""
-"Do you want the LSP server to be started?<br><br>The full command line is:<br><br><b>%1</b><br><br>The "
-"choice can be altered via the config page of the plugin."
+"Do you want the LSP server to be started?<br><br>The full command line is:"
+"<br><br><b>%1</b><br><br>The choice can be altered via the config page of "
+"the plugin."
 msgstr ""
 
 #: lspclientplugin.cpp:240
@@ -265,7 +266,8 @@ msgstr ""
 msgid "Line: %1: "
 msgstr "စာကြောင်း- %1: "
 
-#: lspclientpluginview.cpp:1499 lspclientpluginview.cpp:1847 lspclientpluginview.cpp:1966
+#: lspclientpluginview.cpp:1499 lspclientpluginview.cpp:1847
+#: lspclientpluginview.cpp:1966
 #, kde-format
 msgid "No results"
 msgstr "ရလဒ်မရှိ"
@@ -306,7 +308,8 @@ msgctxt "@title:tab"
 msgid "Highlight: %1"
 msgstr "အရောင်ချယ်ပြ- %1"
 
-#: lspclientpluginview.cpp:1625 lspclientpluginview.cpp:1636 lspclientpluginview.cpp:1649
+#: lspclientpluginview.cpp:1625 lspclientpluginview.cpp:1636
+#: lspclientpluginview.cpp:1649
 #, kde-format
 msgid "No Actions"
 msgstr "လုပ်ဆောင်ချက်မရှိ"
