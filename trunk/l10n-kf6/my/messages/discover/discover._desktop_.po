@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-09-12 00:45+0000\n"
+"POT-Creation-Date: 2024-09-13 00:46+0000\n"
 "PO-Revision-Date: 2021-09-13 03:11+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -39,7 +39,7 @@ msgstr ""
 "program;software;repository;package;install;remove;update;apps;applications;"
 "ပရိုဂရမ်;ဆော့ဖ်ဝဲလ်;ရီပိုစစ်တိုရီ;ပတ်ကေ့ချ်;တပ်ဆင်;ဖယ်ရှား;အပ်ဒိတ်;အပ်;အပ္ပလီကေးရှင်း;"
 
-#: discover/org.kde.discover.desktop.cmake:143
+#: discover/org.kde.discover.desktop.cmake:147
 msgctxt "Name"
 msgid "See Available Updates"
 msgstr "ရရှိနိုင်သော အပ်ဒိတ်များ ကြည့်မည်"
