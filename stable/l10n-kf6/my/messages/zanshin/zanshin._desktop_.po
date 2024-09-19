@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-04-20 00:43+0000\n"
+"POT-Creation-Date: 2024-09-19 02:36+0000\n"
 "PO-Revision-Date: 2021-09-21 12:09+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Zanshin"
 msgstr "ဇန်ရှင်"
 
-#: src/zanshin/app/org.kde.zanshin.desktop:51
+#: src/zanshin/app/org.kde.zanshin.desktop:52
 msgctxt "GenericName"
 msgid "To Do Management Application"
 msgstr "လုပ်ရန် စီမံမှု အပ္ပလီကေးရှင်း"
