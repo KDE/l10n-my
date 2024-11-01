@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-08-28 00:45+0000\n"
+"POT-Creation-Date: 2024-11-01 00:45+0000\n"
 "PO-Revision-Date: 2021-09-19 19:53+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -48,7 +48,7 @@ msgctxt "Name"
 msgid "Batch Translation Completed"
 msgstr ""
 
-#: src/lokalize.notifyrc:397
+#: src/lokalize.notifyrc:398
 msgctxt "Name"
 msgid "Batch Translation Scheduled"
 msgstr ""
