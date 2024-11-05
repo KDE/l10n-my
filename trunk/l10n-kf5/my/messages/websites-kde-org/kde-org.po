@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-01 01:49+0000\n"
+"POT-Creation-Date: 2024-11-05 01:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1076,9 +1076,8 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-msgid "Support Plasma 6!"
-msgstr "ကေဒီအီးပလက်စမာ {{ .Get \"maj_min\" }}"
+msgid "Become a Supporting Member"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "New Supporting Members"
@@ -1148,6 +1147,10 @@ msgid ""
 "<span class=\"red\">Halloween</span> Fundraiser <span class=\"red\">Special</"
 "span>"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Support Plasma 6!"
+#~ msgstr "ကေဒီအီးပလက်စမာ {{ .Get \"maj_min\" }}"
 
 #~ msgid ""
 #~ "KDE today announces the release of KDE Frameworks {{ .Get \"version\" }}."
