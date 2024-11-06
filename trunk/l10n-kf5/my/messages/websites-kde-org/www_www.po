@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-05 01:51+0000\n"
+"POT-Creation-Date: 2024-11-06 01:51+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -23636,6 +23636,27 @@ msgid ""
 "Fixes bug [#494324](https://bugs.kde.org/494324)"
 msgstr ""
 
+#: content/announcements/plasma/6/6.2.3.md:10
+msgid ""
+"Bluedevil: Correct PIN entry behavior. [Commit.](http://commits.kde.org/"
+"bluedevil/3c65c991902a58f4ce224cdabd13baab39129819)"
+msgstr ""
+
+#: content/announcements/plasma/6/6.2.3.md:11
+msgid ""
+"KWin: Backends/drm: don't set backlight brightness to 1 in HDR mode. "
+"[Commit.](http://commits.kde.org/kwin/"
+"e2d0bcb01e3e51258c3485d5e45d63eb54b6a551) Fixes bug [#495242](https://bugs."
+"kde.org/495242)"
+msgstr ""
+
+#: content/announcements/plasma/6/6.2.3.md:12
+msgid ""
+"KDE GTK Config: Gracefully handle decoration plugin failing to load. "
+"[Commit.](http://commits.kde.org/kde-gtk-config/"
+"bd50b0e6ef1e362484d354cc341c32aa56e08a7b)"
+msgstr ""
+
 #: content/fundraisers/plasma6member.md:0
 #, fuzzy
 #| msgid "Support KDE"
@@ -24167,12 +24188,8 @@ msgstr "အပ်ပလက်များ"
 msgid "Adopters"
 msgstr ""
 
-#: content/fundraisers/yearend2024.md:42
-msgid "🟦🟦⬜⬜⬜"
-msgstr ""
-
-#: content/fundraisers/yearend2024.md:43 content/fundraisers/yearend2024.md:45
-#: content/fundraisers/yearend2024.md:46
+#: content/fundraisers/yearend2024.md:42 content/fundraisers/yearend2024.md:43
+#: content/fundraisers/yearend2024.md:44 content/fundraisers/yearend2024.md:45
 msgid "⬜⬜⬜⬜⬜"
 msgstr ""
 
@@ -24181,10 +24198,6 @@ msgstr ""
 #| msgid "[Kontact](https://apps.kde.org/kontact/)"
 msgid "[Merkuro](https://apps.kde.org/merkuro/)"
 msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
-
-#: content/fundraisers/yearend2024.md:44
-msgid "🟦⬜⬜⬜⬜"
-msgstr ""
 
 #: content/fundraisers/yearend2024.md:45
 #, fuzzy
@@ -24197,6 +24210,10 @@ msgstr "[အလီဆာ](https://elisa.kde.org/)"
 #| msgid "[Kontact](https://apps.kde.org/kontact/)"
 msgid "[KDE Connect](https://apps.kde.org/kdeconnect/)"
 msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: content/fundraisers/yearend2024.md:46
+msgid "🟦🟦⬜⬜⬜"
+msgstr ""
 
 #: content/fundraisers/yearend2024.md:50
 msgid ""
