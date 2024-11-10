@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-09 01:50+0000\n"
+"POT-Creation-Date: 2024-11-10 02:00+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2546,58 +2546,6 @@ msgid "starting at US$399"
 msgstr "၁၉၉ဒေါ်လာမှ စျေးစသည်"
 
 #: content/hardware.md:0
-msgid "PinePhone KDE Community Edition"
-msgstr "ပိုင်ဖုန်း ကေဒီအိး ကွန်မြူနတီ အယ်ဒီရှင်း"
-
-#: content/hardware.md:0
-msgid "Experience the future of KDE’s open mobile platform"
-msgstr ""
-
-#: content/hardware.md:0
-msgid ""
-"Plasma Mobile and PinePhone provide you with the excitement of experimenting "
-"with\n"
-"the future of Free and Open Source mobile phones right now.\n"
-"\n"
-"The Pinephone is a tinkerer's dream, letting you boot new operating systems "
-"with\n"
-"ease and tweak, expand, and update the hardware. Plasma Mobile provides you "
-"with\n"
-"a feature-rich environment with an already well-populated app ecosystem "
-"ready for\n"
-"convergence. Experiment with software that improves on a daily basis, use "
-"calendars,\n"
-"sync up with your desktop and other devices using KDE Connect, browse the "
-"web,\n"
-"read documents, play games, send Instant Messages, and so much more.\n"
-msgstr ""
-
-#: content/hardware.md:0
-msgid ""
-"As a regular user, get this phone if you want to experience first hand what "
-"the\n"
-"future of FLOSS mobile phones will be like. Test it, give us feedback and "
-"help\n"
-"us push Plasma Mobile to maturity!\n"
-"\n"
-"As a developer, get this phone if you want to contribute to Plasma Mobile, "
-"one\n"
-"of the most active, community-driven projects for mobile phones. It will "
-"also\n"
-"give you a headstart in creating apps for a budding system that is on the "
-"verge\n"
-"of taking the mobile arena by storm.\n"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "Learn more about the PinePhone"
-msgstr "ပိုင်ဖုန်းအကြောင်း ပိုမိုလေ့လာပါ"
-
-#: content/hardware.md:0
-msgid "Picture of the PinePhone with Plasma Mobile"
-msgstr ""
-
-#: content/hardware.md:0
 msgid "KDE Slimbook"
 msgstr "ကေဒီအီး စလင်းဘွတ်ခ်"
 
@@ -2860,17 +2808,17 @@ msgid ""
 "an option:"
 msgstr ""
 
-#: content/hardware.md:163
+#: content/hardware.md:139
 msgid "Shells"
 msgstr ""
 
-#: content/hardware.md:165
+#: content/hardware.md:141
 msgid ""
 "Sign up for KDE Neon on Shells and access all the power and security of "
 "KDE's Plasma desktop from anywhere."
 msgstr ""
 
-#: content/hardware.md:167
+#: content/hardware.md:143
 msgid ""
 "Shells lets you transform any device into a powerful, secure Plasma machine, "
 "allowing you to work, code, or play on your laptop, smart TV or phone. "
@@ -2878,7 +2826,7 @@ msgid ""
 "Shells virtual desktop in the cloud."
 msgstr ""
 
-#: content/hardware.md:169
+#: content/hardware.md:145
 msgid ""
 "<a href=\"https://www.shells.com/pricing?"
 "special=kde&_a=kdeorg&utm_source=web&utm_medium=lp&utm_campaign=kde-org-"
@@ -2888,15 +2836,15 @@ msgstr ""
 "special=kde&_a=kdeorg&utm_source=web&utm_medium=lp&utm_campaign=kde-org-"
 "hardware\"><img src=\"/content/hardware/shells.png\" /></a>"
 
-#: content/hardware.md:171
+#: content/hardware.md:147
 msgid "<small>Shell makes a donation to KDE when you use this link.</small>"
 msgstr "<small>ဤလင့်ခ်ကို အသုံးပြုသည့်အခါ ကေဒီအီးကို လှူဒါန်းသွားမည်။</small>"
 
-#: content/hardware.md:175
+#: content/hardware.md:151
 msgid "Slimbook"
 msgstr "စလင်းဘွတ်ခ်"
 
-#: content/hardware.md:177
+#: content/hardware.md:153
 msgid ""
 "SLIMBOOK was born in 2015 with the idea of being the best brand in the "
 "computer market with GNU / Linux (although it is also verified the absolute "
@@ -2906,11 +2854,11 @@ msgid ""
 "at the OpenExpo Europe 2018."
 msgstr ""
 
-#: content/hardware.md:185
+#: content/hardware.md:161
 msgid "Star Labs"
 msgstr "စတားလပ်ဘ်"
 
-#: content/hardware.md:187
+#: content/hardware.md:163
 msgid ""
 "Star Labs offers a range of laptops designed and built specifically for "
 "Linux. Two versions of their laptop are offered: the Star Lite Mk III 11-"
@@ -3489,6 +3437,12 @@ msgid ""
 "This page lists different ways to get help and support when using KDE "
 "software."
 msgstr ""
+
+#~ msgid "PinePhone KDE Community Edition"
+#~ msgstr "ပိုင်ဖုန်း ကေဒီအိး ကွန်မြူနတီ အယ်ဒီရှင်း"
+
+#~ msgid "Learn more about the PinePhone"
+#~ msgstr "ပိုင်ဖုန်းအကြောင်း ပိုမိုလေ့လာပါ"
 
 #~ msgid "Choose your size"
 #~ msgstr "အရွယ်အစားရွေးပါ"
