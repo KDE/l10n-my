@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-13 01:51+0000\n"
+"POT-Creation-Date: 2024-11-14 01:52+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -24212,9 +24212,10 @@ msgstr "အပ်ပလက်များ"
 msgid "Adopters"
 msgstr ""
 
-#: content/fundraisers/yearend2024.md:42 content/fundraisers/yearend2024.md:45
-#: content/fundraisers/yearend2024.md:47 content/fundraisers/yearend2024.md:48
-msgid "⬜⬜⬜⬜⬜"
+#: content/fundraisers/yearend2024.md:42 content/fundraisers/yearend2024.md:44
+#: content/fundraisers/yearend2024.md:45 content/fundraisers/yearend2024.md:48
+#: content/fundraisers/yearend2024.md:49
+msgid "🟦⬜⬜⬜⬜"
 msgstr ""
 
 #: content/fundraisers/yearend2024.md:43
@@ -24226,10 +24227,6 @@ msgstr ""
 #| msgid "[Kontact](https://apps.kde.org/kontact/)"
 msgid "[Merkuro](https://apps.kde.org/merkuro/)"
 msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
-
-#: content/fundraisers/yearend2024.md:44 content/fundraisers/yearend2024.md:49
-msgid "🟦⬜⬜⬜⬜"
-msgstr ""
 
 #: content/fundraisers/yearend2024.md:45
 #, fuzzy
@@ -24245,6 +24242,10 @@ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 
 #: content/fundraisers/yearend2024.md:46
 msgid "🟦🟦🟦🟦🟦"
+msgstr ""
+
+#: content/fundraisers/yearend2024.md:47
+msgid "⬜⬜⬜⬜⬜"
 msgstr ""
 
 #: content/fundraisers/yearend2024.md:49
