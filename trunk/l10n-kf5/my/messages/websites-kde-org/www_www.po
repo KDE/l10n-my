@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-24 01:53+0000\n"
+"POT-Creation-Date: 2024-11-25 01:54+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -24215,11 +24215,14 @@ msgstr "အပ်ပလက်များ"
 msgid "Adopters"
 msgstr ""
 
-#: content/fundraisers/yearend2024.md:42 content/fundraisers/yearend2024.md:43
-#: content/fundraisers/yearend2024.md:44 content/fundraisers/yearend2024.md:48
-#: content/fundraisers/yearend2024.md:49 content/fundraisers/yearend2024.md:56
+#: content/fundraisers/yearend2024.md:42 content/fundraisers/yearend2024.md:44
+#: content/fundraisers/yearend2024.md:48 content/fundraisers/yearend2024.md:49
 #: content/fundraisers/yearend2024.md:57
 msgid "🟦🟦⬜⬜⬜"
+msgstr ""
+
+#: content/fundraisers/yearend2024.md:43 content/fundraisers/yearend2024.md:56
+msgid "🟦🟦🟦⬜⬜"
 msgstr ""
 
 #: content/fundraisers/yearend2024.md:44
@@ -24284,7 +24287,7 @@ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 msgid "~~[Okular](https://apps.kde.org/okular/)~~"
 msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 
-#: content/fundraisers/yearend2024.md:54
+#: content/fundraisers/yearend2024.md:54 content/fundraisers/yearend2024.md:59
 msgid "🟦🟦🟦🟦⬜"
 msgstr ""
 
@@ -24305,10 +24308,6 @@ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 #| msgid "[Kontact](https://apps.kde.org/kontact/)"
 msgid "[Ruqola](https://apps.kde.org/ruqola/)"
 msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
-
-#: content/fundraisers/yearend2024.md:59
-msgid "🟦🟦🟦⬜⬜"
-msgstr ""
 
 #: content/fundraisers/yearend2024.md:60
 #, fuzzy
