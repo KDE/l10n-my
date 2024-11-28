@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-okular-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-10-22 01:50+0000\n"
+"POT-Creation-Date: 2024-11-28 01:50+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -240,6 +240,14 @@ msgstr ""
 #| msgid "Okular"
 msgid "okular"
 msgstr "ဥက္ကလာ"
+
+#: content/download.md:0
+msgid "macOS (ARM)"
+msgstr ""
+
+#: content/download.md:0
+msgid "macOS (Intel)"
+msgstr ""
 
 #: content/eco.md:0
 msgid "How is Okular Sustainable?"
