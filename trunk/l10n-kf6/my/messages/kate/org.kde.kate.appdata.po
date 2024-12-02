@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-11-21 00:43+0000\n"
+"POT-Creation-Date: 2024-12-02 00:45+0000\n"
 "PO-Revision-Date: 2024-09-10 15:48+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -19,7 +19,9 @@ msgstr "ကိတ်"
 
 #. (itstool) path: component/summary
 #: org.kde.kate.appdata.xml:8
-msgid "Advanced Text Editor"
+#, fuzzy
+#| msgid "Advanced Text Editor"
+msgid "Advanced text editor"
 msgstr "အဆင့်မြင့်စာသားတည်းဖြတ်ကိရိယာ"
 
 #. (itstool) path: description/p
