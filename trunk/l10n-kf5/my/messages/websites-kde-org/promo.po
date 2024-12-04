@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-02 02:29+0000\n"
+"POT-Creation-Date: 2024-12-04 01:52+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -703,6 +703,14 @@ msgid "Publishing"
 msgstr ""
 
 #: content/for/creators.md:0
+msgid "Friction"
+msgstr ""
+
+#: content/for/creators.md:0
+msgid "Motion Graphics"
+msgstr ""
+
+#: content/for/creators.md:0
 msgid "Ossia score"
 msgstr ""
 
@@ -716,14 +724,6 @@ msgstr ""
 
 #: content/for/creators.md:0
 msgid "Music creation"
-msgstr ""
-
-#: content/for/creators.md:0
-msgid "Glaxnimate"
-msgstr ""
-
-#: content/for/creators.md:0
-msgid "2D vector animation"
 msgstr ""
 
 #: content/for/creators.md:0
@@ -841,29 +841,50 @@ msgid ""
 msgstr ""
 
 #: content/for/creators.md:131
-msgid "Digikam"
+msgid ""
+"<img alt=\"\" src=\"https://glaxnimate.org/images/logo.svg\" width=128 "
+"height=128 />\n"
 msgstr ""
 
 #: content/for/creators.md:133
-msgid "Professional Photo Management with the Power of Open Source"
+msgid "Glaxnimate"
+msgstr ""
+
+#: content/for/creators.md:135
+msgid ""
+"Glaxnimate is an open-source vector animation and motion design desktop "
+"application."
 msgstr ""
 
 #: content/for/creators.md:137
-msgid "Digikam support of raw files"
+msgid ""
+"![](https://glaxnimate.org/images/screenshots/main_window/main_window.png)"
 msgstr ""
 
 #: content/for/creators.md:145
-msgid "KDE Plasma Desktop for Artists"
+msgid "Digikam"
 msgstr ""
 
 #: content/for/creators.md:147
+msgid "Professional Photo Management with the Power of Open Source"
+msgstr ""
+
+#: content/for/creators.md:151
+msgid "Digikam support of raw files"
+msgstr ""
+
+#: content/for/creators.md:159
+msgid "KDE Plasma Desktop for Artists"
+msgstr ""
+
+#: content/for/creators.md:161
 msgid ""
 "[KDE Plasma](/plasma-desktop) is the ideal operating system for you with "
 "native support for drawing tablets and many small features tailored for "
 "artists."
 msgstr ""
 
-#: content/for/creators.md:153
+#: content/for/creators.md:167
 msgid ""
 "It is mainly about more options for the tablet settings, options to set up a "
 "neutral colored theme, thumbnails for your artwork source files and easier "
@@ -872,35 +893,35 @@ msgid ""
 "Kdenlive."
 msgstr ""
 
-#: content/for/creators.md:155
+#: content/for/creators.md:169
 msgid ""
 "[David Revoy, Fedora 36 KDE Spin for a digital painting workstation](https://"
 "www.davidrevoy.com/article913/fedora-36-kde-spin-for-a-digital-painting-"
 "workstation-reasons-and-post-install-guide)"
 msgstr ""
 
-#: content/for/creators.md:162
+#: content/for/creators.md:176
 msgid "Kontrast"
 msgstr ""
 
-#: content/for/creators.md:164
+#: content/for/creators.md:178
 msgid ""
 "Make your design accessible, by making sure that the contrast is WCAG "
 "compliant."
 msgstr ""
 
-#: content/for/creators.md:168
+#: content/for/creators.md:182
 msgid ""
 "![Screenshot of Kontrast with a blue background and white foreground](/for/"
 "resources/kontrast.png)"
 msgstr ""
 
-#: content/for/creators.md:174 content/for/developers.md:144
+#: content/for/creators.md:188 content/for/developers.md:144
 #: content/for/scientists.md:195
 msgid "Other open source applications for you"
 msgstr ""
 
-#: content/for/creators.md:176
+#: content/for/creators.md:190
 msgid ""
 "Here are some other applications from other open source organizations to "
 "complement your workflow. You should also check out our other [graphic "
