@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-04 01:52+0000\n"
+"POT-Creation-Date: 2024-12-09 02:00+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -2059,6 +2059,7 @@ msgid ""
 msgstr ""
 
 #: content/announcements/gear/22.08.0.md:110
+#: layouts/shortcodes/yearend2024/adopt.md:23
 #, fuzzy
 #| msgid "[Elisa](https://elisa.kde.org/)"
 msgid "[Elisa](https://apps.kde.org/elisa/)"
@@ -2619,6 +2620,7 @@ msgstr ""
 "systemmonitor.svg)"
 
 #: content/announcements/gear/23.04.0.md:53
+#: layouts/shortcodes/yearend2024/adopt.md:18
 #, fuzzy
 #| msgid "[Konsole](https://apps.kde.org/konsole/)"
 msgid "[AudioTube](https://apps.kde.org/audiotube/)"
@@ -24225,102 +24227,316 @@ msgid ""
 "to show the world how you help keep Free Software projects alive and ethical!"
 msgstr ""
 
-#, fuzzy
-#~| msgid "Applets"
-#~ msgid "App"
-#~ msgstr "အပ်ပလက်များ"
+#: layouts/shortcodes/yearend2024/adopt.md:1
+msgid ""
+"Adopt one of KDE's apps and we can share with the whole world how awesome "
+"you are and how much you're doing to support us. Adopting a KDE app is easy:"
+msgstr ""
 
-#, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "[Merkuro](https://apps.kde.org/merkuro/)"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#: layouts/shortcodes/yearend2024/adopt.md:3
+msgid "[Make a donation](#top) of €50 or more to our fundraiser."
+msgstr ""
 
-#, fuzzy
-#~| msgid "[Elisa](https://elisa.kde.org/)"
-#~ msgid "[Arianna](https://apps.kde.org/arianna/)"
-#~ msgstr "[အလီဆာ](https://elisa.kde.org/)"
+#: layouts/shortcodes/yearend2024/adopt.md:4
+msgid ""
+"Choose an app you'd like to adopt from the list below. Each app can be "
+"adopted by up to 5 adopters. We will add more apps to the list as the "
+"adoption slots fill up."
+msgstr ""
 
-#, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "~~[KDE Connect](https://apps.kde.org/kdeconnect/)~~"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#: layouts/shortcodes/yearend2024/adopt.md:5
+msgid ""
+"During the donation process, use the comment section to write which app you "
+"want to adopt and the name you'd like to be known as. This can be your name, "
+"nickname, or your social media handle<sup>[*](#anot01)</sup><sup>[†]"
+"(#anot02)</sup>…"
+msgstr ""
 
-#, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "[KRuler](https://apps.kde.org/kruler/)"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#: layouts/shortcodes/yearend2024/adopt.md:6
+msgid ""
+"Your name will appear on the app's [apps.kde.org](https://apps.kde.org) as a "
+"_Supporter_ from the moment of the donation until KDE Gear 25.04 is released "
+"in April of next year. We will also give you a shout-out on social media."
+msgstr ""
 
-#, fuzzy
-#~| msgid "[Dolphin](https://apps.kde.org/dolphin/)"
-#~ msgid "~~[Dolphin](https://apps.kde.org/dolphin/)~~"
-#~ msgstr "လင်းပိုင်](https://apps.kde.org/dolphin/)"
+#: layouts/shortcodes/yearend2024/adopt.md:8
+msgid "Adoptable Apps"
+msgstr ""
 
+#: layouts/shortcodes/yearend2024/adopt.md:10
+#: layouts/shortcodes/yearend2024/adopt.md:31
 #, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "~~[Kate](https://apps.kde.org/kate/)~~"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#| msgid "Applets"
+msgid "App"
+msgstr "အပ်ပလက်များ"
 
-#, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "[KWrite](https://apps.kde.org/kwrite/)"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#: layouts/shortcodes/yearend2024/adopt.md:10
+#: layouts/shortcodes/yearend2024/adopt.md:31
+msgid "Adopters"
+msgstr ""
 
+#: layouts/shortcodes/yearend2024/adopt.md:12
 #, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "~~[Okular](https://apps.kde.org/okular/)~~"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#| msgid "[Dolphin](https://apps.kde.org/dolphin/)"
+msgid "[Alligator](https://apps.kde.org/alligator)"
+msgstr "လင်းပိုင်](https://apps.kde.org/dolphin/)"
 
-#, fuzzy
-#~| msgid "[Konsole](https://apps.kde.org/konsole/)"
-#~ msgid "~~[Konsole](https://apps.kde.org/konsole/)~~"
-#~ msgstr "[ကွန်ဆိုး](https://apps.kde.org/konsole/)"
+#: layouts/shortcodes/yearend2024/adopt.md:12
+#: layouts/shortcodes/yearend2024/adopt.md:13
+#: layouts/shortcodes/yearend2024/adopt.md:16
+#: layouts/shortcodes/yearend2024/adopt.md:18
+#: layouts/shortcodes/yearend2024/adopt.md:22
+msgid "🟦⬜⬜⬜⬜"
+msgstr ""
 
+#: layouts/shortcodes/yearend2024/adopt.md:13
 #, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "[LabPlot](https://apps.kde.org/labplot/)"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "[ISOImageWriter](https://apps.kde.org/isoimagewriter)"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 
+#: layouts/shortcodes/yearend2024/adopt.md:14
 #, fuzzy
-#~| msgid "[Dolphin](https://apps.kde.org/dolphin/)"
-#~ msgid "~~[Filelight](https://apps.kde.org/filelight/)~~"
-#~ msgstr "လင်းပိုင်](https://apps.kde.org/dolphin/)"
+#| msgid "[Konsole](https://apps.kde.org/konsole/)"
+msgid "[PartitionManager](https://apps.kde.org/partitionmanager)"
+msgstr "[ကွန်ဆိုး](https://apps.kde.org/konsole/)"
 
-#, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "[Kasts](https://apps.kde.org/kasts/)"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#: layouts/shortcodes/yearend2024/adopt.md:14
+#: layouts/shortcodes/yearend2024/adopt.md:17
+#: layouts/shortcodes/yearend2024/adopt.md:19
+#: layouts/shortcodes/yearend2024/adopt.md:20
+#: layouts/shortcodes/yearend2024/adopt.md:25
+#: layouts/shortcodes/yearend2024/adopt.md:26
+msgid "🟦🟦⬜⬜⬜"
+msgstr ""
 
+#: layouts/shortcodes/yearend2024/adopt.md:15
 #, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "[Ruqola](https://apps.kde.org/ruqola/)"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "[SkanPage](https://apps.kde.org/skanpage)"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 
-#, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "~~[Spectacle](https://apps.kde.org/spectacle/)~~"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#: layouts/shortcodes/yearend2024/adopt.md:15
+msgid "⬜⬜⬜⬜⬜"
+msgstr ""
 
+#: layouts/shortcodes/yearend2024/adopt.md:16
 #, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid ""
-#~ "~~[Kontact (KMail, Korganizer, KAddressBook, Akregator)](https://apps.kde."
-#~ "org/kontact/)~~"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#| msgid ""
+#| "![System monitor logo](https://apps.kde.org/app-icons/org.kde.plasma-"
+#| "systemmonitor.svg)"
+msgid "[Plasma System Monitor](https://apps.kde.org/plasma-systemmonitor/)"
+msgstr ""
+"![System monitor logo](https://apps.kde.org/app-icons/org.kde.plasma-"
+"systemmonitor.svg)"
 
+#: layouts/shortcodes/yearend2024/adopt.md:17
 #, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "[Konqueror](https://apps.kde.org/konqueror/)"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#| msgid "[Elisa](https://elisa.kde.org/)"
+msgid "[Arianna](https://apps.kde.org/arianna/)"
+msgstr "[အလီဆာ](https://elisa.kde.org/)"
 
+#: layouts/shortcodes/yearend2024/adopt.md:19
 #, fuzzy
-#~| msgid "[Kontact](https://apps.kde.org/kontact/)"
-#~ msgid "[KRDC](https://apps.kde.org/krdc/)"
-#~ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "[KRuler](https://apps.kde.org/kruler/)"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 
+#: layouts/shortcodes/yearend2024/adopt.md:20
 #, fuzzy
-#~| msgid "[Elisa](https://elisa.kde.org/)"
-#~ msgid "[Ark](https://apps.kde.org/ark/)"
-#~ msgstr "[အလီဆာ](https://elisa.kde.org/)"
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "[LabPlot](https://apps.kde.org/labplot/)"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:21
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "[Kasts](https://apps.kde.org/kasts/)"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:21
+#: layouts/shortcodes/yearend2024/adopt.md:24
+#: layouts/shortcodes/yearend2024/adopt.md:27
+msgid "🟦🟦🟦🟦⬜"
+msgstr ""
+
+#: layouts/shortcodes/yearend2024/adopt.md:22
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "[Ruqola](https://apps.kde.org/ruqola/)"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:23
+msgid "🟦🟦🟦⬜⬜"
+msgstr ""
+
+#: layouts/shortcodes/yearend2024/adopt.md:24
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "[Konqueror](https://apps.kde.org/konqueror/)"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:25
+#, fuzzy
+#| msgid "[Dolphin](https://apps.kde.org/dolphin/)"
+msgid "[KolourPaint](https://apps.kde.org/kolourpaint/)"
+msgstr "လင်းပိုင်](https://apps.kde.org/dolphin/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:26
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "[KRFB](https://apps.kde.org/krfb/)"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:27
+#, fuzzy
+#| msgid "[Dolphin](https://apps.kde.org/dolphin/)"
+msgid "[GCompris](https://apps.kde.org/gcompris/)"
+msgstr "လင်းပိုင်](https://apps.kde.org/dolphin/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:29
+msgid "Already Adopted Apps"
+msgstr ""
+
+#: layouts/shortcodes/yearend2024/adopt.md:33
+#, fuzzy
+#| msgid "[Konsole](https://apps.kde.org/konsole/)"
+msgid "~~[Discover](https://apps.kde.org/discover/)~~"
+msgstr "[ကွန်ဆိုး](https://apps.kde.org/konsole/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:33
+#: layouts/shortcodes/yearend2024/adopt.md:34
+#: layouts/shortcodes/yearend2024/adopt.md:35
+#: layouts/shortcodes/yearend2024/adopt.md:36
+#: layouts/shortcodes/yearend2024/adopt.md:37
+#: layouts/shortcodes/yearend2024/adopt.md:38
+#: layouts/shortcodes/yearend2024/adopt.md:39
+#: layouts/shortcodes/yearend2024/adopt.md:40
+#: layouts/shortcodes/yearend2024/adopt.md:41
+#: layouts/shortcodes/yearend2024/adopt.md:42
+#: layouts/shortcodes/yearend2024/adopt.md:43
+#: layouts/shortcodes/yearend2024/adopt.md:44
+#: layouts/shortcodes/yearend2024/adopt.md:45
+#: layouts/shortcodes/yearend2024/adopt.md:46
+#: layouts/shortcodes/yearend2024/adopt.md:47
+#: layouts/shortcodes/yearend2024/adopt.md:48
+#: layouts/shortcodes/yearend2024/adopt.md:49
+msgid "🟦🟦🟦🟦🟦"
+msgstr ""
+
+#: layouts/shortcodes/yearend2024/adopt.md:34
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "~~[KRDC](https://apps.kde.org/krdc/)~~"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:35
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "~~[KWrite](https://apps.kde.org/kwrite/)~~"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:36
+#, fuzzy
+#| msgid "[Gwenview](https://apps.kde.org/gwenview/)"
+msgid "~~[Gwenview](https://apps.kde.org/gwenview/)~~"
+msgstr "[ဂွမ်းဗျူး](https://apps.kde.org/gwenview/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:37
+#, fuzzy
+#| msgid "[Dolphin](https://apps.kde.org/dolphin/)"
+msgid "~~[Tokodon](https://apps.kde.org/tokodon/)~~"
+msgstr "လင်းပိုင်](https://apps.kde.org/dolphin/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:38
+#, fuzzy
+#| msgid "[Elisa](https://elisa.kde.org/)"
+msgid "~~[Ark](https://apps.kde.org/ark/)~~"
+msgstr "[အလီဆာ](https://elisa.kde.org/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:39
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "~~[NeoChat](https://apps.kde.org/neochat/)~~"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:40
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "~~[Merkuro](https://apps.kde.org/merkuro/)~~"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:41
+#, fuzzy
+#| msgid "[Elisa](https://elisa.kde.org/)"
+msgid "~~[Itinerary](https://apps.kde.org/itinerary/)~~"
+msgstr "[အလီဆာ](https://elisa.kde.org/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:42
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "~~[KDE Connect](https://apps.kde.org/kdeconnect/)~~"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:43
+#, fuzzy
+#| msgid "[Dolphin](https://apps.kde.org/dolphin/)"
+msgid "~~[Dolphin](https://apps.kde.org/dolphin/)~~"
+msgstr "လင်းပိုင်](https://apps.kde.org/dolphin/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:44
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "~~[Kate](https://apps.kde.org/kate/)~~"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:45
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "~~[Okular](https://apps.kde.org/okular/)~~"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:46
+#, fuzzy
+#| msgid "[Konsole](https://apps.kde.org/konsole/)"
+msgid "~~[Konsole](https://apps.kde.org/konsole/)~~"
+msgstr "[ကွန်ဆိုး](https://apps.kde.org/konsole/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:47
+#, fuzzy
+#| msgid "[Dolphin](https://apps.kde.org/dolphin/)"
+msgid "~~[Filelight](https://apps.kde.org/filelight/)~~"
+msgstr "လင်းပိုင်](https://apps.kde.org/dolphin/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:48
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid "~~[Spectacle](https://apps.kde.org/spectacle/)~~"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:49
+#, fuzzy
+#| msgid "[Kontact](https://apps.kde.org/kontact/)"
+msgid ""
+"~~[Kontact (KMail, Korganizer, KAddressBook, Akregator)](https://apps.kde."
+"org/kontact/)~~"
+msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
+
+#: layouts/shortcodes/yearend2024/adopt.md:52
+msgid ""
+"<p class=\"annotation\"><a name=\"anot01\"></a><sup>*</sup> We reserve the "
+"right to refuse applicants with offensive names or nicknames, or whose "
+"social media accounts contain objectionable material. See KDE's <a href="
+"\"https://kde.org/code-of-conduct/\">Code of Conduct</a>.</p>\n"
+msgstr ""
+
+#: layouts/shortcodes/yearend2024/adopt.md:54
+msgid ""
+"<p class=\"annotation\"><a name=\"anot02\"></a><sup>†</sup> This reward is "
+"open to individuals only. If you represent a company that would like to "
+"support us, we would be happy to <a href=\"https://ev.kde.org/getinvolved/"
+"supporting-members/\">welcome you as a patron</a>.</p>\n"
+msgstr ""
 
 #, fuzzy
 #~| msgid "And more!"
