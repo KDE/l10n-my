@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-29 02:04+0000\n"
+"POT-Creation-Date: 2024-12-30 02:02+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -24790,9 +24790,8 @@ msgid "[Kubrick](https://apps.kde.org/kubrick)"
 msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 
 #: content/fundraisers/yearend2024.md:42 content/fundraisers/yearend2024.md:45
-#: content/fundraisers/yearend2024.md:49 content/fundraisers/yearend2024.md:50
-#: content/fundraisers/yearend2024.md:52 content/fundraisers/yearend2024.md:54
-#: content/fundraisers/yearend2024.md:56
+#: content/fundraisers/yearend2024.md:49 content/fundraisers/yearend2024.md:52
+#: content/fundraisers/yearend2024.md:54 content/fundraisers/yearend2024.md:56
 msgid "🟦⬜⬜⬜⬜"
 msgstr ""
 
@@ -24850,16 +24849,16 @@ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 msgid "[Alligator](https://apps.kde.org/alligator)"
 msgstr "လင်းပိုင်](https://apps.kde.org/dolphin/)"
 
+#: content/fundraisers/yearend2024.md:50 content/fundraisers/yearend2024.md:51
+#: content/fundraisers/yearend2024.md:55 content/fundraisers/yearend2024.md:58
+msgid "🟦🟦⬜⬜⬜"
+msgstr ""
+
 #: content/fundraisers/yearend2024.md:51
 #, fuzzy
 #| msgid "[Kontact](https://apps.kde.org/kontact/)"
 msgid "[ISOImageWriter](https://apps.kde.org/isoimagewriter)"
 msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
-
-#: content/fundraisers/yearend2024.md:51 content/fundraisers/yearend2024.md:55
-#: content/fundraisers/yearend2024.md:58
-msgid "🟦🟦⬜⬜⬜"
-msgstr ""
 
 #: content/fundraisers/yearend2024.md:52
 #, fuzzy
