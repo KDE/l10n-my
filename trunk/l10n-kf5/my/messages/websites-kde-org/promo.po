@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-01-02 01:53+0000\n"
+"POT-Creation-Date: 2025-01-15 01:54+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1936,6 +1936,10 @@ msgid ""
 "quality data visualizations and plot simple and complex functions with few "
 "clicks. It's a reliable and easy to use data analysis tool great for "
 "statistics, calculus and science."
+msgstr ""
+
+#: content/for/students.md:73
+msgid "{{< section text-center py-5>}}"
 msgstr ""
 
 #: content/for/students.md:75
