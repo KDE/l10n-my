@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-28 02:07+0000\n"
+"POT-Creation-Date: 2025-02-02 01:59+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -61,8 +61,8 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"Get creative and draw beautiful artwork with Krita. A professional grade "
-"painting application."
+"Unleash your creativity with Krita, the professional open-source painting "
+"software for digital artists."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -75,8 +75,8 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"Kdenlive allows you to edit your videos and add special effects and "
-"transitions."
+"Bring your video projects to life with Kdenlive, the open-source editor "
+"packed with powerful tools, effects, and transitions."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -89,8 +89,8 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"Handle all your emails, calendars and contacts within a single window with "
-"Kontact."
+"Simplify your workflow by managing emails, calendars, tasks, and contacts "
+"seamlessly in one powerful application."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -104,7 +104,8 @@ msgstr "ပရိုဂရမ်ရေးမည်"
 
 #: i18n/en.yaml:0
 msgid ""
-"KDevelop is a cross-platform IDE for C, C++, Python, QML/JavaScript and PHP"
+"Streamline your coding experience with KDevelop, a robust cross-platform IDE "
+"supporting C, C++, Python, QML/JavaScript, and PHP."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -117,8 +118,8 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"GCompris is a high quality educational software suite, including a large "
-"number of activities for children aged 2 to 10."
+"Engage young minds with GCompris, an extensive educational suite packed with "
+"fun and interactive activities for children aged 2 to 10."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -131,8 +132,8 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"FREE, open source and cross-platform Data Visualization and Analysis "
-"software accessible to everyone."
+"Create stunning data visualizations and perform in-depth analysis with "
+"LabPlot, the free and open-source plotting software for everyone."
 msgstr ""
 
 #: i18n/en.yaml:0

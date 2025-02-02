@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-01-31 01:56+0000\n"
+"POT-Creation-Date: 2025-02-02 01:59+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -279,6 +279,20 @@ msgid "Choose a Linux distribution and start using KDE applications and Plasma"
 msgstr ""
 
 #: content/distributions.md:0
+msgid "Kubuntu"
+msgstr "ကူဘွန်တု"
+
+#: content/distributions.md:0
+msgid ""
+"Kubuntu is the Ubuntu version with KDE software by default. Developers "
+"strive to provide usability for\n"
+"beginners. The default installation includes many popular programs and a "
+"utility for managing drivers.\n"
+"\n"
+"Canonical, the developer of Ubuntu and Kubuntu, is a KDE Patron.\n"
+msgstr ""
+
+#: content/distributions.md:0
 msgid "openSUSE"
 msgstr "အိုးပန်းဆူဆီ"
 
@@ -331,20 +345,6 @@ msgid ""
 "Manjaro is a distribution based on Arch Linux, aimed at simplifying its "
 "installation and configuration. The Manjaro KDE version, in particular, is "
 "configured to use KDE Plasma and KDE core applications."
-msgstr ""
-
-#: content/distributions.md:0
-msgid "Kubuntu"
-msgstr "ကူဘွန်တု"
-
-#: content/distributions.md:0
-msgid ""
-"Kubuntu is the Ubuntu version with KDE software by default. Developers "
-"strive to provide usability for\n"
-"beginners. The default installation includes many popular programs and a "
-"utility for managing drivers.\n"
-"\n"
-"Canonical, the developer of Ubuntu and Kubuntu, is a KDE Patron.\n"
 msgstr ""
 
 #: content/distributions.md:0
@@ -561,7 +561,7 @@ msgstr ""
 msgid ""
 "KDE software consists of a large number of individual applications, Plasma, "
 "a desktop workspace to run these applications, and KDE Frameworks, a set of "
-"libraries they are build upon. You can run KDE applications just fine on any "
+"libraries they are built upon. You can run KDE applications just fine on any "
 "desktop environment. KDE applications are built to integrate well with your "
 "system's components. By using also Plasma, you get even better integration "
 "of your applications with the working environment while lowering system "
@@ -2994,6 +2994,81 @@ msgid ""
 msgstr ""
 
 #: content/hardware.md:0
+msgid "Kubuntu Focus Systems"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "Validated Linux Systems. US-Based, Ships Worldwide."
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"The Focus team optimizes for the hardware and validates all major upgrades\n"
+"to help ensure your daily driver just keeps working. Validated components\n"
+"include KDE Plasma, Curated Apps, Kernels, Devices, GPU drivers, and AI\n"
+"libraries. Free shipping to US and Canada.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "https://kfocus.org/img/hosted/kfocus-systems-med-80p.webp"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "Focus M2"
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"Get the ultimate portable 15.6\" or 17.3\" Linux workstation with a 24c/32t\n"
+"5.8 GHz i9-14900HX. GPU choices range from the RTX 4060 up to the RTX 4090\n"
+"with 16 GB VRAM. Configured for AI and ML pipelines. Also perfect for\n"
+"rendering, Kubernetes, web development, and AAA games.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "From $1895"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "Focus Ir16 and Ir14"
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"Compute in style with a premium thin-and-light 16\" laptop. Highlights\n"
+"include a brilliant 450-nit 16:10 display, no-flex keyboard, 12-core CPU,\n"
+"and all-alloy construction. Great for DevOps, coding, and creating. The\n"
+"Ir14 has similar specs, but in a 14\" form factor.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "From $1145 and $1080"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "Focus NX"
+msgstr ""
+
+#: content/hardware.md:0
+msgid ""
+"Replace your tower with quiet power. Get blazing performance and reliable\n"
+"Intel hardware in an amazingly compact 4.6\" package. Drive up to 4 x 4K\n"
+"displays. Great for coding, compiling, creating, and DevOps.\n"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "From $795"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "Learn More"
+msgstr ""
+
+#: content/hardware.md:0
+msgid "https://kfocus.org/"
+msgstr ""
+
+#: content/hardware.md:0
 msgid "TUXEDO Computers"
 msgstr ""
 
@@ -3021,10 +3096,6 @@ msgid ""
 "programmed driver packages for optimum hardware compatibility, and provided "
 "with support from TUXEDO's highly qualified technical staff, guaranteeing a "
 "smooth transition to your new Linux machine.\n"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "Kubuntu Focus Systems"
 msgstr ""
 
 #: content/hardware.md:0
@@ -3059,10 +3130,6 @@ msgstr ""
 
 #: content/hardware.md:0
 msgid "From €1634"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "Learn More"
 msgstr ""
 
 #: content/hardware.md:0
@@ -3223,73 +3290,6 @@ msgstr "ပြင်ဆင်မည်"
 
 #: content/hardware.md:0
 msgid "https://kde.slimbook.es/"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "Validated Linux Systems. US-Based, Ships Worldwide."
-msgstr ""
-
-#: content/hardware.md:0
-msgid ""
-"The Focus team optimizes for the hardware and validates all major upgrades\n"
-"to help ensure your daily driver just keeps working. Validated components\n"
-"include KDE Plasma, Curated Apps, Kernels, Devices, GPU drivers, and AI\n"
-"libraries. Free shipping to US and Canada.\n"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "https://kfocus.org/img/hosted/kfocus-systems-med-80p.webp"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "Focus M2"
-msgstr ""
-
-#: content/hardware.md:0
-msgid ""
-"Get the ultimate portable 15.6\" or 17.3\" Linux workstation with a 24c/32t\n"
-"5.8 GHz i9-14900HX. GPU choices range from the RTX 4060 up to the RTX 4090\n"
-"with 16 GB VRAM. Configured for AI and ML pipelines. Also perfect for\n"
-"rendering, Kubernetes, web development, and AAA games.\n"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "From $1895"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "Focus Ir16 and Ir14"
-msgstr ""
-
-#: content/hardware.md:0
-msgid ""
-"Compute in style with a premium thin-and-light 16\" laptop. Highlights\n"
-"include a brilliant 450-nit 16:10 display, no-flex keyboard, 12-core CPU,\n"
-"and all-alloy construction. Great for DevOps, coding, and creating. The\n"
-"Ir14 has similar specs, but in a 14\" form factor.\n"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "From $1145 and $1080"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "Focus NX"
-msgstr ""
-
-#: content/hardware.md:0
-msgid ""
-"Replace your tower with quiet power. Get blazing performance and reliable\n"
-"Intel hardware in an amazingly compact 4.6\" package. Drive up to 4 x 4K\n"
-"displays. Great for coding, compiling, creating, and DevOps.\n"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "From $795"
-msgstr ""
-
-#: content/hardware.md:0
-msgid "https://kfocus.org/"
 msgstr ""
 
 #: content/hardware.md:0
@@ -4102,6 +4102,224 @@ msgid ""
 "expressed on the mailing lists are, unless explicitly stated otherwise, the "
 "views of the poster only, do not reflect the views of the KDE Project and "
 "may or may not reflect the views of other KDE contributors."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Thank You"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Fosshost"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donates virtual servers"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"We use a virtual server provided by Fosshost to run WebSVN and LXR, and "
+"another to host privacy-respecting analytics and statistics of our websites "
+"and software."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "DigitalOcean"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Sponsors free credits on their cloud platform"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"We use a DigitalOcean droplet (virtual private server) to host one of our "
+"repository mirrors, and part of the KDE neon infrastructure."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "CDN77"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation of Content Distribution Network services"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"CDN77 is used to globally distribute the common images, stylesheets, "
+"javascript and other elements which are used on numerous KDE websites, "
+"enhancing performance and improving access to our sites in the process."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "stepping stone GmbH"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation of a virtual server"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"Mason is used to run an Anonymous Git server, providing access to KDE Git "
+"repositories over git:// and http://"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Ange Optimization"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Sponsors a hosted server"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"Ange Optimization has sponsored a server hosted by Hetzner. This server was "
+"used as a build node for the KDE CI system prior to it being retired."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Gärtner Datensysteme GmbH & Co. KG"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation and hosting of 3 virtual servers."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"Gärtner has donated a series of virtual machines, which host Scripty and the "
+"generation process for docs.kde.org as well as our server monitoring system."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Dalhousie University & ACORN"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation and hosting of a server."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"Dalhousie University has donated dalca.kde.org and hosts it, with network "
+"connectivity provided by ACORN. This server is used as a build node for the "
+"KDE CI system."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Cloudflare"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation of CDN services"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"Cloudflare protects some of our sites against SQL-injections and XSS-"
+"scripting. It also provides a CDN for common images, javascript and "
+"stylesheets which are used on multiple sites to optimize performance."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "ClouDNS"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation of DNS services"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"CloudDNS provides anycast nameservers for all our domains. Normal "
+"namesevers, DDOS-protected nameservers for our important domains and also "
+"GEO-ip-based nameservers for providing the right SCM-mirror in each "
+"continent."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Canonical"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation and hosting of a server (cano.kde.org)"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"Canonical has donated cano.kde.org and takes care of the hosting. This "
+"server hosted a number of websites prior to its retirement."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "GNU/FSF"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation of a virtual server (bluemchen.kde.org)"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"This server is used for a variety of tasks, including handling all "
+"transactional email for KDE.org services."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "OSUOSL"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation of a virtual server (stumptown.kde.org)"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"This server was used for a series of small websites prior to its retirement."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Francesco Riosa"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation of a virtual server (zivo.kde.org)"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"This server was used to host our API documentation (api.kde.org) as well as "
+"the English Breakfast Network (ebn.kde.org) prior to it being retired."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "EuroVPS"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation of 3 servers"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid ""
+"Servers provided by EuroVPS host an instance of Sentry.io as well as "
+"services for producing embedded builds of KDE software, in particular using "
+"Yocto."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Matrix.org Foundation"
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Donation of hosted Matrix home server."
+msgstr ""
+
+#: content/thanks/_index.md:0
+msgid "Matrix instant messaging services for the community to use."
 msgstr ""
 
 #~ msgid "Pinebook Pro"
