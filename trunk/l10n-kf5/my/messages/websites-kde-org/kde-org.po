@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-04 01:54+0000\n"
+"POT-Creation-Date: 2025-02-10 01:52+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -520,7 +520,7 @@ msgstr ""
 #: i18n/en.yaml:0
 msgid ""
 "KDE is an international technology team that creates free and open source "
-"software for desktop and portable computing. Among KDE's products are a "
+"software for desktop and portable computing. Among KDE’s products are a "
 "modern desktop system for Linux and UNIX platforms, comprehensive office "
 "productivity and groupware suites and hundreds of software titles in many "
 "categories including Internet and web applications, multimedia, "
@@ -1037,6 +1037,56 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Replay"
+msgstr ""
+
+#. Title
+#: i18n/en.yaml:0
+msgid "Thank You"
+msgstr ""
+
+#. Subtitle
+#: i18n/en.yaml:0
+msgid "Thanks!"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"The work of the KDE Community is made possible thanks to contributions from "
+"KDE Community members, donors and corporations that collaborate with us. We "
+"want to thank those organizations that make significant donations of goods "
+"and services to KDE by publishing their names on this page."
+msgstr ""
+
+#. Subtitle
+#: i18n/en.yaml:0
+msgid "Donations"
+msgstr ""
+
+#. Subtitle
+#: i18n/en.yaml:0
+msgid "Previous Donations"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Organization"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Description"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Usage"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Date"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"This page is made based on the policy as described in the <a href=\"https://"
+"ev.kde.org/rules/thankyou_policy/\">Thank You Policy</a>."
 msgstr ""
 
 #: i18n/en.yaml:0
