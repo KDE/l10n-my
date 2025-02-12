@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-10 01:52+0000\n"
+"POT-Creation-Date: 2025-02-12 01:53+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1085,8 +1085,8 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"This page is made based on the policy as described in the <a href=\"https://"
-"ev.kde.org/rules/thankyou_policy/\">Thank You Policy</a>."
+"This page is made based on the policy as described in the [Thank You Policy]"
+"(https://ev.kde.org/rules/thankyou_policy/)."
 msgstr ""
 
 #: i18n/en.yaml:0
