@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-15 00:49+0000\n"
+"POT-Creation-Date: 2025-02-16 00:48+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -946,7 +946,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:22
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:23
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1076,7 +1076,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr "မိုက်ခရိုဆော့ဖ်လ်ဒက်ဗ်ဗလောပါကွန်ရက် ရှာဖွေရန်"
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:30
+#: src/urifilters/ikws/searchproviders/mdn.desktop:31
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://docs.krita.org/en/search.html?q=\\\\{@}"
