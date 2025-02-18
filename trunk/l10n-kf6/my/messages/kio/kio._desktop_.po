@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-17 00:47+0000\n"
+"POT-Creation-Date: 2025-02-18 00:47+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1739,7 +1739,7 @@ msgctxt "Name"
 msgid "YouTube"
 msgstr "ယူကျုဘ်"
 
-#: src/urifilters/ikws/searchproviders/youtube.desktop:84
+#: src/urifilters/ikws/searchproviders/youtube.desktop:85
 msgctxt "Query"
 msgid "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
