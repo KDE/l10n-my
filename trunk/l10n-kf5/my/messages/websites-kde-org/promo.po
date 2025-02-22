@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-07 02:02+0000\n"
+"POT-Creation-Date: 2025-02-22 01:54+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1671,7 +1671,7 @@ msgid "An unofficial Final Fantasy XIV launcher using KDE technologies"
 msgstr ""
 
 #: content/for/gamers.md:0
-msgid "Minetest"
+msgid "Luanti"
 msgstr ""
 
 #: content/for/gamers.md:0
