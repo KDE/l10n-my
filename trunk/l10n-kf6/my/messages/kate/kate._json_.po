@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-22 00:50+0000\n"
+"POT-Creation-Date: 2025-03-02 00:50+0000\n"
 "PO-Revision-Date: 2024-09-09 16:38+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -24,9 +24,12 @@ msgid "Close Except/Like"
 msgstr ""
 
 #: addons/cmake-tools/cmaketoolsplugin.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "XML Completion"
 msgctxt "Name"
-msgid "CMake Tools"
-msgstr "CMakeကိရိယာများ"
+msgid "CMake Completion"
+msgstr "XMLကူရေးပေးခြင်း"
 
 #: addons/colorpicker/katecolorpickerplugin.json
 msgctxt "Name"
@@ -195,8 +198,8 @@ msgstr "တူညီသောဖိုင်နေရာ သို့ ဖို�
 
 #: addons/cmake-tools/cmaketoolsplugin.json
 msgctxt "Description"
-msgid "CMake plugin for kate"
-msgstr "ကိတ်အတွက် CMake ပလပ်ဂင်"
+msgid "Code completion for CMake files"
+msgstr ""
 
 #: addons/colorpicker/katecolorpickerplugin.json
 msgctxt "Description"
@@ -360,6 +363,14 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Friedrich W. H. Kossebau"
 msgstr "ဖရက်ရစ် ဒဗျူ.အိပ်ချ်.ကိုဆက်ဘောက်"
+
+#~ msgctxt "Name"
+#~ msgid "CMake Tools"
+#~ msgstr "CMakeကိရိယာများ"
+
+#~ msgctxt "Description"
+#~ msgid "CMake plugin for kate"
+#~ msgstr "ကိတ်အတွက် CMake ပလပ်ဂင်"
 
 #~ msgctxt "Name"
 #~ msgid "GDB"
