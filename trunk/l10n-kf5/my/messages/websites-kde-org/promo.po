@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-02 01:57+0000\n"
+"POT-Creation-Date: 2025-03-19 01:56+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -3229,7 +3229,7 @@ msgstr ""
 
 #: content/hardware.md:0
 msgid ""
-"The KDE Slimbook V with its Ryzen 7 7840HS processor gives you better\n"
+"The KDE Slimbook VI with its Ryzen 7 8845HS processor gives you better\n"
 "performance while running your applications. KDE Neon, with the new Plasma "
 "6\n"
 "desktop provides the best environment and the widest range of programs for\n"
@@ -3248,14 +3248,14 @@ msgstr ""
 #: content/hardware.md:0
 #, fuzzy
 #| msgid "AMD Ryzen 7 4800 H"
-msgid "AMD Ryzen 7 7840HS"
+msgid "AMD Ryzen 7 8845HS"
 msgstr "အေအမ်ဒီ ရိုင်ဇန် ၇ ၄၈၀၀ အိပ်ချ်"
 
 #: content/hardware.md:0
 #, fuzzy
 #| msgid "15.6-inch IPS LED display with 1920 by 1080 resolution at 60Hz"
 msgid ""
-"16-inch IPS LED display with 2560 by 1600 resolution at 165 Hz and sRGB 100%"
+"16-inch IPS LED display with 2560 by 1600 resolution at 120Hz and sRGB 100%"
 msgstr "၆၀ဟာ့ဇ် ၁၉၂၀-၁၀၈၀ ရီဆိုလူးရှင်းရှိသော ၁၅.၆လက်မ အိုင်ပီအက်စ် အယ်အီးဒီ ဒစ်(စ)ပလေး"
 
 #: content/hardware.md:0
@@ -3267,22 +3267,24 @@ msgstr "၂ တယ်ရာဘိုက် အက်စ်အက်စ်ဒီ 
 #: content/hardware.md:0
 #, fuzzy
 #| msgid "Up to 64GB memory"
-msgid "Up to 64GB 5600 MHz non-soldered memory"
+msgid "Up to 96GB 5600 MHz non-soldered memory"
 msgstr "၆၄ ဂစ်ဂါဘိုက်မန်မိုရီ ထိ"
 
 #: content/hardware.md:0
-msgid "720p webcam with physical switch"
+msgid "720p webcam"
 msgstr ""
 
 #: content/hardware.md:0
 #, fuzzy
 #| msgid "47‑watt‑hour battery"
-msgid "68‑watt‑hour battery"
+msgid "80‑watt‑hour battery"
 msgstr "၄၇ ဝပ်-နာရီ ဘက်ထရီ"
 
 #: content/hardware.md:0
-msgid "1.86 kg"
-msgstr ""
+#, fuzzy
+#| msgid "1.5 kg"
+msgid "1.85 kg"
+msgstr "၁.၅ ကီလိုဂရမ်"
 
 #: content/hardware.md:0
 msgid "Configure"
@@ -4362,9 +4364,6 @@ msgstr ""
 
 #~ msgid "92‑watt‑hour battery"
 #~ msgstr "၉၂ ဝပ်-နာရီ ဘက်ထရီ"
-
-#~ msgid "1.5 kg"
-#~ msgstr "၁.၅ ကီလိုဂရမ်"
 
 #~ msgid "2019 report"
 #~ msgstr "၂၀၁၉ အစီအရင်ခံစာ"
