@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-08 00:48+0000\n"
+"POT-Creation-Date: 2025-05-13 00:48+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -44,9 +44,11 @@ msgid "Empty File..."
 msgstr "ဖိုင်လ်အလွတ်…"
 
 #: src/new_file_templates/EmptyFile.desktop:59
-#: src/new_file_templates/TextFile.desktop:96
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Enter text filename:"
 msgctxt "Comment"
-msgid "Enter text filename:"
+msgid "Enter name for empty file:"
 msgstr "စာသားဖိုင်လ်အမည်ရေးပါ -"
 
 #: src/new_file_templates/HTMLFile.desktop:2
@@ -93,6 +95,11 @@ msgstr "လင့်ခ်ချိတ်ရမည့် URLတည်နေရ�
 msgctxt "Name"
 msgid "Text File..."
 msgstr "စာသားဖိုင်လ်..."
+
+#: src/new_file_templates/TextFile.desktop:96
+msgctxt "Comment"
+msgid "Enter text filename:"
+msgstr "စာသားဖိုင်လ်အမည်ရေးပါ -"
 
 #: src/schemehandlers/telnet/ktelnetservice6.desktop:9
 msgctxt "Name"
