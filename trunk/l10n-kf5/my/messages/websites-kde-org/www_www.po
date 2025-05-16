@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-09 01:55+0000\n"
+"POT-Creation-Date: 2025-05-16 02:04+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -25442,6 +25442,18 @@ msgid ""
 "ApplicationsListPage: fix \"Still Looking\" indicator. [Commit.](http://"
 "commits.kde.org/discover/e3d300cb309990e99211860d97495abf068592ac) Fixes bug "
 "[#485379](https://bugs.kde.org/485379)"
+msgstr ""
+
+#: content/announcements/plasma/6/6.3.90.md:10
+msgid "Here are the new modules available in the Plasma 6.4 beta:"
+msgstr ""
+
+#: content/announcements/plasma/6/6.3.90.md:12
+msgid "aurorae"
+msgstr ""
+
+#: content/announcements/plasma/6/6.3.90.md:13
+msgid "kwin-x11"
 msgstr ""
 
 #: content/fundraisers/plasma6member.md:0
