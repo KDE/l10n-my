@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2022-06-17 00:46+0000\n"
+"POT-Creation-Date: 2025-05-23 00:44+0000\n"
 "PO-Revision-Date: 2021-09-19 13:16+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -19,8 +19,8 @@ msgstr "စစ်စတမ်ဆက်တင်များ"
 
 #. (itstool) path: component/summary
 #: org.kde.systemsettings.metainfo.xml:20
-msgid "Configuration tools for your computer"
-msgstr "သင့်ကွန်ပြူတာအတွက် ပြင်ဆင်ရေးကိရိယာများ"
+msgid "Configure the system’s behavior and appearance"
+msgstr ""
 
 #. (itstool) path: description/p
 #: org.kde.systemsettings.metainfo.xml:23
@@ -28,3 +28,6 @@ msgid ""
 "System Settings allows you to configure and tweak your KDE Plasma desktop to "
 "make it better meet your needs."
 msgstr ""
+
+#~ msgid "Configuration tools for your computer"
+#~ msgstr "သင့်ကွန်ပြူတာအတွက် ပြင်ဆင်ရေးကိရိယာများ"
