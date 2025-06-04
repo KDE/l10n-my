@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-28 02:02+0000\n"
+"POT-Creation-Date: 2025-06-04 02:00+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -650,7 +650,7 @@ msgstr "ကေဒီအီးသည် ကေဒီအီးမူဘောင�
 msgid "KDE today announces the release of KDE Frameworks %1."
 msgstr "ကေဒီအီးသည် ကေဒီအီးမူဘောင် %ver ထုတ်ဝေမှုကို ယနေ့ ကြေညာလိုက်သည်"
 
-#. %1 a number greater than or equal to 60, %2 link
+#. %1 a number greater than or equal to 60
 #: i18n/en.yaml:0
 #, fuzzy
 msgid ""
