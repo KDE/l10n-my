@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-02 02:02+0000\n"
+"POT-Creation-Date: 2025-07-09 02:04+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -315,17 +315,6 @@ msgid ""
 "Fedora is released every 6 months."
 msgstr ""
 
-#: content/distributions.md:0
-msgid "Manjaro KDE"
-msgstr "မန်ဂျာရို ကေဒီအီး"
-
-#: content/distributions.md:0
-msgid ""
-"Manjaro is a distribution based on Arch Linux, aimed at simplifying its "
-"installation and configuration. The Manjaro KDE version, in particular, is "
-"configured to use KDE Plasma and KDE core applications."
-msgstr ""
-
 #: content/distributions.md:0 content/products.md:0
 msgid "KDE neon"
 msgstr "ကေဒီအီး နီယွန်"
@@ -365,23 +354,23 @@ msgid ""
 "descriptions on the project sites in order to get a more complete picture."
 msgstr ""
 
-#: content/distributions.md:68
+#: content/distributions.md:61
 msgid "Installation Instructions"
 msgstr ""
 
-#: content/distributions.md:70
+#: content/distributions.md:63
 msgid ""
 "You can install any of these Linux distributions by using [KDE ISO Image "
 "Writer](https://apps.kde.org/isoimagewriter/)."
 msgstr ""
 
-#: content/distributions.md:72
+#: content/distributions.md:65
 msgid ""
 "Each distribution should also contain installation instructions and a quick-"
 "start guide."
 msgstr ""
 
-#: content/distributions.md:74
+#: content/distributions.md:67
 msgid "You can also [buy devices with Plasma](/hardware)."
 msgstr ""
 
@@ -4787,6 +4776,9 @@ msgstr ""
 #: content/thanks/_index.md:0
 msgid "Matrix instant messaging services for the community to use."
 msgstr ""
+
+#~ msgid "Manjaro KDE"
+#~ msgstr "မန်ဂျာရို ကေဒီအီး"
 
 #, fuzzy
 #~| msgid "KDE Applications"
