@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-05 00:49+0000\n"
+"POT-Creation-Date: 2025-07-21 02:42+0000\n"
 "PO-Revision-Date: 2021-09-19 13:15+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -46,22 +46,22 @@ msgctxt "Name"
 msgid "System Settings"
 msgstr "စစ်စတမ်ဆက်တင်များ"
 
-#: app/systemsettings.desktop:304
+#: app/systemsettings.desktop:305
 msgctxt "Name"
 msgid "Global Theme"
 msgstr ""
 
-#: app/systemsettings.desktop:363
+#: app/systemsettings.desktop:364
 msgctxt "Name"
 msgid "Users"
 msgstr "အသုံးပြုသူများ"
 
-#: app/systemsettings.desktop:424
+#: app/systemsettings.desktop:425
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr "စခရင် သော့ခတ်ခြင်း"
 
-#: app/systemsettings.desktop:484
+#: app/systemsettings.desktop:485
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Window Management"
@@ -69,7 +69,7 @@ msgctxt "Name"
 msgid "Power Management"
 msgstr "ဝင်းဒိုးစီမံမှု"
 
-#: app/systemsettings.desktop:570
+#: app/systemsettings.desktop:571
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr ""
