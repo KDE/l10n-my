@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-09 02:04+0000\n"
+"POT-Creation-Date: 2025-07-22 02:04+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -4175,6 +4175,14 @@ msgid ""
 "Add-ons for Qt. Try, for example, [Kirigami](https://develop.kde.org/"
 "frameworks/kirigami/): the UI for building apps for desktop, mobile, and "
 "everything in between."
+msgstr ""
+
+#: content/products.md:0
+msgid "KDE Linux"
+msgstr ""
+
+#: content/products.md:0
+msgid "Work in progress KDE Operating System."
 msgstr ""
 
 #: content/products.md:0
