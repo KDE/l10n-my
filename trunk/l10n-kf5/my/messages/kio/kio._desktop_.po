@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-28 02:01+0000\n"
+"POT-Creation-Date: 2025-08-05 02:28+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -891,7 +891,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr "ဂူးဂယ်စျေးဝယ်ထွက်"
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:70
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:71
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
@@ -901,7 +901,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "ကတ်တလန်ဘာသာစကား၏ ဒစ်ရှင်နရီကြီး (GRan Enciclopèdia Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:62
+#: src/urifilters/ikws/searchproviders/grec.desktop:63
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
@@ -1078,7 +1078,7 @@ msgctxt "Name"
 msgid "KDE Store"
 msgstr "ကေဒီအီး စတိုး"
 
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:54
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:55
 msgctxt "Query"
 msgid "https://store.kde.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr "https://store.kde.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1179,7 +1179,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "မိုက်ခရိုဆော့ဖ် စီ++ ဒိုကူမန်တေးရှင်း"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:53
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:54
 msgctxt "Query"
 msgid "https://docs.microsoft.com/search/?terms=\\\\{@}&scope=C%2B%2B"
 msgstr "https://docs.microsoft.com/search/?terms=\\\\{@}&scope=C%2B%2B"
