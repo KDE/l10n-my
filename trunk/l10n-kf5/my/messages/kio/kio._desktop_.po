@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-05 02:28+0000\n"
+"POT-Creation-Date: 2025-08-07 02:08+0000\n"
 "PO-Revision-Date: 2022-10-05 21:22+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1499,7 +1499,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "ရက်စ် အက်စ်တီဒီ ဒိုကူမန်တေးရှင်း"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:52
+#: src/urifilters/ikws/searchproviders/rust.desktop:53
 msgctxt "Query"
 msgid "https://doc.rust-lang.org/std/index.html?search=\\\\{@}"
 msgstr "https://doc.rust-lang.org/std/index.html?search=\\\\{@}"
