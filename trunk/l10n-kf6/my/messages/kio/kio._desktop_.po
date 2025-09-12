@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-11 00:49+0000\n"
+"POT-Creation-Date: 2025-09-12 00:49+0000\n"
 "PO-Revision-Date: 2025-09-09 16:16+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -228,7 +228,7 @@ msgctxt "Name"
 msgid "openSUSE Bugzilla"
 msgstr "openSUSE Bugzilla"
 
-#: src/urifilters/ikws/searchproviders/boo.desktop:50
+#: src/urifilters/ikws/searchproviders/boo.desktop:51
 msgctxt "Query"
 msgid "https://bugzilla.opensuse.org/show_bug.cgi?id=\\\\{@}"
 msgstr "https://bugzilla.opensuse.org/show_bug.cgi?id=\\\\{@}"
@@ -258,7 +258,7 @@ msgctxt "Name"
 msgid "Can I Use…"
 msgstr "အသုံးပြုနိုင်သလား…"
 
-#: src/urifilters/ikws/searchproviders/caniuse.desktop:37
+#: src/urifilters/ikws/searchproviders/caniuse.desktop:38
 msgctxt "Query"
 msgid "https://caniuse.com/?search=\\\\{@}"
 msgstr "https://caniuse.com/?search=\\\\{@}"
@@ -296,7 +296,7 @@ msgctxt "Name"
 msgid "Codeberg"
 msgstr "Codeberg"
 
-#: src/urifilters/ikws/searchproviders/codeberg.desktop:50
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:51
 msgctxt "Query"
 msgid ""
 "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
@@ -438,7 +438,7 @@ msgctxt "Name"
 msgid "Docker Hub"
 msgstr "Docker Hub"
 
-#: src/urifilters/ikws/searchproviders/dockerhub.desktop:37
+#: src/urifilters/ikws/searchproviders/dockerhub.desktop:38
 msgctxt "Query"
 msgid "https://hub.docker.com/search?q=\\\\{@}"
 msgstr "https://hub.docker.com/search?q=\\\\{@}"
@@ -458,7 +458,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr "ဒက်ဒက်ဂိုး"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:38
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:39
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -554,7 +554,7 @@ msgctxt "Name"
 msgid "Fedora Packages"
 msgstr "Fedora Packages"
 
-#: src/urifilters/ikws/searchproviders/fedora.desktop:36
+#: src/urifilters/ikws/searchproviders/fedora.desktop:37
 msgctxt "Query"
 msgid "https://packages.fedoraproject.org/search?query=\\\\{@}"
 msgstr "https://packages.fedoraproject.org/search?query=\\\\{@}"
@@ -936,7 +936,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr "ပလက်စမာ တိုးချဲ့ပရိုဂရမ်ငယ်များ"
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:36
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:37
 msgctxt "Query"
 msgid "https://store.kde.org/browse?tag=\\\\{@}"
 msgstr "https://store.kde.org/browse?tag=\\\\{@}"
@@ -1060,7 +1060,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr "Mozilla Developer Network (MDN)"
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:37
+#: src/urifilters/ikws/searchproviders/mdn.desktop:38
 msgctxt "Query"
 msgid "https://developer.mozilla.org/en-US/search?q=\\\\{@}"
 msgstr "https://developer.mozilla.org/en-US/search?q=\\\\{@}"
@@ -1171,7 +1171,7 @@ msgctxt "Name"
 msgid "Nix Packages"
 msgstr "Nix Packages"
 
-#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:37
+#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:38
 msgctxt "Query"
 msgid ""
 "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
@@ -1207,7 +1207,7 @@ msgctxt "Name"
 msgid "npm"
 msgstr "npm"
 
-#: src/urifilters/ikws/searchproviders/npm.desktop:37
+#: src/urifilters/ikws/searchproviders/npm.desktop:38
 msgctxt "Query"
 msgid "https://www.npmjs.com/search?q=\\\\{@}"
 msgstr "https://www.npmjs.com/search?q=\\\\{@}"
@@ -1269,7 +1269,7 @@ msgctxt "Name"
 msgid "PyPI"
 msgstr "PyPI"
 
-#: src/urifilters/ikws/searchproviders/pypi.desktop:49
+#: src/urifilters/ikws/searchproviders/pypi.desktop:50
 msgctxt "Query"
 msgid "https://pypi.org/search/?q=\\\\{@}"
 msgstr "https://pypi.org/search/?q=\\\\{@}"
@@ -1585,7 +1585,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr "ဝီကီပီးဒီးယား"
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:38
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:39
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1730,7 +1730,7 @@ msgctxt "Name"
 msgid "C++ Worker (KF6)"
 msgstr "C++ Worker (KF6)"
 
-#: templates/kioworker6/kioworker6.kdevtemplate:42
+#: templates/kioworker6/kioworker6.kdevtemplate:43
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "KIO Workerပုံစံပြား"
