@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-06 02:11+0000\n"
+"POT-Creation-Date: 2025-09-21 02:04+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -150,13 +150,13 @@ msgid "Buy a computer with Plasma preinstalled"
 msgstr ""
 
 #: i18n/en.yaml:0
-msgid "Pinebook Pro"
+msgid "Tuxedo Computers"
 msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"The Pinebook Pro is an affordable ARM powered laptop. It is modular and "
-"hackable in a way that only an Open Source project can be."
+"Customizable Plasma-based notebooks and desktop computers optimized for "
+"tailor-made hardware."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -170,13 +170,13 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-msgid "KFocus"
+msgid "Kubuntu Focus"
 msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"The Kubuntu Focus laptop is a high-powered, workflow-focused laptop which "
-"ships with Kubuntu installed."
+"Kubuntu Focus optimizes the OS for the hardware so you don't have to. Save "
+"time with dozens of powerful tools and comprehensive guides."
 msgstr ""
 
 #: i18n/en.yaml:0

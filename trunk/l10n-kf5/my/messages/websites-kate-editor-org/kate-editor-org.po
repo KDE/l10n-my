@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-16 02:04+0000\n"
+"POT-Creation-Date: 2025-09-21 02:04+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -631,8 +631,11 @@ msgstr ""
 
 #: content/build-it.md:224
 msgid ""
-"If you have questions you can ask them on our mailing list [kwrite-devel@kde."
-"org](mailto:kwrite-devel@kde.org) and/or join #kate on irc.libera.chat."
+"If you have questions you can ask them in our [Kate section](https://discuss."
+"kde.org/tag/kate) on the [KDE discourse server](https://discuss.kde.org/) "
+"and/or join our [Kate Matrix channel](https://go.kde.org/matrix/#/#kate:kde."
+"org) (more general info about Matrix & KDE [here](https://community.kde.org/"
+"Matrix))."
 msgstr ""
 
 #: content/build-it.md:226
