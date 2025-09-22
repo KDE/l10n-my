@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-15 02:02+0000\n"
+"POT-Creation-Date: 2025-09-22 02:00+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -15,73 +15,71 @@ msgstr ""
 "X-Generator: Poedit 3.0\n"
 
 #: content/_index.md:0
-msgid "Ubuntu Summit 2022"
+msgid "Kdenlive 2025 Sprint"
 msgstr ""
 
 #: content/_index.md:0
-msgid "Prague"
+msgid "Berlin, Germany"
 msgstr ""
 
 #: content/_index.md:0
-msgid "State of Open Con"
+msgid "FOSDEM 2025"
 msgstr ""
 
 #: content/_index.md:0
-msgid "London - England"
+msgid "Brussels, Belgium"
 msgstr ""
 
 #: content/_index.md:0
-#, fuzzy
-#| msgid "Plasma"
-msgid "Plasma Sprint"
-msgstr "ပလက်စမာ"
-
-#: content/_index.md:0
-msgid "Augsburg - Germany"
+msgid "conf.kde.in 2025"
 msgstr ""
 
 #: content/_index.md:0
-msgid "Latinoware"
+msgid "Gandhinagar, Gujarat, India"
 msgstr ""
 
 #: content/_index.md:0
-msgid "Brazil"
+msgid "Scale22x"
 msgstr ""
 
 #: content/_index.md:0
-msgid "Fosdem"
+msgid "Pasadena, CA, USA"
 msgstr ""
 
 #: content/_index.md:0
-msgid "Brussels - Belgium"
+msgid "FOSSAsia"
 msgstr ""
 
 #: content/_index.md:0
-msgid "Google Summer of Code Students"
-msgstr ""
-
-#: content/_index.md:0 content/goals/index.md:0
-msgid "KDE Goals"
+msgid "Bangkok, Thailand"
 msgstr ""
 
 #: content/_index.md:0
-msgid "Thessaloniki - Greece"
+msgid "IndiaFOSS"
 msgstr ""
 
 #: content/_index.md:0
-msgid "Akademy 2022"
+msgid "Bengaluru, India"
 msgstr ""
 
 #: content/_index.md:0
-msgid "Barcelona"
+msgid "Linux App Summit"
 msgstr ""
 
 #: content/_index.md:0
-msgid "KDE Conf India 2024"
+msgid "Tirana, Albania"
 msgstr ""
 
 #: content/_index.md:0
-msgid "Pune, Maharashtra"
+msgid "Akademy-es 2025"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Málaga, Spain"
+msgstr ""
+
+#: content/_index.md:0
+msgid "Akademy 2025"
 msgstr ""
 
 #: content/announcements/_index.md:0
@@ -3295,6 +3293,10 @@ msgid ""
 msgstr ""
 
 #: content/goals/index.md:0
+msgid "KDE Goals"
+msgstr ""
+
+#: content/goals/index.md:0
 msgid "KDE's goals for the 2024-2026 cycle"
 msgstr ""
 
@@ -5481,6 +5483,11 @@ msgstr ""
 #: content/thanks/_index.md:0
 msgid "Matrix instant messaging services for the community to use."
 msgstr ""
+
+#, fuzzy
+#~| msgid "Plasma"
+#~ msgid "Plasma Sprint"
+#~ msgstr "ပလက်စမာ"
 
 #~ msgid "Manjaro KDE"
 #~ msgstr "မန်ဂျာရို ကေဒီအီး"
