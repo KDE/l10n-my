@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-22 02:00+0000\n"
+"POT-Creation-Date: 2025-10-01 02:07+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -4021,10 +4021,10 @@ msgstr ""
 #: content/linux.md:81
 msgid ""
 "**The experience of using an older NVIDIA GPU is rough.** [Manual setup]"
-"(https://community.kde.org/KDE_Linux#Use_a_pre-Turing_\\(GTX_1630_or_older"
-"\\)_NVIDIA_GPU) is currently required for anything older than an NVIDIA GTX "
-"1630 to even work at all, and they are essentially untested. There be "
-"dragons. You’ve been warned."
+"(https://community.kde.org/KDE_Linux/Use_a_pre-"
+"Turing_(older_than_GTX_1630)_NVIDIA_GPU) is currently required for anything "
+"older than an NVIDIA GTX 1630 to even work at all, and they are essentially "
+"untested. There be dragons. You’ve been warned."
 msgstr ""
 
 #: content/linux.md:82
@@ -4194,8 +4194,8 @@ msgstr ""
 
 #: content/linux.md:149
 msgid ""
-"Learn more on the [KDE Linux wiki page](https://community.kde.org/"
-"KDE_Linux#Architecture)."
+"Learn more on the [KDE Linux wiki page](https://community.kde.org/KDE_Linux/"
+"Background_information#Architecture)."
 msgstr ""
 
 #: content/linux.md:152
@@ -4234,8 +4234,8 @@ msgstr ""
 
 #: content/linux.md:160
 msgid ""
-"Learn more on the [KDE Linux wiki page](https://community.kde.org/"
-"KDE_Linux#Install_software_not_available_in_Discover)."
+"Learn more on the [KDE Linux wiki page](https://community.kde.org/KDE_Linux/"
+"Install_software_not_available_in_Discover)."
 msgstr ""
 
 #: content/linux.md:163
@@ -4266,8 +4266,8 @@ msgid ""
 "Older NVIDIA GPUs *should* work with the less-performant Nouveau drivers, "
 "which are included. However support for this must be manually enabled right "
 "now, and is not recommended for non-experts. Follow [the instructions here]"
-"(https://community.kde.org/KDE_Linux#Use_a_pre-"
-"Turing_(GTX_1630_or_older)_NVIDIA_GPU), and temper your expectations "
+"(https://community.kde.org/KDE_Linux/Use_a_pre-"
+"Turing_(older_than_GTX_1630)_NVIDIA_GPU), and temper your expectations "
 "accordingly."
 msgstr ""
 
@@ -4310,8 +4310,8 @@ msgstr ""
 
 #: content/linux.md:179
 msgid ""
-"Learn more on the [KDE Linux wiki page.](https://community.kde.org/"
-"KDE_Linux#Develop_KDE_software)"
+"Learn more on the [KDE Linux wiki page.](https://community.kde.org/KDE_Linux/"
+"Develop_KDE_software)"
 msgstr ""
 
 #: content/linux.md:182
