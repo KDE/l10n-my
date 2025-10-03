@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-19 02:03+0000\n"
+"POT-Creation-Date: 2025-10-03 02:05+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -26422,6 +26422,7 @@ msgid "knighttime"
 msgstr ""
 
 #: content/announcements/plasma/6/6.4.90.md:14
+#: content/announcements/plasma/6/6.4.91.md:10
 msgid ""
 "Some important features and changes included in 6.5 beta are [highlighted on "
 "KDE community wiki page](https://community.kde.org/Plasma/"
