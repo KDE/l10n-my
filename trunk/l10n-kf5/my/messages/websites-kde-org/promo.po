@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-08 02:01+0000\n"
+"POT-Creation-Date: 2025-10-09 02:07+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -277,6 +277,19 @@ msgid "Choose a Linux distribution and start using KDE applications and Plasma"
 msgstr ""
 
 #: content/distributions.md:0
+msgid "openSUSE"
+msgstr "အိုးပန်းဆူဆီ"
+
+#: content/distributions.md:0
+msgid ""
+"openSUSE comes in two versions. **Leap**, a stable distribution with regular "
+"releases, comes with LTS versions of Linux, Qt and Plasma. **Tumbleweed**, a "
+"rolling distribution with the latest versions of all packages\n"
+"\n"
+"SUSE is a KDE Patron.\n"
+msgstr ""
+
+#: content/distributions.md:0
 msgid "Fedora KDE"
 msgstr "ဖဲဒိုရာ ကေဒီအီး"
 
@@ -298,19 +311,6 @@ msgid ""
 "utility for managing drivers.\n"
 "\n"
 "Canonical, the developer of Ubuntu and Kubuntu, is a KDE Patron.\n"
-msgstr ""
-
-#: content/distributions.md:0
-msgid "openSUSE"
-msgstr "အိုးပန်းဆူဆီ"
-
-#: content/distributions.md:0
-msgid ""
-"openSUSE comes in two versions. **Leap**, a stable distribution with regular "
-"releases, comes with LTS versions of Linux, Qt and Plasma. **Tumbleweed**, a "
-"rolling distribution with the latest versions of all packages\n"
-"\n"
-"SUSE is a KDE Patron.\n"
 msgstr ""
 
 #: content/distributions.md:0 content/products.md:0
@@ -3370,7 +3370,7 @@ msgid ""
 "              KDE has a diverse users base with unique input needs: artists "
 "using complex monitor and drawing tablet setups; gamers with controllers, "
 "fancy mice, and handhelds; users requiring accessibility features or using a "
-"language optimally types with complex input methods; students with laptops, "
+"language optimally typed with complex input methods; students with laptops, "
 "2-in-1s, and tablets — and more! While KDE has made significant progress in "
 "supporting these diverse sources of input input over the years, there are "
 "still gaps to be addressed. This goal aims to close those gaps and deliver a "
