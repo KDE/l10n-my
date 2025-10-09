@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-12 00:53+0000\n"
+"POT-Creation-Date: 2025-10-09 10:04+0000\n"
 "PO-Revision-Date: 2024-09-09 16:38+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -248,8 +248,8 @@ msgstr "ဖွင့်ထားသောမှတ်တမ်းစာအုပ
 
 #: addons/format/FormatPlugin.json
 msgctxt "Description"
-msgid "Plugin for formatting code"
-msgstr "ကုဒ်ကို စာစီပုံစံချရန်အတွက် ကိရိယာ"
+msgid "Format using an external tool when the file is saved"
+msgstr ""
 
 #: addons/gdbplugin/kategdbplugin.json
 msgctxt "Description"
@@ -376,6 +376,10 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Friedrich W. H. Kossebau"
 msgstr "ဖရက်ရစ် ဒဗျူ.အိပ်ချ်.ကိုဆက်ဘောက်"
+
+#~ msgctxt "Description"
+#~ msgid "Plugin for formatting code"
+#~ msgstr "ကုဒ်ကို စာစီပုံစံချရန်အတွက် ကိရိယာ"
 
 #~ msgctxt "Name"
 #~ msgid "CMake Tools"
