@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-10-22 02:00+0000\n"
+"POT-Creation-Date: 2025-10-28 02:04+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -34,10 +34,6 @@ msgstr "ပို့စ်များ"
 #: config.yaml:0
 msgid "More"
 msgstr "ပိုမို"
-
-#: config.yaml:0
-msgid "Merge Requests"
-msgstr "စုပေါင်းရန်တောင်းဆိုမှုများ"
 
 #: content/_index.md:0
 msgid "Kate - Get an Edge in Editing"
@@ -3302,6 +3298,9 @@ msgid ""
 "During the full project lifetime **%1 people** contributed. Thanks for "
 "making Kate possible!"
 msgstr ""
+
+#~ msgid "Merge Requests"
+#~ msgstr "စုပေါင်းရန်တောင်းဆိုမှုများ"
 
 #, fuzzy
 #~| msgid ""
