@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-02 02:00+0000\n"
+"POT-Creation-Date: 2025-11-05 10:38+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -397,9 +397,9 @@ msgstr ""
 
 #: content/donate.md:0
 #, fuzzy
-#| msgid "2020 report"
-msgid "2022 report"
-msgstr "၂၀၂၀ အစီအရင်ခံစာ"
+#| msgid "2018 report"
+msgid "2024 report"
+msgstr "၂၀၁၈ အစီအရင်ခံစာ"
 
 #: content/donate.md:0
 #, fuzzy
@@ -409,9 +409,9 @@ msgstr "၂၀၂၀ အစီအရင်ခံစာ"
 
 #: content/donate.md:0
 #, fuzzy
-#| msgid "2018 report"
-msgid "2024 report"
-msgstr "၂၀၁၈ အစီအရင်ခံစာ"
+#| msgid "2020 report"
+msgid "2022 report"
+msgstr "၂၀၂၀ အစီအရင်ခံစာ"
 
 #: content/donate.md:0
 msgid "Donate"
