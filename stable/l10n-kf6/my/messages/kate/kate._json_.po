@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-02 07:15+0000\n"
+"POT-Creation-Date: 2025-10-30 00:53+0000\n"
 "PO-Revision-Date: 2024-09-09 16:38+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -90,6 +90,14 @@ msgstr "တည်ဆောက် & မောင်းနှင်"
 msgctxt "Name"
 msgid "CTags"
 msgstr "စီတပ်"
+
+#: addons/kategpgplugin/kategpgplugin.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "SQL Plugin"
+msgctxt "Name"
+msgid "GPG Plugin"
+msgstr "အက်စ်ကျူအယ် ပလပ်ဂင်"
 
 #: addons/katesql/katesql.json
 msgctxt "Name"
@@ -248,8 +256,8 @@ msgstr "ဖွင့်ထားသောမှတ်တမ်းစာအုပ
 
 #: addons/format/FormatPlugin.json
 msgctxt "Description"
-msgid "Plugin for formatting code"
-msgstr "ကုဒ်ကို စာစီပုံစံချရန်အတွက် ကိရိယာ"
+msgid "Format using an external tool when the file is saved"
+msgstr ""
 
 #: addons/gdbplugin/kategdbplugin.json
 msgctxt "Description"
@@ -270,6 +278,11 @@ msgstr "တည်ဆောက်၊ ရလဒ်များကို ဖတ်�
 msgctxt "Description"
 msgid "Look up definitions/declarations with CTags"
 msgstr "CTagsသုံးထားသော ကုဒ်ကျေညာချက်၊အဓိပ္ပာယ်ရေးသားချက်များကို ရှာဖွေမည်"
+
+#: addons/kategpgplugin/kategpgplugin.json
+msgctxt "Description"
+msgid "A GPG plugin to decrypt and encrypt text files"
+msgstr ""
 
 #: addons/katesql/katesql.json
 msgctxt "Description"
@@ -298,7 +311,7 @@ msgstr ""
 
 #: addons/openlink/OpenLinkPlugin.json
 msgctxt "Description"
-msgid "Highlight and open links"
+msgid "Highlight and open links (via CTRL-click)"
 msgstr ""
 
 #: addons/preview/ktexteditorpreview.json
@@ -376,6 +389,10 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Friedrich W. H. Kossebau"
 msgstr "ဖရက်ရစ် ဒဗျူ.အိပ်ချ်.ကိုဆက်ဘောက်"
+
+#~ msgctxt "Description"
+#~ msgid "Plugin for formatting code"
+#~ msgstr "ကုဒ်ကို စာစီပုံစံချရန်အတွက် ကိရိယာ"
 
 #~ msgctxt "Name"
 #~ msgid "CMake Tools"

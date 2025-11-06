@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akonadi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-13 02:45+0000\n"
+"POT-Creation-Date: 2025-11-05 00:44+0000\n"
 "PO-Revision-Date: 2021-09-27 23:52+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -91,70 +91,70 @@ msgctxt "@info:status"
 msgid "Not configured"
 msgstr "မပြင်ဆင်ထားရသေးပါ"
 
-#: agentbase/resourcebase.cpp:533
+#: agentbase/resourcebase.cpp:527
 #, kde-format
 msgctxt "@label command line option"
 msgid "Resource identifier"
 msgstr "ရင်းမြစ် ခွဲခြားသတ်မှတ်အတည်ပြုချက်"
 
-#: agentbase/resourcebase.cpp:539
+#: agentbase/resourcebase.cpp:533
 #, kde-format
 msgid "Akonadi Resource"
 msgstr "အကွန်နဒီ ရင်းမြစ်"
 
-#: agentbase/resourcebase.cpp:581
+#: agentbase/resourcebase.cpp:575
 #, kde-format
 msgctxt "@info"
 msgid "Invalid item retrieved"
 msgstr "မမှန်ကန်သော အိုင်တမ် ပြန်ရရှိခဲ့သည်"
 
-#: agentbase/resourcebase.cpp:604
+#: agentbase/resourcebase.cpp:598
 #, kde-format
 msgctxt "@info"
 msgid "Error while creating item: %1"
 msgstr "အိုင်တမ်ဖန်တီးနေစဥ်အမှားဖြစ်ပေါ်ခဲ့သည်- %1"
 
-#: agentbase/resourcebase.cpp:628
+#: agentbase/resourcebase.cpp:622
 #, kde-format
 msgctxt "@info"
 msgid "Error while updating collection: %1"
 msgstr "စုစည်းမှုအပ်ဒိတ်တင်ရာတွင် အမှားဖြစ်ပေါ်ခဲ့သည်- %1"
 
-#: agentbase/resourcebase.cpp:715
+#: agentbase/resourcebase.cpp:709
 #, kde-format
 msgctxt "@info"
 msgid "Updating local collection failed: %1."
 msgstr ""
 
-#: agentbase/resourcebase.cpp:720
+#: agentbase/resourcebase.cpp:714
 #, kde-format
 msgctxt "@info"
 msgid "Updating local items failed: %1."
 msgstr ""
 
-#: agentbase/resourcebase.cpp:739
+#: agentbase/resourcebase.cpp:733
 #, kde-format
 msgctxt "@info"
 msgid "Cannot fetch item in offline mode."
 msgstr "အော့ဖ်လိုင်းထုံးနည်းတွင် အိုင်တမ်မရယူနိုင်ပါ။"
 
-#: agentbase/resourcebase.cpp:921
+#: agentbase/resourcebase.cpp:915
 #, kde-format
 msgctxt "@info:status"
 msgid "Syncing folder '%1'"
 msgstr "ဖိုလ်ဒါ '%1' ကိုဒေတာတူအောင်တိုက်နေသည်။"
 
-#: agentbase/resourcebase.cpp:941 agentbase/resourcebase.cpp:948
+#: agentbase/resourcebase.cpp:935 agentbase/resourcebase.cpp:942
 #, kde-format
 msgid "Failed to retrieve collection for sync."
 msgstr ""
 
-#: agentbase/resourcebase.cpp:989
+#: agentbase/resourcebase.cpp:980
 #, kde-format
 msgid "Failed to retrieve collection for attribute sync."
 msgstr ""
 
-#: agentbase/resourcebase.cpp:1035
+#: agentbase/resourcebase.cpp:1026
 #, kde-format
 msgid "The requested item no longer exists"
 msgstr "တောင်းခံထားသော အိုင်တမ် မရှိတော့ပါ"
@@ -617,34 +617,34 @@ msgctxt "@item this is the default calendar"
 msgid "%1 (Default)"
 msgstr ""
 
-#: quick/qml/AgentConfigurationForm.qml:30
+#: quick/qml/AgentConfigurationForm.qml:32
 #, fuzzy, kde-format
 #| msgid "&Configure Agent Instance"
 msgctxt "@title:dialog"
 msgid "Configure %1"
 msgstr "&Cအေးဂျင့်အင်းစတမ့် ပြင်ဆင်မည်"
 
-#: quick/qml/AgentConfigurationForm.qml:36
+#: quick/qml/AgentConfigurationForm.qml:38
 #, kde-format
 msgctxt "@info"
 msgid "Modify or delete this account agent."
 msgstr ""
 
-#: quick/qml/AgentConfigurationForm.qml:52
+#: quick/qml/AgentConfigurationForm.qml:54
 #, fuzzy, kde-format
 #| msgid "&Modify..."
 msgctxt "@action:button"
 msgid "Modify"
 msgstr "&Mမွမ်းမံမည်..."
 
-#: quick/qml/AgentConfigurationForm.qml:61
+#: quick/qml/AgentConfigurationForm.qml:63
 #, fuzzy, kde-format
 #| msgid "Delete"
 msgctxt "@action:button"
 msgid "Delete"
 msgstr "ဖျက်မည်"
 
-#: quick/qml/AgentConfigurationForm.qml:105
+#: quick/qml/AgentConfigurationForm.qml:107
 #, kde-format
 msgctxt "@action:button"
 msgid "Add Account"
@@ -753,23 +753,13 @@ msgstr "အေးဂျင့်အင်းစတမ့်ဖျက်မှာ
 msgid "Do you really want to delete the selected agent instance?"
 msgstr ""
 
-#: widgets/agentconfigurationdialog.cpp:56
+#: widgets/agentconfigurationdialog.cpp:54
 #, fuzzy, kde-format
 #| msgctxt "%1 = agent name"
 #| msgid "%1 Configuration"
 msgctxt "@title:window, %1 = agent name"
 msgid "%1 Configuration"
 msgstr "%1 ပြင်ဆင်မှု"
-
-#: widgets/agentconfigurationdialog.cpp:87
-#, kde-format
-msgid "%1 Handbook"
-msgstr "လက်ကိုင်စာအုပ် %1"
-
-#: widgets/agentconfigurationdialog.cpp:88
-#, kde-format
-msgid "About %1"
-msgstr "%1 အကြောင်း"
 
 #: widgets/agentconfigurationwidget.cpp:94
 #, kde-format
@@ -2419,12 +2409,12 @@ msgctxt "@action:button"
 msgid "Go Online"
 msgstr "အွန်လိုင်းတက်ရန်"
 
-#: widgets/standardactionmanager.cpp:1680
+#: widgets/standardactionmanager.cpp:1681
 #, kde-format
 msgid "Move to This Folder"
 msgstr "ဤဖိုလ်ဒါသို့ ရွေ့ပြောင်းမည်"
 
-#: widgets/standardactionmanager.cpp:1680
+#: widgets/standardactionmanager.cpp:1681
 #, kde-format
 msgid "Copy to This Folder"
 msgstr "ဤဖိုလ်ဒါသို့ကူးယူမည်"
@@ -2621,6 +2611,12 @@ msgstr "ဒေတာဖိုင်လ်ကို အဓိပ္ပါယ်�
 #, kde-format
 msgid "Unable to find collection %1"
 msgstr "စုစည်းမှု %1 ကိုမရှာနိုင်ခဲ့ပါ"
+
+#~ msgid "%1 Handbook"
+#~ msgstr "လက်ကိုင်စာအုပ် %1"
+
+#~ msgid "About %1"
+#~ msgstr "%1 အကြောင်း"
 
 #~ msgctxt "@window:title"
 #~ msgid "Error"
