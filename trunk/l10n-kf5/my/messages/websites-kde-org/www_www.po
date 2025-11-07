@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-06 16:33+0000\n"
+"POT-Creation-Date: 2025-11-07 01:59+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -27388,8 +27388,7 @@ msgstr "[ကွန်တပ်](https://apps.kde.org/kontact/)"
 
 #: content/fundraisers/yearend2024.md:51 content/fundraisers/yearend2024.md:52
 #: content/fundraisers/yearend2024.md:55 content/fundraisers/yearend2024.md:58
-#: content/fundraisers/yearend2025.md:41 content/fundraisers/yearend2025.md:42
-#: content/fundraisers/yearend2025.md:46
+#: content/fundraisers/yearend2025.md:41 content/fundraisers/yearend2025.md:46
 msgid "🟦🟦⬜⬜⬜"
 msgstr ""
 
@@ -27406,6 +27405,7 @@ msgid "[Arianna](https://apps.kde.org/arianna/)"
 msgstr "[အလီဆာ](https://elisa.kde.org/)"
 
 #: content/fundraisers/yearend2024.md:53 content/fundraisers/yearend2024.md:57
+#: content/fundraisers/yearend2025.md:42
 msgid "🟦🟦🟦⬜⬜"
 msgstr ""
 
