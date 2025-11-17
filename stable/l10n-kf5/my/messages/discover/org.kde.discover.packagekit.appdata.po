@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
-"POT-Creation-Date: 2018-01-10 05:09+0100\n"
+"POT-Creation-Date: 2025-11-17 16:18+0000\n"
 "PO-Revision-Date: 2021-09-13 03:27+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
