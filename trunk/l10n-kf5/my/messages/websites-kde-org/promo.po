@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 09:01+0000\n"
+"POT-Creation-Date: 2025-11-23 02:05+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -3686,10 +3686,10 @@ msgstr ""
 
 #: content/hardware.md:0
 msgid ""
-"All TUXEDO's computers are assembled and installed in-house, come with self-"
-"programmed driver packages for optimum hardware compatibility, and provided "
-"with support from TUXEDO's highly qualified technical staff, guaranteeing a "
-"smooth transition to your new Linux machine.\n"
+"All TUXEDO's computers are assembled and installed in-house, and come with "
+"self-programmed driver packages for optimum hardware compatibility, and "
+"provided with support from TUXEDO's highly qualified technical staff, "
+"guaranteeing a smooth transition to your new Linux machine.\n"
 msgstr ""
 
 #: content/hardware.md:0
@@ -3827,7 +3827,7 @@ msgstr ""
 
 #: content/hardware.md:0
 msgid ""
-"The KDE Slimbook VI with its Ryzen 7 8845HS processor gives you better\n"
+"The KDE Slimbook VII with its Ryzen AI 9 365 processor gives you better\n"
 "performance while running your applications. KDE Neon, with the new Plasma "
 "6\n"
 "desktop provides the best environment and the widest range of programs for\n"
@@ -3848,14 +3848,14 @@ msgstr ""
 #: content/hardware.md:0
 #, fuzzy
 #| msgid "AMD Ryzen 7 4800 H"
-msgid "AMD Ryzen 7 8845HS"
+msgid "AMD Ryzen AI 9 365"
 msgstr "အေအမ်ဒီ ရိုင်ဇန် ၇ ၄၈၀၀ အိပ်ချ်"
 
 #: content/hardware.md:0
 #, fuzzy
 #| msgid "15.6-inch IPS LED display with 1920 by 1080 resolution at 60Hz"
 msgid ""
-"16-inch IPS LED display with 2560 by 1600 resolution at 120Hz and sRGB 100%"
+"16-inch IPS LED display with 2560 by 1600 resolution at 165Hz and sRGB 100%"
 msgstr "၆၀ဟာ့ဇ် ၁၉၂၀-၁၀၈၀ ရီဆိုလူးရှင်းရှိသော ၁၅.၆လက်မ အိုင်ပီအက်စ် အယ်အီးဒီ ဒစ်(စ)ပလေး"
 
 #: content/hardware.md:0
@@ -3866,9 +3866,9 @@ msgstr "၂ တယ်ရာဘိုက် အက်စ်အက်စ်ဒီ 
 
 #: content/hardware.md:0
 #, fuzzy
-#| msgid "Up to 64GB memory"
-msgid "Up to 96GB 5600 MHz non-soldered memory"
-msgstr "၆၄ ဂစ်ဂါဘိုက်မန်မိုရီ ထိ"
+#| msgid "Up to 2TB storage SSD"
+msgid "Up to 128GB DDR5"
+msgstr "၂ တယ်ရာဘိုက် အက်စ်အက်စ်ဒီ ထိ"
 
 #: content/hardware.md:0
 msgid "720p webcam"
@@ -3937,24 +3937,10 @@ msgid "<small>Shell makes a donation to KDE when you use this link.</small>"
 msgstr "<small>ဤလင့်ခ်ကို အသုံးပြုသည့်အခါ ကေဒီအီးကို လှူဒါန်းသွားမည်။</small>"
 
 #: content/hardware.md:140
-msgid "Slimbook"
-msgstr "စလင်းဘွတ်ခ်"
-
-#: content/hardware.md:142
-msgid ""
-"SLIMBOOK was born in 2015 with the idea of being the best brand in the "
-"computer market with GNU / Linux (although it is also verified the absolute "
-"compatibility with Microsoft Windows). They assemble computers searching for "
-"excellent quality and warranty service, at a reasonable price. So much so, "
-"that in 2018 they were awarded Best Open Source Service / Solution Provider "
-"at the OpenExpo Europe 2018."
-msgstr ""
-
-#: content/hardware.md:150
 msgid "Star Labs"
 msgstr "စတားလပ်ဘ်"
 
-#: content/hardware.md:152
+#: content/hardware.md:142
 msgid ""
 "Star Labs offers a range of laptops designed and built specifically for "
 "Linux. Two versions of their laptop are offered: the Star Lite Mk III 11-"
@@ -5603,6 +5589,14 @@ msgstr ""
 #: content/thanks/_index.md:0
 msgid "Matrix instant messaging services for the community to use."
 msgstr ""
+
+#, fuzzy
+#~| msgid "Up to 64GB memory"
+#~ msgid "Up to 96GB 5600 MHz non-soldered memory"
+#~ msgstr "၆၄ ဂစ်ဂါဘိုက်မန်မိုရီ ထိ"
+
+#~ msgid "Slimbook"
+#~ msgstr "စလင်းဘွတ်ခ်"
 
 #, fuzzy
 #~| msgid "Plasma"
