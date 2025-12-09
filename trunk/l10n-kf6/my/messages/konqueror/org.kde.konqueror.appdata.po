@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-11-17 11:52+0000\n"
+"POT-Creation-Date: 2025-12-09 00:42+0000\n"
 "PO-Revision-Date: 2021-09-19 13:58+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -36,7 +36,7 @@ msgstr ""
 
 #. (itstool) path: ul/li
 #: org.kde.konqueror.appdata.xml:15
-msgid "Webbrowsing using KHTML or KDEWebKit as rendering engines"
+msgid "Webbrowsing using Qt WebEngine as rendering engine"
 msgstr ""
 
 #. (itstool) path: ul/li
