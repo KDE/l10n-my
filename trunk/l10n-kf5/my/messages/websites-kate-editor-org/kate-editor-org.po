@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kate-editor-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 09:01+0000\n"
+"POT-Creation-Date: 2025-12-22 02:01+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.0\n"
 
-#: config.yaml:0 content/_index.md:0 i18n/en.yaml:0
+#: config.yaml:0 content/_index.md:0 i18n/en.yaml:3
 msgid "Kate"
 msgstr "ကိတ်"
 
@@ -43,7 +43,8 @@ msgstr "ကိတ် - တည်းဖြတ်မှုစွမ်းဆော
 msgid "Get an Edge in Editing"
 msgstr "တည်းဖြတ်မှုစွမ်းဆောင်ရည်အမြင့်ဆုံးရယူပါ"
 
-#: content/about-kate.md:0 i18n/en.yaml:0
+#. features
+#: content/about-kate.md:0 i18n/en.yaml:10
 msgid "Features"
 msgstr "စွမ်းဆောင်ရည်များ"
 
@@ -3025,19 +3026,23 @@ msgstr ""
 msgid "Color Themes"
 msgstr "အရောင်သင်းများ"
 
-#: i18n/en.yaml:0
+#. also-available
+#: i18n/en.yaml:6
 msgid "Also available in:"
 msgstr "တွင်လည်းရရှိနိုင်သည် -"
 
-#: i18n/en.yaml:0
+#. get-it
+#: i18n/en.yaml:8
 msgid "Get it"
 msgstr "ရယူမည်"
 
-#: i18n/en.yaml:0
+#. features-subtitle
+#: i18n/en.yaml:12
 msgid "Kate is a Feature-Packed Text Editor"
 msgstr "ကိတ်သည် စွမ်းဆောင်ရည်ပြည့်ဝသော စာသားတည်းဖြတ်ကိရိယာတစ်ခုဖြစ်သည်"
 
-#: i18n/en.yaml:0
+#. features-desc
+#: i18n/en.yaml:14
 msgid ""
 "Kate is packed with features that will make it easier for you to view and "
 "edit all your text files. Kate lets you to edit and view many files at the "
@@ -3053,15 +3058,18 @@ msgstr ""
 "မြုပ်သွင်းတာမီနယ်၊ ရှာဖွေ၊အစားထိုးပလပ်ဂင်များနှင့် သင်၏အမ်ဒီ၊ အိပ်ချ်တီအမ်အယ် အပြင် အက်စ်ဗွီဂျီဘာ "
 "ဘယ်လိုပေါ်မည်ဆိုသည်ကို ပြသော အကြိုမြင်ကွင်းပြပလပ်ဂင် စသည်တို့ ပါဝင်သည်။"
 
-#: i18n/en.yaml:0
+#. all-features
+#: i18n/en.yaml:21
 msgid "All Features"
 msgstr "စွမ်းဆောင်ရည်များအားလုံး"
 
-#: i18n/en.yaml:0
+#. syntax-color
+#: i18n/en.yaml:23
 msgid "Make Your Code Pretty With [Syntax Highlighting](/syntax)"
 msgstr "[Syntax Highlighting](/syntax) ဖြင့် သင်၏ကုတ်ကို လှပအောင်လုပ်ပါ"
 
-#: i18n/en.yaml:0
+#. syntax-more
+#: i18n/en.yaml:25
 #, fuzzy
 #| msgid ""
 #| "Kate supports highlighting for over 300 languages making it easier to "
@@ -3081,19 +3089,23 @@ msgstr ""
 "ကုတ်အတုံးအဆင့်အစီအစည်များတွင် သွားလာရ၌ ကူညီပေးနိုင်သည်။ "
 "စာရေးစဥ်တန်း၍စာလုံးပေါင်းစစ်ဆေးခြင်းပါဝင်သောကြောင့် မထုတ်ဝေမီ စာများကို စစ်ဆေးရာတွင် ကူညီနိုင်ပေသည်။"
 
-#: i18n/en.yaml:0
+#. kate-syntax-example
+#: i18n/en.yaml:31
 msgid "Screenshot of Kate with syntax highlighting"
 msgstr "စာအထားအသိုအလင်းတင်ပြမှုနှင့်အတူ ကိတ်၏ စခရင်ရှော့"
 
-#: i18n/en.yaml:0
+#. kate-syntax-screen
+#: i18n/en.yaml:33
 msgid "Screenshot of Kate syntax chooser"
 msgstr "ကိတ် စာအထားအသိုရွေးချယ်ကိရိယာ၏ စခရင်ရှော့"
 
-#: i18n/en.yaml:0
+#. multicursor
+#: i18n/en.yaml:35
 msgid "Multi-cursor editing"
 msgstr ""
 
-#: i18n/en.yaml:0
+#. multicursor-desc
+#: i18n/en.yaml:37
 msgid ""
 "Boost your productivity with a help of multi-cursor and multi-selection "
 "features. Kate now has it! Switching from other proprietary text editors and "
@@ -3101,15 +3113,18 @@ msgid ""
 "Kate so you don't even have to retrain yourself"
 msgstr ""
 
-#: i18n/en.yaml:0
+#. multicursor-example
+#: i18n/en.yaml:41
 msgid "Animation of Kate multi-cursor features"
 msgstr ""
 
-#: i18n/en.yaml:0
+#. projects-work
+#: i18n/en.yaml:43
 msgid "Work on Complex Projects Efficiently"
 msgstr "ရှုပ်ထွေးလှသော ပရောဂျက်များတွင် အကျိုးရှိစွာ အလုပ်လုပ်လိုက်ပါ"
 
-#: i18n/en.yaml:0
+#. project-desc
+#: i18n/en.yaml:45
 msgid ""
 "Work on multiple files at the same time with split views. Use the project "
 "sidebar to navigate your project directory structures and use Kate's smart "
@@ -3121,19 +3136,23 @@ msgstr ""
 "ဖွင့်ထားခဲ့သော မှတ်တမ်းပုံနှိပ်မူများ ဖွင့်လိုက်ပါ။ ကောင်းမွန်လှသော ရှာဖွေ၊ အစားထိုး ကိရိယာဖြင့် "
 "သင်၏ပရောဂျက်များအတွင်း လျင်လျင်မြန်မြန်ရှာဖွေနိုင်ပေသည်။"
 
-#: i18n/en.yaml:0
+#. kate-search-example
+#: i18n/en.yaml:50
 msgid "Screenshot of Kate search and replace tool"
 msgstr "ကတ် ရှာဖွေအစားထိုးကိရိယာ၏ စခရင်ရှော့"
 
-#: i18n/en.yaml:0
+#. kate-sidebar
+#: i18n/en.yaml:52
 msgid "Screenshot of Kate project sidebar"
 msgstr "ကိတ်ပရောဂျက် ဘေးတန်း၏ စခရင်ရှော့"
 
-#: i18n/en.yaml:0
+#. programing
+#: i18n/en.yaml:54
 msgid "Develop your Next Application with Kate"
 msgstr "သင်၏နောက်အပ္ပလီကေးရှင်းကို ကိတ်နှင့် ဖန်တီးပါ"
 
-#: i18n/en.yaml:0
+#. programing-desc
+#: i18n/en.yaml:56
 msgid ""
 "Kate is the perfect tool for programming as it includes autocompletion for "
 "many languages with the help of the [Language Server Protocol (LSP)](https://"
@@ -3149,11 +3168,13 @@ msgstr ""
 "ထောင့်မှန်စတုဂံတုံးရွေးချယ်ထုံးနည်း၊ အလိုက်တသိ မှတ်ချက်ရေးခြင်း၊ဖျက်ခြင်း ကိုင်တွယ်မှု နှင့် "
 "အခြားလုပ်ဆောင်ချက်အများအပြားပါဝင်ပေသည်။"
 
-#: i18n/en.yaml:0
+#. extendsit
+#: i18n/en.yaml:63
 msgid "Plugins"
 msgstr "ပလပ်ဂင်များ"
 
-#: i18n/en.yaml:0
+#. extendsit-desc
+#: i18n/en.yaml:65
 msgid ""
 "Kate contains many plugins installed by defaults, making it more powerful "
 "than any other text editor. Use the integrated terminal emulator to run "
@@ -3167,24 +3188,29 @@ msgstr ""
 "သင့်ပရိုဂရမ်ကိုပြစ်ချက်ရှာဖွေခြင်း၊ ပရောဂျက်များကို တစ်ချက်တည်းနှိပ်၍ တည်ဆေက်ခြင်းအပြင် "
 "အခြားလုပ်ဆောင်မှုအများအပြားအဝင်သည်။"
 
-#: i18n/en.yaml:0
+#. kate-konsole
+#: i18n/en.yaml:71
 msgid "Konsole inside Kate"
 msgstr "ကိတ်အတွင်းကွန်ဆိုး"
 
-#: i18n/en.yaml:0
+#. posts
+#: i18n/en.yaml:73
 msgid "News"
 msgstr "အသစ်များ"
 
-#: i18n/en.yaml:0
+#. view-all-posts
+#: i18n/en.yaml:75
 msgid "View all news"
 msgstr "အသစ်အဆန်းအားလုံးကြည့်မည်"
 
-#: i18n/en.yaml:0
+#. available
+#: i18n/en.yaml:77
 msgid "Available for Linux, Windows and macOS"
 msgstr "လင်းနက်စ်၊ ဝင်းဒိုးစ် နှင့် မက်စ်အိုအက်စ်တွင် ရရှိပါသည်"
 
+#. appstream-badges-info
 #. %1 link, %2 link
-#: i18n/en.yaml:0
+#: i18n/en.yaml:79
 #, fuzzy
 #| msgid ""
 #| "These buttons only work with [Discover]({{ .Get \"discoverLink\" }}) and "
@@ -3203,74 +3229,87 @@ msgstr ""
 "[မျူအွန်]({{ .Get \"muonLink\" }}) သို့မဟုတ် [ဆင်နက်တစ်](https://wiki.debian.org/"
 "Synaptic) ကဲ့သို့ သင့်ဒစ်စထရီဗျူးရှင်း၏ပတ်ကေ့မန်နေဂျာကိုလည်း သုံးနိုင်ပါသည်။"
 
+#. kate-appstream-badge-pre-title
 #. Used in the download badge on https://kate-editor.org/get-it/. Please make
 #. it as short as possible.
-#: i18n/en.yaml:0
+#: i18n/en.yaml:82
 msgid "Install Kate on"
 msgstr "ကိတ်ကိုတပ်ဆင်မည်"
 
+#. kwrite-appstream-badge-pre-title
 #. Used in the download badge on https://kate-editor.org/get-it/. Please make
 #. it as short as possible.
-#: i18n/en.yaml:0
+#: i18n/en.yaml:85
 msgid "Install KWrite on"
 msgstr "KWriteကိုတပ်ဆင်မည်"
 
+#. windows-release
 #. %1 link
-#: i18n/en.yaml:0
+#: i18n/en.yaml:88
 msgid "[Download the release Kate 64-bit installer](%1) *"
 msgstr ""
 
+#. syntax-intro
 #. %1 a number
-#: i18n/en.yaml:0
+#: i18n/en.yaml:92
 msgid ""
 "Kate's highlighting is powered by the [KSyntaxHighlighting](https://api.kde."
 "org/ksyntaxhighlighting-index.html) framework and supports %1 different "
 "languages."
 msgstr ""
 
-#: i18n/en.yaml:0
+#. syntax-list-intro
+#: i18n/en.yaml:95
 msgid ""
 "Below you can find a list of all supported languages together with example "
 "renderings of the highlighting both as light and dark theme HTML pages."
 msgstr ""
 
-#: i18n/en.yaml:0
+#. syntax-submissions
+#: i18n/en.yaml:97
 msgid ""
 "Submissions of new language definitions & examples are very welcome, head "
 "over to the [KSyntaxHighlighting repository README](https://invent.kde.org/"
 "frameworks/syntax-highlighting#introduction) for details."
 msgstr ""
 
-#: i18n/en.yaml:0
+#. syntax-category
+#: i18n/en.yaml:99
 #, fuzzy
 #| msgid "Categories"
 msgid "Category"
 msgstr "အမျိုးအစားများ"
 
-#: i18n/en.yaml:0
+#. syntax-language
+#: i18n/en.yaml:101
 msgid "Language"
 msgstr ""
 
-#: i18n/en.yaml:0
+#. syntax-examples
+#: i18n/en.yaml:103
 msgid "Light & Dark Theme Examples"
 msgstr ""
 
-#: i18n/en.yaml:0
+#. syntax-light
+#: i18n/en.yaml:105
 msgid "Light Theme"
 msgstr ""
 
-#: i18n/en.yaml:0
+#. syntax-dark
+#: i18n/en.yaml:107
 #, fuzzy
 #| msgid "Color Themes"
 msgid "Dark Theme"
 msgstr "အရောင်သင်းများ"
 
-#: i18n/en.yaml:0
+#. syntax-submit-example
+#: i18n/en.yaml:109
 msgid "Submit Example"
 msgstr ""
 
+#. themes-intro
 #. %1 a number
-#: i18n/en.yaml:0
+#: i18n/en.yaml:112
 msgid ""
 "Kate's highlighting is powered by the [KSyntaxHighlighting](https://api.kde."
 "org/ksyntaxhighlighting-index.html) framework that contains %1 bundled color "
@@ -3278,22 +3317,26 @@ msgid ""
 "example rendering."
 msgstr ""
 
-#: i18n/en.yaml:0
+#. team-last-year
+#: i18n/en.yaml:116
 msgid "Contributors during the last year"
 msgstr ""
 
-#: i18n/en.yaml:0
+#. team-last-year-info
+#: i18n/en.yaml:118
 msgid ""
 "**%1 people** contributed during the last year. New contributors of that "
 "year are highlighted in the table below. Thanks to all new people for "
 "joining our team!"
 msgstr ""
 
-#: i18n/en.yaml:0
+#. team-all-time
+#: i18n/en.yaml:120
 msgid "Contributors during the project lifetime"
 msgstr ""
 
-#: i18n/en.yaml:0
+#. team-all-time-info
+#: i18n/en.yaml:122
 msgid ""
 "During the full project lifetime **%1 people** contributed. Thanks for "
 "making Kate possible!"
