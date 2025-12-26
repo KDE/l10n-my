@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-22 02:01+0000\n"
+"POT-Creation-Date: 2025-12-26 02:01+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -1490,7 +1490,13 @@ msgstr ""
 
 #. yearend2025-goal3
 #. Formatted EUR amount
-#: i18n/en.yaml:541 i18n/en.yaml:549
+#: i18n/en.yaml:541
+msgid "€100K"
+msgstr ""
+
+#. yearend2025-progress
+#. Formatted EUR amount
+#: i18n/en.yaml:549
 msgid "%1"
 msgstr ""
 
