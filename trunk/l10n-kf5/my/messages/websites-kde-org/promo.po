@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-15 02:25+0000\n"
+"POT-Creation-Date: 2026-01-26 02:03+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -13,74 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.0\n"
-
-#: content/_index.md:0
-msgid "Kdenlive 2025 Sprint"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Berlin, Germany"
-msgstr ""
-
-#: content/_index.md:0
-msgid "FOSDEM 2025"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Brussels, Belgium"
-msgstr ""
-
-#: content/_index.md:0
-msgid "conf.kde.in 2025"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Gandhinagar, Gujarat, India"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Scale22x"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Pasadena, CA, USA"
-msgstr ""
-
-#: content/_index.md:0
-msgid "FOSSAsia"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Bangkok, Thailand"
-msgstr ""
-
-#: content/_index.md:0
-msgid "IndiaFOSS"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Bengaluru, India"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Linux App Summit"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Tirana, Albania"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Akademy-es 2025"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Málaga, Spain"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Akademy 2025"
-msgstr ""
 
 #: content/announcements/_index.md:0
 msgid "Announcements"
@@ -340,98 +272,29 @@ msgid "Choose a Linux distribution and start using KDE applications and Plasma"
 msgstr ""
 
 #: content/distributions.md:0
-msgid "openSUSE"
-msgstr "အိုးပန်းဆူဆီ"
-
-#: content/distributions.md:0
-msgid ""
-"openSUSE comes in two versions. **Leap**, a stable distribution with regular "
-"releases, comes with LTS versions of Linux, Qt and Plasma. **Tumbleweed**, a "
-"rolling distribution with the latest versions of all packages\n"
-"\n"
-"SUSE is a KDE Patron.\n"
-msgstr ""
-
-#: content/distributions.md:0
-msgid "Fedora KDE"
-msgstr "ဖဲဒိုရာ ကေဒီအီး"
-
-#: content/distributions.md:0
-msgid ""
-"Fedora is a stable distribution sponsored by Red Hat. A new version of "
-"Fedora is released every 6 months."
-msgstr ""
-
-#: content/distributions.md:0
-msgid "Kubuntu"
-msgstr "ကူဘွန်တု"
-
-#: content/distributions.md:0
-msgid ""
-"Kubuntu is the Ubuntu version with KDE software by default. Developers "
-"strive to provide usability for\n"
-"beginners. The default installation includes many popular programs and a "
-"utility for managing drivers.\n"
-"\n"
-"Canonical, the developer of Ubuntu and Kubuntu, is a KDE Patron.\n"
-msgstr ""
-
-#: content/distributions.md:0 content/products.md:0
-msgid "KDE neon"
-msgstr "ကေဒီအီး နီယွန်"
-
-#: content/distributions.md:0
-msgid ""
-"KDE neon takes the latest Plasma desktop and KDE apps and builds them fresh "
-"each day for your\n"
-"pleasure, using the stable Ubuntu LTS base.\n"
-"\n"
-"KDE neon User Edition is built from the latest released software "
-"automatically added and released as soon as it is tested.\n"
-"\n"
-"We also have Testing and Unstable editions built directly from unreleased "
-"Git for helping develop our software.\n"
-"\n"
-"It is installable as your Linux distro or from Docker images.\n"
-"\n"
-"KDE neon is a KDE project.\n"
-msgstr ""
-
-#: content/distributions.md:0
-msgid "Other Distributions"
-msgstr ""
-
-#: content/distributions.md:0
-msgid ""
-"You can install KDE applications and Plasma in other Linux distributions and "
-"other operating systems. A list of those is available on the [KDE Community "
-"wiki](https://community.kde.org/Distributions)."
-msgstr ""
-
-#: content/distributions.md:0
 msgid ""
 "This page lists some of the most popular Linux distributions with pre-"
 "installed KDE software.  We recommend that you familiarize yourself with the "
 "descriptions on the project sites in order to get a more complete picture."
 msgstr ""
 
-#: content/distributions.md:61
+#: content/distributions.md:10
 msgid "Installation Instructions"
 msgstr ""
 
-#: content/distributions.md:63
+#: content/distributions.md:12
 msgid ""
 "You can install any of these Linux distributions by using [KDE ISO Image "
 "Writer](https://apps.kde.org/isoimagewriter/)."
 msgstr ""
 
-#: content/distributions.md:65
+#: content/distributions.md:14
 msgid ""
 "Each distribution should also contain installation instructions and a quick-"
 "start guide."
 msgstr ""
 
-#: content/distributions.md:67
+#: content/distributions.md:16
 msgid "You can also [buy devices with Plasma](/hardware)."
 msgstr ""
 
@@ -4984,6 +4847,10 @@ msgid ""
 msgstr ""
 
 #: content/products.md:0
+msgid "KDE neon"
+msgstr "ကေဒီအီး နီယွန်"
+
+#: content/products.md:0
 msgid ""
 "The latest and greatest of KDE community software packaged on a rock-solid "
 "base."
@@ -5607,6 +5474,15 @@ msgstr ""
 #: content/thanks/_index.md:0
 msgid "Matrix instant messaging services for the community to use."
 msgstr ""
+
+#~ msgid "openSUSE"
+#~ msgstr "အိုးပန်းဆူဆီ"
+
+#~ msgid "Fedora KDE"
+#~ msgstr "ဖဲဒိုရာ ကေဒီအီး"
+
+#~ msgid "Kubuntu"
+#~ msgstr "ကူဘွန်တု"
 
 #, fuzzy
 #~| msgid "Up to 64GB memory"
