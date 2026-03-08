@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 12:03+0000\n"
+"POT-Creation-Date: 2026-03-08 00:57+0000\n"
 "PO-Revision-Date: 2024-09-09 16:38+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -158,6 +158,11 @@ msgstr "ရီပလီကုတ်"
 msgctxt "Name"
 msgid "Search & Replace"
 msgstr "ရှာပြီး အစားထိုးမည်"
+
+#: addons/show-nonprintable/kateshownonprintableplugin.json
+msgctxt "Name"
+msgid "Show Non-Printable Characters"
+msgstr ""
 
 #: addons/snippets/katesnippetsplugin.json
 #, fuzzy
@@ -342,6 +347,11 @@ msgstr ""
 #: addons/search/katesearch.json
 msgctxt "Description"
 msgid "Search and replace in documents, folders, or projects"
+msgstr ""
+
+#: addons/show-nonprintable/kateshownonprintableplugin.json
+msgctxt "Description"
+msgid "Allows you show non-printable characters"
 msgstr ""
 
 #: addons/snippets/katesnippetsplugin.json
