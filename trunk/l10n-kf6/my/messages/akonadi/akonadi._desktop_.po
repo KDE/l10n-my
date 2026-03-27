@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-28 00:51+0000\n"
+"POT-Creation-Date: 2026-03-27 00:52+0000\n"
 "PO-Revision-Date: 2021-09-20 02:30+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -12,6 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.0\n"
+
+#: org.kde.akonadi.desktop:5
+msgctxt "Name"
+msgid "KDE PIM"
+msgstr ""
 
 #: src/configdialog/org.kde.akonadi.configdialog.desktop:5
 msgctxt "Name"
