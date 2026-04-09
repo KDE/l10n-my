@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-28 00:51+0000\n"
+"POT-Creation-Date: 2026-04-09 03:41+0000\n"
 "PO-Revision-Date: 2021-09-20 02:30+0630\n"
 "Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -23,7 +23,7 @@ msgctxt "Name"
 msgid "Akonadi Resource"
 msgstr ""
 
-#: templates/akonadiresource/akonadiresource.kdevtemplate:39
+#: templates/akonadiresource/akonadiresource.kdevtemplate:40
 msgctxt "Comment"
 msgid "Akonadi Resource Template. A template for an Akonadi PIM data resource"
 msgstr "အကွန်နဒီ ရင်းမြစ်တန်းပလိတ်။ အကွန်နဒီ ပီအိုင်အမ် ဒေတာ ရင်းမြစ်အတွက် တန်းပလိတ်တစ်ခု"
@@ -33,7 +33,7 @@ msgctxt "Name"
 msgid "Akonadi Serializer"
 msgstr ""
 
-#: templates/akonadiserializer/akonadiserializer.kdevtemplate:39
+#: templates/akonadiserializer/akonadiserializer.kdevtemplate:40
 msgctxt "Comment"
 msgid ""
 "Akonadi Serializer Template. A template for an Akonadi data serializer plugin"
