@@ -1,0 +1,1203 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-05-13 02:06+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ဇေယျာလွင် <lw1nzayar@yandex.com>\n"
+"Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0\n"
+
+#: config.yaml:0 content/_index.md:0
+msgid "KDE Linux"
+msgstr ""
+
+#: config.yaml:0
+msgid "KDE Linux - A free Linux®-based operating system built by KDE"
+msgstr ""
+
+#: config.yaml:0
+msgid "Install it"
+msgstr ""
+
+#: config.yaml:0
+msgid "Documentation"
+msgstr ""
+
+#: config.yaml:0
+msgid "Donate"
+msgstr "လှူဒါန်းမည်"
+
+#: content/_index.md:0
+msgid "A free Linux®-based operating system built by KDE"
+msgstr ""
+
+#: content/_index.md:15
+msgid "**Help KDE build the next big thing!**"
+msgstr ""
+
+#: content/_index.md:17
+msgid ""
+"**KDE Linux** is a free, open-source, user-focused operating system being "
+"built by KDE to include the best implementation of everything KDE has to "
+"offer, using the most advanced technologies. Learn more on [the project’s "
+"wiki page](https://community.kde.org/KDE_Linux)."
+msgstr ""
+
+#: content/_index.md:21
+msgid ""
+"Designed to be safe, maintainable, functional, and modern, KDE Linux will be "
+"the best choice for home use, enterprise workstations, public institutions, "
+"pre-installation on computers you can buy, and more."
+msgstr ""
+
+#: content/_index.md:23
+msgid ""
+"…Eventually! We’re not there yet, and need your help to make this goal a "
+"reality."
+msgstr ""
+
+#: content/_index.md:25 content/_index.md:85
+msgid ""
+"{{< linux/button src=\"docs/install\" description=\"Install KDE Linux\" >}} "
+"{{< linux/button src=\"docs/\" description=\"Read the docs\" >}}"
+msgstr ""
+
+#: content/_index.md:34
+msgid ""
+"<div class=\"d-flex flex-row\" id=\"help-section\">  \n"
+"  <div id=\"help\" class=\"w-50  g-0 p-0\">\n"
+msgstr ""
+
+#: content/_index.md:37
+msgid "How you can help"
+msgstr ""
+
+#: content/_index.md:38
+msgid "You can help participate in the KDE Linux project in many ways:"
+msgstr ""
+
+#: content/_index.md:40
+msgid ""
+"**Help KDE Linux reach a wider audience**, especially if you’re a tech "
+"journalist or other influencer. The more people know about KDE Linux, the "
+"more chance the project has of receiving the love it needs to succeed."
+msgstr ""
+
+#: content/_index.md:41
+msgid ""
+"**Daily-drive KDE Linux** or put it on a secondary machine, especially if "
+"you’re a developer or adventurous power user. [Follow the installation "
+"instructions](docs/install) to the letter; finding mistakes in the "
+"installation process and discrepancies in the documentation is also "
+"important."
+msgstr ""
+
+#: content/_index.md:42
+msgid ""
+"**Test less-common hardware**, especially [NVIDIA GPUs](https://"
+"invent.kde.org/kde-linux/kde-linux/-/issues/281) and [using the experimental "
+"delta update feature on spinning hard disks](https://invent.kde.org/kde-"
+"linux/kde-linux/-/issues/280). Other testing on less-common hardware is also "
+"appreciated."
+msgstr ""
+
+#: content/_index.md:43
+msgid ""
+"**Report bugs**: issues with KDE Linux itself (initial system setup, device "
+"compatibility, integration between components, etc.) should be reported on "
+"[invent.kde.org](https://invent.kde.org/kde-linux/kde-linux/-/issues/). "
+"Issues in KDE software — especially the experience of using it in a Flatpak "
+"— should be reported on [bugs.kde.org](https://bugs.kde.org/)."
+msgstr ""
+
+#: content/_index.md:44
+msgid ""
+"**Help develop KDE Linux**, especially if you have an interest in operating "
+"systems (particularly immutable ones). There’s lots to do. [Chat with the "
+"devs](https://matrix.to/#/%23kde-linux:kde.org) and [submit merge requests]"
+"(https://invent.kde.org/kde-linux/kde-linux/-/merge_requests). If you’re "
+"working on a similar OS, tell us about your experience, and we can compare "
+"notes and work on solutions together. Shared knowledge improves all projects."
+msgstr ""
+
+#: content/_index.md:46
+msgid ""
+"</div>\n"
+"<div id=\"help-image\" class=\"w-50 position-relative  g-0 p-0\">\n"
+"  <img class=\"img-fluid position-absolute bottom-0 end-0  g-0 p-0\" src=\"/"
+"linux/banana_boy_cut_blur_1500p.png\" />\n"
+"</div>\n"
+msgstr ""
+
+#: content/_index.md:50
+msgid ""
+"</div>\n"
+"{{< /section >}}\n"
+msgstr ""
+
+#: content/_index.md:57
+msgid "What’s in it for you"
+msgstr ""
+
+#: content/_index.md:58
+msgid ""
+"Remember when Linux was an undiscovered country and everything was new and "
+"fun? KDE Linux is that all over again: we’re creating the operating system "
+"of the future with the clout and resources of KDE behind it, and you can be "
+"part of it. Here, individual efforts make a difference on a global scale."
+msgstr ""
+
+#: content/_index.md:60
+msgid ""
+"{{< linux/button src=\"/docs/kde-linux-dev\" description=\"Contribute to KDE "
+"Linux\" >}} {{< /section >}}"
+msgstr ""
+
+#: content/_index.md:67
+msgid "<div class=\"text-center\">\n"
+msgstr ""
+
+#: content/_index.md:69
+msgid "Things to be aware of"
+msgstr ""
+
+#: content/_index.md:71
+msgid ""
+"![Computer with squashed banana wallpaper](/linux/Computer-Screen-"
+"_ripe_banana.png)"
+msgstr ""
+
+#: content/_index.md:72
+msgid "</div>\n"
+msgstr ""
+
+#: content/_index.md:74
+msgid ""
+"**KDE Linux is Alpha software.** Do not install it on your non-technical "
+"uncle’s computer or across the accounting department at work. There are "
+"[multiple known issues](https://community.kde.org/KDE_Linux#Current_state) "
+"(make sure nothing in there is a deal-breaker for you). KDE Linux has only "
+"received limited testing so far, and there will be regressions and bad "
+"builds you’ll have to roll back. Data loss has not been experienced yet, but "
+"anything is possible. Deploy a robust backup system. Expect some adventures."
+msgstr ""
+
+#: content/_index.md:75
+msgid ""
+"**Opportunities for customizing the base OS are extremely limited.** As an "
+"“immutable base” operating system, KDE Linux deliberately limits system-"
+"level customization to preserve reliability. Don’t go starting and stopping "
+"Systemd services except to debug or fix reported bugs. Don’t try hacks to "
+"customize your Plymouth splash screen or SDDM theme."
+msgstr ""
+
+#: content/_index.md:76
+msgid ""
+"**The experience of using an older NVIDIA GPU is rough.** [Manual setup](/"
+"docs/pre-turing-nvidia) is currently required for anything older than an "
+"NVIDIA GTX 1630 to even work at all, and they are essentially untested. Here "
+"be dragons. You’ve been warned."
+msgstr ""
+
+#: content/_index.md:77
+msgid ""
+"**Do not report bugs for yesterday’s version.** That’s right: currently KDE "
+"Linux is being updated daily. If you think you found a bug… update the whole "
+"system first! If the bug is still there, go ahead and report it. {{< /"
+"section >}}"
+msgstr ""
+
+#: content/_index.md:88
+msgid "General information"
+msgstr ""
+
+#: content/_index.md:90
+msgid "How is this free? What’s the catch?"
+msgstr ""
+
+#: content/_index.md:91
+msgid ""
+"No catch! KDE Linux is a volunteer-run project with financial support from "
+"[KDE e.V.](https://ev.kde.org) There are no ads, and it does not transmit or "
+"sell your personal information."
+msgstr ""
+
+#: content/_index.md:94
+msgid "Who is KDE Linux for?"
+msgstr ""
+
+#: content/_index.md:95
+msgid ""
+"At the moment, only the Testing edition is available. The more these "
+"sentences describe you, the happier you’ll be using it:"
+msgstr ""
+
+#: content/_index.md:97
+msgid "You’re a KDE fan"
+msgstr ""
+
+#: content/_index.md:98
+msgid ""
+"You get excited about modern technology like Systemd, immutable OSs, "
+"containerized apps, and Btrfs"
+msgstr ""
+
+#: content/_index.md:99
+msgid "You want to participate in KDE’s QA process and find issues early"
+msgstr ""
+
+#: content/_index.md:100
+msgid "You’re a KDE Plasma developer"
+msgstr ""
+
+#: content/_index.md:101
+msgid "You don’t have an NVIDIA GPU that’s over 6 years old"
+msgstr ""
+
+#: content/_index.md:104
+msgid "How do I install apps?"
+msgstr ""
+
+#: content/_index.md:105
+msgid ""
+"The *Discover* app is your gateway to the world of Linux apps. Open it and "
+"browse through what’s available, or search for something specific."
+msgstr ""
+
+#: content/_index.md:108
+msgid "How do I update the system?"
+msgstr ""
+
+#: content/_index.md:109
+msgid ""
+"KDE Linux will notify you when updates are available. Just click the "
+"notification about updates to launch *Discover* and see what’s available. "
+"Click “Update All” when you’re ready to update."
+msgstr ""
+
+#: content/_index.md:111
+msgid ""
+"Alternatively, you can update the system using `updatectl update` in a "
+"terminal window."
+msgstr ""
+
+#: content/_index.md:113
+msgid ""
+"The next time you restart the system, the update will be instantly applied."
+msgstr ""
+
+#: content/_index.md:116
+msgid ""
+"How can I roll back to an older version if there’s a problem after updating?"
+msgstr ""
+
+#: content/_index.md:117
+msgid ""
+"When you turn on the computer, a list of KDE Linux versions will be shown "
+"for a few seconds. While this list is visible, use the Down arrow key to "
+"select an older version, and then press Enter."
+msgstr ""
+
+#: content/_index.md:120
+msgid "Where can I report issues and get help?"
+msgstr ""
+
+#: content/_index.md:121
+msgid "Since KDE Linux is pre-alpha, please report issues you encounter!"
+msgstr ""
+
+#: content/_index.md:123
+msgid ""
+"Report issues in the KDE Linux operating system itself (i.e. OS design, "
+"integration, system services, etc.) on [invent.kde.org](https://"
+"invent.kde.org/kde-linux/kde-linux/-/issues/), and ignore the scary red "
+"banner at the top of the page."
+msgstr ""
+
+#: content/_index.md:124
+msgid ""
+"Report issues in KDE Plasma or any KDE apps on [bugs.kde.org](https://"
+"bugs.kde.org/)."
+msgstr ""
+
+#: content/_index.md:125
+msgid ""
+"Get help with something that’s not necessarily a bug on [discuss.kde.org]"
+"(https://discuss.kde.org/c/help/6), and tag your post with “kde-linux”. {{< /"
+"section >}}"
+msgstr ""
+
+#: content/_index.md:132
+msgid "Information for techies"
+msgstr ""
+
+#: content/_index.md:134
+msgid "Is this “The KDE OS”?"
+msgstr ""
+
+#: content/_index.md:135
+msgid ""
+"Yes! KDE Linux is the KDE community’s idea of a “reference implementation” "
+"OS with Plasma and KDE apps."
+msgstr ""
+
+#: content/_index.md:137
+msgid ""
+"Though it’s designed to be suitable for general uses, KDE Linux may be less "
+"optimized and optimizable for specific uses compared to other operating "
+"systems. KDE Linux is not an attempt to discourage people from using them, "
+"but rather to raise the quality level for all KDE-centric operating systems."
+msgstr ""
+
+#: content/_index.md:140
+msgid "What kind of base technology does KDE Linux use?"
+msgstr ""
+
+#: content/_index.md:141
+msgid ""
+"KDE Linux is an “immutable base OS” Linux distro created using Arch Linux "
+"packages, but it should not be considered an “Arch-based distro”; Arch is "
+"simply a means to an end, and KDE Linux doesn’t even ship with the `pacman` "
+"package manager."
+msgstr ""
+
+#: content/_index.md:143
+msgid ""
+"KDE Linux leans on Systemd for a great deal of functionality. Updates are "
+"atomic and image-based, with the last 5 OS images cached on disk. Only the "
+"Wayland session is supported. Apps primarily come from Flatpak."
+msgstr ""
+
+#: content/_index.md:145
+msgid ""
+"Learn more about [KDE Linux’s architecture](https://community.kde.org/"
+"KDE_Linux/Background_information#Architecture)."
+msgstr ""
+
+#: content/_index.md:148
+msgid "How can I install more specialized software not available in Discover?"
+msgstr ""
+
+#: content/_index.md:149
+msgid ""
+"As an “immutable base” operating system, KDE Linux does not include a "
+"traditional package manager that can modify the base OS. However, there are "
+"still multiple options for getting software not available in Discover:"
+msgstr ""
+
+#: content/_index.md:151
+msgid ""
+"*Distrobox* and *Toolbox* come pre-installed, and can install traditional "
+"packages from the Linux distro of your choice into containers in your home "
+"directory."
+msgstr ""
+
+#: content/_index.md:152
+msgid ""
+"[*Nix*](https://en.wikipedia.org/wiki/Nix_(package_manager)) can also be "
+"installed to provide a large repository of software."
+msgstr ""
+
+#: content/_index.md:153
+msgid ""
+"You can compile software yourself, either into your home directory or on top "
+"of the base system using `systemd-sysext`."
+msgstr ""
+
+#: content/_index.md:154
+msgid "AppImage apps downloaded from the internet work too."
+msgstr ""
+
+#: content/_index.md:156
+msgid "Learn more about [installing additional software](/docs/more-software)."
+msgstr ""
+
+#: content/_index.md:159
+msgid "What’s the deal with older NVIDIA GPUs?"
+msgstr ""
+
+#: content/_index.md:160
+msgid ""
+"NVIDIA GPUs using an architecture older than Turing (this means anything "
+"older than GTX 1630) require NVIDIA’s proprietary kernel modules. These "
+"modules cannot be loaded at runtime because the base OS is immutable, and "
+"pre-installing them appears to be in a [legal gray area](https://"
+"en.wikipedia.org/wiki/Linux_kernel#Loadable_kernel_modules). To be safe, KDE "
+"Linux doesn’t include them."
+msgstr ""
+
+#: content/_index.md:162
+msgid ""
+"Newer NVIDIA GPUs (Turing/GTX 1630 and newer) can use NVIDIA’s open kernel "
+"modules which are redistributable with the base OS in a legally clear "
+"manner, so KDE Linux pre-installs them. Necessary NVIDIA userspace drivers "
+"and utilities are also pre-installed, so these GPUs should work without "
+"drama."
+msgstr ""
+
+#: content/_index.md:164
+msgid ""
+"Older NVIDIA GPUs *should* work with the less-performant Nouveau drivers, "
+"which are included. However support for this must be manually enabled right "
+"now, and is not recommended for non-experts. Follow [the instructions](/docs/"
+"pre-turing-nvidia), and temper your expectations accordingly."
+msgstr ""
+
+#: content/_index.md:167
+msgid ""
+"I’m a KDE developer. Why should I use KDE Linux, and how does KDE "
+"development work?"
+msgstr ""
+
+#: content/_index.md:168
+msgid ""
+"KDE Linux is an excellent development platform for KDE software. Advantages "
+"over other many distros include:"
+msgstr ""
+
+#: content/_index.md:170
+msgid ""
+"**Faster:** Don’t need to build all dependencies, only the specific thing "
+"you’re working on. More speed, less electricity usage and heat generation."
+msgstr ""
+
+#: content/_index.md:171
+msgid ""
+"**Safer:** Compiling into a systemd extension overlaid on top of `/usr` or "
+"rolling back to one of the last 5 OS images cached on disk provide multiple "
+"easy methods to roll back broken changes."
+msgstr ""
+
+#: content/_index.md:172
+msgid ""
+"**Smaller:** Over 45 GB of space savings compared to a dev setup where you "
+"build everything from source."
+msgstr ""
+
+#: content/_index.md:173
+msgid ""
+"**More deterministic:** Build KDE software exactly the way it’s built on KDE "
+"Linux or Flathub. No weird bugs from different development toolchains."
+msgstr ""
+
+#: content/_index.md:175
+msgid "Learn more about [using KDE Linux as a KDE developer](/docs/kde-dev)."
+msgstr ""
+
+#: content/_index.md:178
+msgid "This is so cool; how can I get involved with development?"
+msgstr ""
+
+#: content/_index.md:179
+msgid ""
+"Help is always appreciated! You can talk with the KDE Linux developers on "
+"[Matrix](https://matrix.to/#/#kde-linux:kde.org), and submit issues or merge "
+"requests on [invent.kde.org](https://invent.kde.org/kde-linux/kde-linux/)."
+msgstr ""
+
+#: content/_index.md:181
+msgid ""
+"{{< linux/button src=\"/docs/kde-linux-dev\" description=\"Contribute to KDE "
+"Linux\" >}} {{< linux/button src=\"/docs/\" description=\"Read the docs\" "
+">}} {{< linux/button src=\"/docs/install\" description=\"Install KDE Linux\" "
+">}}"
+msgstr ""
+
+#: content/_index.md:190
+msgid ""
+"{{< section class=\"trademark-section\" >}} The registered trademark Linux® "
+"is used pursuant to a sublicense from the Linux Foundation, the exclusive "
+"licensee of Linus Torvalds, owner of the mark on a world­wide basis. {{< /"
+"section >}}"
+msgstr ""
+
+#: content/docs.md:0
+msgid "KDE Linux Documentation"
+msgstr ""
+
+#: content/docs.md:0
+msgid "How do do all sorts of things on KDE Linux"
+msgstr ""
+
+#: content/docs.md:11
+msgid ""
+"Life on a cutting-edge immutable OS can be unfamiliar! This page contains "
+"information about how to perform various tasks on KDE Linux:"
+msgstr ""
+
+#: content/docs.md:14
+msgid "Installation"
+msgstr ""
+
+#: content/docs.md:15
+msgid "[Install on a device](install)"
+msgstr ""
+
+#: content/docs.md:16
+msgid "[Install in a virtual machine](install-vm)"
+msgstr ""
+
+#: content/docs.md:17
+msgid "[Installing using Ventoy](ventoy)"
+msgstr ""
+
+#: content/docs.md:20
+msgid "Hardware support"
+msgstr ""
+
+#: content/docs.md:21
+msgid "[Use a pre-Turing (older than GTX 1630) NVIDIA GPU](pre-turing-nvidia)"
+msgstr ""
+
+#: content/docs.md:24
+msgid "Basic use"
+msgstr ""
+
+#: content/docs.md:25
+msgid "[Install apps and games](apps-and-games)"
+msgstr ""
+
+#: content/docs.md:26
+msgid "[Install fonts](fonts)"
+msgstr ""
+
+#: content/docs.md:27
+msgid "[Keep the system up to date](updates)"
+msgstr ""
+
+#: content/docs.md:28
+msgid "[Back up data](backup)"
+msgstr ""
+
+#: content/docs.md:29
+msgid "[Auto-mount internal disks](automount)"
+msgstr ""
+
+#: content/docs.md:30
+msgid "[Type characters not on your keyboard](char-input)"
+msgstr ""
+
+#: content/docs.md:33
+msgid "Advanced use"
+msgstr ""
+
+#: content/docs.md:34
+msgid ""
+"[Force software to run on the dedicated GPU with a multi-GPU setup](multi-"
+"gpu)"
+msgstr ""
+
+#: content/docs.md:35
+msgid "[Install Linux software not available in Discover](more-software)"
+msgstr ""
+
+#: content/docs.md:36
+msgid "[Use Password Managers with Web Browsers](password-managers)"
+msgstr ""
+
+#: content/docs.md:37
+msgid "[Reduce latency for specialized software](low-latency)"
+msgstr ""
+
+#: content/docs.md:38
+msgid "[Add or override content in /usr](override-usr)"
+msgstr ""
+
+#: content/docs.md:39
+msgid "[Create and use virtual machines](vm)"
+msgstr ""
+
+#: content/docs.md:40
+msgid "[Automatically unlock your SSH keys](ssh-keys)"
+msgstr ""
+
+#: content/docs.md:41
+msgid "[Why is `/etc/fstab` empty?](fstab)"
+msgstr ""
+
+#: content/docs.md:44
+msgid "Software development"
+msgstr ""
+
+#: content/docs.md:45
+msgid "[Develop KDE software](kde-dev)"
+msgstr ""
+
+#: content/docs.md:46
+msgid "[Develop or run Python scripts](python-dev)"
+msgstr ""
+
+#: content/docs.md:47
+msgid "[Develop or debug the kernel](kernel-dev)"
+msgstr ""
+
+#: content/docs.md:48
+msgid "[Develop other non-KDE software](dev)"
+msgstr ""
+
+#: content/docs.md:49
+msgid "[Develop KDE Linux](kde-linux-dev)"
+msgstr ""
+
+#: content/docs.md:50
+msgid ""
+"Develop general-purpose GPU software using OpenCL/CUDA/etc. (coming soon)"
+msgstr ""
+
+#: content/docs.md:53
+msgid "Troubleshooting and debugging"
+msgstr ""
+
+#: content/docs.md:54
+msgid "[Recover from a failure to start up properly](boot-failure-recovery)"
+msgstr ""
+
+#: content/docs.md:55
+msgid "[Set additional kernel command-line arguments](kernel-cmdline)"
+msgstr ""
+
+#: content/docs.md:56
+msgid "[Debug crashes in Flatpak apps](flatpak-crashes)"
+msgstr ""
+
+#: content/docs.md:57
+msgid "[Migrate older installations](migrate-older)"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Donate"
+#~ msgid "Why donate"
+#~ msgstr "လှူဒါန်းမည်"
+
+#, fuzzy
+#~| msgid "Development Tools"
+#~ msgid "targeted development."
+#~ msgstr "ပရိုဂရမ်မာသုံးကိရိယာများ"
+
+#, fuzzy
+#~| msgid "KDE neon"
+#~ msgid "KDE Announced"
+#~ msgstr "ကေဒီအီး နီယွန်"
+
+#, fuzzy
+#~| msgid "System Settings"
+#~ msgid "meetings"
+#~ msgstr "စစ်စတမ်ဆက်တင်များ"
+
+#, fuzzy
+#~| msgid "KDE neon"
+#~ msgid "KDE 1"
+#~ msgstr "ကေဒီအီး နီယွန်"
+
+#, fuzzy
+#~| msgid "KDE neon"
+#~ msgid "KDE 2"
+#~ msgstr "ကေဒီအီး နီယွန်"
+
+#, fuzzy
+#~| msgid "KDE neon"
+#~ msgid "KDE 3"
+#~ msgstr "ကေဒီအီး နီယွန်"
+
+#, fuzzy
+#~| msgid "Plasma is a Desktop"
+#~ msgid "Plasma 5 Released"
+#~ msgstr "ပလက်စမာသည် ဒက်စ်တော့ပ်ဖြစ်သည်"
+
+#, fuzzy
+#~| msgid "Plasma"
+#~ msgid "Plasma 5 screenshot"
+#~ msgstr "ပလက်စမာ"
+
+#, fuzzy
+#~| msgid "Plasma Mobile"
+#~ msgid "Plasma Mobile Announced"
+#~ msgstr "ပလက်စမာမိုဘိုင်း"
+
+#, fuzzy
+#~| msgid "Plasma Mobile"
+#~ msgid "Plasma Mobile photo"
+#~ msgstr "ပလက်စမာမိုဘိုင်း"
+
+#~ msgid "Announcements"
+#~ msgstr "ကြေညာချက်များ"
+
+#, fuzzy
+#~| msgid "About KDE e.V."
+#~ msgid "About KDE"
+#~ msgstr "ကေဒီအီး အီး.ဗွီ. အကြောင်း"
+
+#~ msgid "openSUSE"
+#~ msgstr "အိုးပန်းဆူဆီ"
+
+#~ msgid "Fedora KDE"
+#~ msgstr "ဖဲဒိုရာ ကေဒီအီး"
+
+#~ msgid "Kubuntu"
+#~ msgstr "ကူဘွန်တု"
+
+#~ msgid "KDE neon"
+#~ msgstr "ကေဒီအီး နီယွန်"
+
+#~ msgid "Donate and support KDE"
+#~ msgstr "ကေဒီအီးကို လှူဒါန်း၍ ထောက်ပံ့မည်"
+
+#~ msgid "Where does the money go?"
+#~ msgstr "ပိုက်ဆံတွေ ဘယ်ရောက်သွားလဲ။"
+
+#, fuzzy
+#~| msgid "2018 report"
+#~ msgid "2024 report"
+#~ msgstr "၂၀၁၈ အစီအရင်ခံစာ"
+
+#, fuzzy
+#~| msgid "2020 report"
+#~ msgid "2023 report"
+#~ msgstr "၂၀၂၀ အစီအရင်ခံစာ"
+
+#, fuzzy
+#~| msgid "2020 report"
+#~ msgid "2022 report"
+#~ msgstr "၂၀၂၀ အစီအရင်ခံစာ"
+
+#, fuzzy
+#~| msgid "Learn about Plasma"
+#~ msgid "(Powered by PayPal)"
+#~ msgstr "ပလက်စမာအကြောင်း လေ့လာပါ"
+
+#~ msgid "Donate regularly"
+#~ msgstr "ပုံမှန်လှူဒါန်းမည်"
+
+#, fuzzy
+#~| msgid "Donate"
+#~ msgid "❤️ Donate"
+#~ msgstr "လှူဒါန်းမည်"
+
+#~ msgid "About KDE e.V."
+#~ msgstr "ကေဒီအီး အီး.ဗွီ. အကြောင်း"
+
+#, fuzzy
+#~| msgid "Plasma is a Desktop"
+#~ msgid "KDE Plasma - Our Desktop"
+#~ msgstr "ပလက်စမာသည် ဒက်စ်တော့ပ်ဖြစ်သည်"
+
+#~ msgid "KDE Applications"
+#~ msgstr "ကေဒီအီးအပ္ပလီကေးရှင်းများ"
+
+#, fuzzy
+#~| msgid "Frameworks"
+#~ msgid "KDE Frameworks"
+#~ msgstr "မူဘောင်"
+
+#, fuzzy
+#~| msgid "KDE Applications"
+#~ msgid "Fight the Power Using KDE Applications."
+#~ msgstr "ကေဒီအီးအပ္ပလီကေးရှင်းများ"
+
+#, fuzzy
+#~| msgid "KDE Applications"
+#~ msgid "For Artists Using KDE Applications."
+#~ msgstr "ကေဒီအီးအပ္ပလီကေးရှင်းများ"
+
+#, fuzzy
+#~| msgid "Plasma logo"
+#~ msgid "Plasma for gamers"
+#~ msgstr "ပလက်စမာ လိုဂို"
+
+#~ msgid "Download"
+#~ msgstr "ဒေါင်းလုတ်"
+
+#~ msgid "A collection of games for kids from 6 to 99 years old!"
+#~ msgstr "၆နှစ်မှ၉၉နှစ်ထိ ကလေးများအတွက် ဂိမ်းများစုစည်းမှု"
+
+#~ msgid "Games"
+#~ msgstr "ဂိမ်းများ"
+
+#, fuzzy
+#~| msgid "Learn about Plasma"
+#~ msgid "Powered by Plasma"
+#~ msgstr "ပလက်စမာအကြောင်း လေ့လာပါ"
+
+#, fuzzy
+#~| msgid "Star Labs"
+#~ msgid "KStars"
+#~ msgstr "စတားလပ်ဘ်"
+
+#, fuzzy
+#~| msgid "KDE Applications"
+#~ msgid "Travel the World Using KDE Applications"
+#~ msgstr "ကေဒီအီးအပ္ပလီကေးရှင်းများ"
+
+#, fuzzy
+#~| msgid "Plasma is a Desktop"
+#~ msgid "Plasma is easy"
+#~ msgstr "ပလက်စမာသည် ဒက်စ်တော့ပ်ဖြစ်သည်"
+
+#, fuzzy
+#~| msgid "Plasma"
+#~ msgid "Why Plasma"
+#~ msgstr "ပလက်စမာ"
+
+#, fuzzy
+#~| msgid "Buy a device with Plasma"
+#~ msgid "Buy devices with Plasma and KDE Applications"
+#~ msgstr "ပလက်စမာဖြင့် စက်တစ်လုံးဝယ်ယူလိုက်ပါ"
+
+#, fuzzy
+#~| msgid "Pinebook Pro"
+#~ msgid "InfinityBook Pro"
+#~ msgstr "ပိုင်းဘုတ်ခ်ပရို"
+
+#, fuzzy
+#~| msgid "Notifications"
+#~ msgid "Specifications"
+#~ msgstr "အသိပေးချက်များ"
+
+#~ msgid "CPU:"
+#~ msgstr "စီပီယူ -"
+
+#~ msgid "GPU:"
+#~ msgstr "ဂျီပီယူ -"
+
+#~ msgid "Memory:"
+#~ msgstr "မန်မိုရီ -"
+
+#~ msgid "Display:"
+#~ msgstr "ဒစ်(စ)ပလေး -"
+
+#~ msgid "Storage:"
+#~ msgstr "မှတ်ဉာဏ်နေရာ -"
+
+#, fuzzy
+#~| msgid "Up to 2TB storage SSD"
+#~ msgid "Up to 1 TB SSD"
+#~ msgstr "၂ တယ်ရာဘိုက် အက်စ်အက်စ်ဒီ ထိ"
+
+#~ msgid "Price:"
+#~ msgstr "စျေးနှုန်း -"
+
+#, fuzzy
+#~| msgid "starting at $199"
+#~ msgid "starting at US$399"
+#~ msgstr "၁၉၉ဒေါ်လာမှ စျေးစသည်"
+
+#~ msgid "KDE Slimbook"
+#~ msgstr "ကေဒီအီး စလင်းဘွတ်ခ်"
+
+#, fuzzy
+#~| msgid "AMD Ryzen 7 4800 H"
+#~ msgid "AMD Ryzen AI 9 365"
+#~ msgstr "အေအမ်ဒီ ရိုင်ဇန် ၇ ၄၈၀၀ အိပ်ချ်"
+
+#, fuzzy
+#~| msgid "15.6-inch IPS LED display with 1920 by 1080 resolution at 60Hz"
+#~ msgid ""
+#~ "16-inch IPS LED display with 2560 × 1600 resolution at 165 Hz and sRGB "
+#~ "100%"
+#~ msgstr "၆၀ဟာ့ဇ် ၁၉၂၀-၁၀၈၀ ရီဆိုလူးရှင်းရှိသော ၁၅.၆လက်မ အိုင်ပီအက်စ် အယ်အီးဒီ ဒစ်(စ)ပလေး"
+
+#, fuzzy
+#~| msgid "Up to 2TB storage SSD"
+#~ msgid "Up to 8 TB storage NVME PCIe 4.0"
+#~ msgstr "၂ တယ်ရာဘိုက် အက်စ်အက်စ်ဒီ ထိ"
+
+#, fuzzy
+#~| msgid "Up to 2TB storage SSD"
+#~ msgid "Up to 128 GB DDR5"
+#~ msgstr "၂ တယ်ရာဘိုက် အက်စ်အက်စ်ဒီ ထိ"
+
+#, fuzzy
+#~| msgid "47‑watt‑hour battery"
+#~ msgid "80‑watt‑hour battery"
+#~ msgstr "၄၇ ဝပ်-နာရီ ဘက်ထရီ"
+
+#, fuzzy
+#~| msgid "1.5 kg"
+#~ msgid "1.85 kg"
+#~ msgstr "၁.၅ ကီလိုဂရမ်"
+
+#~ msgid "Configure"
+#~ msgstr "ပြင်ဆင်မည်"
+
+#~ msgid "Plasma"
+#~ msgstr "ပလက်စမာ"
+
+#~ msgid "Plasma is a Desktop"
+#~ msgstr "ပလက်စမာသည် ဒက်စ်တော့ပ်ဖြစ်သည်"
+
+#~ msgid "Plasma logo"
+#~ msgstr "ပလက်စမာ လိုဂို"
+
+#~ msgid "Get Plasma for your device"
+#~ msgstr "သင်၏စက်အတွက် ပလက်စမာ ရယူပါ"
+
+#~ msgid "Buy a device with Plasma"
+#~ msgstr "ပလက်စမာဖြင့် စက်တစ်လုံးဝယ်ယူလိုက်ပါ"
+
+#~ msgid "See Announcements"
+#~ msgstr "ကြေညာချက်များ ကြည့်မည်"
+
+#~ msgid "Simple by default"
+#~ msgstr "နဂိုရိုးရှင်း"
+
+#~ msgid "Plasma is designed to be easy to use."
+#~ msgstr "အသုံးပြုလွယ်ကူစေရန်အတွက် ပလက်စမာကို ဒီဇိုင်းဆွဲထားသည်။"
+
+#~ msgid "Launcher"
+#~ msgstr "လောင်ချာ"
+
+#~ msgid "System Tray"
+#~ msgstr "စစ်စတမ်ထရေး"
+
+#~ msgid "Notifications"
+#~ msgstr "အသိပေးချက်များ"
+
+#~ msgid "Discover"
+#~ msgstr "ဒစ်(စ)ကာဗာ"
+
+#~ msgid "KRunner"
+#~ msgstr "ကေရန်နာ"
+
+#~ msgid "System Settings"
+#~ msgstr "စစ်စတမ်ဆက်တင်များ"
+
+#~ msgid "Professional Applications"
+#~ msgstr "ပရော်ဖက်ရှင်နယ် အပ္ပလီကေးရှင်းများ"
+
+#~ msgid ""
+#~ "With Plasma the user is king. Not happy with the color scheme? Change it! "
+#~ "Want to have your panel on the left edge of the screen? Move it! Don't "
+#~ "like the font? Use a different one! Download custom widgets in one click "
+#~ "and add them to your desktop or panel."
+#~ msgstr ""
+#~ "ပလက်စမာနှင့်ဆို အသုံးပြုသူသည် ဘုရင်ဖြစ်သည်။ အရောင်အစီအစဥ်ပြပုံကို မကြိုက်ဘူးလား။ ပြောင်းလိုက်ပါ။ "
+#~ "သင်၏ပန်နယ်ကို စခရင်၏ဘယ်အစွန်းတွင်ထားလိုပါသလား။ ရွေ့လိုက်ပါ။ ဖောင့်မကြိုက်ဘူးလား။ အခြားတစ်ခုသုံးလိုက်ပါ။ "
+#~ "တစ်ချက်တည်းနှိပ်၍ ကိုယ်ပိုင်ဓလေ့ဝစ်ဂျတ်များကိုဒေါင်းလုတ်ဆွဲပြီး သင်၏ပန်နယ် သို့မဟုတ် ဒက်စ်တော့ပ်သို့ ထည့်လိုက်ပါ။"
+
+#~ msgid "Dark Theme"
+#~ msgstr "အမှောင်သင်း"
+
+#~ msgid "Widgets"
+#~ msgstr "ဝစ်ဂတ်များ"
+
+#~ msgid "Panels"
+#~ msgstr "ပန်နယ်များ"
+
+#~ msgid "KDE Connect"
+#~ msgstr "ကေဒီအီးကောနက်"
+
+#~ msgid "Get it on F-Droid"
+#~ msgstr "၎င်းကို အက်ဖ်-ဒရိုက်ဒ်တွင် ရယူပါ"
+
+#~ msgid "Get it on Google Play"
+#~ msgstr "ဂူးဂယ်ပလေးတွင် ရယူပါ"
+
+#~ msgid "KDE Connect menu"
+#~ msgstr "ကေဒီအီးကောနက်မီနူး"
+
+#~ msgid "Send Files"
+#~ msgstr "ဖိုင်လ်များပို့မည်"
+
+#~ msgid "Products"
+#~ msgstr "ထုတ်ကုန်များ"
+
+#~ msgid "Plasma Mobile"
+#~ msgstr "ပလက်စမာမိုဘိုင်း"
+
+#~ msgid "Development Tools"
+#~ msgstr "ပရိုဂရမ်မာသုံးကိရိယာများ"
+
+#~ msgid "Frameworks"
+#~ msgstr "မူဘောင်"
+
+#~ msgid "Learn about Plasma"
+#~ msgstr "ပလက်စမာအကြောင်း လေ့လာပါ"
+
+#~ msgid "View Distributions offering Plasma"
+#~ msgstr "ပလက်စမာပေးသော ဒစ်စထရီဗျူးရှင်းများကြည့်မည်"
+
+#~ msgid "Miscellaneous KDE resources"
+#~ msgstr "ကေဒီအီးရင်းမြစ်တိုလီမိုလီများ"
+
+#~ msgid ""
+#~ "[Books on KDE](https://community.kde.org/Books) You'd like to learn more "
+#~ "about KDE, a specific application, or how to develop an application for "
+#~ "this project? Then this page will lead you to the best books about those "
+#~ "topics."
+#~ msgstr ""
+#~ "[ကေဒီအီးအကြောင်းစာအုပ်များ](https://community.kde.org/Books) သင်အနေဖြင့် "
+#~ "ကေဒီအီးအကြောင်း၊ အပ္ပလီကေးရှင်းတစ်ခုအကြောင်း သို့မဟုတ် ဤပရောဂျက်အတွက် အပ္ပလီကေးရှင်းတစ်ခု "
+#~ "ဘယ်လိုရေးသာရမည်ကို သိလိုပါသလား။ သိလိုလျှင် ဤစာမျက်နှာတွင် ထိုအကြောင်းအရာများနှင့်သက်ဆိုင်သော "
+#~ "စာအုပ်များတွေ့ရှိမည်။"
+
+#~ msgid "[Thank Yous](/thanks) Those who have helped KDE."
+#~ msgstr "[Thank Yous](/thanks) ကေဒီအီးကိုကူညီခဲ့ကြသူများ။"
+
+#, fuzzy
+#~| msgid "Development Tools"
+#~ msgid "General development lists"
+#~ msgstr "ပရိုဂရမ်မာသုံးကိရိယာများ"
+
+#, fuzzy
+#~| msgid "KDE Applications"
+#~ msgid "For Developers Using KDE Applications."
+#~ msgstr "ကေဒီအီးအပ္ပလီကေးရှင်းများ"
+
+#, fuzzy
+#~| msgid "Professional Applications"
+#~ msgid "Profile your application"
+#~ msgstr "ပရော်ဖက်ရှင်နယ် အပ္ပလီကေးရှင်းများ"
+
+#~ msgid ""
+#~ "<a href=\"https://www.shells.com/pricing?"
+#~ "special=kde&_a=kdeorg&utm_source=web&utm_medium=lp&utm_campaign=kde-org-"
+#~ "hardware\"><img src=\"/content/hardware/shells.png\" /></a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.shells.com/pricing?"
+#~ "special=kde&_a=kdeorg&utm_source=web&utm_medium=lp&utm_campaign=kde-org-"
+#~ "hardware\"><img src=\"/content/hardware/shells.png\" /></a>"
+
+#~ msgid "<small>Shell makes a donation to KDE when you use this link.</small>"
+#~ msgstr "<small>ဤလင့်ခ်ကို အသုံးပြုသည့်အခါ ကေဒီအီးကို လှူဒါန်းသွားမည်။</small>"
+
+#~ msgid "Star Labs"
+#~ msgstr "စတားလပ်ဘ်"
+
+#, fuzzy
+#~| msgid "Up to 64GB memory"
+#~ msgid "Up to 96GB 5600 MHz non-soldered memory"
+#~ msgstr "၆၄ ဂစ်ဂါဘိုက်မန်မိုရီ ထိ"
+
+#~ msgid "Slimbook"
+#~ msgstr "စလင်းဘွတ်ခ်"
+
+#~ msgid "Manjaro KDE"
+#~ msgstr "မန်ဂျာရို ကေဒီအီး"
+
+#, fuzzy
+#~| msgid "KDE Applications"
+#~ msgid "For Scientists Using KDE Applications."
+#~ msgstr "ကေဒီအီးအပ္ပလီကေးရှင်းများ"
+
+#~ msgid "Pinebook pro picture"
+#~ msgstr "ပိုင်းဘုတ်ခ်ပရို ပုံ"
+
+#~ msgid "1080p IPS Panel"
+#~ msgstr "၁၀၈၀ပီ အိုင်ပီအက်စ် ပန်နယ်"
+
+#~ msgid "64GB of eMMC (Upgradable)"
+#~ msgstr "အီးအမ်အမ်စီ ၆၄ ဂစ်ဂါဘိုက်မန်မိုရီ (အပ်ဂရိတ်လုပ်၍ရ)"
+
+#, fuzzy
+#~| msgid "starting at $199"
+#~ msgid "starting at US$199"
+#~ msgstr "၁၉၉ဒေါ်လာမှ စျေးစသည်"
+
+#~ msgid "PinePhone KDE Community Edition"
+#~ msgstr "ပိုင်ဖုန်း ကေဒီအိး ကွန်မြူနတီ အယ်ဒီရှင်း"
+
+#~ msgid "Learn more about the PinePhone"
+#~ msgstr "ပိုင်ဖုန်းအကြောင်း ပိုမိုလေ့လာပါ"
+
+#~ msgid "Choose your size"
+#~ msgstr "အရွယ်အစားရွေးပါ"
+
+#~ msgid "KDE Slimbook 14”"
+#~ msgstr "ကေဒီအီး စလင်းဘွတ်ခ် ၁၄”"
+
+#~ msgid "14-inch IPS LED display with 1920 by 1080 resolution at 60Hz"
+#~ msgstr "၆၀ဟာ့ဇ် ၁၉၂၀-၁၀၈၀ ရီဆိုလူးရှင်းရှိသော ၁၄လက်မ အိုင်ပီအက်စ် အယ်အီးဒီ ဒစ်(စ)ပလေး"
+
+#~ msgid "1 kg"
+#~ msgstr "၁ ကီလိုဂရမ်"
+
+#~ msgid "KDE Slimbook 15.6”"
+#~ msgstr "ကေဒီအီး စလင်းဘွတ်ခ် ၁၅.၆”"
+
+#~ msgid "92‑watt‑hour battery"
+#~ msgstr "၉၂ ဝပ်-နာရီ ဘက်ထရီ"
+
+#~ msgid "2019 report"
+#~ msgstr "၂၀၁၉ အစီအရင်ခံစာ"
+
+#~ msgid "KDE Neon"
+#~ msgstr "ကေဒီအီး နီယွန်"
+
+#~ msgid ""
+#~ "[Windows](http://wiki.rosalab.ru/ru/images/6/62/RosaImageWriter-2.6.2-"
+#~ "win.zip)"
+#~ msgstr ""
+#~ "[ဝင်းဒိုးစ်](http://wiki.rosalab.ru/ru/images/6/62/RosaImageWriter-2.6.2-"
+#~ "win.zip)"
+
+#~ msgid ""
+#~ "[Linux 32-bit](http://wiki.rosalab.ru/ru/images/4/45/"
+#~ "RosaImageWriter-2.6.2-lin-i686.tar.xz)"
+#~ msgstr ""
+#~ "[လင်းနစ် ၃၂-ဘစ်](http://wiki.rosalab.ru/ru/images/4/45/RosaImageWriter-2.6.2-"
+#~ "lin-i686.tar.xz)"
+
+#~ msgid ""
+#~ "[Linux 64-bit](http://wiki.rosalab.ru/ru/images/7/7f/"
+#~ "RosaImageWriter-2.6.2-lin-x86_64.tar.xz)"
+#~ msgstr ""
+#~ "[လင်းနစ် ၆၄-ဘစ်](http://wiki.rosalab.ru/ru/images/7/7f/RosaImageWriter-2.6.2-"
+#~ "lin-x86_64.tar.xz)"
+
+#~ msgid ""
+#~ "[Mac OS X](http://wiki.rosalab.ru/ru/images/3/33/RosaImageWriter-2.6.2-"
+#~ "osx.dmg)"
+#~ msgstr ""
+#~ "[မက် အိုအက်စ် အိပ်စ်](http://wiki.rosalab.ru/ru/images/3/33/RosaImageWriter-2.6.2-"
+#~ "osx.dmg)"
+
+#~ msgid "WikiToLearn"
+#~ msgstr "လေ့လာရန်ဝီကီ"
+
+#~ msgid "A powerful laptop for daily use or CPU-intensive work"
+#~ msgstr ""
+#~ "နေ့စဉ်သုံး သို့မဟုတ် စီပီယူ-အလေးပေး အလုပ်များသုံးရန်အတွက် စွမ်းရည်ပြည့်ဝအားကောင်းသော လပ်တော့ပ်တစ်လုံး"
+
+#~ msgid ""
+#~ "10th Generation Intel Core i7-10875H Processor, 8 core / 16 thread. "
+#~ "2.3GHz Base, 5.1GHz Turbo"
+#~ msgstr ""
+#~ "၁၀ကြိမ်မြောက်မျိုးဆက် အင်တယ် ကိုး အိုင်၇-၁၀၈၇၅အိပ်ချ် ပရိုဆက်ဆာ၊ ကိုး ၈လုံး / သရတ် ၁၆ခေျာင်း။ "
+#~ "၂.၃ဂစ်ဂါဟာ့ဇ် ဘေ့စ်၊ ၅.၁ဂစ်ဂါဟာ့ဇ် တာဘို"
+
+#~ msgid ""
+#~ "NVIDIA GeForce RTX 2060/2070/2080 GPU PCIe x 16 AND Intel UHD 630 "
+#~ "Graphics with CUDA and cuDNN"
+#~ msgstr ""
+#~ "စီယူဒီအေ နှင့် စီယူဒီအန်အန် ပါဝင်သော အန်ဗွီဒီယာ ဂျီးဖို့စ် အာတီအိပ်စ် ၂၀၆၀/၂၀၇၀/၂၀၈၀ ဂျီပီယူ ပီစီအိုင်အီး x "
+#~ "၁၆ နှင့် အင်တယ် ယူအိပ်ချ်ဒီ ၆၃၀ ဂရပ်ဖစ်"
+
+#~ msgid "Up to 64GB Dual Channel DDR4 3200 MHz"
+#~ msgstr "လိုင်းနှစ်ခုတွဲ ဒီဒီအာ၄ ၃၂၀၀ မီဂါဟာ့ဇ် ဖြစ်သော ၆၄ဂစ်ဂါဘိုက်မန်မိုရီ ထိ"
+
+#~ msgid "Full HD 16.1” matte 1080p IPS 144Hz"
+#~ msgstr "အိပ်ချ်ဒီ အပြည့် ၁၆.၁\" အလင်းပြန်မှုလျော့ချထားသော ၁၀၈၀ပီ အိုင်ပီအက်စ် ၁၄၄ ဟာ့ဇ်"
+
+#~ msgid ""
+#~ "2 x M.2 2280 PCIe Gen3x4 interface featuring Samsung 970 Evo Plus at "
+#~ "3,500MB/s and 2,700MB/s seq. read and write"
+#~ msgstr ""
+#~ "အစဥ်တိုင်းဖတ်ခြင်း ၃၅၀၀မက်ဂါဘိုက်/စက္ကန့် နှင့် အစဥ်တိုင်းရေးခြင်း ၂၇၀၀မက်ဂါဘိုက်/စက္ကန့် ရှိသော "
+#~ "ဆမ်ဆောင်း ၉၇၀ အီဗိုပလပ်စ်တပ်ဆင်ထားသော အမ်.၂ ၂၂၈၀ ပီစီအိုင်အီး ဂျန်၃x၄ အင်တာဖေ့စ် နှစ်ခု"
+
+#, fuzzy
+#~| msgid "starting at $1,795"
+#~ msgid "starting at US$1,795"
+#~ msgstr "၁၇၉၅ဒေါ်လာမှ စျေးစသည်"
+
+#, fuzzy
+#~| msgid "About Plasma 5.22"
+#~ msgid "About Plasma 5.24"
+#~ msgstr "ပလက်စမာ ၅.၂၂ အကြောင်း"
