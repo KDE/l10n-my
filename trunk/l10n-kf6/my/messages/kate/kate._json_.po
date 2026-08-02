@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-03-08 00:57+0000\n"
+"POT-Creation-Date: 2026-08-02 00:56+0000\n"
 "PO-Revision-Date: 2024-09-09 16:38+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -12,11 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.5\n"
-
-#: addons/backtracebrowser/katebacktracebrowserplugin.json
-msgctxt "Name"
-msgid "Backtrace Browser"
-msgstr "နောက်ကြောင်းလိုက်ဘရောက်ဇာ"
 
 #: addons/bookmarks/bookmarksplugin.json
 msgctxt "Name"
@@ -207,11 +202,6 @@ msgctxt "Name"
 msgid "XML Completion"
 msgstr "XMLကူရေးပေးခြင်း"
 
-#: addons/backtracebrowser/katebacktracebrowserplugin.json
-msgctxt "Description"
-msgid "C/C++ Backtrace navigation tool view"
-msgstr "C/C++ နောက်ကြောင်းလိုက်ကိရိယာမြင်ကွင်း"
-
 #: addons/bookmarks/bookmarksplugin.json
 msgctxt "Description"
 msgid "Display and navigate bookmarks"
@@ -399,6 +389,14 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Friedrich W. H. Kossebau"
 msgstr "ဖရက်ရစ် ဒဗျူ.အိပ်ချ်.ကိုဆက်ဘောက်"
+
+#~ msgctxt "Name"
+#~ msgid "Backtrace Browser"
+#~ msgstr "နောက်ကြောင်းလိုက်ဘရောက်ဇာ"
+
+#~ msgctxt "Description"
+#~ msgid "C/C++ Backtrace navigation tool view"
+#~ msgstr "C/C++ နောက်ကြောင်းလိုက်ကိရိယာမြင်ကွင်း"
 
 #~ msgctxt "Description"
 #~ msgid "Plugin for formatting code"
