@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-08-02 00:56+0000\n"
+"POT-Creation-Date: 2026-10-05 00:59+0000\n"
 "PO-Revision-Date: 2024-09-09 16:38+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -40,6 +40,11 @@ msgstr "အရောင်ရွေးကိရိယာ"
 msgctxt "Name"
 msgid "Compiler Explorer"
 msgstr "စက်ကုဒ်ပြောင်းကိရိယာ ကြည့်ရှု"
+
+#: addons/deployment/plugin.json
+msgctxt "Name"
+msgid "Deployment"
+msgstr ""
 
 #: addons/eslint/EslintPlugin.json
 msgctxt "Name"
@@ -228,6 +233,11 @@ msgstr ""
 msgctxt "Description"
 msgid "View generated asm for C/C++ code"
 msgstr "C/C++ ကုဒ်အတွက်ထုတ်ထားသော asmများကိုကြည့်မည်"
+
+#: addons/deployment/plugin.json
+msgctxt "Description"
+msgid "Upload project files over SFTP and browse the remote host"
+msgstr ""
 
 #: addons/eslint/EslintPlugin.json
 msgctxt "Description"
