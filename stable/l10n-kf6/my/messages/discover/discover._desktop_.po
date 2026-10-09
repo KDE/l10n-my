@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-08-19 16:13+0000\n"
+"POT-Creation-Date: 2026-10-09 03:05+0000\n"
 "PO-Revision-Date: 2021-09-13 03:11+0630\n"
 "Last-Translator: \n"
 "Language-Team: Burmese <kde-i18n-doc@kde.org>\n"
@@ -24,12 +24,12 @@ msgctxt "Comment"
 msgid "Install and remove apps and add-ons"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:112
+#: discover/org.kde.discover.desktop.cmake:116
 msgctxt "GenericName"
 msgid "Software Center"
 msgstr "ဆော့ဖ်ဝဲလ်စင်တာ"
 
-#: discover/org.kde.discover.desktop.cmake:174
+#: discover/org.kde.discover.desktop.cmake:178
 #, fuzzy
 #| msgctxt "Keywords"
 #| msgid ""
@@ -43,7 +43,7 @@ msgstr ""
 "program;software;repository;package;install;remove;update;apps;applications;"
 "ပရိုဂရမ်;ဆော့ဖ်ဝဲလ်;ရီပိုစစ်တိုရီ;ပတ်ကေ့ချ်;တပ်ဆင်;ဖယ်ရှား;အပ်ဒိတ်;အပ်;အပ္ပလီကေးရှင်း;"
 
-#: discover/org.kde.discover.desktop.cmake:219
+#: discover/org.kde.discover.desktop.cmake:227
 msgctxt "Name"
 msgid "See Available Updates"
 msgstr "ရရှိနိုင်သော အပ်ဒိတ်များ ကြည့်မည်"
@@ -53,7 +53,7 @@ msgctxt "Name"
 msgid "Package management"
 msgstr ""
 
-#: libdiscover/backends/AlpineApkBackend/org.kde.discover.alpineapkbackend.actions:48
+#: libdiscover/backends/AlpineApkBackend/org.kde.discover.alpineapkbackend.actions:52
 msgctxt "Description"
 msgid "Install/remove/upgrade packages"
 msgstr ""
@@ -88,22 +88,22 @@ msgctxt "Name"
 msgid "Successful Offline Update"
 msgstr "အောင်မြင်သော အော့ဖ်လိုင်း အပ်ဒိတ်တင်မှု"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:240
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:244
 msgctxt "Comment"
 msgid "System updated successfully"
 msgstr "စစ်စတမ်ကို အောင်မြင်စွာ အပ်ဒိတ်တင်ခဲ့သည်"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:297
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:305
 msgctxt "Name"
 msgid "Failed Offline Update"
 msgstr "မအောင်မြင်သော အော့ဖ်လိုင်း အပ်ဒိတ်တင်မှု"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:351
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:363
 msgctxt "Comment"
 msgid "System update failed"
 msgstr "စစ်စတမ်အပ်ဒိတ်တင်မှုမအောင်မြင်ပါ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:408
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:424
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Repair Failed"
@@ -111,7 +111,7 @@ msgctxt "Name"
 msgid "Repair Started"
 msgstr "ပြန်ပြင်ခြင်း မအောင်မြင်ပါ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:460
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:480
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "System updated successfully"
@@ -119,22 +119,22 @@ msgctxt "Name"
 msgid "Repaired Successfully"
 msgstr "စစ်စတမ်ကို အောင်မြင်စွာ အပ်ဒိတ်တင်ခဲ့သည်"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:514
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:538
 msgctxt "Name"
 msgid "Repair Failed"
 msgstr "ပြန်ပြင်ခြင်း မအောင်မြင်ပါ"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:568
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:596
 msgctxt "Comment"
 msgid "Repair failure after offline update"
 msgstr "မအောင်မြင်သော အော့ဖ်လိုင်း အပ်ဒိတ်တင်မှုကို ပြန်ပြင်မည်"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:625
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:657
 msgctxt "Name"
 msgid "Restart is Required"
 msgstr "စစ်စတမ်ပြန်စတင်ရန်လိုအပ်သည်"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:683
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:719
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Updates Available"
